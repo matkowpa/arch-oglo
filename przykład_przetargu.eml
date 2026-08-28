@@ -1,0 +1,391 @@
+Delivered-To: matkowpa@gmail.com
+Received: by 2002:a05:6830:33f0:b0:7f4:ba06:50f2 with SMTP id i16csp942210otu;
+        Fri, 28 Aug 2026 07:23:31 -0700 (PDT)
+X-Received: by 2002:a05:600c:8b35:b0:499:7a19:408b with SMTP id 5b1f17b1804b1-49b91c3b71dmr115494405e9.11.1787927010963;
+        Fri, 28 Aug 2026 07:23:30 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1787927010; cv=none;
+        d=google.com; s=arc-20260327;
+        b=VueO9/p8sAoT+6/qlSEvHdLDIQG2nrLfJeCu5Gq0nt40EE242rqdywSB23Rq/9FuqP
+         0V/yJh8a8/tgCekxTZsS6Tak5ScUut/Rmyw5vQ60sY3UrZLXZyGdfLmeN496vgm3rwMl
+         brtjAlUzGmCh2+4t5ULXiuwEVAy8MdXPC/MVzBWK/j4Bi8cqbMlj24s8JGMzOkIC1ad9
+         c3gzkWli740ECHe+JOQwc+MnKBfEI/OHslhbmNLOEM2mkLTzSgkhO5LNoClfgWThbg3h
+         pg6222xgOPklX2mg915+gwja/gpyN358tjtMuEvcpSI0QyUVfiSHMD5dtSriOW7hi/Qd
+         oUXg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20260327;
+        h=content-language:thread-index:mime-version:message-id:date:subject
+         :in-reply-to:references:to:from:dkim-signature;
+        bh=Nm09yrs8ONwV3CRj361Dk8QbPKd3PZd1syQvx2JX6nw=;
+        fh=BS0XrjIzvr8gMZIfjTMwAUebA8GSKkzYOUz6itt9iX0=;
+        b=fQRkkYSGJXstGgm0Nj7xISzpcXcoEjOaSuBenZdWQorNJ1VdmiqvFZj1SuwRfR9i1T
+         WaqSlZnTQ07mVtiv1NtAdOgGs2BorIhwpaNn997FdsFJCjahXamJ4gSx0OphudI17jF6
+         ZJgrhVI/wBsOfmc8y/XcGNuQUC7tTMpvrLK5fDEBL5vIryG3G0MgkXlhZ5tIzxjHglJN
+         pECkIPlA6S8b60IYAtLnqmFfUOMPH5qRjsHvavOSL2dcyS5qTHA/KIDURnMHA4XSyA4C
+         BXOOWqom1hs+gAbk5xyqp6UOesZwe+a1Rg+n4+Sjp9t3jfLj7pWheCakh1EQv68r+29J
+         f85Q==;
+        dara=google.com
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@ozone.com.pl header.s=dkim header.b=M27i06Hc;
+       spf=pass (google.com: domain of matkowska@ozone.com.pl designates 212.85.105.191 as permitted sender) smtp.mailfrom=matkowska@ozone.com.pl
+Return-Path: <matkowska@ozone.com.pl>
+Received: from ozone.com.pl (ozone.com.pl. [212.85.105.191])
+        by mx.google.com with ESMTPS id ffacd0b85a97d-482fbb473b6si3156828f8f.392.2026.08.28.07.23.30
+        for <matkowpa@gmail.com>
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+        Fri, 28 Aug 2026 07:23:30 -0700 (PDT)
+Received-SPF: pass (google.com: domain of matkowska@ozone.com.pl designates 212.85.105.191 as permitted sender) client-ip=212.85.105.191;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@ozone.com.pl header.s=dkim header.b=M27i06Hc;
+       spf=pass (google.com: domain of matkowska@ozone.com.pl designates 212.85.105.191 as permitted sender) smtp.mailfrom=matkowska@ozone.com.pl
+Return-Path: <matkowska@ozone.com.pl>
+Received: from localhost (127.0.0.1) (HELO v009.home.net.pl)
+ by /usr/run/smtp (/usr/run/postfix/private/idea_relay_lmtp) via UNIX with SMTP (IdeaSmtpServer 6.4.1)
+ id 9b851e56c3aaf212; Fri, 28 Aug 2026 16:23:30 +0200
+Received: from EMATKOWSKANB (unknown [195.136.195.52])
+	by ozone.com.pl (Postfix) with ESMTPA id A3197130E01E6
+	for <matkowpa@gmail.com>; Fri, 28 Aug 2026 16:23:29 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=ozone.com.pl; s=dkim;
+	t=1787927010; bh=8ZR788bFYTIwVEHKukt/KIbBY9STDcSe2kLEyB6HjEI=;
+	h=From:Subject:Date;
+	b=M27i06HcQ8XcxVKLK38JPHbZ9UcS+jbrcja/HtZzsZy0DiUjOebGTBNS4b1XW1/fS
+	 uWJjjlYAHYFcvulOLLmWPmVYy23n/ka4wiJiErz9ncYUAdFPbLHZrtzJYj22UXtX54
+	 dOXqzHTBFOtKJam616WEc8RjD0FCrTz2BhR3kBLbJBxPtdLhdi5Z9PZXgUXxVckSMc
+	 rf3qMbm7/pQvc1Ge2XRDql2sYXXsxxVT4KCmVXimKagyc6K/Yfke6fM2M5WjSWmmYc
+	 4bBhcVxyOp31Z8+75F7WG9nriDIT0iMXTkG7ZZpD2IBhY/xnfdHqCMNLFjLNBCBtU8
+	 mBMbPHi7yHU+g==
+From: "Ewa Matkowska | OZONE Architekci" <matkowska@ozone.com.pl>
+To: <matkowpa@gmail.com>
+References: <48306a8eb58a817da7.77112431_3936c0b94aa9edcb7d134aea4c554d9c@api.emaillabs.net.pl>
+In-Reply-To: <48306a8eb58a817da7.77112431_3936c0b94aa9edcb7d134aea4c554d9c@api.emaillabs.net.pl>
+Subject: =?UTF-8?Q?wyszukiwarka_przetarg=C3=B3w=5F2?=
+Date: Fri, 28 Aug 2026 16:23:29 +0200
+Message-ID: <003801dd36f8$cc40efe0$64c2cfa0$@ozone.com.pl>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0039_01DD3709.8FCA0E00"
+X-Mailer: Microsoft Outlook 16.0
+Thread-Index: Ad02+MvWU2d9mhKrQfuSM+/Xn0hdYg==
+Content-Language: pl
+X-Antivirus: Avast (VPS 260828-0, 28.8.2026), Outbound message
+X-Antivirus-Status: Clean
+X-CLIENT-IP: 195.136.195.52
+X-CLIENT-HOSTNAME: 195.136.195.52
+X-VADE-SPAMSTATE: clean
+X-VADE-SPAMCAUSE: dmFkZTERjDpX8nf62nj4vVFLYSDCmJC7DxhMM12qgSB4wjGWdPEWGju0eV238IEFFP1/uQ2SovHmCu+XNVgaHIBeQV0y4r2vkE9p0AtNEnuEJPrXZPJBypYk2/yCt1J4ZKKXNHWYS2Y4G7+HZ+gqgDZ3Z1ChjLp33KK0+2N/rt38ShMBOgtr0Gp03JGDQ/3rl8mlYSGRsVeoi3prR8Vl3QC9i4QyIT830WyLg63aGg9DdUc8O4LH9BG5LoOlcOLu1/UybsPWSPeJe3jLqpSLtdQuCPrHstP50xUkDxZfyl/vXfFZr3hWs4nuAb/F152efDQPdwYB58aNUEwHfufOuT/LfRd6kdkVXwKPl4uqQZsg8fzXkGlkf+Up6xqRGCjFOuCX9OOBTMfyAQ20pAn43eEYWNjEm2cI6xahy2EzkGoJd7yZMjMb+XB5WHxSnOE3jPrzfxLtTrCeEBNz8N10AlJGdDUDAKQIcmX1bQMBITl5zIgdBf8XbR8+sgLmUHsE3fVO/QbIymlDlzo13UsGabjSZDShH8E5BSNtmUtbV/f+dtmnWd5l/60DIDa/Hhy/4HyaOIVriVlnHMAFQsA3gZithzJ1O9MTbc3uAME5lsq7jebNKHC9kP+HpvSmp06+dg3trruWjHvK8QchDAU/tx+lxK605JBHI8AwVGqBRG6U+KWtzQ
+X-DCC--Metrics: v009.home.net.pl 1024; Body=1 Fuz1=1 Fuz2=1
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0039_01DD3709.8FCA0E00
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+=20
+
+=20
+
+From: platformazakupowa.pl by OpenNexus =
+<postepowania@platformazakupowa.pl>=20
+Sent: Wednesday, August 26, 2026 11:45 AM
+To: matkowska@ozone.com.pl
+Subject: Otrzyma=C5=82e=C5=9B wiadomo=C5=9B=C4=87 w post=C4=99powaniu: =
+Wykonanie szczeg=C3=B3=C5=82owej, wielobran=C5=BCowej dokumentacji =
+projektowo-kosztorysowej dla o
+
+=20
+
+
+
+
+Polski Holding Hotelowy sp. z o.o.
+
+=09
+
+=20
+
+
+
+=20
+
+=20
+
+
+
+Dzie=C5=84 dobry,
+
+w post=C4=99powaniu: Wykonanie szczeg=C3=B3=C5=82owej, =
+wielobran=C5=BCowej dokumentacji projektowo-kosztorysowej dla obiektu =
+sanatoryjnego w Ko=C5=82obrzegu (ID 1343929)=E2=80=8B,
+otrzyma=C5=82e=C5=9B now=C4=85 wiadomo=C5=9B=C4=87 na forum.
+
+Kupiec: Aleksandra Lesiakowska (Polski Holding Hotelowy sp. z o.o.)
+
+ =
+<https://platformazakupowa.pl/transakcja/1343929/8f5de9e592fd1de41a04075c=
+d122888f#proceedingBuyerCommunicationsSection> Przejd=C5=BA do =
+wiadomo=C5=9Bci
+
+=20
+
+
+
+
+
+
+Pozdrawiamy,
+Zesp=C3=B3=C5=82 Open Nexus
+
+=09
+
+CWK: 22 101 02 02
+ <https://platformazakupowa.pl> platformazakupowa.pl
+
+=20
+
+
+Wiadomo=C5=9B=C4=87 wygenerowana automatycznie przez OpenNexus, prosimy =
+na ni=C4=85 nie odpowiada=C4=87. W przypadku odpowiedzi =
+wiadomo=C5=9B=C4=87 nie b=C4=99dzie dostarczona.
+
+=20
+
+
+------=_NextPart_000_0039_01DD3709.8FCA0E00
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta =
+http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8"><meta =
+name=3DGenerator content=3D"Microsoft Word 15 (filtered =
+medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Helvetica;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Aptos;}
+@font-face
+	{font-family:"Arial Narrow";
+	panose-1:2 11 6 6 2 2 2 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+p.lead, li.lead, div.lead
+	{mso-style-name:lead;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;}
+p.lead-small, li.lead-small, div.lead-small
+	{mso-style-name:lead-small;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;}
+p.footer-left, li.footer-left, div.footer-left
+	{mso-style-name:footer-left;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;}
+p.footer-right, li.footer-right, div.footer-right
+	{mso-style-name:footer-right;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;}
+span.Stylwiadomocie-mail23
+	{mso-style-type:personal-reply;
+	font-family:"Arial Narrow",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;
+	mso-ligatures:none;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 70.85pt 70.85pt 70.85pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style></head><body lang=3DPL link=3Dblue vlink=3Dpurple =
+style=3D'word-wrap:break-word'><div class=3DWordSection1><p =
+class=3DMsoNormal><span style=3D'font-size:11.0pt;font-family:"Arial =
+Narrow",sans-serif;mso-fareast-language:EN-US'><o:p>&nbsp;</o:p></span></=
+p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Arial =
+Narrow",sans-serif;mso-fareast-language:EN-US'><o:p>&nbsp;</o:p></span></=
+p><div><div style=3D'border:none;border-top:solid #E1E1E1 =
+1.0pt;padding:3.0pt 0cm 0cm 0cm'><p class=3DMsoNormal><b><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'>From:</span><=
+/b><span style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'> =
+platformazakupowa.pl by OpenNexus =
+&lt;postepowania@platformazakupowa.pl&gt; <br><b>Sent:</b> Wednesday, =
+August 26, 2026 11:45 AM<br><b>To:</b> =
+matkowska@ozone.com.pl<br><b>Subject:</b> Otrzyma=C5=82e=C5=9B =
+wiadomo=C5=9B=C4=87 w post=C4=99powaniu: Wykonanie =
+szczeg=C3=B3=C5=82owej, wielobran=C5=BCowej dokumentacji =
+projektowo-kosztorysowej dla o<o:p></o:p></span></p></div></div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><div align=3Dcenter><table =
+class=3DMsoNormalTable border=3D0 cellspacing=3D0 cellpadding=3D0 =
+width=3D"100%" =
+style=3D'width:100.0%;background:white;border-collapse:collapse'><tr><td =
+valign=3Dtop style=3D'padding:0cm 0cm 0cm 0cm'><div =
+align=3Dcenter><table class=3DMsoNormalTable border=3D0 cellspacing=3D0 =
+cellpadding=3D0 width=3D"100%" =
+style=3D'width:100.0%;background:white;border-collapse:collapse'><tr><td =
+valign=3Dtop style=3D'padding:15.0pt 15.0pt 15.0pt 15.0pt'><div =
+align=3Dcenter><table class=3DMsoNormalTable border=3D1 cellspacing=3D0 =
+cellpadding=3D0 width=3D580 =
+style=3D'width:435.0pt;border-collapse:collapse;border:none'><tr><td =
+valign=3Dtop style=3D'border:none;border-bottom:solid #FF7112 =
+1.5pt;padding:0cm 0cm 0cm 0cm'><p class=3Dlead =
+style=3D'mso-margin-top-alt:0cm;margin-right:0cm;margin-bottom:7.5pt;marg=
+in-left:0cm'><strong><span =
+style=3D'font-family:"Helvetica",sans-serif;color:#333333'>Polski =
+Holding Hotelowy sp. z o.o.</span></strong><span =
+style=3D'font-family:"Helvetica",sans-serif;color:#333333'><o:p></o:p></s=
+pan></p></td><td valign=3Dtop style=3D'border:none;border-bottom:solid =
+#FF7112 1.5pt;padding:0cm 0cm 0cm 0cm;-moz-hyphens: =
+auto;-webkit-hyphens: auto;hyphens: =
+auto'></td></tr></table></div></td></tr></table></div><p =
+class=3DMsoNormal align=3Dcenter =
+style=3D'text-align:center;line-height:14.25pt'><span =
+style=3D'font-family:"Helvetica",sans-serif;color:#666666'><o:p>&nbsp;</o=
+:p></span></p><div align=3Dcenter><table class=3DMsoNormalTable =
+border=3D0 cellspacing=3D0 cellpadding=3D0 width=3D580 =
+style=3D'width:435.0pt;background:#FEFEFE;border-collapse:collapse;border=
+-spacing: 0;float:none'><tr><td valign=3Dtop style=3D'padding:0cm 0cm =
+0cm 0cm;-moz-hyphens: auto;-webkit-hyphens: auto;hyphens: auto'><div =
+align=3Dcenter><table class=3DMsoNormalTable border=3D0 cellspacing=3D0 =
+cellpadding=3D0 style=3D'border-collapse:collapse'><tr><td valign=3Dtop =
+style=3D'padding:0cm 0cm 0cm 0cm;border-spacing: 0'><p class=3DMsoNormal =
+align=3Dcenter style=3D'text-align:center;line-height:12.0pt'><span =
+style=3D'font-family:"Helvetica",sans-serif;color:#666666'>&nbsp;<o:p></o=
+:p></span></p></td></tr></table></div><p class=3DMsoNormal =
+align=3Dcenter style=3D'text-align:center;line-height:14.25pt'><span =
+style=3D'font-family:"Helvetica",sans-serif;color:#666666'><o:p>&nbsp;</o=
+:p></span></p><div align=3Dcenter><table class=3DMsoNormalTable =
+border=3D0 cellspacing=3D0 cellpadding=3D0 width=3D"100%" =
+style=3D'width:100.0%;border-collapse:collapse;border-spacing: =
+0;display:table'><tr><td width=3D564 valign=3Dtop =
+style=3D'width:423.0pt;padding:0cm 12.0pt 12.0pt 5.25pt'><div =
+align=3Dcenter><table class=3DMsoNormalTable border=3D0 cellspacing=3D0 =
+cellpadding=3D0 width=3D"100%" =
+style=3D'width:100.0%;border-collapse:collapse;border-spacing: =
+0'><tr><td valign=3Dtop style=3D'padding:0cm 0cm 0cm 0cm'><p =
+class=3Dlead =
+style=3D'mso-margin-top-alt:0cm;margin-right:0cm;margin-bottom:7.5pt;marg=
+in-left:0cm'><span =
+style=3D'font-size:15.0pt;font-family:"Helvetica",sans-serif;color:#33333=
+3'>Dzie=C5=84 dobry,<o:p></o:p></span></p><p class=3Dlead-small =
+style=3D'mso-margin-top-alt:0cm;margin-right:0cm;margin-bottom:7.5pt;marg=
+in-left:0cm'><span =
+style=3D'font-size:10.5pt;font-family:"Helvetica",sans-serif;color:#33333=
+3'>w post=C4=99powaniu: <strong><span =
+style=3D'font-family:"Helvetica",sans-serif'>Wykonanie =
+szczeg=C3=B3=C5=82owej, wielobran=C5=BCowej dokumentacji =
+projektowo-kosztorysowej dla obiektu sanatoryjnego w Ko=C5=82obrzegu (ID =
+1343929)=E2=80=8B</span></strong>,<br>otrzyma=C5=82e=C5=9B now=C4=85 =
+wiadomo=C5=9B=C4=87 na forum.<o:p></o:p></span></p><p class=3Dlead-small =
+style=3D'mso-margin-top-alt:0cm;margin-right:0cm;margin-bottom:7.5pt;marg=
+in-left:0cm'><span =
+style=3D'font-size:10.5pt;font-family:"Helvetica",sans-serif;color:#33333=
+3'>Kupiec: Aleksandra Lesiakowska (Polski Holding Hotelowy sp. z =
+o.o.)<o:p></o:p></span></p><p class=3Dlead-small =
+style=3D'margin:0cm'><span =
+style=3D'font-size:10.5pt;font-family:"Helvetica",sans-serif;color:#66666=
+6'><a =
+href=3D"https://platformazakupowa.pl/transakcja/1343929/8f5de9e592fd1de41=
+a04075cd122888f#proceedingBuyerCommunicationsSection"><b><span =
+style=3D'font-size:15.0pt;color:#FEFEFE;text-transform:uppercase;border:s=
+olid #777777 =
+1.0pt;padding:8.0pt;background:#FF7112;text-decoration:none'>Przejd=C5=BA=
+ do =
+wiadomo=C5=9Bci</span></b></a><o:p></o:p></span></p></td></tr></table></d=
+iv></td></tr></table></div><p class=3DMsoNormal align=3Dcenter =
+style=3D'text-align:center;line-height:14.25pt'><span =
+style=3D'font-family:"Helvetica",sans-serif;color:#666666'><o:p>&nbsp;</o=
+:p></span></p><div align=3Dcenter><table class=3DMsoNormalTable =
+border=3D0 cellspacing=3D0 cellpadding=3D0 width=3D"100%" =
+style=3D'width:100.0%;background:white;border-collapse:collapse;border-sp=
+acing: 0'><tr><td valign=3Dtop style=3D'padding:0cm 0cm 0cm =
+0cm;-moz-hyphens: auto;-webkit-hyphens: auto;hyphens: auto'><div =
+align=3Dcenter><table class=3DMsoNormalTable border=3D0 cellspacing=3D0 =
+cellpadding=3D0 width=3D"100%" =
+style=3D'width:100.0%;border-collapse:collapse'><tr><td width=3D274 =
+valign=3Dtop style=3D'width:205.5pt;padding:0cm 5.25pt 12.0pt =
+5.25pt;border-spacing: 0;display:table'><div align=3Dcenter><table =
+class=3DMsoNormalTable border=3D0 cellspacing=3D0 cellpadding=3D0 =
+width=3D"100%" =
+style=3D'width:100.0%;border-collapse:collapse;border-spacing: =
+0'><tr><td valign=3Dtop style=3D'padding:0cm 0cm 0cm 0cm'><div =
+align=3Dcenter><table class=3DMsoNormalTable border=3D0 cellspacing=3D0 =
+cellpadding=3D0 width=3D"100%" =
+style=3D'width:100.0%;border-collapse:collapse;border-spacing: =
+0'><tr><td valign=3Dtop style=3D'padding:0cm 0cm 0cm 0cm'><div =
+align=3Dcenter><table class=3DMsoNormalTable border=3D0 cellspacing=3D0 =
+cellpadding=3D0 width=3D"100%" =
+style=3D'width:100.0%;border-collapse:collapse'><tr><td valign=3Dtop =
+style=3D'padding:0cm 0cm 0cm 0cm;border-spacing: 0'><p =
+class=3Dfooter-left =
+style=3D'mso-margin-top-alt:0cm;margin-right:0cm;margin-bottom:7.5pt;marg=
+in-left:0cm'><span =
+style=3D'font-size:10.5pt;font-family:"Helvetica",sans-serif;color:#66666=
+6'>Pozdrawiamy,<br>Zesp=C3=B3=C5=82 Open =
+Nexus<o:p></o:p></span></p></td></tr></table></div></td><td width=3D0 =
+valign=3Dtop style=3D'width:.3pt;padding:0cm 0cm 0cm 0cm;-moz-hyphens: =
+auto;-webkit-hyphens: auto;hyphens: =
+auto;visibility:hidden'></td></tr></table></div></td></tr></table></div><=
+/td><td width=3D274 style=3D'width:205.5pt;padding:0cm 5.25pt 12.0pt =
+6.0pt'><div align=3Dcenter><table class=3DMsoNormalTable border=3D0 =
+cellspacing=3D0 cellpadding=3D0 width=3D"100%" =
+style=3D'width:100.0%;border-collapse:collapse;border-spacing: =
+0'><tr><td valign=3Dtop style=3D'padding:0cm 0cm 0cm 0cm'><p =
+class=3Dfooter-right align=3Dright =
+style=3D'margin:0cm;text-align:right'><span =
+style=3D'font-size:10.5pt;font-family:"Helvetica",sans-serif;color:#66666=
+6'>CWK: 22 101 02 02<br><a href=3D"https://platformazakupowa.pl" =
+target=3D"_blank"><span =
+style=3D'color:#3E5D7B'>platformazakupowa.pl</span></a><o:p></o:p></span>=
+</p></td></tr></table></div><p class=3DMsoNormal align=3Dcenter =
+style=3D'text-align:center;line-height:14.25pt'><span =
+style=3D'font-family:"Helvetica",sans-serif;color:#666666'><o:p>&nbsp;</o=
+:p></span></p><div align=3Dcenter><table class=3DMsoNormalTable =
+border=3D0 cellspacing=3D0 cellpadding=3D0 width=3D"100%" =
+style=3D'width:100.0%;border-collapse:collapse;border-spacing: =
+0'><tr><td valign=3Dtop style=3D'padding:0cm 0cm 0cm 0cm;-moz-hyphens: =
+auto;-webkit-hyphens: auto;hyphens: auto'><p class=3DMsoNormal =
+style=3D'line-height:14.25pt'><span =
+style=3D'font-size:9.0pt;font-family:"Helvetica",sans-serif;color:#666666=
+'>Wiadomo=C5=9B=C4=87 wygenerowana automatycznie przez OpenNexus, =
+prosimy na ni=C4=85 nie odpowiada=C4=87. W przypadku odpowiedzi =
+wiadomo=C5=9B=C4=87 nie b=C4=99dzie =
+dostarczona.<o:p></o:p></span></p></td></tr></table></div></td></tr></tab=
+le></div></td></tr></table></div></td></tr></table></div></td></tr></tabl=
+e></div><p class=3DMsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+------=_NextPart_000_0039_01DD3709.8FCA0E00--
+
