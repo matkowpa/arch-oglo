@@ -14,18 +14,19 @@ python -m scraper.run           # pełny run: źródła -> scoring -> dedup -> s
 # wynik: data/announcements.json, docs_site/index.html, docs_site/archiwum.html
 ```
 
-## Konfiguracja Gmail (źródło 1 — sekcja 4.4 final_plan.md)
+## Kanał e-mail (IMAP) — rezerwa
 
-1. Dedykowane konto Gmail + 2FA + **App Password**.
-2. GitHub Secrets: `GMAIL_USER`, `GMAIL_APP_PASSWORD`.
-3. Na platformazakupowa.pl: konto wykonawcy, profil z kodami CPV (config/cpv.yaml), powiadomienia **bezpośrednio** na nową skrzynkę (nie przez przekazywanie).
-4. Zebrać 2–3 realne powiadomienia o nowych postępowaniach → `tests/fixtures/pz_*.eml` → dopiero wtedy produkcyjnie włączyć parser (sekcja 4.2 — blokada sekwencyjna).
+Parser powiadomień e-mail (`scraper/sources/pz_email.py`) jest gotowy, ale
+wyłączony — platformazakupowa.pl nie oferuje subskrypcji powiadomień po CPV.
+Zostaje jako rezerwa na wypadek włączenia powiadomień na innych platformach
+(Logintrade, ezamawiajacy.pl) w Fazi 2. Skrzynka i sekrety (`GMAIL_USER`,
+`GMAIL_APP_PASSWORD`) pozostają skonfigurowane.
 
 ## Źródła
 
 | Źródło | Status | Uwagi |
 |---|---|---|
-| **platformazakupowa.pl — wyszukiwarka `/all?query=`** | ✅ **AKTYWNY (decyzja właściciela 2026-08-28)** | 6 fraz x 1 żądanie/dzień (`pz_search.yml`, godziny 05–10 UTC, odstęp 60 min ≫ `Crawl-delay: 900`). **Zastrzeżenie:** Regulamin platformy zakazuje zautomatyzowanego pobierania treści (zweryfikowano 2026-08-28); właściciel świadomie zaakceptował ryzyko (blokada IP / kwestie kontraktowe). Konsekwencją awarii tego źródła może być np. captcha lub blokada runnera — system jest odporny (izolacja źródeł). |
+| **platformazakupowa.pl — wyszukiwarka `/all?query=`** | ✅ **AKTYWNY** | 6 fraz x 1 żądanie/dzień (`pz_search.yml`, godziny 05–10 UTC, odstęp 60 min ≫ `Crawl-delay: 900`). Platforma zwraca wszystkie aktywne trafienia frazy. Awaria źródła nie wpływa na pozostałe (izolacja w run.py). |
 | TED API v3 | **AKTYWNY** | anonimowy POST `/v3/notices/search`; pola wielojęzyczne (preferuje `pol`) |
 | BIP: PHN S.A. | **AKTYWNY** | `bip.phnsa.pl/ogloszenia/1` (paginacja 1..3), Crawl-delay 10 |
 | platformazakupowa (IMAP) | **WYŁĄCZONY** | platforma NIE oferuje subskrypcji CPV e-mail (potwierdzone 2026-08-28); parser dormant na powiadomienia z innych platform (Faza 2) |
