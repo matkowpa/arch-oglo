@@ -43,10 +43,16 @@ def render_site(announcements_path: str, out_dir: str, display_days: int = 30) -
         loader=FileSystemLoader(TEMPLATES), autoescape=True,
         trim_blocks=True, lstrip_blocks=True,
     )
+    today = now.date().isoformat()
+    d7 = (now + timedelta(days=7)).date().isoformat()
+    d14 = (now + timedelta(days=14)).date().isoformat()
     ctx = {
         "current": current,
         "archive": archive,
         "generated": now.strftime("%Y-%m-%d %H:%M"),
+        "generated_date": today,
+        "deadline_7": d7,
+        "deadline_14": d14,
         "display_days": display_days,
         "failed_sources": [],  # uzupełniane przez run.py w razie awarii
     }

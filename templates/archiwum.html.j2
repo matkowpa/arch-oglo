@@ -1,25 +1,48 @@
 <!DOCTYPE html>
 <html lang="pl">
-<head><meta charset="utf-8"><title>Archiwum — przetargi</title>
-<style>body{font-family:system-ui,Segoe UI,Arial,sans-serif;margin:0;background:#f5f6f8;color:#222}
-header{background:#1f3a5f;color:#fff;padding:16px 24px}main{max-width:1100px;margin:24px auto;padding:0 16px}
-table{width:100%;border-collapse:collapse;background:#fff;box-shadow:0 1px 3px rgba(0,0,0,.12)}
-th,td{padding:8px 10px;border-bottom:1px solid #e3e6ea;text-align:left}th{background:#eef1f5}
-nav{margin:12px 0}nav a{margin-right:16px;color:#1f3a5f}</style></head>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Archiwum — przetargi</title>
+<style>
+  :root{--bg:#f4f6fa;--card:#fff;--ink:#1a2332;--muted:#66738a;--line:#e4e9f1;--accent:#2952c3;--badge:#eef2fb}
+  @media (prefers-color-scheme: dark){
+    :root{--bg:#0f1623;--card:#182238;--ink:#e7ecf5;--muted:#93a0b8;--line:#273350;--accent:#7d9bff;--badge:#1e2a45}}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);font-family:"Segoe UI",system-ui,sans-serif;font-size:15px}
+  header{color:#fff;background:linear-gradient(135deg,#334155,#475569)}
+  .hwrap{max-width:1100px;margin:0 auto;padding:18px 20px;display:flex;flex-wrap:wrap;gap:10px;justify-content:space-between;align-items:center}
+  h1{font-size:1.1rem;margin:0;font-weight:600}
+  .chip{background:rgba(255,255,255,.16);border-radius:999px;padding:3px 12px;font-size:.78rem}
+  nav{max-width:1100px;margin:0 auto;padding:0 20px 12px;display:flex;gap:8px}
+  nav a{color:#e2e8f0;text-decoration:none;font-size:.85rem;padding:4px 14px;border-radius:999px;background:rgba(255,255,255,.12)}
+  nav a.on{background:#fff;color:#334155;font-weight:600}
+  main{max-width:1100px;margin:22px auto 40px;padding:0 20px}
+  .row{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px 16px;margin-bottom:8px;
+    display:flex;gap:14px;align-items:baseline;justify-content:space-between;flex-wrap:wrap}
+  .row a{color:var(--ink);text-decoration:none;font-weight:500}
+  .row a:hover{color:var(--accent)}
+  .m{color:var(--muted);font-size:.8rem;white-space:nowrap}
+  .sc{font-size:.78rem;background:var(--badge);color:var(--accent);border-radius:999px;padding:2px 10px;white-space:nowrap}
+  .empty{text-align:center;color:var(--muted);padding:48px 0}
+</style>
+</head>
 <body>
-<header><h1>Archiwum ogłoszeń</h1></header>
+<header><div class="hwrap"><h1>🗄️ Archiwum ogłoszeń</h1>
+<span class="chip">{{ archive|length }} pozycji</span></div>
+<nav><a href="index.html">Aktualne</a><a class="on" href="archiwum.html">Archiwum</a></nav>
+</header>
 <main>
-<nav><a href="index.html">Aktualne</a> <a href="archiwum.html">Archiwum</a></nav>
-<table>
-<thead><tr><th>Termin</th><th>Publikacja</th><th>Zamawiający</th><th>Tytuł</th><th>Score</th><th>Źródło</th></tr></thead>
-<tbody>
 {% for a in archive %}
-<tr><td>{{ a.termin_skladania|default("—", true) }}</td><td>{{ a.data_publikacji|default("—", true) }}</td>
-<td>{{ a.zamawiajacy|default("—", true) }}</td>
-<td><a href="{{ a.url }}" target="_blank" rel="noopener">{{ a.tytul }}</a></td>
-<td>{{ a.score }}</td><td>{{ a.zrodlo }}</td></tr>
+<div class="row">
+  <span><a href="{{ a.url }}" target="_blank" rel="noopener">{{ a.tytul }}</a>
+  <div class="m">{{ a.zamawiajacy|default("—", true) }}</div></span>
+  <span class="m">{{ a.termin_skladania|default("—", true) }}{% if a.data_publikacji %} · publikacja {{ a.data_publikacji }}{% endif %}</span>
+  <span class="sc">score {{ a.score|default("–") }} · {{ a.zrodlo }}</span>
+</div>
 {% else %}
-<tr><td colspan="6">Archiwum puste.</td></tr>
+<div class="empty">Archiwum jest puste.</div>
 {% endfor %}
-</tbody></table>
-</main></body></html>
+</main>
+</body>
+</html>
