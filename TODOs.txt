@@ -21,3 +21,5 @@ Prace projektowe w zakresie infrastruktury / sieci (ale nie można wyłączyć s
 PRZYKŁADY:
 link: https://bip.phnsa.pl/ogloszenia/2 
 plik: przykład_przetargu.eml
+
+
