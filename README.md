@@ -1,5 +1,8 @@
 # arch-oglo — agregator ogłoszeń przetargowych
 
+**🌐 Wyniki publikowane na:** **https://matkowpa.github.io/arch-oglo/**
+(Strona wymaga jednorazowego włączenia: GitHub → Settings → Pages → Source: *GitHub Actions*. Archiwum: https://matkowpa.github.io/arch-oglo/archiwum.html)
+
 Codzienne zbieranie ogłoszeń o przetargach na **prace projektowe architektury / dokumentację wielobranżową** (spółki SP, projekty UE, sektory strategiczne) i publikacja na GitHub Pages. Specyfikacja: [final_plan.md](final_plan.md).
 
 ## Szybki start (lokalnie)
