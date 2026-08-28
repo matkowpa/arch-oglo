@@ -38,6 +38,8 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # pełna historia — wymagane dla git pull --rebase + push
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
@@ -62,8 +64,8 @@ jobs:
         run: |
           git config user.name "arch-oglo-bot"
           git config user.email "bot@users.noreply.github.com"
-          git pull --rebase origin ${GITHUB_REF_NAME} || git pull --rebase
-          git add data/ docs_site/
+          git pull --rebase origin main
+          git add data/
           if git diff --cached --quiet; then
             echo "No changes"
           else
@@ -71,13 +73,26 @@ jobs:
             for i in 1 2 3; do git push && break || sleep 5; done
           fi
 
+      - name: Upload site artifact (for deploy job)
+        uses: actions/upload-artifact@v4
+        with:
+          name: docs-site-pz
+          path: docs_site
+          retention-days: 1
+          if-no-files-found: ignore   # docs_site może nie powstać, gdy scraper nic nie zmienił
+
   deploy-pages:
     needs: scrape
     runs-on: ubuntu-latest
     if: always() && needs.scrape.result == 'success'
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          name: docs-site-pz
+          path: docs_site
       - uses: actions/configure-pages@v5
+        with:
+          enablement: true
       - uses: actions/upload-pages-artifact@v3
         with:
           path: docs_site
