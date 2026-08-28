@@ -46,9 +46,26 @@ def render_site(announcements_path: str, out_dir: str, display_days: int = 30) -
     today = now.date().isoformat()
     d7 = (now + timedelta(days=7)).date().isoformat()
     d14 = (now + timedelta(days=14)).date().isoformat()
+
+    def _cat(a):
+        t = (a.get("tytul") or "").lower()
+        tags = " ".join(a.get("tagi") or []).lower()
+        if "konkurs" in t or "konkurs" in tags:
+            return "konkurs"
+        if "praca" in t or "zatrudni" in t or "oferta pracy" in t:
+            return "praca"
+        return "przetarg"
+
+    for a in current + archive:
+        a["kategoria"] = _cat(a)
+    nearest = sorted(
+        (a for a in current if a.get("termin_skladania")),
+        key=lambda x: x["termin_skladania"],
+    )[:3]
     ctx = {
         "current": current,
         "archive": archive,
+        "nearest": nearest,
         "generated": now.strftime("%Y-%m-%d %H:%M"),
         "generated_date": today,
         "deadline_7": d7,

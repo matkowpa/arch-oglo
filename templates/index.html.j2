@@ -1,126 +1,167 @@
 <!DOCTYPE html>
-<html lang="pl">
+<html lang="pl" class="scroll-smooth">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Przetargi — prace projektowe i dokumentacja wielobranżowa</title>
-<meta name="description" content="Codziennie aktualizowana lista przetargów na prace projektowe architektury i dokumentację wielobranżową: TED, BIP spółek skarbu państwa, platformazakupowa.pl.">
+<title>Arch-Ogło — Baza Ogłoszeń Architektonicznych</title>
+<meta name="description" content="Codziennie aktualizowana baza przetargów na prace projektowe architektury i dokumentację wielobranżową: TED, BIP spółek skarbu państwa, platformazakupowa.pl.">
+<script src="https://cdn.tailwindcss.com"></script>
 <style>
-  :root{
-    --bg:#f4f6fa; --card:#ffffff; --ink:#1a2332; --muted:#66738a; --line:#e4e9f1;
-    --accent:#2952c3; --accent2:#3b6fe0;
-    --good:#e7f6ea; --good-ink:#166534; --warn:#fef3c7; --warn-ink:#92400e;
-    --hot:#fee2e2; --hot-ink:#b91c1c; --badge:#eef2fb;
+  .mesh{position:fixed;inset:0;z-index:-1;pointer-events:none;
+    background-image:
+      repeating-linear-gradient(115deg, rgba(255,255,255,.035) 0 1px, transparent 1px 42px),
+      repeating-linear-gradient(65deg, rgba(255,255,255,.035) 0 1px, transparent 1px 42px),
+      radial-gradient(1200px 700px at 85% -10%, rgba(16,185,129,.07), transparent 60%);
   }
-  @media (prefers-color-scheme: dark){
-    :root{ --bg:#0f1623; --card:#182238; --ink:#e7ecf5; --muted:#93a0b8; --line:#273350;
-      --accent:#7d9bff; --accent2:#5d7ef0; --good:#12301c; --good-ink:#7ee2a0;
-      --warn:#33260c; --warn-ink:#f5c15c; --hot:#3b1212; --hot-ink:#ff9d9d; --badge:#1e2a45; }
-  }
-  *{box-sizing:border-box}
-  body{margin:0;background:var(--bg);color:var(--ink);
-    font-family:"Segoe UI Variable","Segoe UI",system-ui,-apple-system,Roboto,sans-serif;
-    font-size:15px;line-height:1.45}
-  header{position:sticky;top:0;z-index:10;color:#fff;
-    background:linear-gradient(135deg,#1e3a8a,#2952c3 55%,#3b6fe0);
-    box-shadow:0 2px 12px rgba(20,40,90,.25)}
-  .hwrap{max-width:1100px;margin:0 auto;padding:18px 20px;display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:space-between}
-  h1{font-size:1.12rem;font-weight:600;margin:0;letter-spacing:.01em}
-  .stats{display:flex;gap:8px;flex-wrap:wrap}
-  .chip{background:rgba(255,255,255,.16);border:1px solid rgba(255,255,255,.25);
-    border-radius:999px;padding:3px 12px;font-size:.78rem;white-space:nowrap}
-  nav{max-width:1100px;margin:0 auto;padding:0 20px 12px;display:flex;gap:8px;align-items:center;flex-wrap:wrap}
-  nav a{color:#dbe6ff;text-decoration:none;font-size:.85rem;padding:4px 14px;border-radius:999px;
-    background:rgba(255,255,255,.12)}
-  nav a.on{background:#fff;color:#1e3a8a;font-weight:600}
-  .search{flex:1;min-width:200px}
-  .search input{width:100%;max-width:340px;padding:6px 14px;border-radius:999px;border:1px solid rgba(255,255,255,.3);
-    background:rgba(255,255,255,.14);color:#fff;font-size:.85rem;outline:none}
-  .search input::placeholder{color:#c9d6f5}
-  main{max-width:1100px;margin:22px auto 40px;padding:0 20px}
-  .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px 18px;margin-bottom:12px;
-    display:grid;grid-template-columns:52px 1fr auto;gap:6px 16px;align-items:start;
-    box-shadow:0 1px 2px rgba(15,25,50,.06);transition:box-shadow .15s,transform .15s}
-  .card:hover{box-shadow:0 4px 16px rgba(15,25,50,.12);transform:translateY(-1px)}
-  .score{width:40px;height:40px;border-radius:12px;display:flex;align-items:center;justify-content:center;
-    font-weight:700;font-size:1.05rem;background:var(--badge);color:var(--accent)}
-  .score.s6{background:var(--good);color:var(--good-ink)}
-  .score.s4{background:var(--warn);color:var(--warn-ink)}
-  .title{margin:0;font-size:1rem;font-weight:600}
-  .title a{color:var(--ink);text-decoration:none}
-  .title a:hover{color:var(--accent);text-decoration:underline}
-  .who{color:var(--muted);font-size:.85rem;margin-top:1px}
-  .meta{grid-column:2;display:flex;flex-wrap:wrap;gap:6px;margin-top:4px}
-  .tag{display:inline-block;background:var(--badge);color:var(--accent);border-radius:999px;
-    padding:2px 10px;font-size:.73rem;font-weight:500}
-  .tag.wysoka-trafnosc{background:var(--good);color:var(--good-ink)}
-  .tag.brak-terminu{background:var(--warn);color:var(--warn-ink)}
-  .tag.drogi,.tag.sieci{background:var(--hot);color:var(--hot-ink)}
-  .src{color:var(--muted);font-size:.75rem;border:1px solid var(--line);border-radius:999px;padding:2px 10px}
-  .dl{font-weight:600;font-size:.8rem}
-  .dl.hot{color:var(--hot-ink)} .dl.soon{color:var(--warn-ink)} .dl.none{color:var(--muted);font-weight:400}
-  .side{grid-column:3;grid-row:1;display:flex;flex-direction:column;align-items:flex-end;gap:4px}
-  .failed{background:var(--hot);color:var(--hot-ink);border-radius:10px;padding:8px 14px;margin-bottom:12px;font-size:.85rem}
-  .empty{text-align:center;color:var(--muted);padding:48px 0}
-  footer{color:var(--muted);font-size:.78rem;text-align:center;padding:20px;border-top:1px solid var(--line)}
-  @media(max-width:640px){ .card{grid-template-columns:1fr} .side{grid-column:1;grid-row:auto;flex-direction:row;justify-content:flex-start} }
+  .glow{background:radial-gradient(600px 240px at 20% 0%, rgba(16,185,129,.10), transparent 70%);}
 </style>
 </head>
-<body>
-<header>
-  <div class="hwrap">
-    <h1>🏗️ Przetargi — prace projektowe / dokumentacja wielobranżowa</h1>
-    <div class="stats">
-      <span class="chip">📋 {{ current|length }} aktualnych</span>
-      <span class="chip">🕒 {{ generated }}</span>
-      <span class="chip">↻ codziennie 05:00 UTC</span>
+<body class="bg-zinc-950 text-zinc-100 antialiased">
+<div class="mesh"></div>
+
+<header class="sticky top-0 z-20 backdrop-blur bg-zinc-950/80 border-b border-zinc-800">
+  <div class="max-w-6xl mx-auto px-4 h-16 flex items-center justify-between gap-4">
+    <a href="index.html" class="flex items-center gap-2 font-semibold tracking-tight text-lg">
+      <span class="inline-flex h-8 w-8 items-center justify-center rounded-xl bg-emerald-500/10 border border-emerald-500/30 text-emerald-400">▲</span>
+      Arch<span class="text-emerald-400">-Ogło</span>
+    </a>
+    <div class="flex items-center gap-1 overflow-x-auto" id="filters">
+      <button data-filter="all"      class="filter-btn px-4 py-1.5 rounded-xl text-sm bg-emerald-500 text-white font-medium">Wszystkie</button>
+      <button data-filter="konkurs"  class="filter-btn px-4 py-1.5 rounded-xl text-sm border border-zinc-800 text-zinc-400 hover:text-zinc-100">Konkursy</button>
+      <button data-filter="praca"    class="filter-btn px-4 py-1.5 rounded-xl text-sm border border-zinc-800 text-zinc-400 hover:text-zinc-100">Praca</button>
+      <button data-filter="przetarg" class="filter-btn px-4 py-1.5 rounded-xl text-sm border border-zinc-800 text-zinc-400 hover:text-zinc-100">Przetargi</button>
+      <a href="archiwum.html" class="ml-2 px-4 py-1.5 rounded-xl text-sm border border-zinc-800 text-zinc-400 hover:text-zinc-100 whitespace-nowrap">Archiwum</a>
     </div>
   </div>
-  <nav>
-    <a class="on" href="index.html">Aktualne</a>
-    <a href="archiwum.html">Archiwum</a>
-    <span class="search"><input id="q" type="search" placeholder="🔍 filtruj: tytuł lub zamawiający…" autocomplete="off"></span>
-  </nav>
 </header>
-<main>
-{% if failed_sources %}<div class="failed">⚠️ Źródła zawiodły w tym runie: {{ failed_sources|join(", ") }}</div>{% endif %}
-<div id="cards">
-{% for a in current %}
-<article class="card" data-t="{{ (a.tytul ~ ' ' ~ a.zamawiajacy)|lower }}">
-  <div class="score s{{ a.score|default(0) }}">{{ a.score|default("–") }}</div>
-  <div>
-    <p class="title"><a href="{{ a.url }}" target="_blank" rel="noopener">{{ a.tytul }}</a></p>
-    <p class="who">{{ a.zamawiajacy|default("—", true) }}</p>
+
+<section class="glow">
+  <div class="max-w-6xl mx-auto px-4 pt-14 pb-10">
+    <p class="text-emerald-400 text-sm font-medium mb-2">Automatyczny monitoring · TED · BIP · platformazakupowa.pl</p>
+    <h1 class="text-4xl sm:text-5xl font-bold tracking-tight">Baza Ogłoszeń<br class="hidden sm:block"> <span class="text-zinc-400">Architektonicznych</span></h1>
+    <p class="mt-4 text-zinc-400 max-w-xl">Przetargi na prace projektowe i dokumentację wielobranżową — zbierane raz dziennie, filtrowane pod profil biura, publikowane automatycznie.</p>
+    <div class="mt-8 grid sm:grid-cols-3 gap-4">
+      <div class="bg-zinc-900 border border-zinc-800 rounded-xl p-5">
+        <div class="text-3xl font-bold text-emerald-400">{{ current|length }}</div>
+        <div class="text-zinc-400 text-sm mt-1">aktualnych ogłoszeń</div>
+      </div>
+      <div class="bg-zinc-900 border border-zinc-800 rounded-xl p-5">
+        <div class="text-3xl font-bold">{{ (nearest[0].termin_skladania|default("—"))[:10] if nearest else "—" }}</div>
+        <div class="text-zinc-400 text-sm mt-1">najbliższy termin składania</div>
+      </div>
+      <div class="bg-zinc-900 border border-zinc-800 rounded-xl p-5">
+        <div class="text-3xl font-bold">3</div>
+        <div class="text-zinc-400 text-sm mt-1">źródła danych · {{ generated }}</div>
+      </div>
+    </div>
   </div>
-  <div class="side"><span class="src">{{ a.zrodlo }}</span></div>
-  <div class="meta">
-    {% if a.termin_skladania %}
-      {% set d = a.termin_skladania[:10] %}
-      <span class="dl {% if d <= deadline_7 and d >= generated_date %}hot{% elif d <= deadline_14 and d >= generated_date %}soon{% endif %}">⏳ do {{ d }}</span>
+</section>
+<main class="max-w-6xl mx-auto px-4 pb-16 grid lg:grid-cols-3 gap-6">
+  <div class="lg:col-span-2">
+    <div class="flex items-center justify-between mb-4">
+      <h2 class="text-lg font-semibold">Ogłoszenia</h2>
+      <input id="q" type="search" placeholder="Szukaj…" autocomplete="off"
+             class="bg-zinc-900 border border-zinc-800 rounded-xl px-4 py-2 text-sm w-56 outline-none focus:border-emerald-500/50 placeholder:text-zinc-500">
+    </div>
+    <div id="cards" class="space-y-4">
+    {% for a in current %}
+    <article class="card bg-zinc-900 border border-zinc-800 rounded-xl p-5 hover:border-emerald-500/40 transition"
+             data-category="{{ a.kategoria }}" data-t="{{ (a.tytul ~ ' ' ~ a.zamawiajacy)|lower }}">
+      <div class="flex items-start justify-between gap-4">
+        <div class="min-w-0">
+          <span class="inline-block bg-emerald-500/10 text-emerald-400 text-xs px-2.5 py-0.5 rounded-xl border border-emerald-500/20 mb-2">{{ a.kategoria }}</span>
+          <h3 class="font-semibold leading-snug">
+            <a href="{{ a.url }}" target="_blank" rel="noopener" class="hover:text-emerald-400">{{ a.tytul }}</a>
+          </h3>
+          <p class="text-zinc-400 text-sm mt-1">{{ a.zamawiajacy|default("—", true) }}</p>
+        </div>
+        <div class="shrink-0 text-center bg-zinc-950 border border-zinc-800 rounded-xl px-3 py-2">
+          <div class="text-xl font-bold text-emerald-400">{{ a.score|default("–") }}</div>
+          <div class="text-[10px] uppercase tracking-wide text-zinc-500">score</div>
+        </div>
+      </div>
+      <div class="flex flex-wrap items-center gap-2 mt-3 text-xs">
+        {% if a.termin_skladania %}
+          {% set d = a.termin_skladania[:10] %}
+          <span class="border border-zinc-800 rounded-xl px-2.5 py-1 {% if d <= deadline_7 and d >= generated_date %}text-red-400 border-red-500/30{% elif d <= deadline_14 and d >= generated_date %}text-amber-400 border-amber-500/30{% else %}text-zinc-400{% endif %}">⏳ do {{ d }}</span>
+        {% else %}
+          <span class="border border-zinc-800 rounded-xl px-2.5 py-1 text-zinc-500">termin: brak</span>
+        {% endif %}
+        <span class="bg-emerald-500/10 text-emerald-400 px-2.5 py-1 rounded-xl border border-emerald-500/20">{{ a.zrodlo }}</span>
+        {% for t in a.tagi %}{% if t != "brak-terminu" %}<span class="border border-zinc-800 text-zinc-400 px-2.5 py-1 rounded-xl">{{ t }}</span>{% endif %}{% endfor %}
+      </div>
+    </article>
     {% else %}
-      <span class="dl none">termin: brak</span>
-    {% endif %}
-    {% if a.data_publikacji %}<span class="tag">📅 {{ a.data_publikacji }}</span>{% endif %}
-    {% for t in a.tagi %}<span class="tag {{ t }}">{{ t }}</span>{% endfor %}
+    <div class="bg-zinc-900 border border-zinc-800 rounded-xl p-10 text-center text-zinc-400">Brak ogłoszeń w tej kategorii.</div>
+    {% endfor %}
+    </div>
+    <p id="nores" class="hidden text-center text-zinc-500 py-10">Brak wyników dla wybranego filtra.</p>
   </div>
-</article>
-{% else %}
-<div class="empty">Brak aktualnych ogłoszeń w oknie {{ display_days }} dni.</div>
-{% endfor %}
-</div>
-<p id="nores" class="empty" style="display:none">Brak wyników dla podanego filtra.</p>
+
+  <aside>
+    <div class="bg-zinc-900 border border-zinc-800 rounded-xl p-5 sticky top-24">
+      <h2 class="text-lg font-semibold mb-4 flex items-center gap-2">
+        <span class="h-2 w-2 rounded-full bg-emerald-400 animate-pulse"></span> Pilne terminy
+      </h2>
+      <ul class="space-y-3">
+      {% for a in nearest %}
+        <li class="border border-zinc-800 rounded-xl p-4 hover:border-emerald-500/40 transition">
+          <div class="text-emerald-400 text-sm font-semibold">{{ a.termin_skladania[:10] }}</div>
+          <a href="{{ a.url }}" target="_blank" rel="noopener" class="text-sm text-zinc-300 hover:text-emerald-400 line-clamp-2 mt-1 block">{{ a.tytul }}</a>
+          <div class="text-zinc-500 text-xs mt-1">{{ a.zamawiajacy|default("", true)|truncate(40) }}</div>
+        </li>
+      {% else %}
+        <li class="text-zinc-500 text-sm">Brak nadchodzących terminów.</li>
+      {% endfor %}
+      </ul>
+      <div class="mt-5 pt-4 border-t border-zinc-800 text-xs text-zinc-500">
+        Aktualizacja: {{ generated }} · okno {{ display_days }} dni
+      </div>
+    </div>
+  </aside>
 </main>
-<footer>Źródła: TED (zam. unijne), BIP spółek SP, platformazakupowa.pl — pobierane automatycznie raz dziennie.
-<a style="color:var(--muted)" href="https://github.com/matkowpa/arch-oglo">Kod i dane</a></footer>
+<footer class="border-t border-zinc-800">
+  <div class="max-w-6xl mx-auto px-4 py-8 flex flex-wrap items-center justify-between gap-3 text-sm text-zinc-500">
+    <span class="flex items-center gap-2">
+      <span class="inline-flex h-6 w-6 items-center justify-center rounded-lg bg-emerald-500/10 border border-emerald-500/30 text-emerald-400 text-xs">▲</span>
+      Arch-Ogło — baza ogłoszeń architektonicznych
+    </span>
+    <span>Źródła: TED · BIP spółek SP · platformazakupowa.pl · <a class="hover:text-emerald-400" href="https://github.com/matkowpa/arch-oglo">GitHub</a></span>
+  </div>
+</footer>
 <script>
-const q=document.getElementById('q');
-q.addEventListener('input',()=>{
-  const f=q.value.trim().toLowerCase();let n=0;
-  document.querySelectorAll('.card').forEach(c=>{
-    const show=!f||c.dataset.t.includes(f);c.style.display=show?'':'none';if(show)n++;
+// Filtry kategorii (interface.md): active button + hide/show kart
+const btns = document.querySelectorAll('.filter-btn');
+const cards = document.querySelectorAll('.card');
+const nores = document.getElementById('nores');
+let activeFilter = 'all';
+const query = document.getElementById('q');
+let q = '';
+
+function apply() {
+  let visible = 0;
+  cards.forEach(c => {
+    const okCat = activeFilter === 'all' || c.dataset.category === activeFilter;
+    const okText = !q || c.dataset.t.includes(q);
+    const show = okCat && okText;
+    c.classList.toggle('hidden', !show);
+    if (show) visible++;
   });
-  document.getElementById('nores').style.display=n?'none':'';
-});
+  nores.classList.toggle('hidden', visible > 0);
+}
+
+btns.forEach(b => b.addEventListener('click', () => {
+  btns.forEach(x => {
+    x.classList.remove('bg-emerald-500', 'text-white', 'font-medium');
+    x.classList.add('border', 'border-zinc-800', 'text-zinc-400');
+  });
+  b.classList.add('bg-emerald-500', 'text-white', 'font-medium');
+  b.classList.remove('text-zinc-400');
+  activeFilter = b.dataset.filter;
+  apply();
+}));
+
+query.addEventListener('input', () => { q = query.value.trim().toLowerCase(); apply(); });
 </script>
 </body>
 </html>

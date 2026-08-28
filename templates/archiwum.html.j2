@@ -3,46 +3,58 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Archiwum — przetargi</title>
+<title>Archiwum — Arch-Ogło</title>
+<script src="https://cdn.tailwindcss.com"></script>
 <style>
-  :root{--bg:#f4f6fa;--card:#fff;--ink:#1a2332;--muted:#66738a;--line:#e4e9f1;--accent:#2952c3;--badge:#eef2fb}
-  @media (prefers-color-scheme: dark){
-    :root{--bg:#0f1623;--card:#182238;--ink:#e7ecf5;--muted:#93a0b8;--line:#273350;--accent:#7d9bff;--badge:#1e2a45}}
-  *{box-sizing:border-box}
-  body{margin:0;background:var(--bg);color:var(--ink);font-family:"Segoe UI",system-ui,sans-serif;font-size:15px}
-  header{color:#fff;background:linear-gradient(135deg,#334155,#475569)}
-  .hwrap{max-width:1100px;margin:0 auto;padding:18px 20px;display:flex;flex-wrap:wrap;gap:10px;justify-content:space-between;align-items:center}
-  h1{font-size:1.1rem;margin:0;font-weight:600}
-  .chip{background:rgba(255,255,255,.16);border-radius:999px;padding:3px 12px;font-size:.78rem}
-  nav{max-width:1100px;margin:0 auto;padding:0 20px 12px;display:flex;gap:8px}
-  nav a{color:#e2e8f0;text-decoration:none;font-size:.85rem;padding:4px 14px;border-radius:999px;background:rgba(255,255,255,.12)}
-  nav a.on{background:#fff;color:#334155;font-weight:600}
-  main{max-width:1100px;margin:22px auto 40px;padding:0 20px}
-  .row{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px 16px;margin-bottom:8px;
-    display:flex;gap:14px;align-items:baseline;justify-content:space-between;flex-wrap:wrap}
-  .row a{color:var(--ink);text-decoration:none;font-weight:500}
-  .row a:hover{color:var(--accent)}
-  .m{color:var(--muted);font-size:.8rem;white-space:nowrap}
-  .sc{font-size:.78rem;background:var(--badge);color:var(--accent);border-radius:999px;padding:2px 10px;white-space:nowrap}
-  .empty{text-align:center;color:var(--muted);padding:48px 0}
+  .mesh{position:fixed;inset:0;z-index:-1;pointer-events:none;
+    background-image:
+      repeating-linear-gradient(115deg, rgba(255,255,255,.03) 0 1px, transparent 1px 42px),
+      repeating-linear-gradient(65deg, rgba(255,255,255,.03) 0 1px, transparent 1px 42px);}
 </style>
 </head>
-<body>
-<header><div class="hwrap"><h1>🗄️ Archiwum ogłoszeń</h1>
-<span class="chip">{{ archive|length }} pozycji</span></div>
-<nav><a href="index.html">Aktualne</a><a class="on" href="archiwum.html">Archiwum</a></nav>
+<body class="bg-zinc-950 text-zinc-100 antialiased">
+<div class="mesh"></div>
+
+<header class="sticky top-0 z-20 backdrop-blur bg-zinc-950/80 border-b border-zinc-800">
+  <div class="max-w-6xl mx-auto px-4 h-16 flex items-center justify-between">
+    <a href="index.html" class="flex items-center gap-2 font-semibold text-lg">
+      <span class="inline-flex h-8 w-8 items-center justify-center rounded-xl bg-emerald-500/10 border border-emerald-500/30 text-emerald-400">▲</span>
+      Arch<span class="text-emerald-400">-Ogło</span>
+    </a>
+    <nav class="flex gap-1">
+      <a href="index.html" class="px-4 py-1.5 rounded-xl text-sm border border-zinc-800 text-zinc-400 hover:text-zinc-100">Aktualne</a>
+      <a href="archiwum.html" class="px-4 py-1.5 rounded-xl text-sm bg-emerald-500 text-white font-medium">Archiwum</a>
+    </nav>
+  </div>
 </header>
-<main>
-{% for a in archive %}
-<div class="row">
-  <span><a href="{{ a.url }}" target="_blank" rel="noopener">{{ a.tytul }}</a>
-  <div class="m">{{ a.zamawiajacy|default("—", true) }}</div></span>
-  <span class="m">{{ a.termin_skladania|default("—", true) }}{% if a.data_publikacji %} · publikacja {{ a.data_publikacji }}{% endif %}</span>
-  <span class="sc">score {{ a.score|default("–") }} · {{ a.zrodlo }}</span>
-</div>
-{% else %}
-<div class="empty">Archiwum jest puste.</div>
-{% endfor %}
+
+<main class="max-w-6xl mx-auto px-4 py-10">
+  <h1 class="text-3xl font-bold tracking-tight">Archiwum <span class="text-zinc-400">ogłoszeń</span></h1>
+  <p class="text-zinc-400 mt-2 text-sm">{{ archive|length }} pozycji (historia 90 dni)</p>
+  <div class="mt-8 space-y-3">
+  {% for a in archive %}
+    <div class="bg-zinc-900 border border-zinc-800 rounded-xl p-4 hover:border-emerald-500/40 transition flex flex-wrap items-baseline justify-between gap-3">
+      <div class="min-w-0">
+        <a href="{{ a.url }}" target="_blank" rel="noopener" class="font-medium hover:text-emerald-400">{{ a.tytul }}</a>
+        <div class="text-zinc-500 text-sm mt-0.5">{{ a.zamawiajacy|default("—", true) }}</div>
+      </div>
+      <div class="text-xs text-zinc-500 flex items-center gap-3">
+        <span>{{ a.termin_skladania|default("—", true) }}</span>
+        <span class="border border-zinc-800 rounded-xl px-2.5 py-1">score {{ a.score|default("–") }}</span>
+        <span class="border border-zinc-800 rounded-xl px-2.5 py-1">{{ a.zrodlo }}</span>
+      </div>
+    </div>
+  {% else %}
+    <div class="bg-zinc-900 border border-zinc-800 rounded-xl p-10 text-center text-zinc-400">Archiwum jest puste.</div>
+  {% endfor %}
+  </div>
 </main>
+
+<footer class="border-t border-zinc-800">
+  <div class="max-w-6xl mx-auto px-4 py-8 text-sm text-zinc-500 flex justify-between flex-wrap gap-3">
+    <span>Arch-Ogło — baza ogłoszeń architektonicznych</span>
+    <a class="hover:text-emerald-400" href="https://github.com/matkowpa/arch-oglo">GitHub</a>
+  </div>
+</footer>
 </body>
 </html>
