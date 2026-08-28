@@ -1,6 +1,6 @@
-# Plan implementacji v3: Agregator ogłoszeń przetargowych dla biura architektonicznego
+# Plan finalny: Agregator ogłoszeń przetargowych dla biura architektonicznego
 
-**Status:** wersja obowiązująca. Zastępuje [PLAN.md](PLAN.md) i [PLAN_V2.md](PLAN_V2.md) (oba tylko do wglądu historycznego). Uzasadnienie zmian: [WERYFIKACJA_PLANU.md](WERYFIKACJA_PLANU.md) i [WERYFIKACJA_PLANU_V2.md](WERYFIKACJA_PLANU_V2.md).
+**Status:** wersja obowiązująca. Ten plik (`final_plan.md`) jest kopią [plan_v3.md](plan_v3.md) (przechodzi do historii) i zastępuje [PLAN.md](PLAN.md) oraz [PLAN_V2.md](PLAN_V2.md). Uzasadnienie zmian: [WERYFIKACJA_PLANU.md](WERYFIKACJA_PLANU.md) i [WERYFIKACJA_PLANU_V2.md](WERYFIKACJA_PLANU_V2.md).
 
 **Cel:** codzienne, automatyczne zbieranie ogłoszeń o przetargach/konkursach na prace projektowe architektoniczne i dokumentację wielobranżową, z publikacją na statycznej stronie www na GitHub Pages.
 
