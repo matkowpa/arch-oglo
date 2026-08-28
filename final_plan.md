@@ -42,12 +42,12 @@
 
 | # | Źródło | Dostęp | Faza |
 |---|--------|--------|------|
-| 1 | **platformazakupowa.pl** — powiadomienia CPV o nowych postępowaniach | **Gmail IMAP** (sekcja 4) | MVP |
-| 2 | **TED** (ted.europa.eu) | REST API v3, bez klucza (sekcja 5) | MVP |
-| 3 | **BZP / e-Zamówienia** | publiczne API odczytu — **endpoint do potwierdzenia w kroku 0** (sekcja 6) | MVP |
-| 4 | **BIP-y spółek SP** — pilotaż 4–5 spółek | scraping statycznego HTML, osobny parser per spółka (sekcja 7) | MVP |
-| 5 | Skrzynka: powiadomienia z **innych platform** (ezamawiajacy.pl, SmartPZP, Logintrade) | ten sam kanał IMAP, dodatkowy parser | Faza 2 |
-| 6 | **Sito frazowe** — scraping platformazakupowa.pl po frazach (uzupełnienie luki CPV, patrz 4.5) | throttled, `Crawl-delay: 900` | Faza 2 |
+| 1 | **platformazakupowa.pl — publiczna wyszukiwarka** `/all?query=...` (sito frazowe) | scraping HTML, **1 żądanie na frazę na run** (robots.txt: Crawl-delay 900); workflow `pz_search.yml` = 6 fraz x 1 żądanie w osobnych godzinach (05:07–10:07). Potwierdzone 2026-08-28: anonimowy dostęp; platforma zwraca WSZYSTKIE aktywne trafienia frazy (limit ignorowany). **Zweryfikowano 2026-08-28 (krok 0.6):** Regulamin platformazakupowa.pl **zakazuje** zautomatyzowane pobieranie treści: „Zakazane jest jakiekolwiek zautomatyzowane pobieranie treści, w szczególności scraping, crawling, TDM lub masowe pobieranie Załączników, z wyjątkiem… udostępnionego przez Usługodawcę API lub innych form udostępniania takich jak pliki CSV… lub bezwzględnie obowiązujących przepisów prawa". Zastrzeżenie TDM z art. 8a ust. 1 ustawy o ochronie baz danych. **Konsekwencja:** cron `pz_search.yml` WYŁĄCZONY; źródło pozostaje jako moduł + workflow_dispatch (ręczne uruchomienia wyłącznie na odpowiedzialność właściciela). Priorytet uzupełnienia luki: BZP (krok 0.2) i inne legalne kanały (powiadomienia e-mail innych platform).
+| 2 | **TED** (ted.europa.eu) | REST API v3, bez klucza (sekcja 5) — **działa** | MVP |
+| 3 | **BZP / e-Zamówienia** | publiczne API odczytu — **endpoint do potwierdzenia w kroku 0** (sekcja 6); po upadku kanału e-mail BZP awansuje na główne źródło krajowe | MVP |
+| 4 | **BIP-y spółek SP** — pilotaż 4–5 spółek | scraping statycznego HTML, osobny parser per spółka (sekcja 7) — PHN **działa** | MVP |
+| 5 | ~~platformazakupowa.pl — powiadomienia e-mail (IMAP)~~ | **ODRZUCONE (2026-08-28): platforma nie oferuje subskrypcji powiadomień po kodach CPV** — potwierdzone empirycznie w panelu. Parser `pz_email.py` zostaje dormant (sekcja 4), skrzynka Gmail skonfigurowana i sprawdzona (LOGIN OK) — gotowa na ewentualne powiadomienia z innych platform (Faza 2) | — |
+| 6 | Powiadomienia z **innych platform** (ezamawiajacy.pl, SmartPZP, Logintrade) | kanał IMAP + `pz_email.py` (wymaga weryfikacji, czy te platformy oferują powiadomienia) | Faza 2 |
 | 7 | ESPI/GPW, SARP, konkursy.org | RSS/HTML | Faza 2 |
 | 8 | funduszeeuropejskie.gov.pl | scraping | Faza 3 |
 
@@ -250,7 +250,8 @@ GitHub **automatycznie wyłącza scheduled workflows w publicznych repo po 60 dn
 - 0.1 Ustalić finalną listę kodów CPV dla usług projektowych/architektonicznych (dział 71 — m.in. 71200000, 71220000, 71221000, 71222000, 71240000, 71300000, 71320000, 71400000; **potwierdzić w oficjalnym słowniku CPV**, nie przyjmować tej listy na wiarę) → `config/cpv.yaml`
 - 0.2 Rozstrzygnąć endpoint i możliwości filtrowania API BZP (sekcja 6) → `docs/zrodla-decyzje.md`
 - 0.3 Wskazać 4–5 spółek SP na pilotaż BIP
-- 0.4 Skonfigurować Gmail + konto wykonawcy + subskrypcję CPV (4.1)
+- 0.4 Skonfigurować Gmail + konto wykonawcy + subskrypcję CPV (4.1) → **częściowo niewykonalne: subskrypcja CPV nie istnieje na platformie** (sekcja 11 pyt. 2); Gmail skonfigurowany i przetestowany (LOGIN OK), parser dormant
+- 0.5 (NOWE) URL publicznej wyszukiwarki platformazakupowa.pl: **`/all?page=&limit=&query=`** — potwierdzony anonimowy dostęp (2026-08-28), fixture: `tests/fixtures/pz_search.html`; **do decyzji właściciela: zgodność scrapingu z Regulaminem platformy**
 
 **Ścieżka A — niezablokowana, start od razu:**
 1. Szkielet repo, `requirements.txt`, pliki `config/*.yaml`, model `Announcement`
@@ -289,7 +290,7 @@ GitHub **automatycznie wyłącza scheduled workflows w publicznych repo po 60 dn
 ## 11. Pytania otwarte
 
 1. **Które 4–5 spółek SP na pilotaż BIP** poza PHN? **ROZSTRZĄŚNIĘTE:** pilotaż = PHN S.A. (potwierdzona), KGHM Polska Miedź S.A. (sekcja „Przetargi" istnieje; URL do potwierdzenia w kroku 0), PGE S.A. (strony ogłoszeń spółek grupy istnieją, ale holding głównie przez Logintrade — ta część przejdzie kanałem IMAP), Polska Grupa Górnicza S.A. i ARP S.A. (obie do potwierdzenia w kroku 0). Rezerwa: Tauron S.A. Odrzucone: PKP S.A. (HTTP 403, anty-bot), Wody Polskie (infrastruktura — poza profilem, 11 rozproszonych stron RZGW), PGZ (systemy zamknięte). Szczegóły: `docs/zrodla-decyzje.md`.
-2. Czy w panelu platformazakupowa.pl subskrypcja pozwala **tylko na kody CPV**, czy także na własne frazy kluczowe? Jeśli frazy są dostępne, luka pokrycia z 4.5 znacząco się zmniejsza i sito frazowe (źródło 6) może być zbędne.
+2. Czy w panelu platformazakupowa.pl subskrypcja pozwala **tylko na kody CPV**, czy także na własne frazy kluczowe? Jeśli frazy są dostępne, luka pokrycia z 4.5 znacząco się zmniejsza i sito frazowe (źródło 6) może być zbędne. **ROZSTRZĄŚNIĘTE NEGATYWNIE (2026-08-28): subskrypcja e-mail CPV/fraz nie istnieje.** Rozwiązanie: publiczna wyszukiwarka `/all?query=` jako źródło 1 (sito frazowe w MVP); IMAP dormant.
 
 ## 12. Referencje
 

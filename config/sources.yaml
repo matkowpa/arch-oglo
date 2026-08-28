@@ -1,0 +1,77 @@
+# Źródła danych (sekcje 2, 4–7 final_plan.md).
+
+email:
+  # ŹRÓDŁO 1 WYŁĄCZONE: platformazakupowa.pl NIE oferuje subskrypcji powiadomień
+  # po kodach CPV (potwierdzone empirycznie 2026-08-28). Kod parsera zostaje
+  # (dormant) na wypadek powiadomień z innych platform w Fazie 2.
+  enabled: false
+  # Sekrety wyłącznie z env / GitHub Secrets — nigdy w plikach.
+  host: imap.gmail.com
+  port: 993
+  user_env: GMAIL_USER
+  password_env: GMAIL_APP_PASSWORD
+  mailbox: INBOX
+  sender_contains: platformazakupowa.pl
+  # Sekcja 4.5: subskrybować szeroko całą grupę 71* (nadmiar odfiltruje scoring).
+  max_messages: 50
+
+platformazakupowa_search:
+  # Źródło 1 (nowe): publiczna wyszukiwarka /all — dostęp anonimowy (krok 0.5 OK).
+  # robots.txt: Crawl-delay 900 -> JEDNO żądanie na run; frazy rotują wg dnia,
+  # a workflow pz_search.yml uruchamia po jednym żądaniu na godzinę.
+  base_url: https://platformazakupowa.pl/all
+  limit: 30   # bez znaczenia — platforma zwraca wszystkie aktywne trafienia (weryfikacja limit=100: identyczne wyniki)
+  phrases:
+    - "dokumentacja wielobranżowa"
+    - "prace projektowe"
+    - "dokumentacja projektowa"
+    - "dokumentacja projektowo-kosztorysowa"
+    - "projektowanie architektoniczne"
+    - "wielobranżowa"
+
+ted:
+  url: https://api.ted.europa.eu/v3/notices/search
+  scope: ACTIVE
+  limit: 100
+  # Krok 0: zapytanie budowane stopniowo — zacząć od prostego FT~.
+  query: >
+    classification-cpv IN (71200000 71220000 71221000 71222000 71240000
+    71300000 71320000 71400000 71248000) AND buyer-country=POL
+
+bzp:
+  # Sekcja 6: źródło NIEZWERYFIKOWANE. Krok 0.2 musi rozstrzygnąć endpoint
+  # i możliwości filtrowania (CPV/data), zanim adapter wejdzie do produkcji.
+  endpoints:
+    - https://ezamowienia.gov.pl/mo-board/api/v1/notice
+    - https://ezamowienia.gov.pl/mo-client-board/api/notices/
+  enabled: false  # włączyć dopiero po rozstrzygnięciu kroku 0.2
+
+bip:
+  # Sekcja 7: pilotaż 4–5 spółek (sekcja 11, pyt. 1 — rozstrzygnięte).
+  # Każda spółka = osobny parser. Przed parserem sprawdzić robots.txt i Crawl-delay.
+  companies:
+    - id: phn
+      name: Polski Holding Nieruchomości S.A.
+      kind: sp
+      # strona /ogloszenia zwraca 404 — paginacja to /ogloszenia/1, /2, /3...
+      list_url: https://bip.phnsa.pl/ogloszenia/1
+      crawl_delay: 10
+      # KGHM/PGE/PGG/ARP — do potwierdzenia URL-i w kroku 0, potem dodać wpisy.
+
+sp_companies:  # rozpoznanie zamawiającego → bonus +1
+  - "Polski Holding Nieruchomości"
+  - "KGHM"
+  - "PGE"
+  - "Polska Grupa Górnicza"
+  - "Agencja Rozwoju Przemysłu"
+  - "ORLEN"
+  - "Tauron"
+
+exchange_companies:  # bonus +1 — spółki giełdowe
+  - "ORLEN"
+  - "KGHM"
+  - "Tauron"
+  - "PGE"
+
+history_days: 90
+display_days: 30

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Przetargi — prace projektowe i dokumentacja wielobranżowa</title>
+<style>
+  body{font-family:system-ui,Segoe UI,Arial,sans-serif;margin:0;background:#f5f6f8;color:#222}
+  header{background:#1f3a5f;color:#fff;padding:16px 24px}
+  main{max-width:1100px;margin:24px auto;padding:0 16px}
+  table{width:100%;border-collapse:collapse;background:#fff;box-shadow:0 1px 3px rgba(0,0,0,.12)}
+  th,td{padding:8px 10px;border-bottom:1px solid #e3e6ea;text-align:left;vertical-align:top}
+  th{background:#eef1f5;font-size:.85rem;text-transform:uppercase;letter-spacing:.03em}
+  tr:hover td{background:#fafbfd}
+  .score{font-weight:700}
+  .tag{display:inline-block;background:#dfe7f2;color:#1f3a5f;border-radius:10px;padding:1px 8px;margin:1px;font-size:.75rem}
+  .tag.wysoka-trafnosc{background:#c9e7cd;color:#14532d}
+  .tag.brak-terminu{background:#f4e2c9;color:#7c4a03}
+  .muted{color:#888;font-size:.8rem}
+  nav{margin:12px 0}
+  nav a{margin-right:16px;color:#1f3a5f}
+  .failed{background:#fde8e8;border:1px solid #f5b5b5;padding:8px 12px;margin-bottom:12px;font-size:.85rem}
+</style>
+</head>
+<body>
+<header><h1>Przetargi i konkursy — prace projektowe / dokumentacja wielobranżowa</h1>
+<span class="muted">Ostatnia aktualizacja: {{ generated }} · okno {{ display_days }} dni</span></header>
+<main>
+<nav><a href="index.html">Aktualne</a> <a href="archiwum.html">Archiwum</a></nav>
+{% if failed_sources %}<div class="failed">Źródła zawiodły w tym runie: {{ failed_sources|join(", ") }}</div>{% endif %}
+<table>
+<thead><tr><th>Termin składania</th><th>Publikacja</th><th>Zamawiający</th><th>Tytuł</th><th>Score</th><th>Tagi</th><th>Źródło</th></tr></thead>
+<tbody>
+{% for a in current %}
+<tr>
+  <td>{{ a.termin_skladania|default("brak", true) }}</td>
+  <td>{{ a.data_publikacji|default("—", true) }}</td>
+  <td>{{ a.zamawiajacy|default("—", true) }}</td>
+  <td><a href="{{ a.url }}" target="_blank" rel="noopener">{{ a.tytul }}</a></td>
+  <td class="score">{{ a.score }}</td>
+  <td>{% for t in a.tagi %}<span class="tag {{ t }}">{{ t }}</span>{% endfor %}</td>
+  <td>{{ a.zrodlo }}</td>
+</tr>
+{% else %}
+<tr><td colspan="7">Brak aktualnych ogłoszeń.</td></tr>
+{% endfor %}
+</tbody>
+</table>
+<p class="muted">Źródła: TED, BIP spółek SP, platformazakupowa.pl (e-mail). Automatyczne, raz dziennie.</p>
+</main>
+</body>
+</html>

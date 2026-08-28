@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head><meta charset="utf-8"><title>Archiwum — przetargi</title>
+<style>body{font-family:system-ui,Segoe UI,Arial,sans-serif;margin:0;background:#f5f6f8;color:#222}
+header{background:#1f3a5f;color:#fff;padding:16px 24px}main{max-width:1100px;margin:24px auto;padding:0 16px}
+table{width:100%;border-collapse:collapse;background:#fff;box-shadow:0 1px 3px rgba(0,0,0,.12)}
+th,td{padding:8px 10px;border-bottom:1px solid #e3e6ea;text-align:left}th{background:#eef1f5}
+nav{margin:12px 0}nav a{margin-right:16px;color:#1f3a5f}</style></head>
+<body>
+<header><h1>Archiwum ogłoszeń</h1></header>
+<main>
+<nav><a href="index.html">Aktualne</a> <a href="archiwum.html">Archiwum</a></nav>
+<table>
+<thead><tr><th>Termin</th><th>Publikacja</th><th>Zamawiający</th><th>Tytuł</th><th>Score</th><th>Źródło</th></tr></thead>
+<tbody>
+{% for a in archive %}
+<tr><td>{{ a.termin_skladania|default("—", true) }}</td><td>{{ a.data_publikacji|default("—", true) }}</td>
+<td>{{ a.zamawiajacy|default("—", true) }}</td>
+<td><a href="{{ a.url }}" target="_blank" rel="noopener">{{ a.tytul }}</a></td>
+<td>{{ a.score }}</td><td>{{ a.zrodlo }}</td></tr>
+{% else %}
+<tr><td colspan="6">Archiwum puste.</td></tr>
+{% endfor %}
+</tbody></table>
+</main></body></html>

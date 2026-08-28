@@ -1,0 +1,12 @@
+# Kody CPV — usługi projektowe / architektoniczne / inżynieryjne (dział 71).
+# UWAGA (krok 0.1 planu): lista do potwierdzenia w oficjalnym słowniku CPV (simap.ted.europa.eu).
+cpv:
+  - "71200000"  # usługi architektoniczne
+  - "71220000"  # usługi architektoniczne w zakresie budynków
+  - "71221000"  # usługi projektowania architektonicznego
+  - "71222000"  # usługi nadzoru architektonicznego
+  - "71240000"  # usługi inżynieryjne i projektowanie
+  - "71300000"  # usługi inżynieryjne
+  - "71320000"  # usługi doradcze w zakresie inżynierii
+  - "71400000"  # usługi w zakresie projektowania urbanistycznego i architektury krajobrazu
+  - "71248000"  # dokumentacja projektowa

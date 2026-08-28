@@ -6,5 +6,19 @@ desktop.ini
 # VS Code
 .vscode/
 
+# Tymczasowe artefakty lokalnych uruchomień
+data/errors.log
+docs_site/
+*.log
+test_out.txt
+run_out.txt
+check_out.txt
+*_probe*.txt
+
 # Secrets / env
 .env
+
+# Python
+__pycache__/
+.pytest_cache/
+

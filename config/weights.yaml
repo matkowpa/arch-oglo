@@ -1,0 +1,11 @@
+# Wagi i progi scoringu (sekcja 3.3). Frazy w keywords.yaml.
+weights:
+  title: 2
+  opis: 1
+  cpv: 3
+  contest: 2
+  bonus: 1
+  negative: -3
+  low_priority: -1
+  sp_company: 1
+  exchange_company: 1

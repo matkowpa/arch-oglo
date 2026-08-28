@@ -1,0 +1,71 @@
+# Słowa kluczowe i wagi scoringu (sekcja 3.3 final_plan.md).
+# Trafienia liczone osobno na tytule (waga x2) i opisie (waga x1).
+
+exception_phrases:
+  # Obecność tych fraz BLOKUJE kary infrastrukturalne w okolicy wystąpienia (±120 znaków).
+  - "wraz z niezbędną infrastrukturą"
+  - "niezbędna infrastruktura towarzysząca"
+  - "wraz z infrastrukturą towarzyszącą"
+
+hard:  # +score — z odmianami fleksyjnymi (język polski)
+  - { phrase: "dokumentacja wielobranżowa", score: 3 }
+  - { phrase: "dokumentacji wielobranżowej", score: 3 }
+  - { phrase: "dokumentację wielobranżową", score: 3 }
+  - { phrase: "wielobranżowa dokumentacja", score: 3 }
+  - { phrase: "wielobranżowej dokumentacji", score: 3 }
+  - { phrase: "prace projektowe w zakresie", score: 3 }
+  - { phrase: "prac projektowych w zakresie", score: 3 }
+  - { phrase: "pracach projektowych w zakresie", score: 3 }
+  - { phrase: "dokumentacja projektowa", score: 3 }
+  - { phrase: "dokumentacji projektowej", score: 3 }
+  - { phrase: "dokumentacja projektowo-kosztorysowa", score: 3 }
+  - { phrase: "dokumentacji projektowo-kosztorysowej", score: 3 }
+  - { phrase: "projektowanie architektoniczne", score: 3 }
+  - { phrase: "sporządzenie dokumentacji", score: 3 }
+
+contest:  # +2 — konkurs architektoniczny (niższy priorytet)
+  - "konkurs architektoniczny"
+  - "konkurs na koncepcję"
+  - "konkurs na opracowanie"
+
+bonus:  # +1 każdy
+  - "dofinansowanie"
+  - "fundusze europejskie"
+  - "poiis"
+  - "feniks"  # FEnIKS
+  - "kpo"
+  - "energetyka"
+  - "kolej"
+  - "obronność"
+  - "data center"
+
+negative_road:  # -3 x waga pola (drogi) — rdzenie słów odporne na odmianę
+  - "drogow"
+  - "drogi"      # drogi, drogach (uwaga: „drogi" = też „cenne"; akceptowalny false-positive)
+  - "autostrad"
+  - "obwodnic"
+  - "ekspresow"
+
+negative_infra:  # -3 x waga pola (sieci/infrastruktura) — blokowane przez exception_phrases
+  - "kanalizac"
+  - "wodocią"
+  - "wodociąg"
+  - "gazocią"
+  - "ciepłownic"
+  - "linia elektroenergetyczn"
+  - "sieć elektroenergetyczn"
+  - "oświetlenie uliczn"
+
+low_priority:  # -1 — zamawiający samorządowy (nie usuwać)
+  - "gmina"
+  - "gminy"
+  - "powiat"
+  - "powiatu"
+  - "urząd miasta"
+  - "urząd gminy"
+  - "urząd miasta"
+  - "starostwo"
+
+thresholds:
+  publish: 3
+  high: 5

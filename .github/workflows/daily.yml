@@ -1,0 +1,63 @@
+name: daily-scrape
+
+on:
+  schedule:
+    - cron: '7 5 * * *'   # nieokrągła minuta; harmonogram NIE jest gwarantowany (opóźnienia 5–30 min, run może zostać pominięty)
+  workflow_dispatch: {}   # ręczne uruchomienie do testów / po pominiętym runie
+
+concurrency:
+  group: data-write
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      GMAIL_USER: ${{ secrets.GMAIL_USER }}
+      GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Run scraper
+        run: python -m scraper.run
+
+      - name: Commit data (heartbeat — always)
+        run: |
+          git config user.name "arch-oglo-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git pull --rebase origin ${GITHUB_REF_NAME} || git pull --rebase
+          git add data/ docs_site/
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "daily run: update announcements and site"
+            for i in 1 2 3; do git push && break || sleep 5; done
+          fi
+
+  deploy-pages:
+    needs: scrape
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs_site
+      - id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,86 @@
+name: pz-search
+
+# Źródło 1: publiczna wyszukiwarka platformazakupowa.pl — jedno żądanie na run.
+# robots.txt: Crawl-delay 900 s, więc każda fraza dostaje OSOBNĄ godzinę:
+# żądania nigdy nie są bliżej siebie niż 60 minut (zapas > 15 min).
+# Frazy w config/sources.yaml (platformazakupowa_search.phrases).
+
+# UWAGA PRAWNA (2026-08-28): Regulamin platformazakupowa.pl (§ o pobieraniu treści)
+# ZAKAZUJE zautomatyzowanego pobierania (scraping/crawling/TDM) poza oficjalnym API/CSV.
+# Harmonogram WYŁĄCZONY do czasu świadomej decyzji właściciela repo (patrz README).
+# Reaktywacja: usuń '#' poniżej.
+on:
+  # schedule:
+  #   - cron: '7 5 * * *'   # fraza 1 (dokumentacja wielobranżowa)
+  #   - cron: '7 6 * * *'   # fraza 2 (prace projektowe)
+  #   - cron: '7 7 * * *'   # fraza 3 (dokumentacja projektowa)
+  #   - cron: '7 8 * * *'   # fraza 4 (dokumentacja projektowo-kosztorysowa)
+  #   - cron: '7 9 * * *'   # fraza 5 (projektowanie architektoniczne)
+  #   - cron: '7 10 * * *'  # fraza 6 (wielobranżowa)
+  workflow_dispatch:
+    inputs:
+      phrase:
+        description: 'Fraza wyszukiwania (pusta = rotacja wg dnia)'
+        required: false
+        default: ''
+
+concurrency:
+  group: data-write
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - run: pip install -r requirements.txt
+
+      - name: Pick phrase for this run
+        id: phrase
+        run: |
+          PHRASES=("dokumentacja wielobranżowa" "prace projektowe" "dokumentacja projektowa" "dokumentacja projektowo-kosztorysowa" "projektowanie architektoniczne" "wielobranżowa")
+          HOUR=$(date +%H)
+          IDX=$(( (10#$HOUR - 5) % ${#PHRASES[@]} ))
+          if [ "$IDX" -lt 0 ]; then IDX=$((IDX + ${#PHRASES[@]})); fi
+          echo "phrase=${PHRASES[$IDX]}" >> "$GITHUB_OUTPUT"
+
+      - name: Run scraper (single search request)
+        env:
+          PZ_PHRASE: ${{ github.event.inputs.phrase || steps.phrase.outputs.phrase }}
+        run: python -m scraper.run
+
+      - name: Commit data (heartbeat — always)
+        run: |
+          git config user.name "arch-oglo-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git pull --rebase origin ${GITHUB_REF_NAME} || git pull --rebase
+          git add data/ docs_site/
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "pz-search run: update announcements and site"
+            for i in 1 2 3; do git push && break || sleep 5; done
+          fi
+
+  deploy-pages:
+    needs: scrape
+    runs-on: ubuntu-latest
+    if: always() && needs.scrape.result == 'success'
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs_site
+      - id: deployment
+        uses: actions/deploy-pages@v4
