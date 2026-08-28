@@ -23,6 +23,8 @@ jobs:
       GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # pełna historia — wymagane dla git pull --rebase + push w kroku commit
 
       - uses: actions/setup-python@v5
         with:
@@ -38,7 +40,7 @@ jobs:
         run: |
           git config user.name "arch-oglo-bot"
           git config user.email "bot@users.noreply.github.com"
-          git pull --rebase origin ${GITHUB_REF_NAME} || git pull --rebase
+          git pull --rebase origin main
           git add data/ docs_site/
           if git diff --cached --quiet; then
             echo "No changes"
