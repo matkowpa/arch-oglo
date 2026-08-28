@@ -1,7 +1,10 @@
 {
   "permissions": {
     "allow": [
-      "WebFetch(domain:bip.phnsa.pl)"
+      "WebFetch(domain:bip.phnsa.pl)",
+      "WebFetch(domain:ezamowienia.gov.pl)",
+      "WebFetch(domain:docs.ted.europa.eu)",
+      "WebFetch(domain:about.opennexus.com)"
     ]
   }
 }
