@@ -1,6 +1,7 @@
 
+Moim celem jest zebranie informacji dla biura architektonicznego nt. aktualnych ogłoszeń dotyczących przetargów zgodnie z poniższymi kryteriami oraz opublikowanie ich na stronie www. Docelowo chciałbym żeby wyszukiwanie odbywało sie raz dziennie i wyniki były zapisywane automatycznie na stronie na gihubie.
 
-
+Zaproponuj plan działania ze szczególnym uwzględnieniem źródeł informacji. Załóż że implmentacja będzie wykonana przez tani i szybki model (glm-5.3-flash). PLan implementacji zapisz w pliku. 
 
 CO MNIE INTERESUJE:
 Przetargi na prace projektowe architektury lub tzw. dokumentacje wielobranżowe
@@ -17,5 +18,6 @@ Przetargi na prace projektowe od samorządów (gminy, powiaty) – nie wykluczam
 Prace projektowe w zakresie dróg
 Prace projektowe w zakresie infrastruktury / sieci (ale nie można wyłączyć słowa infrastruktura bo często używa się sformułowania „wraz z niezbędną infrastrukturą”)
 
-PRZYKŁAD:
-https://bip.phnsa.pl/ogloszenia/2
+PRZYKŁADY:
+link: https://bip.phnsa.pl/ogloszenia/2 
+plik: przykład_przetargu.eml
