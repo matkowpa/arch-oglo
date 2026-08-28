@@ -22,8 +22,14 @@ class TedSource(BaseSource):
         self.timeout = timeout
 
     def fetch(self) -> list[Announcement]:
+        from datetime import datetime
+
+        query = " ".join(self.cfg["query"].split())
+        if self.cfg.get("only_open"):
+            # dynamiczna data dzisiejsza — TED zwróci tylko otwarte terminy
+            query += f" AND deadline>{datetime.now():%Y%m%d}"
         body = {
-            "query": " ".join(self.cfg["query"].split()),
+            "query": query,
             "fields": FIELDS,
             "limit": min(int(self.cfg.get("limit", 100)), 100),
             "scope": self.cfg.get("scope", "ACTIVE"),

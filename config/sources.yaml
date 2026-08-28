@@ -33,6 +33,10 @@ ted:
   url: https://api.ted.europa.eu/v3/notices/search
   scope: ACTIVE
   limit: 100
+  # Potwierdzone sondą 2026-08-28: filtr deadline>dziś zwraca TYLKO otwarte
+  # postępowania i pole deadline jest wtedy wypełnione (bez niego TED zwracał
+  # ogłoszenia zamknięte z pustym terminem).
+  only_open: true
   # Krok 0: zapytanie budowane stopniowo — zacząć od prostego FT~.
   query: >
     classification-cpv IN (71200000 71220000 71221000 71222000 71240000

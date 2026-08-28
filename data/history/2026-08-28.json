@@ -1,7 +1,7 @@
 {
  "ted": {
   "ok": true,
-  "count": 100
+  "count": 8
  },
  "bip:phn": {
   "ok": true,
@@ -9,6 +9,6 @@
  },
  "pz-search": {
   "ok": true,
-  "count": 0
+  "count": 1
  }
 }

@@ -61,3 +61,34 @@ def test_roundtrip_dict():
     a.tagi = ["x"]
     b = Announcement.from_dict(a.to_dict())
     assert b == a
+
+
+def test_prune_undated_ted():
+    old = _ann("https://x/old", "bez daty")
+    old.zrodlo = "ted"
+    old.termin_skladania = None
+    old.data_publikacji = None
+    fresh = _ann("https://x/new", "świeży")
+    fresh.termin_skladania = "2026-09-14 09:00:00"
+    out = merge([old], [fresh], history_days=90, prune_undated=("ted",))
+    assert [a.url for a in out] == ["https://x/new"]
+
+
+def test_prune_undated_only_for_selected_source():
+    old_pz = _ann("https://x/pz", "pz bez daty")
+    old_pz.zrodlo = "pz-search"
+    old_pz.termin_skladania = None
+    old_pz.data_publikacji = None
+    fresh = _ann("https://x/new", "świeży")
+    fresh.termin_skladania = "2026-09-14 09:00:00"
+    out = merge([old_pz], [fresh], history_days=90, prune_undated=("ted",))
+    assert {a.url for a in out} == {"https://x/new", "https://x/pz"}
+
+
+def test_merge_fills_termin_on_repeat():
+    old = _ann("https://x/1", "A")
+    old.termin_skladania = None
+    new = _ann("https://x/1", "A")
+    new.termin_skladania = "2026-09-14 09:00:00"
+    out = merge([old], [new], history_days=90)
+    assert out[0].termin_skladania == "2026-09-14 09:00:00"

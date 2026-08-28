@@ -83,7 +83,8 @@ def main() -> int:
     scored = [a for a in scored if scorer.should_publish(a)]
 
     merged = merge(load_existing(ANNOUNCEMENTS), scored,
-                   history_days=int(sources_cfg.get("history_days", 90)))
+                   history_days=int(sources_cfg.get("history_days", 90)),
+                   prune_undated=("ted",) if sources_cfg.get("ted", {}).get("only_open") else ())
     save(ANNOUNCEMENTS, merged)
 
     record_run(HISTORY, per_source)

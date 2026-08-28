@@ -15,7 +15,8 @@ def load_existing(path: str) -> list[Announcement]:
         return [Announcement.from_dict(d) for d in json.load(f)]
 
 
-def merge(existing: list[Announcement], incoming: list[Announcement], history_days: int = 90) -> list[Announcement]:
+def merge(existing: list[Announcement], incoming: list[Announcement],
+          history_days: int = 90, prune_undated: tuple[str, ...] = ()) -> list[Announcement]:
     by_hash = {a.hash: a for a in existing}
     for a in incoming:
         if a.hash in by_hash:
@@ -34,6 +35,9 @@ def merge(existing: list[Announcement], incoming: list[Announcement], history_da
         d = a.data_publikacji or a.termin_skladania or ""
         # ogłoszenia bez żadnej daty trzymamy 1 run dłużej — usunie je krok 8.6/archiwum
         if d and d[:10] < cutoff:
+            continue
+        if not d and a.zrodlo in prune_undated:
+            # źródło (TED) teraz zwraca wyłącznie wpisy z terminem — stare śmieci bez daty usuwamy
             continue
         out.append(a)
     out.sort(key=lambda x: (x.termin_skladania or "9999", x.tytul))
