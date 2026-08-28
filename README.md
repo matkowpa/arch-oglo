@@ -25,7 +25,7 @@ python -m scraper.run           # pełny run: źródła -> scoring -> dedup -> s
 
 | Źródło | Status | Uwagi |
 |---|---|---|
-| **platformazakupowa.pl — wyszukiwarka `/all?query=`** | ⛔ **WYŁĄCZONY (decyzja prawna)** | Regulamin (zweryfikowany 2026-08-28) **zakazuje zautomatyzowanego pobierania treści** (scraping/crawling/TDM; wyjątki: oficjalne API/CSV; zastrzeżenie TDM z art. 8a ustawy o ochronie baz danych). Cron zakomentowany w `pz_search.yml` — reaktywacja wyłącznie świadomą decyzją właściciela. |
+| **platformazakupowa.pl — wyszukiwarka `/all?query=`** | ✅ **AKTYWNY (decyzja właściciela 2026-08-28)** | 6 fraz x 1 żądanie/dzień (`pz_search.yml`, godziny 05–10 UTC, odstęp 60 min ≫ `Crawl-delay: 900`). **Zastrzeżenie:** Regulamin platformy zakazuje zautomatyzowanego pobierania treści (zweryfikowano 2026-08-28); właściciel świadomie zaakceptował ryzyko (blokada IP / kwestie kontraktowe). Konsekwencją awarii tego źródła może być np. captcha lub blokada runnera — system jest odporny (izolacja źródeł). |
 | TED API v3 | **AKTYWNY** | anonimowy POST `/v3/notices/search`; pola wielojęzyczne (preferuje `pol`) |
 | BIP: PHN S.A. | **AKTYWNY** | `bip.phnsa.pl/ogloszenia/1` (paginacja 1..3), Crawl-delay 10 |
 | platformazakupowa (IMAP) | **WYŁĄCZONY** | platforma NIE oferuje subskrypcji CPV e-mail (potwierdzone 2026-08-28); parser dormant na powiadomienia z innych platform (Faza 2) |
