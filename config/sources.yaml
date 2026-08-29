@@ -43,12 +43,20 @@ ted:
     71300000 71320000 71400000 71248000) AND buyer-country=POL
 
 bzp:
-  # Sekcja 6: źródło NIEZWERYFIKOWANE. Krok 0.2 musi rozstrzygnąć endpoint
-  # i możliwości filtrowania (CPV/data), zanim adapter wejdzie do produkcji.
-  endpoints:
-    - https://ezamowienia.gov.pl/mo-board/api/v1/notice
-    - https://ezamowienia.gov.pl/mo-client-board/api/notices/
-  enabled: false  # włączyć dopiero po rozstrzygnięciu kroku 0.2
+  # Sekcja 6 / krok 0.2 — ROZSTRZYGNIĘTY empirycznie 2026-08-29
+  # (szczegóły: docs/zrodla-decyzje.md). Endpoint anonimowy; NoticeType
+  # jedyne potwierdzone wartości: ContractNotice; API ignoruje filtr CPV —
+  # ogłoszenia filtrujemy lokalnie wg config/cpv.yaml (wolumen ~300–500/dzień).
+  url: https://ezamowienia.gov.pl/mo-board/api/v1/notice
+  notice_type: ContractNotice
+  # Semantyka API (docs/zrodla-decyzje.md): PublicationDateTo wymagane, ale
+  # IGNOROWANE; brak paginacji; DESC po dacie; PageSize <= 500. Pokrycie okna
+  # przez przewijanie From na najstarsza publikacje w paczce (max_requests
+  # ogranicza liczbe zapytan; duplikaty miedzy paczkami usuwa dedup).
+  page_size: 500
+  max_requests: 6
+  days_back: 1
+  enabled: true
 
 bip:
   # Sekcja 7: pilotaż 4–5 spółek (sekcja 11, pyt. 1 — rozstrzygnięte).
@@ -60,6 +68,7 @@ bip:
       # strona /ogloszenia zwraca 404 — paginacja to /ogloszenia/1, /2, /3...
       list_url: https://bip.phnsa.pl/ogloszenia/1
       crawl_delay: 10
+      pages: 3   # pobieraj strony 1..3 (przerwa crawl_delay między żądaniami)
       # KGHM/PGE/PGG/ARP — do potwierdzenia URL-i w kroku 0, potem dodać wpisy.
 
 sp_companies:  # rozpoznanie zamawiającego → bonus +1

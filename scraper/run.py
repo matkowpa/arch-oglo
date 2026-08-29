@@ -40,6 +40,7 @@ def load_yaml(name: str) -> dict:
 
 def build_sources() -> list:
     s = load_yaml("sources.yaml")
+    cpv_codes = [str(c) for c in load_yaml("cpv.yaml").get("cpv", [])]
     out = [TedSource(s["ted"]), PhnSource(s["bip"]["companies"][0])]
     pz_email = PzEmailSource(s["email"])
     if pz_email.enabled:
@@ -49,7 +50,7 @@ def build_sources() -> list:
     )
     if pz_search._phrase:
         out.append(pz_search)
-    bzp = BzpSource(s["bzp"])
+    bzp = BzpSource(s["bzp"], cpv_codes=cpv_codes)
     if bzp.enabled:
         out.append(bzp)
     return out
@@ -91,7 +92,9 @@ def main() -> int:
     for line in check(HISTORY, per_source):
         print(line, file=sys.stderr)  # GitHub Actions ::error::/::warning::
 
-    render_site(ANNOUNCEMENTS, SITE_OUT, display_days=int(sources_cfg.get("display_days", 30)))
+    failed = [name for name, st in per_source.items() if not st.get("ok")]
+    render_site(ANNOUNCEMENTS, SITE_OUT, display_days=int(sources_cfg.get("display_days", 30)),
+                failed_sources=failed)
     log.info("done: %d published, %d total in store", len(scored), len(merged))
     return 0
 

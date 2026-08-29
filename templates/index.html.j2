@@ -56,6 +56,13 @@
     </div>
   </div>
 </section>
+{% if failed_sources %}
+<section class="max-w-6xl mx-auto px-4 -mt-2">
+  <div class="bg-red-500/10 border border-red-500/30 text-red-300 rounded-xl px-4 py-3 text-sm">
+    ⚠️ Źródła niedostępne w tym runie: {{ failed_sources|join(", ") }} — wyniki mogą być niepełne.
+  </div>
+</section>
+{% endif %}
 <main class="max-w-6xl mx-auto px-4 pb-16 grid lg:grid-cols-3 gap-6">
   <div class="lg:col-span-2">
     <div class="flex items-center justify-between mb-4">

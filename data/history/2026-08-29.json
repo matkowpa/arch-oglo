@@ -5,10 +5,14 @@
  },
  "bip:phn": {
   "ok": true,
-  "count": 0
+  "count": 2
  },
  "pz-search": {
   "ok": true,
-  "count": 0
+  "count": 1
+ },
+ "bzp": {
+  "ok": true,
+  "count": 1
  }
 }

@@ -7,6 +7,7 @@ Struktura: Drupal — lista ogłoszeń jako artykuły z linkiem „Czytaj więce
 from __future__ import annotations
 
 import re
+import time
 from datetime import datetime
 from urllib.parse import urljoin
 
@@ -28,13 +29,24 @@ class PhnSource(BaseSource):
     def __init__(self, cfg: dict, timeout: float = 30.0):
         self.list_url = cfg["list_url"]
         self.crawl_delay = int(cfg.get("crawl_delay", 10))
+        self.pages = int(cfg.get("pages", 1))
         self.timeout = timeout
+
+    def _page_url(self, page: int) -> str:
+        """Paginacja Drupal: /ogloszenia/1, /2, /3 — list_url to strona 1."""
+        return re.sub(r"/\d+$", f"/{page}", self.list_url) if page > 1 else self.list_url
 
     def fetch(self) -> list[Announcement]:
         headers = {"User-Agent": "arch-oglo-aggregator/1.0 (contact: see repo)"}
-        r = httpx.get(self.list_url, headers=headers, timeout=self.timeout, follow_redirects=True)
-        r.raise_for_status()
-        return self.parse(r.text, base_url=self.list_url)
+        out: list[Announcement] = []
+        for page in range(1, self.pages + 1):
+            if page > 1:
+                time.sleep(self.crawl_delay)  # robots.txt: Crawl-delay 10
+            r = httpx.get(self._page_url(page), headers=headers, timeout=self.timeout,
+                          follow_redirects=True)
+            r.raise_for_status()
+            out.extend(self.parse(r.text, base_url=self._page_url(page)))
+        return out
 
     def parse(self, html: str, base_url: str = "") -> list[Announcement]:
         tree = HTMLParser(html)

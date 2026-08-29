@@ -19,7 +19,8 @@ def _sort_key(a: dict):
     return a.get("termin_skladania") or "9999-12-31"
 
 
-def render_site(announcements_path: str, out_dir: str, display_days: int = 30) -> None:
+def render_site(announcements_path: str, out_dir: str, display_days: int = 30,
+                failed_sources: list[str] | None = None) -> None:
     with open(announcements_path, encoding="utf-8") as f:
         items = json.load(f)
 
@@ -71,7 +72,7 @@ def render_site(announcements_path: str, out_dir: str, display_days: int = 30) -
         "deadline_7": d7,
         "deadline_14": d14,
         "display_days": display_days,
-        "failed_sources": [],  # uzupełniane przez run.py w razie awarii
+        "failed_sources": failed_sources or [],  # sekcja 8.6: źródła zawiedzione w tym runie
     }
     os.makedirs(out_dir, exist_ok=True)
     for tpl, name in (("index.html.j2", "index.html"), ("archiwum.html.j2", "archiwum.html")):

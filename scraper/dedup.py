@@ -1,11 +1,22 @@
-"""Dedup po hash(url+tytuł) + historia 90 dni (sekcja 8.1)."""
+"""Dedup po hash(url+tytuł) + historia 90 dni (sekcja 8.1).
+
+Dodatkowy dedup wtórny: to samo ogłoszenie (ten sam źródło + znormalizowany
+tytuł + zamawiający) z różnych URL-i (np. TED: ogłoszenie + korekta, inne
+numery publikacji) liczone jest raz — zostaje egzemplarz z najbliższym
+terminem składania.
+"""
 from __future__ import annotations
 
 import json
 import os
+import re
 from datetime import date, datetime, timedelta
 
 from .model import Announcement
+
+
+def _norm(s: str) -> str:
+    return re.sub(r"\s+", " ", (s or "").strip().lower())
 
 
 def load_existing(path: str) -> list[Announcement]:
@@ -41,7 +52,18 @@ def merge(existing: list[Announcement], incoming: list[Announcement],
             continue
         out.append(a)
     out.sort(key=lambda x: (x.termin_skladania or "9999", x.tytul))
-    return out
+
+    # dedup wtórny: ten sam zrodlo + tytuł + zamawiający z różnych URL-i
+    seen: set = set()
+    final: list[Announcement] = []
+    for a in out:
+        if a.zamawiajacy:
+            key = (a.zrodlo, _norm(a.tytul), _norm(a.zamawiajacy))
+            if key in seen:
+                continue
+            seen.add(key)
+        final.append(a)
+    return final
 
 
 def save(path: str, items: list[Announcement]) -> None:

@@ -28,9 +28,9 @@ Zostaje jako rezerwa na wypadek włączenia powiadomień na innych platformach
 |---|---|---|
 | **platformazakupowa.pl — wyszukiwarka `/all?query=`** | ✅ **AKTYWNY** | 6 fraz x 1 żądanie/dzień (`pz_search.yml`, godziny 05–10 UTC, odstęp 60 min ≫ `Crawl-delay: 900`). Platforma zwraca wszystkie aktywne trafienia frazy. Awaria źródła nie wpływa na pozostałe (izolacja w run.py). |
 | TED API v3 | **AKTYWNY** | anonimowy POST `/v3/notices/search`; pola wielojęzyczne (preferuje `pol`) |
-| BIP: PHN S.A. | **AKTYWNY** | `bip.phnsa.pl/ogloszenia/1` (paginacja 1..3), Crawl-delay 10 |
+| **BZP / e-Zamówienia** | ✅ **AKTYWNY** (od 2026-08-29) | anonimowy GET `/mo-board/api/v1/notice` (NoticeType=ContractNotice, okno publikacji 1 dzień); API nie filtruje po CPV → filtr lokalny wg `config/cpv.yaml`; termin = `submittingOffersDate`; szczegóły: [docs/zrodla-decyzje.md](docs/zrodla-decyzje.md) |
+| BIP: PHN S.A. | **AKTYWNY** | `bip.phnsa.pl/ogloszenia/1..3` (paginacja 3 stron), Crawl-delay 10 |
 | platformazakupowa (IMAP) | **WYŁĄCZONY** | platforma NIE oferuje subskrypcji CPV e-mail (potwierdzone 2026-08-28); parser dormant na powiadomienia z innych platform (Faza 2) |
-| BZP / e-Zamówienia | **WYŁĄCZONY** (`sources.yaml: bzp.enabled: false`) | do rozstrzygnięcia kroku 0.2; po upadku kanału e-mail — główne źródło krajowe |
 
 Dodawanie źródła: nowy plik w `scraper/sources/` z klasą `fetch() -> list[Announcement]` + wpis w `config/sources.yaml`.
 
@@ -51,5 +51,5 @@ GitHub Actions `.github/workflows/daily.yml`: cron `7 5 * * *` (UTC). **Harmonog
 
 - [x] 0.3 spółki pilotażowe (PHN, KGHM, PGE, PGG, ARP) — patrz final_plan.md sekcja 11
 - [x] 0.4 struktura Gmail opisana (wymaga ręcznej konfiguracji przez właściciela)
-- [ ] 0.1 potwierdzenie listy CPV w oficjalnym słowniku (lista robocza w config/cpv.yaml)
-- [ ] 0.2 rozstrzygnięcie endpointu BZP (adapter celowo wyłączony)
+- [x] 0.1 potwierdzenie listy CPV — każdy kod zweryfikowany przez API TED (słownik CPV 2008), patrz komentarz w config/cpv.yaml
+- [x] 0.2 rozstrzygnięcie endpointu BZP — potwierdzony empirycznie 2026-08-29, adapter włączony; patrz docs/zrodla-decyzje.md

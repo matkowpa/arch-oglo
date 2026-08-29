@@ -49,11 +49,10 @@ jobs:
       - name: Pick phrase for this run
         id: phrase
         run: |
-          PHRASES=("dokumentacja wielobranżowa" "prace projektowe" "dokumentacja projektowa" "dokumentacja projektowo-kosztorysowa" "projektowanie architektoniczne" "wielobranżowa")
-          HOUR=$(date +%H)
-          IDX=$(( (10#$HOUR - 5) % ${#PHRASES[@]} ))
-          if [ "$IDX" -lt 0 ]; then IDX=$((IDX + ${#PHRASES[@]})); fi
-          echo "phrase=${PHRASES[$IDX]}" >> "$GITHUB_OUTPUT"
+          # Frazy z config/sources.yaml (platformazakupowa_search.phrases) —
+          # rotacja wg godziny (05:07-10:07 UTC, patrz cron wyżej).
+          PHRASE=$(python -c "import yaml,datetime;ps=yaml.safe_load(open('config/sources.yaml',encoding='utf-8'))['platformazakupowa_search']['phrases'];print(ps[(datetime.datetime.utcnow().hour-5)%len(ps)])")
+          echo "phrase=$PHRASE" >> "$GITHUB_OUTPUT"
 
       - name: Run scraper (single search request)
         env:

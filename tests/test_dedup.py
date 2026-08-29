@@ -92,3 +92,52 @@ def test_merge_fills_termin_on_repeat():
     new.termin_skladania = "2026-09-14 09:00:00"
     out = merge([old], [new], history_days=90)
     assert out[0].termin_skladania == "2026-09-14 09:00:00"
+
+
+def _buyer(url, title, buyer="Górnośląskie Centrum Medyczne"):
+    a = _ann(url, title)
+    a.zamawiajacy = buyer
+    a.zrodlo = "ted"
+    return a
+
+
+def test_secondary_dedup_same_title_different_urls():
+    """TED: ogłoszenie + korekta (różne numery publikacji, ten sam tytuł) = jedno."""
+    a1 = _buyer("https://ted/111-2026", "Wykonanie dokumentacji projektowej")
+    a2 = _buyer("https://x/t2", "Wykonanie dokumentacji projektowej")
+    out = merge([a1], [a2], history_days=90)
+    assert len(out) == 1
+
+
+def test_secondary_dedup_keeps_earliest_deadline():
+    a1 = _buyer("https://x/late", "Ten sam tytuł")
+    a1.termin_skladania = "2030-01-01"
+    a2 = _buyer("https://x/early", "Ten sam tytuł")
+    a2.termin_skladania = "2026-09-01"
+    out = merge([], [a1, a2], history_days=90)
+    assert len(out) == 1
+    assert out[0].termin_skladania == "2026-09-01"
+
+
+def test_secondary_dedup_keeps_different_sources():
+    """Ten sam tytuł z różnych źródeł NIE jest scalany."""
+    a_ted = _buyer("https://x/ted", "Ten sam tytuł")
+    a_ted.zrodlo = "ted"
+    a_pz = _buyer("https://x/pz", "Ten sam tytuł")
+    a_pz.zrodlo = "pz-search"
+    out = merge([], [a_ted, a_pz], history_days=90)
+    assert len(out) == 2
+
+
+def test_no_secondary_dedup_without_buyer():
+    """Bez zamawiającego dedup wtórny nie zadziała (za ostrożne scalanie)."""
+    a1, a2 = _ann("https://x/1", "Ten sam tytuł"), _ann("https://x/2", "Ten sam tytuł")
+    out = merge([], [a1, a2], history_days=90)
+    assert len(out) == 2
+
+
+def test_phn_page_url_pagination():
+    src = PhnSource({"list_url": "https://bip.phnsa.pl/ogloszenia/1", "crawl_delay": 10, "pages": 3})
+    assert src._page_url(1) == "https://bip.phnsa.pl/ogloszenia/1"
+    assert src._page_url(2) == "https://bip.phnsa.pl/ogloszenia/2"
+    assert src._page_url(3) == "https://bip.phnsa.pl/ogloszenia/3"

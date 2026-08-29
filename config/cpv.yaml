@@ -1,5 +1,8 @@
 # Kody CPV — usługi projektowe / architektoniczne / inżynieryjne (dział 71).
-# UWAGA (krok 0.1 planu): lista do potwierdzenia w oficjalnym słowniku CPV (simap.ted.europa.eu).
+# KROK 0.1 POTWIERDZONY (2026-08-29): każdy kod zweryfikowany przez API TED
+# (strict query `classification-cpv=<kod>` → HTTP 200; nieznane kody TED odrzuca).
+# Oficjalne źródło: CPV 2008 (SIMAP, dz. 71); XML z simap.ted.europa.eu nieosiągalny
+# bezpośrednio (landing page) — walidacja przeprowadzona na słowniku TED.
 cpv:
   - "71200000"  # usługi architektoniczne
   - "71220000"  # usługi architektoniczne w zakresie budynków
