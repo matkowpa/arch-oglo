@@ -30,6 +30,8 @@ Zostaje jako rezerwa na wypadek włączenia powiadomień na innych platformach
 | TED API v3 | **AKTYWNY** | anonimowy POST `/v3/notices/search`; pola wielojęzyczne (preferuje `pol`) |
 | **BZP / e-Zamówienia** | ✅ **AKTYWNY** (od 2026-08-29) | anonimowy GET `/mo-board/api/v1/notice` (NoticeType=ContractNotice, okno publikacji 1 dzień); API nie filtruje po CPV → filtr lokalny wg `config/cpv.yaml`; termin = `submittingOffersDate`; szczegóły: [docs/zrodla-decyzje.md](docs/zrodla-decyzje.md) |
 | BIP: PHN S.A. | **AKTYWNY** | `bip.phnsa.pl/ogloszenia/1..3` (paginacja 3 stron), Crawl-delay 10 |
+| BIP: Grupa TAURON (SWOZ) | **AKTYWNY** (od 2026-08-29) | `swoz.tauron.pl/.../current/list` (platforma Mercus, server-side, ~30 najnowszych); robots.txt: brak; szczegóły: [docs/zrodla-decyzje.md](docs/zrodla-decyzje.md) |
+| BIP: PGG / KGHM / PKP IC / Enea / ARP | **W NAROZKOWIE** | kandydaci Tier A/B — sonda z runnera: Actions → `bip-probe` → Run workflow |
 | platformazakupowa (IMAP) | **WYŁĄCZONY** | platforma NIE oferuje subskrypcji CPV e-mail (potwierdzone 2026-08-28); parser dormant na powiadomienia z innych platform (Faza 2) |
 
 Dodawanie źródła: nowy plik w `scraper/sources/` z klasą `fetch() -> list[Announcement]` + wpis w `config/sources.yaml`.

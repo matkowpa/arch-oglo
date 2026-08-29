@@ -1,0 +1,20 @@
+name: bip-probe
+# Faza 0 planu rozszerzenia BIP: sonda dostępności stron przetargowych spółek
+# z runnera (lokalny DNS/sieć zafałszowuje wyniki — docs/zrodla-decyzje.md).
+# Uruchamiać ręcznie: Actions -> bip-probe -> Run workflow.
+on:
+  workflow_dispatch: {}
+permissions:
+  contents: read
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install httpx
+      - name: Probe candidate BIP/tender pages
+        run: python tools/bip_probe.py

@@ -7,12 +7,16 @@
   "ok": true,
   "count": 2
  },
+ "bip:tauron": {
+  "ok": true,
+  "count": 25
+ },
  "pz-search": {
   "ok": true,
   "count": 1
  },
  "bzp": {
   "ok": true,
-  "count": 1
+  "count": 0
  }
 }

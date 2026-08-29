@@ -1,0 +1,4142 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="pl" >
+    <head>
+	    <title>
+	       
+	       Platforma Zakupowa Grupy TAURON
+        </title>
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" href="/pic/mp/favicon.ico" type="image/x-icon" />
+<link href="/fonts/OpenSans/OpenSans.css" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="/css/main.css" />
+<!--[if gte IE 9]>
+  <style type="text/css">
+    .gradient {
+       filter: none;
+    }
+  </style>
+<![endif]-->
+
+
+
+
+
+
+
+
+
+
+
+<script>
+<!--
+var maxLengthInitMaskText = 'Liczba znak\u00F3w: <b>%length<\/b> Maksymalna d\u0142ugo\u015B\u0107: <b>%maxlength<\/b> Pozosta\u0142o do wykorzystania <b>%left<\/b> znak\u00F3w';
+var uniqueRequest = 'Próbujesz ponownie wywołać akcję - zostanie ona wykonana zgodnie z czasem 1 żądania. Czas serwera: {1} Czas żądania: {0}';
+var defaultHelpLayer = 'helpLayer';
+var gridPageStart = 'GD_pagestart';
+var gridSortColumn = 'GD_sortCol';
+var gridSortOrder = 'GD_sortOrder';
+var gridPageSize = 'GD_pagesize';
+var monthNames = ['styczeń','luty','marzec','kwiecień','maj','czerwiec','lipiec','sierpień','wrzesień','październik','listopad','grudzień'];
+var dayOfWeekShortNames = ['Pn','Wt','Śr','Cz','Pt','So', 'Nd'];
+var dayOfWeekLongNames = ['dayofweeklong.monday','dayofweeklong.tuesday','dayofweeklong.wednesday','dayofweeklong.thursday','dayofweeklong.friday','dayofweeklong.saturday','dayofweeklong.sunday'];
+var dayOfWeekMinNames = ['Pn','Wt','Sr','Cz','Pt','Sb', 'Nd'];
+var weekHeader = 'calendar.weekheader';
+var calendarToday = 'Dzisiaj jest';
+var calendarClose = 'Zamknij';
+var calendarNext = 'calendar.nextbutton';
+var calendarPrev = 'calendar.prevbutton';
+var defaultForm = 'searchform';
+var mpAction = 'MP_action';
+var defaultVATCalculatorLayer = 'vatCalLayer';
+var defaultContextPath = '';
+var defaultMPpic = '/pic/mp';
+var defaultGraphicFolder = 'pic';
+
+var jsRequestURI = '/platform/demand/notice/public/current/list';
+var jsMPModule = 'MP_module';
+var jsMPAciotn = 'MP_action';
+var jsCSRFToken = '';
+var canChoseParentParam = 'canChoseParent=' + 'true';
+var defaultDeleteButtonText = 'Usuń';
+var defaultMinButton = 'Minimalizuj';
+var defaultMaxButton = 'Maksymalizuj';
+var defaultCurtainText = 'Więcej';
+var loggedUserIdentity = -1;
+var replacedUserIdentity = -1;
+var appUrl = 'https://swoz.tauron.pl';
+var gridAllValues = '0';
+var gridAllValuesTxt = 'Wyświetlenie wszystkich pozycji może spowodować spowolnienie działania systemu. Czy mimo to chcesz kontynuować?';
+
+var scrollToElement = '';
+
+
+var currentLocale = 'pl_PL';
+var currentLanuguage = 'pl';
+var availableLocale = []; 
+availableLocale[0] = 'pl_PL'; 
+var datePickerPattern = 'Y-m-d';
+var timePickerPattern = 'H:i';
+var dateMaskPattern = 'yyyy-MM-dd';
+var timeMaskPattern = 'HH:mm';
+var timeMaskPatternFull = 'HH:mm:ss';
+var numberDecimalSeparator = ',';
+var numberGroupSeparator = ' ';
+var datetimePatternPlaceholder = new Array();
+
+	datetimePatternPlaceholder['yyyy-MM-dd']='rrrr-mm-dd';
+
+	datetimePatternPlaceholder['dd-MM-yyyy']='dd-mm-rrrr';
+
+	datetimePatternPlaceholder['MM-dd-yyyy']='mm-dd-rrrr';
+
+
+	datetimePatternPlaceholder['HH:mm']='gg:mm'
+	datetimePatternPlaceholder['hh:mm']='gg:mm'
+
+	datetimePatternPlaceholder['HH.mm']='gg.mm'
+	datetimePatternPlaceholder['hh.mm']='gg.mm'
+
+	datetimePatternPlaceholder['HHmm']='ggmm'
+	datetimePatternPlaceholder['hhmm']='ggmm'
+
+datetimePatternPlaceholder['aa']='aa';
+var timePickerSeparator = ':';
+var timePickerHourFormat = '24';
+var datePickerMask = 'y-1-2';
+var timePickerMask = 'h:s';
+var datePickerLeapDay = '-02-29';
+var defaultCancelButtonText = 'Anuluj';
+var defaultConfirmButtonText = 'Potwierdź';
+var imageDialogState = JSON.parse('null');
+var pdfDialogState = JSON.parse('null');
+var invoiceDialogState = JSON.parse('null');
+var basicColorLight = '#FF8039';
+var basicColorDark = '#FF5C00';
+
+
+var saveTablePropsUrl = 'https://swoz.tauron.pl/platform/user/tableproperties/save?CSRFToken=&tableName=';
+var restoreDefaultTablePropsUrl = 'https://swoz.tauron.pl/platform/user/tableproperties/restoreDefault?CSRFToken=&tableName=';
+var saveTemplateTablePropsUrl = 'https://swoz.tauron.pl/platform/user/tableproperties/saveTemplate?CSRFToken=&tableName=';
+var	commentMoveToLinkTextEmpty = 'Nie wprowadzono komentarza';
+var messageSourceAdminMode = 'false';
+var	messageSourceAdminModeUrl = 'https://swoz.tauron.pl/platform/messageSource/edit?code=';
+var messageSourceTranslationRestUrl = 'https://swoz.tauron.pl/platform/messageSource/translation';
+var messageSourceTranslationsRestUrl = 'https://swoz.tauron.pl/platform/messageSource/translations';
+var unauthorizedAccessMessage = 'Próba nieautoryzowanego wejścia - zaloguj się ponownie';
+var sessionTimeoutMessage = 'jsp.error.sessiontimeout';
+var serverErrorMessage = 'Wystąpił błąd w połączeniu z serwerem';
+var saveSearchFormPropsUrl = 'https://swoz.tauron.pl/platform/user/searchFormProperties/save?CSRFToken=';
+var restoreDefaultSearchFormPropsUrl = 'https://swoz.tauron.pl/platform/user/searchFormProperties/restoreDefault?CSRFToken=';
+var saveTemplateSearchFormPropsUrl = 'https://swoz.tauron.pl/platform/user/searchFormProperties/saveTemplate?CSRFToken=';
+
+var mobileViewport = window.matchMedia("screen and (max-width: 760px)");
+var tabletViewport = window.matchMedia("screen and (min-width: 768px) and (max-width: 959px)");
+var mediumViewport = window.matchMedia("screen and (min-width: 960px) and (max-width: 1279px)");
+var largeViewport = window.matchMedia("screen and (min-width: 1280px)");
+
+//-->
+</script>
+
+
+
+<script src="/js/jquery-3.6.0.min.js" ></script>
+<script src="/js/jquery-migrate-3.4.0.min.js" ></script>
+
+<script>$.uiBackCompat = false;</script>
+<script src="/js/jquery-ui.min.js" ></script>
+<script src="/js/jquery.cookie.js"  ></script>
+<!--[if IE]><script src="/js/excanvas.compiled.js"></script><![endif]-->
+
+<script src="/js/knockout.js"></script>
+<script src="/js/knockout.mapping.js"></script>
+<script src="/js/knockout.wrap.js"></script>
+<script src="/js/knockout-sortable.min.js"></script>
+<script src="/js/ajax/ajaxEngine.js" ></script>
+
+<script src="/js/jquery.matchHeight-min.js"></script>
+<script src="/js/lockr.min.js" ></script>
+<script src="/js/jquery.datetimepicker.js" ></script>
+
+<script src="/js/jquery.mpobjectlist.js"></script>
+<script src="/js/mp.siteUtils.js" async></script>
+<script src="/js/mp.ui.spring.js" async></script>
+
+<script src="/js/MP_js.js"></script>
+<script src="/js/mp_grid.js"></script>
+<script src="/js/mpTable.js"></script>
+<script src="/js/mpSearchAdj.js"></script>
+<script src="/js/mpCategory.js"></script>
+
+
+<script defer src="/js/jquery.elipsis.js" ></script>
+<script src="/js/jquery.inputmask.bundle.min.js" ></script>
+<script src="/js/jquery.inputmask.mp.date.extensions.js" ></script>
+<script defer src="/js/jquery.totop.js" ></script>
+<script defer src="/js/autosize.min.js" ></script>
+<script defer  src="/js/jquery.maxlength.min.js" ></script>
+<script defer src="/js/jquery.hc-sticky.min.js" ></script>
+
+<script src="/js/mpErrorManager/mpErrorManager.js"></script>
+<script src="/js/jquery.contextMenu.js" ></script>
+
+
+
+
+<script src="/js/support-capture.js"></script>
+<script>
+	mpCaptureBox.capatureActions = {
+			accept: 'https://swoz.tauron.pl/platform/support/capture/accept',
+			reject: 'https://swoz.tauron.pl/platform/support/capture/reject',
+			finish: 'https://swoz.tauron.pl/platform/support/capture/finish'
+	}
+
+	mpCaptureBox.capatureText = {
+		accept_ok: 'components.capture.status.accept.ok',
+		reject_ok: 'components.capture.status.reject.ok',
+		finish_ok: 'components.capture.status.finish.ok',
+		unauthorizedAccess: 'components.capture.status.unauthorizedaccess',
+		wrongCaptureRequestID: 'components.capture.status.wrongcapturerequestid',
+		wrongStatus: 'components.capture.status.wrongstatus',
+		wrongUser: 'components.capture.status.wronguser',
+		rejectComment_empty: 'components.capture.reject.rejectcommentempty',
+		defaultText: 'components.capture.status.defaulterror'
+	}
+</script>
+
+<script src="/js/support-tickets.js" async></script>
+<script src="/js/jquery.comment.min.js" async></script>
+<script src="/js/mpFramework3.js"></script>
+<script src="/js/mpMessageSource.js"></script>
+<script src="/js/mpBrowserDetect.js"></script>
+<script src="/js/mpAccessibility_fixes.js"></script>
+
+<script>
+	$.ajaxSetup({
+		traditional: true,
+		statusCode: {
+			401: function(obj) {
+				if(obj && obj.message && obj.message=='sessionTimeout')
+					mpFrm3.showToastMessage(sessionTimeoutMessage,'error');
+				else
+					mpFrm3.showToastMessage(unauthorizedAccessMessage,'error');
+			},
+			500: function() {
+				mpFrm3.showToastMessage(serverErrorMessage,'error');
+			}
+		}
+	});
+	$(document).ajaxComplete(function(event, xhr, settings) {
+		var hidOverlay = true;
+		try {
+			var result = JSON.parse(xhr.responseText);
+		    if(result && result.redirectUrl && result.redirectUrl.length > 0) {
+		    	hidOverlay = false;
+		    }
+		} catch (e) {
+		}
+		if(hidOverlay) {
+			mpFrm3.hideOverlay();
+		}
+	});
+
+	
+		
+		Lockr.set('gridAdminMode', false);
+	
+
+	
+
+	
+
+	
+		initMpGridSettings('menu_state', 'null', '');
+	
+
+	
+		initMpGridSettings('dashboard_state', 'null', '');
+	
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+var usrLeftMenu='';
+var usrTopMenu='';
+var usrFullscreen='false';
+
+var hideMenu='Zwiń menu';
+var showMenu='Rozwiń menu';
+var hideTop='Zwiń nagłówek';
+var showTop='Rozwiń nagłówek';
+var showFullscreen='Dostosuj do rozdzielczości ekranu';
+var hideFullscreen='Przywróć domyślną rozdzielczość';
+var showSections ='Pozostałe sekcje menu';
+var hideSections ='Ukryj sekcje menu';
+var supportedBrowsers = 'firefox,chrome,edg';
+
+</script>
+
+
+
+
+
+
+	
+	
+
+
+
+<div class="top-notification navbar-notification unsupported-browser hide">
+	<span class="fa fa-exclamation-triangle text-danger" aria-hidden="true"></span> Przeglądarka, z której aktualnie Państwo korzystają nie jest wspierana.  W związku z tym mogą wystąpić problemy przy wyświetlaniu zawartości.  Proszę skorzystać z dedykowanych przeglądarek: Google Chrome, Mozilla Firefox lub Microsoft Edge w wersji Chromium.
+		<a href="javascript:showBrowserWarning()">
+			Pokaż więcej
+		</a>
+</div>
+
+
+
+
+
+		
+    </head>
+
+<body data-szafirsdk-ready="yes" class="min-vh-100">
+<a href="#innerContent" class="acc-skip-to-main btn1line">Przejdź do sekcji głównej</a>
+<div id="basic-color-light"></div>
+	<div class="ie7_warning">
+    	<p>UWAGA:   Niniejszy komunikat wynika z tego, że ustawienia widoku zgodności Państwa przeglądarki nie są zgodne z wymogami systemu lub korzystają Państwo z niewspieranej wersji przeglądarki Internet Explorer (IE7, IE8 lub IE9).     W celu zmiany widoku zgodności należy przejść w Ustawienia -> Ustawienia widoku zgodności i usunąć wpis tauron.pl    Możliwe jest również skorzystanie z innej dedykowanej przeglądarki (Google Chrome, Mozilla Firefox lub Microsoft Edge w wersji Chromium).</p>
+    </div>
+<div id="basic-color-dark"></div>
+
+
+
+
+
+
+
+
+<div class="preloader-wrap" id='loadingOverlay'>
+<div class="disptrick">
+      <div class="preloader-wrap--image"></div>
+      <span class="text-muted">Trwa ładowanie..<span class="animdots"><span id="d1">.</span><span id="d2">.</span><span id="d3">.</span></span>
+</div>
+</div>
+<div id="totopscroller"></div>
+
+<script type="text/javascript">
+var width = 100,
+perfData = window.performance.timing,
+EstimatedTime = -(perfData.loadEventEnd - perfData.navigationStart),
+time = parseInt((EstimatedTime/1000)%10)*50;
+start = 0,
+end = 100,
+durataion = time;
+animateValue(start, end, durataion);
+
+function animateValue(start, end, duration) {
+
+    var range = end - start,
+    current = start,
+    increment = end > start? 1 : -1,
+    stepTime = Math.abs(Math.floor(duration / range)),
+
+	timer = setInterval(function() {
+		current += increment;
+		width = current * 0.4 + 'px';
+		if (current == end) {
+			clearInterval(timer);
+		}
+	}, stepTime);
+}
+
+
+
+
+(function(){
+    var ua = navigator.userAgent;
+    if (ua.indexOf("MSIE 7") == 1 || ua.indexOf("MSIE 8") == 1 || ua.indexOf("Trident/5.0") || ua.indexOf("Trident/4.0")) {
+       $('.ie7_warning').addClass("hide-browser-warning");
+    }
+    if(ua.indexOf("MSIE 9") == 25){
+    $('.ie7_warning').removeClass("hide-browser-warning");
+    }
+})();
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+   
+
+
+
+<div class="ie-fix-wrapper">
+
+
+
+
+ <section id="big-header">
+	<h2 class="hidden">Platforma Zakupowa Grupy TAURON</h2>
+
+
+
+	<nav id='main-navbar' class='navbar navbar-light bg-white'>
+		
+
+		
+		
+		
+		
+		
+		
+
+		
+			<div class="platform-logo-div">
+				<a class="navbar-brand px-2" title="Strona główna" href="https://swoz.tauron.pl/platform/dashboard">
+					<img src="/pic/images/logo.gif" class="d-inline-block platform-logo" alt="platformLogo"/>
+					<h1 class="hidden">Platforma Zakupowa Grupy TAURON</h1>
+				</a>
+			</div>
+
+            
+                    <a id="logoutBanner" title="Strona główna" href="https://swoz.tauron.pl/platform/dashboard"><img src="/pic/images/banner.jpg" class="max-w-800" alt="platformBanner"/></a>
+                
+
+			
+			<div class="navbar-info flex-grow-1">
+				<div class="navbar-notifications" ></div>
+			</div>
+			<div class="navbar-top-menu flex-grow-1">
+			
+			</div>
+		<ul class="navbar navbar-nav d-flex flex-grow-1 flex-row align-items-center justify-content-end pr-5">
+			<li class="nav-item pr-4 nav-access-onedown" tabindex="0">
+				<span id="turnOffTheLight" class="nav-link fa fa-1g fa-lightbulb-o cursor-pointer" title="Zmiana kontrastu"></span>
+			</li>
+			<li class="nav-item pr-4 d-none d-sm-block nav-access-onedown" tabindex="0">
+				<span id="scaleFont" class="nav-link fa fa-1g fa-text-height cursor-pointer" title="Zmiana rozmiaru czcionki"></span>
+			</li>
+
+			
+			<li class="nav-item pr-4 nav-access-onedown" tabindex="0">
+				<a class="nav-link cursor-pointer no-caret" href="#" id="languages-dropdown" title="Zmiana języka" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+					<i class="fa fa-1g fa-language" aria-hidden="true"></i>
+				</a>
+				<div class="dropdown-menu dropdown-menu-right p-0" tabindex="0" aria-labelledby="languages-dropdown">
+                    
+					<a class="dropdown-item" href="#" onclick="mpFrm3.sendPost('/platform/application?MP_module=common&amp;MP_action=changeLocale&amp;language=pl&amp;country=PL')">
+						<img class="align-baseline" src="/pic/mp/flags/icon-flag-pl.png" alt="pl" />
+						<span>PL</span>
+					</a>
+					
+				</div>
+			</li>
+
+			
+
+			
+
+			
+			<li class="nav-item pr-4">
+				
+				<a class="nav-link" href="https://swoz.tauron.pl/platform/login" title='Zaloguj'>
+					<i class="fa fa-2x fa-sign-in" aria-hidden="true"></i>
+				</a>
+			</li>
+			
+		</ul>
+	</nav>
+			
+	</section> 
+
+
+
+<div class="d-flex flex-grow-1">
+<main id="content">
+
+
+    
+        <span class="menu-toggle anchor">
+            <a href="#" title="Zwiń menu" class="fa fa-bars opened anchor menu-trigger m-auto" id="zwina"></a>
+        </span>
+    
+
+
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		
+		<div id="sidebar" class="opened col-12 col-md-4 col-xl-3 col-xxl-2">
+		
+			<ul id="menuItemsVisible">
+
+				<li id="mp_e20_aa_notice" class="mp_lmenu_item">
+<h3 class="arr menu-icon" >
+<span>
+<b>Przetargi i badania rynku</b></span></h3><ul>
+<li>
+<a href="/platform/demand/notice/public/current/list?USER_MENU_HOVER=currentNoticeList" class="anchor menu-active" onclick="mpFrm3.sendMenuHover('currentNoticeList')" >Aktualne</a><a href="/platform/demand/notice/public/expired/list?USER_MENU_HOVER=expiredNoticeList" onclick="mpFrm3.sendMenuHover('expiredNoticeList')" >Archiwalne</a></li>
+</ul>
+</li>
+
+<li id="mp_e25_publicQCB" class="mp_lmenu_item">
+<h3 class="arr menu-icon" >
+<span>
+<b>Kwalifikacja kontrahentów</b></span></h3><ul>
+<li>
+<a href="/platform/bkd/qual/public/strategy/list?USER_MENU_HOVER=qcb_qual_publishedStrategyList_public" onclick="mpFrm3.sendMenuHover('qcb_qual_publishedStrategyList_public')" >Ogłoszenia o kwalifikacjach</a><a href="/platform/bkd/qual/public/qualifiedContractor/list?USER_MENU_HOVER=qcb_qual_qualifiedContractorList_public" onclick="mpFrm3.sendMenuHover('qcb_qual_qualifiedContractorList_public')" >Lista Kwalifikowanych Kontrahentów</a></li>
+</ul>
+</li>
+
+<li id="mp_e30_DC_intranet" class="mp_lmenu_item">
+<h4 class="aff menu-icon"><span>
+<a href="/platform/application?MP_module=main&amp;MP_action=publicFilesList&amp;USER_MENU_HOVER=30.publicfileslist" onclick="mpFrm3.sendMenuHover('30.publicfileslist')" ><b>Regulaminy i instrukcje</b></a>
+</span></h4>
+</li>
+
+<li id="mp_e50_contact_public" class="mp_lmenu_item">
+<h4 class="aff menu-icon"><span>
+<a href="/platform/application?MP_module=contact&amp;MP_action=contactInfo&amp;USER_MENU_HOVER=contact_public" onclick="mpFrm3.sendMenuHover('contact_public')" ><b>Kontakt</b></a>
+</span></h4>
+</li>
+
+<li id="mp_e60_info_public" class="mp_lmenu_item">
+<h4 class="aff menu-icon"><span>
+<a href="/platform/application?MP_module=contact&amp;MP_action=platformInfo&amp;USER_MENU_HOVER=info_public" onclick="mpFrm3.sendMenuHover('info_public')" ><b>Informacje o platformie</b></a>
+</span></h4>
+</li>
+
+<li id="mp_e65_DK_intranet" class="mp_lmenu_item">
+<h4 class="aff menu-icon"><span>
+<a href="/platform/faq/list?USER_MENU_HOVER=faqList_public" onclick="mpFrm3.sendMenuHover('faqList_public')" ><b>Pytania i odpowiedzi</b></a>
+</span></h4>
+</li>
+
+
+			</ul>
+			
+			
+		</div>
+
+
+	
+
+
+
+		<div id="innerContent" class="container-fluid subpage ">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form id="searchform" name="searchform" action="/platform/demand/notice/public/current/list?USER_MENU_HOVER=currentNoticeList" method="post">
+	<div><input name="CSRFToken" type="hidden" value="" /></div><input type="hidden" name="UNIQUE_ID" value="1788031711925SeVFM3ULOCYQVO98I7X" />
+	
+	<input type="hidden" class="no-clear no-filter-field" name="GD_sortOrder" value="desc" /><input type="hidden" class="no-clear no-filter-field" name="GD_sortCol" value="10" />
+		<input type="hidden" class="no-clear no-filter-field" name="isFiredBySearchButton" value="false"/><div id="" class="main mp_search_form wide"><div class="mp_box active"><div class="box-header"><ul class="mp_controls"><li><a title="minimize" href="javascript:void(0)" class="anchor ico_mini" onclick="mpFrm3.sendRollFrame(this, 'null', 'searchform');mpFrm3.rollFrame(this)"></a></li></ul><h2>Aktualne przetargi i badania rynku  </h2></div><div class="mp_inner"><div class="mp_search_fieldset colset" id="mpSearchRow0"><div data-mpsearch-id="demandName" class="mp_search_col col col-6"><label for="demandName">Nazwa postępowania</label><div class="search-field"><input type="text" maxlength="100" name="demandName" id="demandName"  value="" /></div></div><div data-mpsearch-id="demandNumber" class="mp_search_col col col-6"><label for="demandNumber">Numer postępowania</label><div class="search-field"><input type="text" maxlength="100" name="demandNumber" id="demandNumber"  value="" /></div></div></div><div class="mp_search_fieldset colset  mp_aditionalOptions" id="mpSearchRow1"><div data-mpsearch-id="demandOrderType" class="mp_search_col col col-6"><label for="demandOrderType">Rodzaj zamówienia</label><div class="search-field"><select name="demandOrderType" id="demandOrderType"><option disabled selected value style="display:none">&nbsp;</option><option value="supplies">Dostawy</option><option value="services">Usługi</option><option value="works">Roboty Budowlane</option></select></div></div><div data-mpsearch-id="demandOrganization" class="mp_search_col col col-6"><label for="demandOrganization">Zamawiający</label><div class="search-field"><select name="demandOrganization" id="demandOrganization"><option disabled selected value style="display:none">&nbsp;</option><option value="000000010001">TAURON Polska Energia S.A.</option><option value="000000010002">TAURON Wytwarzanie S.A.</option><option value="000000010003">TAURON Dystrybucja S.A.</option><option value="0000000100030001">&nbsp;&nbsp;&nbsp;TAURON Dystrybucja S.A. Centrala Spółki</option><option value="00000001000300160002">&nbsp;&nbsp;&nbsp;Tauron Dystrybucja oddział w Bielsku-Białej</option><option value="00000001000300160003">&nbsp;&nbsp;&nbsp;Tauron Dystrybucja oddział w Będzinie</option><option value="00000001000300140004">&nbsp;&nbsp;&nbsp;Tauron Dystrybucja oddział w Częstochowie</option><option value="00000001000300170005">&nbsp;&nbsp;&nbsp;Tauron Dystrybucja oddział w Krakowie</option><option value="00000001000300170006">&nbsp;&nbsp;&nbsp;Tauron Dystrybucja oddział w Tarnowie</option><option value="00000001000300130007">&nbsp;&nbsp;&nbsp;Tauron Dystrybucja oddział w Jeleniej Górze</option><option value="00000001000300130008">&nbsp;&nbsp;&nbsp;Tauron Dystrybucja oddział w Legnicy</option><option value="00000001000300140009">&nbsp;&nbsp;&nbsp;Tauron Dystrybucja oddział w Opolu</option><option value="00000001000300150010">&nbsp;&nbsp;&nbsp;Tauron Dystrybucja oddział w Wałbrzychu</option><option value="00000001000300150011">&nbsp;&nbsp;&nbsp;Tauron Dystrybucja oddział we Wrocławiu</option><option value="0000000100030012">&nbsp;&nbsp;&nbsp;TAURON Dystrybucja S.A. Oddział w Gliwicach</option><option value="000000010004">TAURON Ciepło sp. z o.o.</option><option value="000000010005">TAURON Ekoenergia Sp. z o.o. </option><option value="000000010006">TAURON Sprzedaż Sp. z o.o.</option><option value="000000010007">TAURON Obsługa Klienta Sp. z o.o.</option><option value="00000001001c">TAURON Zielona Energia sp. z o.o.</option><option value="000000010011">Kopalnia Wapienia Czatkowice Sp. z o.o.</option><option value="000000010012">Bioeko Grupa TAURON Sp. z o.o.</option><option value="000000010013">TAURON Ekoserwis Sp. z o.o.</option><option value="000000010015">TAURON Dystrybucja Pomiary Sp. z o.o.</option><option value="000000010016">TAURON Nowe Technologie S.A.</option><option value="000000010017">TAURON Serwis sp. z o.o</option><option value="00000001001b">TAURON Sprzedaż GZE sp. z o.o.</option><option value="00000001001f">Usługi Grupa TAURON sp. z o.o.</option><option value="00000001001g">Windpower Gamów sp. z o.o.</option><option value="00000001001h">Megawatt S.C. sp. z o.o.</option><option value="00000001001i">WIND T4 sp. z o.o.</option><option value="00000001001j">WIND T30MW sp. z o.o.</option><option value="00000001001k">FF Park PV 1 sp. z o.o.</option><option value="00000001001l">TAURON Elektrownia Szczytowo-Pompowa sp. z o.o.</option><option value="00000001001o">TAURON Nowa Energia sp. z o.o.</option><option value="00000001001d">TAURON H2 sp. z o.o.</option><option value="00000001001m">AE ENERGY 7 sp. z o.o.</option><option value="00000001001n">WIND T2 sp. z o.o.</option></select></div></div></div><div class="mp_search_fieldset colset  mp_aditionalOptions" id="mpSearchRow2"><div data-mpsearch-id="demandProcedureType" class="mp_search_col col col-6"><label for="demandProcedureType">Typ postępowania</label><div class="search-field"><select name="demandProcedureType" id="demandProcedureType"><option disabled selected value style="display:none">&nbsp;</option><option value="public">Postępowanie publiczne</option><option value="nonpublic">Postępowanie niepubliczne</option><option value="lowcost">Proste</option><option value="research">RFI</option><option value="sales">Postępowanie sprzedażowe</option><option value="executive">Wykonawcze</option></select></div></div><div data-mpsearch-id="demandRealizationType" class="mp_search_col col col-6"><label for="demandRealizationType">Tryb udzielenia zamówienia</label><div class="search-field"><select name="demandRealizationType" id="demandRealizationType"><option disabled selected value style="display:none">&nbsp;</option><option value="unlimited_tender">Przetarg nieograniczony</option><option value="limited_tender">Przetarg ograniczony</option><option value="neg_invitation_tender">Negocjacje z ogłoszeniem</option><option value="sector_neg_invitation_tender">Sektorowe negocjacje z ogłoszeniem</option><option value="neg_no_invitation_tender">Negocjacje bez ogłoszenia</option><option value="dialogue_competition">Dialog konkurencyjny</option><option value="free_choice_tender">Zamówienie z wolnęj ręki</option><option value="free_choice_tender_archive">jsp.demand.notice.public.list.demand.realizationtype.free_choice_tender_archive</option><option value="rfq_tender">Zapytanie ofertowe</option><option value="e_auction_tender">Licytacja elektroniczna</option><option value="social_services">Usługi społeczne</option><option value="offer_procedure">Tryb ofertowy</option><option value="open">Otwarty</option><option value="closed">Zamknięty</option><option value="public_closed">Publiczne postępowanie wykonawcze</option><option value="nonpublic_closed">Niepubliczne postępowanie wykonawcze</option><option value="innovation_partnership">Partnerstwo innowacyjne</option></select></div></div></div><div class="mp_search_fieldset colset  mp_aditionalOptions" id="mpSearchRow3"><div data-mpsearch-id="demandDealingCategoryItemCpvHierarchicalId" class="mp_search_col col col-6"><label for="demandDealingCategoryItemCpvHierarchicalId">Kod CPV</label><div class="search-field">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+
+	
+
+<select data-internal-id="demandDealingCategoryItemCpvHierarchicalIdcategoryItemId" multiple="multiple" aria-label="demandDealingCategoryItemCpvHierarchicalIdcategoryItemId" name="demandDealingCategoryItemCpvHierarchicalIdcategoryItemId"  class="mp_field medium text" >
+	
+	
+	
+	
+</select>
+<a class="anchor ico_select big_icon_button" title="pickcategory" name="demandDealingCategoryItemCpvHierarchicalIdcategoryItemId-select" onclick="categoryPickers['demandDealingCategoryItemCpvHierarchicalIdcategoryItemId'].showCategoryPopup();" href="#"></a>
+
+<script>
+
+
+var categoryPickers = new Object();
+
+function findCategoryPicker(pickerIdentity) {
+	return categoryPickers[pickerIdentity];
+}
+
+
+
+
+$(function() {
+	catPick = new MPCategory(null, true, 'CPV', null, null, null, true, false, false, 0, '', false, 0);
+	catPick.hasPrivilegeToSeeFavourites = false;
+	catPick.initSelect2('demandDealingCategoryItemCpvHierarchicalIdcategoryItemId');
+	categoryPickers['demandDealingCategoryItemCpvHierarchicalIdcategoryItemId'] = catPick;
+	
+	
+}); 
+</script>
+
+
+
+
+<input type="hidden"
+	   name="demandDealingCategoryItemCpvHierarchicalId"
+	   id="demandDealingCategoryItemCpvHierarchicalId"
+	   value=""
+	   />
+
+<script>
+	$(function() {
+		var select = $('[data-internal-id=demandDealingCategoryItemCpvHierarchicalIdcategoryItemId]');
+		var picker = categoryPickers['demandDealingCategoryItemCpvHierarchicalIdcategoryItemId'];
+
+		picker.categoryCallBackFunction = function(category) {
+                if(demandDealingCategoryItemCpvHierarchicalId_selectedCategoriesCountReachedMaxAllowed()){
+				mpFrm3.showToastMessage(mpFrm3.getTranslation('MaxAllowedCategoriesReached'), 'error');
+                    return;
+                }
+                
+				
+			
+				
+				category = picker.getCategory(category.id);	
+				if (category) {
+					var exists = select.find('[value=' + category.id + ']').prop('selected', true);
+					if (!exists.length) {
+						var option = $('<option value=' + category.id + ' selected>' + category.title + '</option>');
+						
+						option.data('data', category);
+						select.append(option);
+					}
+				}	
+				
+	
+				select.trigger('change');
+				demandDealingCategoryItemCpvHierarchicalId_storeCategory(category);		
+		}
+		
+		select.on('select2:select', function(e) {
+
+			
+			
+			
+			var category = e.params.data;
+			
+			
+			if (category) {
+				if(demandDealingCategoryItemCpvHierarchicalId_selectedCategoriesCountReachedMaxAllowed()){
+					//unselect
+					select.find('[value=' + category.id + ']').prop('selected', false);
+					select.trigger('change');
+					mpFrm3.showToastMessage('search.categoryitembyhierarchicalid.maxitems.reached', 'warn');
+					return;
+				}
+				demandDealingCategoryItemCpvHierarchicalId_storeCategory(category);
+			}
+			
+		}).on('select2:unselect', function(e) {
+			
+			
+			
+			var category = e.params.data;
+			
+			if (category) {
+				demandDealingCategoryItemCpvHierarchicalId_removeCategory(category)
+			}
+		});
+		select.trigger("change")
+	});
+
+	function demandDealingCategoryItemCpvHierarchicalId_storeCategory(category){
+		if(true){
+			var categoriesArr = [];
+			var categoriesStr = $("#demandDealingCategoryItemCpvHierarchicalId").val();
+			if(categoriesStr){
+				categoriesArr=categoriesStr.split(',');
+			}
+			categoriesArr.push(category.hierarchicalId)
+			$("#demandDealingCategoryItemCpvHierarchicalId").val(categoriesArr.join(","));
+		}else{
+			$("#demandDealingCategoryItemCpvHierarchicalId").val(category.hierarchicalId);
+		}
+	}
+
+	function demandDealingCategoryItemCpvHierarchicalId_removeCategory(category){
+		var categoriesArr=$("#demandDealingCategoryItemCpvHierarchicalId").val().split(',');
+		var i = categoriesArr.indexOf(category.hierarchicalId);
+		if(i != -1) {
+			categoriesArr.splice(i, 1);
+		}
+		$("#demandDealingCategoryItemCpvHierarchicalId").val(categoriesArr.join(","));
+	}
+
+	function demandDealingCategoryItemCpvHierarchicalId_selectedCategoriesCountReachedMaxAllowed(){
+		return demandDealingCategoryItemCpvHierarchicalId_selectedCategoriesCount() >= 3;
+	}
+
+	function demandDealingCategoryItemCpvHierarchicalId_selectedCategoriesCount(){
+		var categoriesArr = [];
+		var categoriesStr = $("#demandDealingCategoryItemCpvHierarchicalId").val();
+		if(categoriesStr){
+			return categoriesStr.split(',').length;
+		}
+		return 0;
+	}
+
+</script>
+
+</div></div><div data-mpsearch-id="demandCategoryItemHierarchicalId" class="mp_search_col col col-6"><label for="demandCategoryItemHierarchicalId">Kategoria zakupowa</label><div class="search-field">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+
+	
+
+<select data-internal-id="demandCategoryItemHierarchicalIdcategoryItemId" multiple="multiple" aria-label="demandCategoryItemHierarchicalIdcategoryItemId" name="demandCategoryItemHierarchicalIdcategoryItemId"  class="mp_field medium text" >
+	
+	
+	
+	
+</select>
+<a class="anchor ico_select big_icon_button" title="pickcategory" name="demandCategoryItemHierarchicalIdcategoryItemId-select" onclick="categoryPickers['demandCategoryItemHierarchicalIdcategoryItemId'].showCategoryPopup();" href="#"></a>
+
+<script>
+
+
+var categoryPickers = new Object();
+
+function findCategoryPicker(pickerIdentity) {
+	return categoryPickers[pickerIdentity];
+}
+
+
+
+
+$(function() {
+	catPick = new MPCategory(null, true, '', null, null, null, true, false, false, 0, '', false, 0);
+	catPick.hasPrivilegeToSeeFavourites = false;
+	catPick.initSelect2('demandCategoryItemHierarchicalIdcategoryItemId');
+	categoryPickers['demandCategoryItemHierarchicalIdcategoryItemId'] = catPick;
+	
+	
+}); 
+</script>
+
+
+
+
+<input type="hidden"
+	   name="demandCategoryItemHierarchicalId"
+	   id="demandCategoryItemHierarchicalId"
+	   value=""
+	   />
+
+<script>
+	$(function() {
+		var select = $('[data-internal-id=demandCategoryItemHierarchicalIdcategoryItemId]');
+		var picker = categoryPickers['demandCategoryItemHierarchicalIdcategoryItemId'];
+
+		picker.categoryCallBackFunction = function(category) {
+                if(demandCategoryItemHierarchicalId_selectedCategoriesCountReachedMaxAllowed()){
+				mpFrm3.showToastMessage(mpFrm3.getTranslation('MaxAllowedCategoriesReached'), 'error');
+                    return;
+                }
+                
+				
+			
+				
+				category = picker.getCategory(category.id);	
+				if (category) {
+					var exists = select.find('[value=' + category.id + ']').prop('selected', true);
+					if (!exists.length) {
+						var option = $('<option value=' + category.id + ' selected>' + category.title + '</option>');
+						
+						option.data('data', category);
+						select.append(option);
+					}
+				}	
+				
+	
+				select.trigger('change');
+				demandCategoryItemHierarchicalId_storeCategory(category);		
+		}
+		
+		select.on('select2:select', function(e) {
+
+			
+			
+			
+			var category = e.params.data;
+			
+			
+			if (category) {
+				if(demandCategoryItemHierarchicalId_selectedCategoriesCountReachedMaxAllowed()){
+					//unselect
+					select.find('[value=' + category.id + ']').prop('selected', false);
+					select.trigger('change');
+					mpFrm3.showToastMessage('search.categoryitembyhierarchicalid.maxitems.reached', 'warn');
+					return;
+				}
+				demandCategoryItemHierarchicalId_storeCategory(category);
+			}
+			
+		}).on('select2:unselect', function(e) {
+			
+			
+			
+			var category = e.params.data;
+			
+			if (category) {
+				demandCategoryItemHierarchicalId_removeCategory(category)
+			}
+		});
+		select.trigger("change")
+	});
+
+	function demandCategoryItemHierarchicalId_storeCategory(category){
+		if(true){
+			var categoriesArr = [];
+			var categoriesStr = $("#demandCategoryItemHierarchicalId").val();
+			if(categoriesStr){
+				categoriesArr=categoriesStr.split(',');
+			}
+			categoriesArr.push(category.hierarchicalId)
+			$("#demandCategoryItemHierarchicalId").val(categoriesArr.join(","));
+		}else{
+			$("#demandCategoryItemHierarchicalId").val(category.hierarchicalId);
+		}
+	}
+
+	function demandCategoryItemHierarchicalId_removeCategory(category){
+		var categoriesArr=$("#demandCategoryItemHierarchicalId").val().split(',');
+		var i = categoriesArr.indexOf(category.hierarchicalId);
+		if(i != -1) {
+			categoriesArr.splice(i, 1);
+		}
+		$("#demandCategoryItemHierarchicalId").val(categoriesArr.join(","));
+	}
+
+	function demandCategoryItemHierarchicalId_selectedCategoriesCountReachedMaxAllowed(){
+		return demandCategoryItemHierarchicalId_selectedCategoriesCount() >= 3;
+	}
+
+	function demandCategoryItemHierarchicalId_selectedCategoriesCount(){
+		var categoriesArr = [];
+		var categoriesStr = $("#demandCategoryItemHierarchicalId").val();
+		if(categoriesStr){
+			return categoriesStr.split(',').length;
+		}
+		return 0;
+	}
+
+</script>
+
+</div></div></div><div class="mp_search_fieldset colset  mp_aditionalOptions" id="mpSearchRow4"><div data-mpsearch-id="datePublished" class="mp_search_col col col-6"><label for="datePublished">Termin publikacji ogłoszenia</label><div class="search-field"><div class="search-field-with-label"><label title="od" for="datePublishedFrom">od</label> <div class="datepicker-container"><input type="text" maxlength="20" class="datetime-picker datetime-mask date labeledField" name="datePublishedFrom" id="datePublishedFrom" /><span class="ico_calendar"></span></div></div><div class="search-field-with-label"><label title="do" for="datePublishedTo">do</label> <div class="datepicker-container"><input type="text" maxlength="20" class="datetime-picker datetime-mask date labeledField" name="datePublishedTo" id="datePublishedTo" /><span class="ico_calendar"></span></div></div></div></div><div data-mpsearch-id="offerDeadline" class="mp_search_col col col-6"><label for="offerDeadline">Termin składania ofert</label><div class="search-field"><div class="search-field-with-label"><label title="od" for="offerDeadlineFrom">od</label> <div class="datepicker-container"><input type="text" maxlength="20" class="datetime-picker datetime-mask date labeledField" name="offerDeadlineFrom" id="offerDeadlineFrom" /><span class="ico_calendar"></span></div></div><div class="search-field-with-label"><label title="do" for="offerDeadlineTo">do</label> <div class="datepicker-container"><input type="text" maxlength="20" class="datetime-picker datetime-mask date labeledField" name="offerDeadlineTo" id="offerDeadlineTo" /><span class="ico_calendar"></span></div></div></div></div></div><div class="mp_search_aditionalOptionsControls"><div class="options"><input type="hidden" class="no-clear" name="ta_jsp.searchform.header.demand.notice.current" value="0" /><a href="#" class="orange_barr anchor toggle-advanced" data-input="ta_jsp.searchform.header.demand.notice.current" data-open="Pomiń dodatkowe opcje" data-close="Pokaż dodatkowe opcje" title="Pokaż dodatkowe opcje">Pokaż dodatkowe opcje</a><a href="#" class="btn1line ico_search submit-form" data-callback="submitSearchForm()" title="Szukaj">Szukaj</a><a href="#" class="btn1line secondary ico_cancel clear-form" title="Wyczyść">Wyczyść</a></div></div></div></div></div>
+<input type="hidden" name="clearGridSearchTagSearchFormScript" value="" data-clear-callback="clearGridSearchTagSearchForm()" />
+<script>
+// generated by GridSearchTag
+function clearGridSearchTagSearchForm(){
+demandDealingCategoryItemCpvHierarchicalIdClear();demandCategoryItemHierarchicalIdClear();	return true;
+}
+</script>
+
+<script>
+// generated by GridSearchTag
+
+function submitSearchForm(){
+
+	document.searchform.isFiredBySearchButton.value = 'true';
+	return true;}
+</script>
+
+		
+		<div class="mp_box cb"><div class="header colset"><div class="col col-6"><input type="hidden" id="GD_resetpagecounter" name="GD_resetpagecounter" value="1"></div><div class="col col-6 box-controls"><p class="mp_controls"><span>Pozycje&nbsp;1-25&nbsp;z&nbsp;1423</span>&nbsp;&nbsp;pokazuj&nbsp;<select aria-label="visible rows" name="GD_pagesize" style="height: 2rem" onblur="checkPageSize(this);" onfocus="rememberPageSize(this);" onchange="switchPage('searchform','',0,this.value);"><option value="5">5</option><option value="10">10</option><option value="25" selected="selected">25</option><option value="50">50</option><option value="100">100</option></select>&nbsp;pozycji<p class="mp_controls"></p></div></div><div class="mp_inner scrollable">
+		    
+			<table id="publicList" class="mp_gridTable ">
+				<tr>
+					<th data-mpgrid-id="number">
+						<div><a href="javascript:sort('searchform', '', '1');">Numer postępowania</a></div>
+					</th>
+					<th data-mpgrid-id="name">
+						<div><a href="javascript:sort('searchform', '', '2');">Nazwa postępowania</a></div>
+					</th>
+					
+						<th data-mpgrid-id="procedureType">
+							<div><a href="javascript:sort('searchform', '', '3');">Typ postępowania</a></div>
+						</th>
+					
+					
+						<th data-mpgrid-id="realizationType">
+							<div><a href="javascript:sort('searchform', '', '14');">Tryb udzielenia zamówienia</a></div>
+						</th>
+					
+					
+						<th data-mpgrid-id="type">
+							<div><a href="javascript:sort('searchform', '', '11');">Rodzaj postępowania</a></div>
+						</th>
+					
+					
+						<th data-mpgrid-id="categoryItem">
+							<div><a href="javascript:sort('searchform', '', '12');">Kategoria</a></div>
+						</th>
+					
+
+					
+						<th data-mpgrid-id="publicationDate">
+							<div><a href="javascript:sort('searchform', '', '5');">Termin publikacji</a></div>
+						</th>
+					
+
+					
+                        <th data-mpgrid-id="stageEndDate">
+                            <div><a href="javascript:sort('searchform', '', '13');">Termin składania</a></div>
+                        </th>
+                    
+
+					
+						<th data-mpgrid-id="responsiblePerson">
+							<div><a href="javascript:sort('searchform', '', '5');">Osoba kontaktowa</a></div>
+						</th>
+					
+
+					<th data-mpgrid-id="namePurchaser">
+                        <div><a href="javascript:sort('searchform', '', '15');">Zamawiający</a></div>
+                    </th>
+				</tr>
+		        
+		        
+		        	<tr class="dataRow" id="13033863">
+		        		<td class="text short">PNP/TPE/01851/2021</td>
+		        		<td class="text long">Post&#281;powanie niepubliczne - post&#281;powanie testowe (szkoleniowe) przeznaczone dla Wykonawc&oacute;w </td>
+						
+		        			<td class="text short">
+		        			    
+                                    
+                                    
+                                        Post&#281;powanie niepubliczne
+                                    
+                                
+		        			</td>
+						
+						
+		        			<td class="text short">Przetarg nieograniczony</td>
+						
+						
+							<td class="text short">Dostawy</td>
+						
+						
+			        		<td class="text short">
+			        			
+		                    	
+		                    		31.10. Pozosta&#322;e us&#322;ugi
+		                    	
+			        		</td>
+			        	
+
+		        		
+		        			<td class="date-time">2021-03-24</td>
+		        		
+
+		        		
+							
+								<td class="date-time">2027-12-31 16:00</td>
+							
+							
+		        		
+
+		        		
+			        		<td class="text medium">
+				        		
+				        			
+				        				<a href="javascript:void(0);" onclick="showUser('Marcin', 'Czarnecki', 'Marcin.Czarnecki@tauron.pl', '+48516116522');">
+					        				Marcin Czarnecki
+					        			</a>
+				        			
+
+				        			
+				        		
+			        		</td>
+			        	
+
+			        	<td class="text short">TAURON Polska Energia S.A.</td>
+		        	</tr>
+		        
+		        	<tr class="dataRow" id="13033864">
+		        		<td class="text short">PZP/TPE/01850/2021</td>
+		        		<td class="text long">Elektroniczne post&#281;powanie publiczne (zgodnie z ustaw&#261; PZP) - post&#281;powanie testowe (szkoleniowe) przeznaczone dla Wykonawc&oacute;w</td>
+						
+		        			<td class="text short">
+		        			    
+                                    
+                                    
+                                        Post&#281;powanie publiczne
+                                    
+                                
+		        			</td>
+						
+						
+		        			<td class="text short">Przetarg nieograniczony</td>
+						
+						
+							<td class="text short">Dostawy</td>
+						
+						
+			        		<td class="text short">
+			        			
+		                    	
+		                    		31.10. Pozosta&#322;e us&#322;ugi
+		                    	
+			        		</td>
+			        	
+
+		        		
+		        			<td class="date-time">2021-03-24</td>
+		        		
+
+		        		
+							
+								<td class="date-time">2027-12-31 16:00</td>
+							
+							
+		        		
+
+		        		
+			        		<td class="text medium">
+				        		
+				        			
+				        				<a href="javascript:void(0);" onclick="showUser('Marcin', 'Czarnecki', 'Marcin.Czarnecki@tauron.pl', '+48516116522');">
+					        				Marcin Czarnecki
+					        			</a>
+				        			
+
+				        			
+				        		
+			        		</td>
+			        	
+
+			        	<td class="text short">TAURON Polska Energia S.A.</td>
+		        	</tr>
+		        
+		        	<tr class="dataRow" id="13065862">
+		        		<td class="text short">RFI/TC/00517/2026</td>
+		        		<td class="text long">TAURON Ciep&#322;o sp. z o.o., maj&#261;c na uwadze zasady zr&oacute;wnowa&#380;onego rozwoju, bezpiecze&#324;stwa oraz wzmacniania krajowego i europejskiego potencja&#322;u gospodarczego w ramach tzw. local content przekazuje wszystkim zainteresowanym podmiotom informacj&#281; o planowanych post&#281;powaniach w drugiej po&#322;owie 2026 roku.</td>
+						
+		        			<td class="text short">
+		        			    
+                                    
+                                    
+                                        RFI
+                                    
+                                
+		        			</td>
+						
+						
+		        			<td class="text short">Otwarty</td>
+						
+						
+							<td class="text short">Roboty budowlane</td>
+						
+						
+			        		<td class="text short">
+			        			
+		                    		Wiele
+		                    	
+		                    	
+			        		</td>
+			        	
+
+		        		
+		        			<td class="date-time">2026-06-22</td>
+		        		
+
+		        		
+							
+								<td class="date-time">2026-12-31 15:00</td>
+							
+							
+		        		
+
+		        		
+			        		<td class="text medium">
+				        		
+				        			
+				        				<a href="javascript:void(0);" onclick="showUser('Marcin', 'Czubala', 'Marcin.Czubala@tauron.pl', '+48516110237');">
+					        				Marcin Czubala
+					        			</a>
+				        			
+
+				        			
+				        		
+			        		</td>
+			        	
+
+			        	<td class="text short">TAURON Ciep&#322;o sp. z o.o.</td>
+		        	</tr>
+		        
+		        	<tr class="dataRow" id="13065182">
+		        		<td class="text short">RFI/TW/00459/2026</td>
+		        		<td class="text long">Zamawiaj&#261;cy, maj&#261;c na uwadze zasady zr&oacute;wnowa&#380;onego rozwoju, bezpiecze&#324;stwa oraz wzmacniania krajowego i europejskiego potencja&#322;u gospodarczego w ramach tzw. local content przekazuje wszystkim zainteresowanym podmiotom informacj&#281; o planowanych do wszcz&#281;cia post&#281;powaniach o udzielanie zam&oacute;wie&#324; w drugiej po&#322;owie 2026 roku. </td>
+						
+		        			<td class="text short">
+		        			    
+                                    
+                                    
+                                        RFI
+                                    
+                                
+		        			</td>
+						
+						
+		        			<td class="text short">Otwarty</td>
+						
+						
+							<td class="text short">Us&#322;ugi</td>
+						
+						
+			        		<td class="text short">
+			        			
+		                    		Wiele
+		                    	
+		                    	
+			        		</td>
+			        	
+
+		        		
+		        			<td class="date-time">2026-06-02</td>
+		        		
+
+		        		
+							
+								<td class="date-time">2026-12-31 15:00</td>
+							
+							
+		        		
+
+		        		
+			        		<td class="text medium">
+				        		
+				        			
+				        				<a href="javascript:void(0);" onclick="showUser('Maciej', 'Omirski', 'Maciej.Omirski@tauron-wytwarzanie.pl', '+48785006283');">
+					        				Maciej Omirski
+					        			</a>
+				        			
+
+				        			
+				        		
+			        		</td>
+			        	
+
+			        	<td class="text short">TAURON Wytwarzanie S.A.</td>
+		        	</tr>
+		        
+		        	<tr class="dataRow" id="13068168">
+		        		<td class="text short">PZP/TW/07868/2026</td>
+		        		<td class="text long">Pe&#322;nienie funkcji In&#380;yniera Kontraktu dla zadania inwestycyjnego pn.: &bdquo;Budowa, monta&#380;, uruchomienie i przekazanie do eksploatacji jednostki gazowej szczytowej OCGT Jaworzno w lokalizacji TAURON Wytwarzanie S.A. - Oddzia&#322; Elektrownia Jaworzno III&rdquo;.</td>
+						
+		        			<td class="text short">
+		        			    
+                                    
+                                    
+                                        Post&#281;powanie publiczne
+                                    
+                                
+		        			</td>
+						
+						
+		        			<td class="text short">Przetarg nieograniczony</td>
+						
+						
+							<td class="text short">Us&#322;ugi</td>
+						
+						
+			        		<td class="text short">
+			        			
+		                    	
+		                    		24.14. Pozosta&#322;e us&#322;ugi specjalistyczne
+		                    	
+			        		</td>
+			        	
+
+		        		
+		        			<td class="date-time">2026-08-27</td>
+		        		
+
+		        		
+							
+								<td class="date-time">2026-10-06 12:00</td>
+							
+							
+		        		
+
+		        		
+			        		<td class="text medium">
+				        		
+				        			
+				        				<a href="javascript:void(0);" onclick="showUser('Joanna', 'Głowacz', 'joanna.glowacz@tauron-wytwarzanie.pl', '+ 48 572 992 636');">
+					        				Joanna G&#322;owacz
+					        			</a>
+				        			
+
+				        			
+				        		
+			        		</td>
+			        	
+
+			        	<td class="text short">TAURON Wytwarzanie S.A.</td>
+		        	</tr>
+		        
+		        	<tr class="dataRow" id="13068219">
+		        		<td class="text short">PZP/TS/05743/2026</td>
+		        		<td class="text long">Kompleksowa obs&#322;uga kreatywna w zakresie prowadzenia kampanii reklamowych oraz innych dzia&#322;a&#324; marketingowych.</td>
+						
+		        			<td class="text short">
+		        			    
+                                    
+                                    
+                                        Post&#281;powanie publiczne
+                                    
+                                
+		        			</td>
+						
+						
+		        			<td class="text short">Przetarg nieograniczony</td>
+						
+						
+							<td class="text short">Us&#322;ugi</td>
+						
+						
+			        		<td class="text short">
+			        			
+		                    	
+		                    		29.5. Us&#322;uga opracowania i wykonania kreacji oraz spot&oacute;w reklamowych
+		                    	
+			        		</td>
+			        	
+
+		        		
+		        			<td class="date-time">2026-08-28</td>
+		        		
+
+		        		
+							
+								<td class="date-time">2026-10-05 12:00</td>
+							
+							
+		        		
+
+		        		
+			        		<td class="text medium">
+				        		
+				        			
+				        				<a href="javascript:void(0);" onclick="showUser('Agnieszka', 'Jurkowska', 'Agnieszka.Jurkowska@tauron.pl', '516111862');">
+					        				Agnieszka Jurkowska
+					        			</a>
+				        			
+
+				        			
+				        		
+			        		</td>
+			        	
+
+			        	<td class="text short">TAURON Sprzeda&#380; sp. z o.o.</td>
+		        	</tr>
+		        
+		        	<tr class="dataRow" id="13067812">
+		        		<td class="text short">PZP/TS/03145/2026</td>
+		        		<td class="text long">&#346;WIADCZENIE US&#321;UG SPRZEDA&#379;OWO-OBS&#321;UGOWYCH OBEJMUJ&#260;CYCH PROWADZENIE PUNKTU PARTNERSKIEGO </td>
+						
+		        			<td class="text short">
+		        			    
+                                    
+                                    
+                                        Post&#281;powanie publiczne
+                                    
+                                
+		        			</td>
+						
+						
+		        			<td class="text short">Przetarg nieograniczony</td>
+						
+						
+							<td class="text short">Us&#322;ugi</td>
+						
+						
+			        		<td class="text short">
+			        			
+		                    	
+		                    		26.7. Po&#347;rednictwo w zakresie obs&#322;ugi klienta i/ lub zawarcia um&oacute;w sprzeda&#380;owych
+		                    	
+			        		</td>
+			        	
+
+		        		
+		        			<td class="date-time">2026-05-07</td>
+		        		
+
+		        		
+							
+								<td class="date-time">2026-09-30 12:00</td>
+							
+							
+		        		
+
+		        		
+			        		<td class="text medium">
+				        		
+				        			
+				        				<a href="javascript:void(0);" onclick="showUser('Agnieszka', 'Jurkowska', 'Agnieszka.Jurkowska@tauron.pl', '516111862');">
+					        				Agnieszka Jurkowska
+					        			</a>
+				        			
+
+				        			
+				        		
+			        		</td>
+			        	
+
+			        	<td class="text short">TAURON Sprzeda&#380; sp. z o.o.</td>
+		        	</tr>
+		        
+		        	<tr class="dataRow" id="13068222">
+		        		<td class="text short">PZP/TC/07395/2026</td>
+		        		<td class="text long">Dostawa i wdro&#380;enie Systemu Zarz&#261;dzania Prac&#261; w Terenie.</td>
+						
+		        			<td class="text short">
+		        			    
+                                    
+                                    
+                                        Post&#281;powanie publiczne
+                                    
+                                
+		        			</td>
+						
+						
+		        			<td class="text short">Przetarg nieograniczony</td>
+						
+						
+							<td class="text short">Dostawy</td>
+						
+						
+			        		<td class="text short">
+			        			
+		                    	
+		                    		5.20. Us&#322;ugi i dostawy zwi&#261;zane z wdro&#380;eniem system&oacute;w informatycznych
+		                    	
+			        		</td>
+			        	
+
+		        		
+		        			<td class="date-time">2026-08-28</td>
+		        		
+
+		        		
+							
+								<td class="date-time">2026-09-30 12:00</td>
+							
+							
+		        		
+
+		        		
+			        		<td class="text medium">
+				        		
+				        			
+				        				<a href="javascript:void(0);" onclick="showUser('Magdalena', 'Balcarek-Czajka', 'Magdalena.Balcarek-Czajka@tauron.pl', '+48 573136740');">
+					        				Magdalena Balcarek-Czajka
+					        			</a>
+				        			
+
+				        			
+				        		
+			        		</td>
+			        	
+
+			        	<td class="text short">TAURON Ciep&#322;o sp. z o.o.</td>
+		        	</tr>
+		        
+		        	<tr class="dataRow" id="13067920">
+		        		<td class="text short">PZP/TD-OKR/06388/2026</td>
+		        		<td class="text long">Sukcesywna dostawa rozdzielnic SN do stacji wn&#281;trzowych na potrzeby TAURON Dystrybucja S.A. Oddzia&#322; w Krakowie</td>
+						
+		        			<td class="text short">
+		        			    
+                                    
+                                    
+                                        Post&#281;powanie publiczne
+                                    
+                                
+		        			</td>
+						
+						
+		        			<td class="text short">Przetarg nieograniczony</td>
+						
+						
+							<td class="text short">Dostawy</td>
+						
+						
+			        		<td class="text short">
+			        			
+		                    	
+		                    		10.51. Rozdzielnice SN
+		                    	
+			        		</td>
+			        	
+
+		        		
+		        			<td class="date-time">2026-08-20</td>
+		        		
+
+		        		
+							
+								<td class="date-time">2026-09-24 10:00</td>
+							
+							
+		        		
+
+		        		
+			        		<td class="text medium">
+				        		
+				        			
+				        				<a href="javascript:void(0);" onclick="showUser('Katarzyna', 'Zaczyk', 'Katarzyna.Zaczyk@tauron-dystrybucja.pl', '+48 571 668 719');">
+					        				Katarzyna Zaczyk
+					        			</a>
+				        			
+
+				        			
+				        		
+			        		</td>
+			        	
+
+			        	<td class="text short">TAURON Dystrybucja S.A.</td>
+		        	</tr>
+		        
+		        	<tr class="dataRow" id="13067952">
+		        		<td class="text short">PZP/TW/05082/2026</td>
+		        		<td class="text long">Obs&#322;uga bocznic kolejowych w TAURON Wytwarzanie S.A. </td>
+						
+		        			<td class="text short">
+		        			    
+                                    
+                                    
+                                        Post&#281;powanie publiczne
+                                    
+                                
+		        			</td>
+						
+						
+		        			<td class="text short">Przetarg nieograniczony</td>
+						
+						
+							<td class="text short">Us&#322;ugi</td>
+						
+						
+			        		<td class="text short">
+			        			
+		                    	
+		                    		25.1. Us&#322;ugi transportu kolejowego
+		                    	
+			        		</td>
+			        	
+
+		        		
+		        			<td class="date-time">2026-08-20</td>
+		        		
+
+		        		
+							
+								<td class="date-time">2026-09-23 12:00</td>
+							
+							
+		        		
+
+		        		
+			        		<td class="text medium">
+				        		
+				        			
+				        				<a href="javascript:void(0);" onclick="showUser('Katarzyna', 'Żurek', 'katarzyna.zurek@tauron-wytwarzanie.pl', '572996493');">
+					        				Katarzyna &#379;urek
+					        			</a>
+				        			
+
+				        			
+				        		
+			        		</td>
+			        	
+
+			        	<td class="text short">TAURON Wytwarzanie S.A.</td>
+		        	</tr>
+		        
+		        	<tr class="dataRow" id="13067964">
+		        		<td class="text short">PZP/TW/05543/2026</td>
+		        		<td class="text long">Pe&#322;nienie funkcji In&#380;yniera Kontraktu zadania inwestycyjnego pn.: &bdquo;Budowa &#378;r&oacute;d&#322;a ciep&#322;a dla miasta Jaworzna&rdquo;</td>
+						
+		        			<td class="text short">
+		        			    
+                                    
+                                    
+                                        Post&#281;powanie publiczne
+                                    
+                                
+		        			</td>
+						
+						
+		        			<td class="text short">Przetarg nieograniczony</td>
+						
+						
+							<td class="text short">Us&#322;ugi</td>
+						
+						
+			        		<td class="text short">
+			        			
+		                    	
+		                    		24.14. Pozosta&#322;e us&#322;ugi specjalistyczne
+		                    	
+			        		</td>
+			        	
+
+		        		
+		        			<td class="date-time">2026-08-20</td>
+		        		
+
+		        		
+							
+								<td class="date-time">2026-09-22 12:00</td>
+							
+							
+		        		
+
+		        		
+			        		<td class="text medium">
+				        		
+				        			
+				        				<a href="javascript:void(0);" onclick="showUser('Marcin', 'Cudak', 'Marcin.Cudak@tauron-wytwarzanie.pl', '+48661331818');">
+					        				Marcin Cudak
+					        			</a>
+				        			
+
+				        			
+				        		
+			        		</td>
+			        	
+
+			        	<td class="text short">TAURON Wytwarzanie S.A.</td>
+		        	</tr>
+		        
+		        	<tr class="dataRow" id="13068207">
+		        		<td class="text short">PNP/TD-OGL/07772/2026</td>
+		        		<td class="text long"> Automatyzacja stacji SN/nN nr GLCK394 Katowice ul. Orla w systemie zaprojektuj i wybuduj.</td>
+						
+		        			<td class="text short">
+		        			    
+                                    
+                                    
+                                        Post&#281;powanie niepubliczne
+                                    
+                                
+		        			</td>
+						
+						
+		        			<td class="text short">Przetarg nieograniczony</td>
+						
+						
+							<td class="text short">Roboty budowlane</td>
+						
+						
+			        		<td class="text short">
+			        			
+		                    	
+		                    		30.56. Roboty budowlane realizowane z wy&#322;&#261;czeniami sieci elektroenergetycznej w zakresie sieci i obiekt&oacute;w energetycznych SN oraz SN i nN
+		                    	
+			        		</td>
+			        	
+
+		        		
+		        			<td class="date-time">2026-08-19</td>
+		        		
+
+		        		
+							
+								<td class="date-time">2026-09-18 11:00</td>
+							
+							
+		        		
+
+		        		
+			        		<td class="text medium">
+				        		
+				        			
+				        				<a href="javascript:void(0);" onclick="showUser('Agnieszka', 'Szczygieł', 'Agnieszka.Szczygiel@tauron-dystrybucja.pl', '+48 573139923');">
+					        				Agnieszka Szczygie&#322;
+					        			</a>
+				        			
+
+				        			
+				        		
+			        		</td>
+			        	
+
+			        	<td class="text short">TAURON Dystrybucja S.A.</td>
+		        	</tr>
+		        
+		        	<tr class="dataRow" id="13068206">
+		        		<td class="text short">PNP/TD-OGL/07771/2026</td>
+		        		<td class="text long">Automatyzacja stacji SN/nN nr GLCK1152 Katowice ul. Bukszpanowa 70 w systemie zaprojektuj i wybuduj.</td>
+						
+		        			<td class="text short">
+		        			    
+                                    
+                                    
+                                        Post&#281;powanie niepubliczne
+                                    
+                                
+		        			</td>
+						
+						
+		        			<td class="text short">Przetarg nieograniczony</td>
+						
+						
+							<td class="text short">Roboty budowlane</td>
+						
+						
+			        		<td class="text short">
+			        			
+		                    	
+		                    		30.56. Roboty budowlane realizowane z wy&#322;&#261;czeniami sieci elektroenergetycznej w zakresie sieci i obiekt&oacute;w energetycznych SN oraz SN i nN
+		                    	
+			        		</td>
+			        	
+
+		        		
+		        			<td class="date-time">2026-08-18</td>
+		        		
+
+		        		
+							
+								<td class="date-time">2026-09-18 11:00</td>
+							
+							
+		        		
+
+		        		
+			        		<td class="text medium">
+				        		
+				        			
+				        				<a href="javascript:void(0);" onclick="showUser('Agnieszka', 'Szczygieł', 'Agnieszka.Szczygiel@tauron-dystrybucja.pl', '+48 573139923');">
+					        				Agnieszka Szczygie&#322;
+					        			</a>
+				        			
+
+				        			
+				        		
+			        		</td>
+			        	
+
+			        	<td class="text short">TAURON Dystrybucja S.A.</td>
+		        	</tr>
+		        
+		        	<tr class="dataRow" id="13067948">
+		        		<td class="text short">RFI/TOK/00658/2026</td>
+		        		<td class="text long">Wykonanie projektu i instalacji Systemu Klimatyzacji Serwerowni</td>
+						
+		        			<td class="text short">
+		        			    
+                                    
+                                    
+                                        RFI
+                                    
+                                
+		        			</td>
+						
+						
+		        			<td class="text short">Otwarty</td>
+						
+						
+							<td class="text short">Roboty budowlane</td>
+						
+						
+			        		<td class="text short">
+			        			
+		                    	
+		                    		30.19. Roboty instalacyjne na obiektach budowlanych
+		                    	
+			        		</td>
+			        	
+
+		        		
+		        			<td class="date-time">2026-08-20</td>
+		        		
+
+		        		
+							
+								<td class="date-time">2026-09-16 11:00</td>
+							
+							
+		        		
+
+		        		
+			        		<td class="text medium">
+				        		
+				        			
+				        				<a href="javascript:void(0);" onclick="showUser('Dorota', 'Stępień', 'Dorota.Stepien2@tauron.pl', '+48 573136878');">
+					        				Dorota St&#281;pie&#324;
+					        			</a>
+				        			
+
+				        			
+				        		
+			        		</td>
+			        	
+
+			        	<td class="text short">TAURON Obs&#322;uga Klienta sp. z o.o. </td>
+		        	</tr>
+		        
+		        	<tr class="dataRow" id="13068003">
+		        		<td class="text short">PNP/TOK/07765/2026</td>
+		        		<td class="text long">&#346;wiadczenie us&#322;ug telefonii kom&oacute;rkowej GSM, mobilnej transmisji danych oraz dostawa aparat&oacute;w telefonii kom&oacute;rkowej.</td>
+						
+		        			<td class="text short">
+		        			    
+                                    
+                                    
+                                        Post&#281;powanie niepubliczne
+                                    
+                                
+		        			</td>
+						
+						
+		        			<td class="text short">Przetarg nieograniczony</td>
+						
+						
+							<td class="text short">Dostawy</td>
+						
+						
+			        		<td class="text short">
+			        			
+		                    	
+		                    		5.26. Us&#322;ugi telekomunikacyjne sieci kom&oacute;rkowej
+		                    	
+			        		</td>
+			        	
+
+		        		
+		        			<td class="date-time">2026-08-18</td>
+		        		
+
+		        		
+							
+								<td class="date-time">2026-09-16 11:00</td>
+							
+							
+		        		
+
+		        		
+			        		<td class="text medium">
+				        		
+				        			
+				        				<a href="javascript:void(0);" onclick="showUser('Monika', 'Hruszczak', 'Monika.Hruszczak@tauron.pl', '572995356');">
+					        				Monika Hruszczak
+					        			</a>
+				        			
+
+				        			
+				        		
+			        		</td>
+			        	
+
+			        	<td class="text short">TAURON Obs&#322;uga Klienta sp. z o.o. </td>
+		        	</tr>
+		        
+		        	<tr class="dataRow" id="13068198">
+		        		<td class="text short">PNP/TD-OOP/08166/2026</td>
+		        		<td class="text long">Dobudowa pola liniowego 110 kV w GPZ Chemik (gmina K&#281;dzierzyn-Ko&#378;le) w celu przy&#322;&#261;czenia ME Re&#324;ska Wie&#347; &ndash; 110 kV w trybie zaprojektuj i wybuduj - RZ03/APK/88/2026</td>
+						
+		        			<td class="text short">
+		        			    
+                                    
+                                    
+                                        Post&#281;powanie niepubliczne
+                                    
+                                
+		        			</td>
+						
+						
+		        			<td class="text short">Przetarg nieograniczony</td>
+						
+						
+							<td class="text short">Roboty budowlane</td>
+						
+						
+			        		<td class="text short">
+			        			
+		                    	
+		                    		30.28. Roboty budowlane w zakresie sieci i obiekt&oacute;w energetycznych WN&nbsp; (napowietrznych, kablowych, &#347;wiat&#322;owody) z wy&#322;&#261;czeniem przy&#322;&#261;czy&nbsp; energetycznych
+		                    	
+			        		</td>
+			        	
+
+		        		
+		        			<td class="date-time">2026-08-28</td>
+		        		
+
+		        		
+							
+								<td class="date-time">2026-09-15 11:00</td>
+							
+							
+		        		
+
+		        		
+			        		<td class="text medium">
+				        		
+				        			
+				        				<a href="javascript:void(0);" onclick="showUser('Agnieszka', 'Patoła-Kowalska', 'agnieszka.patola-kowalska@tauron-dystrybucja.pl', '571665978');">
+					        				Agnieszka Pato&#322;a-Kowalska
+					        			</a>
+				        			
+
+				        			
+				        		
+			        		</td>
+			        	
+
+			        	<td class="text short">TAURON Dystrybucja S.A.</td>
+		        	</tr>
+		        
+		        	<tr class="dataRow" id="13067459">
+		        		<td class="text short">PZP/TD-OBD/06825/2026</td>
+		        		<td class="text long">Dostawa podest&oacute;w ruchomych samojezdnych dla TAURON Dystrybucja S.A. Oddzia&#322; w B&#281;dzinie.</td>
+						
+		        			<td class="text short">
+		        			    
+                                    
+                                    
+                                        Post&#281;powanie publiczne
+                                    
+                                
+		        			</td>
+						
+						
+		        			<td class="text short">Przetarg nieograniczony</td>
+						
+						
+							<td class="text short">Dostawy</td>
+						
+						
+			        		<td class="text short">
+			        			
+		                    	
+		                    		2.4. Pojazdy specjalistyczne
+		                    	
+			        		</td>
+			        	
+
+		        		
+		        			<td class="date-time">2026-08-05</td>
+		        		
+
+		        		
+							
+								<td class="date-time">2026-09-14 12:00</td>
+							
+							
+		        		
+
+		        		
+			        		<td class="text medium">
+				        		
+				        			
+				        				<a href="javascript:void(0);" onclick="showUser('Dariusz', 'Moskal', 'dariusz.moskal@tauron-dystrybucja.pl', '+48 572 906 981');">
+					        				Dariusz Moskal
+					        			</a>
+				        			
+
+				        			
+				        		
+			        		</td>
+			        	
+
+			        	<td class="text short">TAURON Dystrybucja S.A.</td>
+		        	</tr>
+		        
+		        	<tr class="dataRow" id="13068197">
+		        		<td class="text short">PNP/TZE/01770/2026</td>
+		        		<td class="text long">Wykonanie rob&oacute;t budowlanych dla Projektu &bdquo;Budowa bateryjnego systemu magazynowania energii elektrycznej (BESS) Radlna Tarnowiec&quot;</td>
+						
+		        			<td class="text short">
+		        			    
+                                    
+                                    
+                                        Post&#281;powanie niepubliczne
+                                    
+                                
+		        			</td>
+						
+						
+		        			<td class="text short">Przetarg nieograniczony</td>
+						
+						
+							<td class="text short">Roboty budowlane</td>
+						
+						
+			        		<td class="text short">
+			        			
+		                    	
+		                    		30.60 Roboty budowlane w zakresie budowy magazynu energii
+		                    	
+			        		</td>
+			        	
+
+		        		
+		        			<td class="date-time">2026-08-28</td>
+		        		
+
+		        		
+							
+								<td class="date-time">2026-09-14 11:00</td>
+							
+							
+		        		
+
+		        		
+			        		<td class="text medium">
+				        		
+				        			
+				        				<a href="javascript:void(0);" onclick="showUser('Jakub', 'Srokowski', 'Jakub.Srokowski@tauron.pl', '516110575');">
+					        				Jakub Srokowski
+					        			</a>
+				        			
+
+				        			
+				        		
+			        		</td>
+			        	
+
+			        	<td class="text short">TAURON Zielona Energia sp. z o.o.</td>
+		        	</tr>
+		        
+		        	<tr class="dataRow" id="13068177">
+		        		<td class="text short">PNP/TD-OGL/07748/2026</td>
+		        		<td class="text long">Przebudowa linii napowietrznej SN Przejazdowa i Oczyszczalnia z GPZ Urbanowice (od GPZ Urbanowice do s&#322;upa 7682, 7654) oraz przebudowa stacji M0577, M0575 wraz z aktualizacj&#261; dokumentacji</td>
+						
+		        			<td class="text short">
+		        			    
+                                    
+                                    
+                                        Post&#281;powanie niepubliczne
+                                    
+                                
+		        			</td>
+						
+						
+		        			<td class="text short">Przetarg nieograniczony</td>
+						
+						
+							<td class="text short">Roboty budowlane</td>
+						
+						
+			        		<td class="text short">
+			        			
+		                    	
+		                    		30.56. Roboty budowlane realizowane z wy&#322;&#261;czeniami sieci elektroenergetycznej w zakresie sieci i obiekt&oacute;w energetycznych SN oraz SN i nN
+		                    	
+			        		</td>
+			        	
+
+		        		
+		        			<td class="date-time">2026-08-27</td>
+		        		
+
+		        		
+							
+								<td class="date-time">2026-09-14 11:00</td>
+							
+							
+		        		
+
+		        		
+			        		<td class="text medium">
+				        		
+				        			
+				        				<a href="javascript:void(0);" onclick="showUser('Dariusz', 'Rocznik', 'Dariusz.Rocznik@tauron-dystrybucja.pl', '+48508006185');">
+					        				Dariusz Rocznik
+					        			</a>
+				        			
+
+				        			
+				        		
+			        		</td>
+			        	
+
+			        	<td class="text short">TAURON Dystrybucja S.A.</td>
+		        	</tr>
+		        
+		        	<tr class="dataRow" id="13067564">
+		        		<td class="text short">PNP/TESP/06363/2026</td>
+		        		<td class="text long">Opracowanie Studium Wykonalno&#347;ci dla zadania pn. &bdquo;Budowa linii 400 kV z elektrowni szczytowo-pompowej Ro&#378;n&oacute;w II do stacji 400/110 kV Tarn&oacute;w&rdquo;, a nast&#281;pnie uzyskanie decyzji o &#347;rodowiskowych uwarunkowaniach dla uzgodnionej 
+z Zamawiaj&#261;cym trasy.
+</td>
+						
+		        			<td class="text short">
+		        			    
+                                    
+                                    
+                                        Post&#281;powanie niepubliczne
+                                    
+                                
+		        			</td>
+						
+						
+		        			<td class="text short">Przetarg nieograniczony</td>
+						
+						
+							<td class="text short">Us&#322;ugi</td>
+						
+						
+			        		<td class="text short">
+			        			
+		                    	
+		                    		23.5. Studia wykonalno&#347;ci, analizy przedwdro&#380;eniowe
+		                    	
+			        		</td>
+			        	
+
+		        		
+		        			<td class="date-time">2026-08-10</td>
+		        		
+
+		        		
+							
+								<td class="date-time">2026-09-14 10:00</td>
+							
+							
+		        		
+
+		        		
+			        		<td class="text medium">
+				        		
+				        			
+				        				<a href="javascript:void(0);" onclick="showUser('Kamil', 'Jędryszczyk', 'Kamil.Jedryszczyk@tauron.pl', '+48 516 110 174');">
+					        				Kamil J&#281;dryszczyk
+					        			</a>
+				        			
+
+				        			
+				        		
+			        		</td>
+			        	
+
+			        	<td class="text short">TAURON Elektrownia Szczytowo-Pompowa sp. z o.o.</td>
+		        	</tr>
+		        
+		        	<tr class="dataRow" id="13068049">
+		        		<td class="text short">PNP-S/UGT/08109/2026</td>
+		        		<td class="text long">Przegl&#261;d instalacji elektrycznej w obiektach niesieciowych TAURON Dystrybucja S.A. Oddzia&#322; Wroc&#322;aw</td>
+						
+		        			<td class="text short">
+		        			    
+                                    
+                                    
+                                        Proste
+                                    
+                                
+		        			</td>
+						
+						
+		        			<td class="text short">Otwarty</td>
+						
+						
+							<td class="text short">Us&#322;ugi</td>
+						
+						
+			        		<td class="text short">
+			        			
+		                    	
+		                    		21.20. Przegl&#261;dy obiekt&oacute;w budowlanych
+		                    	
+			        		</td>
+			        	
+
+		        		
+		        			<td class="date-time">2026-08-25</td>
+		        		
+
+		        		
+							
+								<td class="date-time">2026-09-11 15:00</td>
+							
+							
+		        		
+
+		        		
+			        		<td class="text medium">
+				        		
+				        			
+				        				<a href="javascript:void(0);" onclick="showUser('Waldemar', 'Dołgoszyja', 'Waldemar.Dolgoszyja@tauron.pl', '571 668 086');">
+					        				Waldemar Do&#322;goszyja
+					        			</a>
+				        			
+
+				        			
+				        		
+			        		</td>
+			        	
+
+			        	<td class="text short">Us&#322;ugi Grupa TAURON sp. z o.o.</td>
+		        	</tr>
+		        
+		        	<tr class="dataRow" id="13068170">
+		        		<td class="text short">PNP-S/UGT/08234/2026</td>
+		        		<td class="text long">. &bdquo;Wykonanie rocznych przegl&#261;d&oacute;w budowlanych w zakresie stanu technicznego budynk&oacute;w na obiektach energetycznych TAURON Dystrybucja S.A. Oddzia&#322; we Wroc&#322;awiu&rdquo;</td>
+						
+		        			<td class="text short">
+		        			    
+                                    
+                                    
+                                        Proste
+                                    
+                                
+		        			</td>
+						
+						
+		        			<td class="text short">Otwarty</td>
+						
+						
+							<td class="text short">Us&#322;ugi</td>
+						
+						
+			        		<td class="text short">
+			        			
+		                    	
+		                    		21.20. Przegl&#261;dy obiekt&oacute;w budowlanych
+		                    	
+			        		</td>
+			        	
+
+		        		
+		        			<td class="date-time">2026-08-27</td>
+		        		
+
+		        		
+							
+								<td class="date-time">2026-09-11 15:00</td>
+							
+							
+		        		
+
+		        		
+			        		<td class="text medium">
+				        		
+				        			
+				        				<a href="javascript:void(0);" onclick="showUser('Natalia', 'Janowska', 'Natalia.Janowska@tauron.pl', '+48 573136244');">
+					        				Natalia Janowska
+					        			</a>
+				        			
+
+				        			
+				        		
+			        		</td>
+			        	
+
+			        	<td class="text short">Us&#322;ugi Grupa TAURON sp. z o.o.</td>
+		        	</tr>
+		        
+		        	<tr class="dataRow" id="13067666">
+		        		<td class="text short">PNP/TZE/06802/2026</td>
+		        		<td class="text long">Pe&#322;nienie funkcji In&#380;yniera Kontraktu dla Projektu HP-HRS &ndash; rozw&oacute;j elektromobilno&#347;ci w wojew&oacute;dztwie &#347;l&#261;skim poprzez budow&#281; innowacyjnej instalacji do produkcji wodoru RFNBO, realizowanego na terenie Elektrowni Jaworzno III w Jaworznie</td>
+						
+		        			<td class="text short">
+		        			    
+                                    
+                                    
+                                        Post&#281;powanie niepubliczne
+                                    
+                                
+		        			</td>
+						
+						
+		        			<td class="text short">Przetarg nieograniczony</td>
+						
+						
+							<td class="text short">Us&#322;ugi</td>
+						
+						
+			        		<td class="text short">
+			        			
+		                    	
+		                    		24.14. Pozosta&#322;e us&#322;ugi specjalistyczne
+		                    	
+			        		</td>
+			        	
+
+		        		
+		        			<td class="date-time">2026-08-11</td>
+		        		
+
+		        		
+							
+								<td class="date-time">2026-09-11 13:00</td>
+							
+							
+		        		
+
+		        		
+			        		<td class="text medium">
+				        		
+				        			
+				        				<a href="javascript:void(0);" onclick="showUser('Hanna', 'Myszczyszyn', 'Hanna.Myszczyszyn@tauron.pl', '571 666 981');">
+					        				Hanna Myszczyszyn
+					        			</a>
+				        			
+
+				        			
+				        		
+			        		</td>
+			        	
+
+			        	<td class="text short">TAURON Zielona Energia sp. z o.o.</td>
+		        	</tr>
+		        
+		        	<tr class="dataRow" id="13067996">
+		        		<td class="text short">PNP/TD-OWB/06579/2026</td>
+		        		<td class="text long">RZ4/142/26 R-&#346;wiebodzice - opracowanie dokumentacji  projektowej i na jej podstawie rozbudowa rozdzielni 110kV w technologii GIS dla potrzeb przy&#322;&#261;czenia magazynu energii &quot;Stare Bogaczowice&quot; (PSP 2601669).</td>
+						
+		        			<td class="text short">
+		        			    
+                                    
+                                    
+                                        Post&#281;powanie niepubliczne
+                                    
+                                
+		        			</td>
+						
+						
+		        			<td class="text short">Przetarg nieograniczony</td>
+						
+						
+							<td class="text short">Roboty budowlane</td>
+						
+						
+			        		<td class="text short">
+			        			
+		                    	
+		                    		30.28. Roboty budowlane w zakresie sieci i obiekt&oacute;w energetycznych WN&nbsp; (napowietrznych, kablowych, &#347;wiat&#322;owody) z wy&#322;&#261;czeniem przy&#322;&#261;czy&nbsp; energetycznych
+		                    	
+			        		</td>
+			        	
+
+		        		
+		        			<td class="date-time">2026-07-28</td>
+		        		
+
+		        		
+							
+								<td class="date-time">2026-09-11 12:00</td>
+							
+							
+		        		
+
+		        		
+			        		<td class="text medium">
+				        		
+				        			
+				        				<a href="javascript:void(0);" onclick="showUser('Małgorzata', 'Kurpisz', 'Malgorzata.Kurpisz@tauron-dystrybucja.pl', '+48 571 669 222');">
+					        				Ma&#322;gorzata Kurpisz
+					        			</a>
+				        			
+
+				        			
+				        		
+			        		</td>
+			        	
+
+			        	<td class="text short">TAURON Dystrybucja S.A.</td>
+		        	</tr>
+		        
+		        	<tr class="dataRow" id="13068215">
+		        		<td class="text short">RFI/TS/00680/2026</td>
+		        		<td class="text long">Zapytanie o informacje - rozeznanie rynku pn. &bdquo;&#346;wiadczenia us&#322;ug polegaj&#261;cych na dostawie, monta&#380;u i uruchomieniu urz&#261;dze&#324; do kompensacji energii biernej w obiektach Klient&oacute;w wskazanych przez TAURON Sprzeda&#380; sp. z o.o. na terenie ca&#322;ego kraju&rdquo;</td>
+						
+		        			<td class="text short">
+		        			    
+                                    
+                                    
+                                        RFI
+                                    
+                                
+		        			</td>
+						
+						
+		        			<td class="text short">Otwarty</td>
+						
+						
+							<td class="text short">Us&#322;ugi</td>
+						
+						
+			        		<td class="text short">
+			        			
+		                    	
+		                    		10.73. Pozosta&#322;e urz&#261;dzenia uk&#322;ad&oacute;w pomiarowych energii elektrycznej
+		                    	
+			        		</td>
+			        	
+
+		        		
+		        			<td class="date-time">2026-08-28</td>
+		        		
+
+		        		
+							
+								<td class="date-time">2026-09-11 12:00</td>
+							
+							
+		        		
+
+		        		
+			        		<td class="text medium">
+				        		
+				        			
+				        				<a href="javascript:void(0);" onclick="showUser('Agnieszka', 'Jurkowska', 'Agnieszka.Jurkowska@tauron.pl', '516111862');">
+					        				Agnieszka Jurkowska
+					        			</a>
+				        			
+
+				        			
+				        		
+			        		</td>
+			        	
+
+			        	<td class="text short">TAURON Sprzeda&#380; sp. z o.o.</td>
+		        	</tr>
+		        
+			</table>
+		</div><ul class="mp_paginator"><li><a class="anchor" title="Poprzedni" href="#" onclick="document.searchform.GD_pagestart.value = 0;  document.searchform.GD_resetpagecounter.value = 0; document.searchform.submit(); return false;"></a></li><li class="current"><a class="anchor" href="#">1</a></li><li><a class="anchor" href="#" onclick="document.searchform.GD_pagestart.value = 25;  document.searchform.GD_resetpagecounter.value = 0;  document.searchform.submit(); return false;">2</a></li><li class="skip"><a class="anchor" href="#">...</a></li><li><a class="anchor" href="#" onclick="document.searchform.GD_pagestart.value = 1400;  document.searchform.GD_resetpagecounter.value = 0;  document.searchform.submit(); return false;">57</a></li><li><a title="Następny" class="anchor" href="#" onclick="document.searchform.GD_pagestart.value = 25;  document.searchform.GD_resetpagecounter.value = 0;  document.searchform.submit(); return false;"></a></li></ul><input type="hidden" name="GD_pagestart" value="0"/></div>
+	
+</form>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+
+
+	
+
+
+
+	
+		
+	
+	
+
+
+
+
+
+
+	
+	<script>
+	var noticePublicListContextMenuBuilderArray = new Array();
+	$(function() {
+		for(i=0; i<noticePublicListContextMenuBuilderArray.length; i++) {
+			if(noticePublicListContextMenuBuilderArray[i].initOnPageLoad) {
+				noticePublicListContextMenuBuilderArray[i].initializeMenu(false);
+			}
+		}
+	});
+	
+	function noticePublicListContextMenuBuilderfindContextMenu(beanName) {
+		for(i=0; i<noticePublicListContextMenuBuilderArray.length; i++) {
+			if(noticePublicListContextMenuBuilderArray[i].beanName == beanName) {
+				return noticePublicListContextMenuBuilderArray[i];
+			} 
+		}
+		return null;
+	}
+	
+	function MPContextMenu(specificSelector, type, beanName, idParam, extraUrlJsonData, initOnPageLoad, callbackFunction, defaultAction) {
+		this.specificSelector = specificSelector;
+		this.type = type;
+		this.beanName = beanName;
+		this.idParam = idParam;
+		this.extraUrlJsonData = extraUrlJsonData;
+		this.initOnPageLoad = initOnPageLoad;
+		this.callbackFunction = callbackFunction;
+		this.defaultAction = defaultAction;
+		this.addedArrows = false;
+		
+		this.destroyMenu = function() {
+			$.contextMenu('destroy', this.specificSelector);
+		};		
+		
+		this.initializeMenu = function(destroy) {
+			if(destroy === true) {
+				this.destroyMenu();
+			}
+			this.bindMenu(this.specificSelector);
+
+		};
+
+		this.checkIfItemsEmpty = function(items) {
+            var emptyMessage;
+		    
+            	
+			
+		            emptyMessage = 'Brak dostępnych akcji';
+			
+			
+
+			if($.isEmptyObject(items)) {
+				items['no_item'] = {
+						name : emptyMessage,
+						icon : 'not_items',
+						disabled : true
+				};
+			}
+			return items;
+		};
+		
+		this.addArrows = function(selector) {
+			this.addedArrows = true;
+			
+			var headerRow = $(selector).closest('table').find('tr:first');
+			var headerFirstCol = $(headerRow).find('th:first');
+			var isInnerTable = $(headerFirstCol).hasClass("inner-table");
+
+			if (!headerRow.find('.context-menu-arrow-header').length) {
+				var thClass = 'context-menu-arrow-header';
+				if(isInnerTable){
+					thClass += ' inner-table';
+				}
+				headerRow.append('<th class="' + thClass + '" data-not-resizable="true" data-not-sortable="true" data-not-editable="true" data-mpgrid-id="context-menu" />');
+			}
+
+			var tdClass = 'context-menu-arrow';
+			if(isInnerTable){
+				tdClass += ' inner-table';
+			}
+
+			var rows = $(selector).each(function() {
+				var row = $(this);
+				
+				if (!row.find('.context-menu-arrow').length) {
+					row.append('<td tabindex="0" class="' + tdClass + '" />');
+				}
+			});
+		}
+		
+		this.isArrow = function(e) {
+			var cell = $(e.target).find('.context-menu-arrow');
+			
+			if (cell.length) {
+				var cellOffset = cell.offset().left;
+				
+				if (e.pageX < cellOffset || e.pageX > cellOffset + cell.width()) {
+					return false;
+				}
+			}
+			
+			return true;
+		}
+		
+		this.bindMenu = function(selector) {
+			if(selector == undefined || selector == null) {
+				selector = this.specificSelector;
+			}
+			$(selector).addClass('contextMenu');
+			
+			if (!this.addedArrows) {
+				this.addArrows(selector);
+			}
+			
+			var div = $('<div id="context-loading"></div>');
+
+
+			var that = this;
+			$.contextMenu('create', {
+				selector : selector,
+				mptrigger : 'left_right',
+				trigger: 'none',
+				build : function($trigger, e) {
+					div.css({
+						left: e.pageX,
+						top: e.pageY
+					});
+					$('body').append(div);
+
+					var items = {};
+					
+					//that.destroyMenu();
+					that.initializeMenu(true);
+					if(that.type=='ajax') {
+						var data = {};
+						data['beanName'] = beanName;
+						data['identity'] = $trigger.closest(selector).attr(idParam);
+						if(extraUrlJsonData) {
+							data['extraUrlData'] = extraUrlJsonData;
+						}
+						
+						$.ajax({
+							cache: false,
+							type : 'POST',
+							dataType : 'json',
+							url : "/platform/rest/contextMenu",
+							async : false,
+						    data: JSON.stringify(data),
+						    headers: {
+		                        'Accept': 'application/json',
+		                        'Content-Type': 'application/json; charset=utf-8'
+		                    }	
+						}).done(function(response) {
+							var separatorsCount = 0;
+							items = {};
+							$(response).each(function() {
+								if (this.name == 'separator') {
+									items['sep' + separatorsCount++] = '---------';
+								} else {
+									items[this.name] = {
+										name : this.name,
+										icon : this.icon,
+										disabled : this.disabled,
+										callback : new Function(this.callback)
+									};
+								}
+							});
+							items = that.checkIfItemsEmpty(items);
+						});
+					} else if(that.type=='script') {
+						var tmpItems = callbackFunction($trigger, e);
+						if(tmpItems['items']) {
+							$.each(tmpItems['items'], function(index, item) {
+								items[item.name] = item;
+							});
+						} else {
+							items = tmpItems;
+						}
+						items = that.checkIfItemsEmpty(items);
+					}
+					var callbackDefaultAction=null;
+					if(e.data.trigger=='left' && !that.isArrow(e) && that.defaultAction) {
+						$.each(items, function(index, item) {
+							if(item.icon==that.defaultAction) {
+								callbackDefaultAction=item.callback;
+								return false;
+							}
+						});
+						
+						if (callbackDefaultAction == null){
+							// brak czegokolwiek pod LPM
+							div.detach();
+							return false;
+						}
+					}
+					
+					if(callbackDefaultAction!=null) {
+						callbackDefaultAction();
+						div.detach();
+						return false;
+					} else {
+						div.detach();
+					}
+					return {
+						items : items
+					};
+				}
+			});
+			//$(selector+' td:last-child').addClass('context-menu-arrow');
+		};
+		
+	};
+	
+	</script>
+
+
+<script>
+	{
+		var extraUrlJsonData = null;
+		
+		
+		
+		
+		
+			noticePublicListContextMenuBuilderArray.push(new MPContextMenu('.dataRow', 'ajax', 'noticePublicListContextMenuBuilder', 'id', extraUrlJsonData, true, null, 'details'));
+		
+	};
+
+		$(function() {
+            $('.dataRow').keypress(function(event){
+                if(event.keyCode == 13){
+                    $(this).click();
+                }
+            });
+        });
+</script>
+
+<script>
+	function showUser(firstName, lastName, email, phoneNumber) {
+		var popupDiv = $("#popupDiv");
+		var popupDivHtml = '';
+		
+		popupDivHtml += prepareUserFieldset('Imię', firstName);
+		popupDivHtml += prepareUserFieldset('Nazwisko', lastName);
+		popupDivHtml += prepareUserFieldset('Adres mailowy', email);
+		popupDivHtml += prepareUserFieldset('Numer telefonu', phoneNumber);
+		popupDiv.html(popupDivHtml);
+		
+		popupDiv.mpDialog({
+			title: 'Osoba odpowiedzialna'
+		}, "small");
+	}
+	
+	function prepareUserFieldset(prop, propValue) {
+		var fieldsetHtml = '<fieldset class="mp_common_field">';
+		
+		fieldsetHtml += '<h4>' + prop + ':</h4>';
+		fieldsetHtml += '<p>' + propValue + '</p>';
+		fieldsetHtml += '</fieldset>';
+		return fieldsetHtml;
+	}
+</script>
+
+<div id="popupDiv" class="hide"></div>
+
+
+<script>
+
+    $(document).ready(function() {
+        connectCallbacksToProposedDemandRealizType();
+    });
+
+
+    function connectCallbacksToProposedDemandRealizType () {
+        $("select[name='demandProcedureType']").on("change",
+            function () {
+                var procedureType = $(this).val();
+                $("select[name='demandRealizationType']").empty();
+
+                if (procedureType == "nonpublic") {
+                    addOptionToSelect('demandRealizationType', '', '');
+
+                    
+                        addOptionToSelect('demandRealizationType', 'unlimited_tender', 'Przetarg nieograniczony');
+                    
+                        addOptionToSelect('demandRealizationType', 'limited_tender', 'Przetarg ograniczony');
+                    
+                        addOptionToSelect('demandRealizationType', 'neg_invitation_tender', 'Negocjacje z ogłoszeniem');
+                    
+                        addOptionToSelect('demandRealizationType', 'neg_no_invitation_tender', 'Negocjacje bez ogłoszenia');
+                    
+                        addOptionToSelect('demandRealizationType', 'offer_procedure', 'Tryb ofertowy');
+                    
+                        addOptionToSelect('demandRealizationType', 'free_choice_tender', 'Zamówienie z wolnej ręki');
+                    
+                } else if (procedureType == "public") {
+                    addOptionToSelect('demandRealizationType', '', '');
+
+                    
+                    addOptionToSelect('demandRealizationType', 'unlimited_tender', 'Przetarg nieograniczony');
+                    
+                    addOptionToSelect('demandRealizationType', 'limited_tender', 'Przetarg ograniczony');
+                    
+                    addOptionToSelect('demandRealizationType', 'neg_invitation_tender', 'Negocjacje z ogłoszeniem');
+                    
+                    addOptionToSelect('demandRealizationType', 'sector_neg_invitation_tender', 'Sektorowe negocjacje z ogłoszeniem');
+                    
+                    addOptionToSelect('demandRealizationType', 'neg_no_invitation_tender', 'Negocjacje bez ogłoszenia');
+                    
+                    addOptionToSelect('demandRealizationType', 'free_choice_tender', 'Zamówienie z wolnej ręki');
+                    
+                    addOptionToSelect('demandRealizationType', 'dialogue_competition', 'Dialog konkurencyjny');
+                    
+                    addOptionToSelect('demandRealizationType', 'innovation_partnership', 'Partnerstwo innowacyjne');
+                    
+                    addOptionToSelect('demandRealizationType', 'social_services', 'Uslugi społeczne');
+                    
+                    addOptionToSelect('demandRealizationType', 'e_auction_tender', 'Licytacja elektroniczna');
+                    
+                    addOptionToSelect('demandRealizationType', 'rfq_tender', 'Zapytanie o cenę');
+                    
+                    addOptionToSelect('demandRealizationType', 'public_executive', 'public_executive');
+                    
+                    addOptionToSelect('demandRealizationType', 'basic', 'basic');
+                    
+                    addOptionToSelect('demandRealizationType', 'basic_negotiations', 'basic_negotiations');
+                    
+                    addOptionToSelect('demandRealizationType', 'basic_no_negotiations', 'basic_no_negotiations');
+                    
+                } else if (procedureType == "research") {
+                    addOptionToSelect('demandRealizationType', '', '');
+
+                    
+                    addOptionToSelect('demandRealizationType', 'open', 'Otwarty');
+                    
+                    addOptionToSelect('demandRealizationType', 'closed', 'Zamknięty');
+                    
+                }
+            }
+        );
+    }
+
+    function addOptionToSelect(selectName, optionValue, optionText) {
+        $("select[name='" + selectName + "']").append($('<option>', {
+                value: optionValue,
+                text: optionText
+            }
+            )
+        );
+    }
+
+</script>
+
+<div id="htmlOutAppenderDiv" class="hide">
+<!-- <![CDATA[
+
+]]> -->
+</div>
+
+
+
+
+
+	
+	
+	
+	
+	 
+	
+	
+		<script>
+			var toastMessageStayTime = '3000';
+			var globalMsgArray = new Array();		
+			$(function() {
+							
+				
+				
+				
+				
+				if (globalMsgArray.length) {
+					mpFrm3.showToastMessage(globalMsgArray);					
+				}
+			});
+		</script>
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	</div>
+
+  </main></div>
+
+
+<script>
+    $(window).click(function() {
+        $('.dropdown-trigger').removeClass('active');
+    });
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="contextHelpMessageDialog" title="Informacja" class="hide">
+    <form id="helpDialogForm" method="POST" enctype="application/x-www-form-urlencoded" action="#">
+        <div id="help_message_dialog_content"></div>
+    </form>
+
+    <script>
+        var contextHelpUser = new function () {
+
+            this.encodeKeyAndShowHelpMessage = function (htmlObject, helpMessageKey) {
+                this.obj = $(htmlObject);
+                $.ajax({
+                    type: 'GET',
+                    url: contextHelpUser.getEncodeKeyUrl(helpMessageKey),
+                    success: function (message) {
+                        if (message) {
+                            contextHelpUser.showHelpMessage(htmlObject, message);
+                        }
+                    },
+                    error: function () {
+                    }
+                });
+            }
+
+            this.showHelpMessage = function (htmlObject, encodedHelpMessageKey) {
+                var that = this;
+                this.obj = $(htmlObject);
+                $.ajax({
+                    type: 'GET',
+                    url: '/platform/help/getHelpMessage?key=' + encodeURIComponent(encodedHelpMessageKey),
+                    success: function (message) {
+                        if (message) {
+                            if (message.type == 'TOOLTIP') {
+                                htmlObject.attr("title", mpFrm3.escapeHtmlAndReplaceNewLineWithBR(message.message));
+                                htmlObject.addClass("mpTooltip");
+                            } else if (message.type == 'DIALOG') {
+                                $("#help_message_dialog_content").text('');
+                                $("#help_message_dialog_content").append(message.message);
+                                that.contextHelpMessageDialog.dialog('open')
+                            }
+                        }
+                    },
+                    error: function () {
+                    }
+                });
+            };
+
+			this.getEncodeKeyUrl = function (helpKey) {
+				return '/platform/help/encodeKey?key=' + encodeURIComponent(helpKey);
+			};
+
+            this.init = function () {
+                var that = this;
+                this.contextHelpMessageDialog = $('#contextHelpMessageDialog');
+                this.contextHelpMessageDialog.mpDialog({
+                    autoOpen: false,
+                    position: { my: "center", at: "top" }
+                }, "auto")
+            }
+        }
+        $(function () {
+            contextHelpUser.init();
+        });
+    </script>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="adminHelpDialog" title="Zarządzanie tooltipami" class="hide">
+    
+    <form id="adminHelpDialogForm" method="POST" enctype="application/x-www-form-urlencoded" action="/platform/help/save">
+        <div><input name="CSRFToken" type="hidden" value="" /></div>
+
+        <section class="mp_common_field">
+            <span class="h4span">Klucz tooltipa: </span>
+            <div>
+                <div id="adminHelpDialog_key_div"></div>
+                <input id="adminHelpDialog_key_input" type="hidden" name="key" value=""/>
+            </div>
+        </section>
+        <section class="mp_common_field">
+            <span class="h4span">Typ: </span>
+            <p id="typeSelect"></p>
+        </section>
+
+        
+        <section class="mp_common_field">
+            <span class="h4span"><img src="/pic/mp/flags/icon-flag-pl.png" alt="#"/>&nbsp;PL: </span>
+            <section>
+                <div id="adminHelpDialog_msg_div_pl_PL"></div>
+            </section>
+        </section>
+        
+    </form>
+
+    <link rel="stylesheet" href="/js/tinyeditor/tinyeditor.css">
+    <script src="/js/tinyeditor/tiny.editor.packed.js"></script>
+    <script>
+        var helpMessageAdmin = new function () {
+            var obj = null;
+            var helpKey = null;
+            var editors = null;
+            var msgsDiv = null;
+            var helpDialog = null;
+            var helpMsgs = null;
+
+            this.encodeKeyAndOpenAdminHelpDialog = function (htmlObject, helpMessageKey) {
+                this.obj = $(htmlObject);
+                $.ajax({
+                    type: 'GET',
+                    url: helpMessageAdmin.getEncodeKeyUrl(helpMessageKey),
+                    success: function (message) {
+                        if (message) {
+                            helpMessageAdmin.openAdminHelpDialog(obj, message);
+                        }
+                    },
+                    error: function () {
+                    }
+                });
+            }
+
+            this.openAdminHelpDialog = function (icoObj, encodedHelpMessageKey) {
+                var that = this;
+                this.obj = $(icoObj);
+                this.helpKey =encodedHelpMessageKey;
+                $.ajax({
+                    type: 'GET',
+                    cache: false,
+                    url: '/platform/help/getMessageAdminMode?key=' + encodeURIComponent(this.helpKey),
+                    success: function (message) {
+                        if (message) {
+                            that.helpMsgs = message.langMessage;
+                            that.helpDialog.dialog('open');
+                            that.prepareSelectTypeBox(message.type);
+                        }
+                    },
+                    error: function () {
+                        that.showMessage('error', 'adminhelpdialog.form.statusmessage.error');
+                    }
+                });
+            };
+
+            this.prepareSelectTypeBox = function (type) {
+                var that = this;
+                var boxId = 'typeSelect';
+                var adminHelpDialogInputName = 'adminHelpDialog_type_input';
+                var selectTypeField = that.getSelectTypeHtml(adminHelpDialogInputName);
+                that.clearBox(boxId);
+                $('#' + boxId).append($(selectTypeField));
+                $('#' + adminHelpDialogInputName).val(type).change();
+            }
+
+            this.getSelectTypeHtml = function (adminHelpDialogInputName) {
+                var selectTypeField = [];
+                selectTypeField.push(
+                    '<select id="' + adminHelpDialogInputName + '" name="type">',
+                    '<option value="TOOLTIP" selected>Tooltip</option>',
+                    '<option value="DIALOG">Dialog</option>',
+                    '</select>'
+                );
+                return selectTypeField.join("");
+            }
+
+            this.clearBox = function (elementID){
+                $('#' + elementID).html("");
+            }
+
+            this.adminHelpDialogSubmit = function () {
+                for (i = 0; i < this.editors.length; i++) {
+                    this.editors[i].post();
+                }
+                var adminHelpDialogForm = $('#adminHelpDialogForm');
+                var message = $('#adminHelpDialog_msg_textarea_' + currentLocale).val();
+                var that = this;
+                $.ajax({
+                    type: 'POST',
+                    url: adminHelpDialogForm.attr('action'),
+                    data: adminHelpDialogForm.serialize(),
+                    success: function (statusObj) {
+                        if (statusObj) {
+                            if (statusObj.code == 'unauthorizedAccess')
+                                that.showMessage('error', 'adminhelpdialog.form.statusmessage.unauthorizedaccess');
+                            else if (statusObj.code == 'false')
+                                that.showMessage('error', 'Błąd zapisu');
+                            else if (statusObj.code == 'true') {
+                                that.obj.attr('title', message);
+                                that.obj.data('title', message);
+                                that.helpDialog.dialog('close');
+                                that.showMessage('success', 'Zmiana zapisana poprawnie');
+                            } else if (statusObj.code == 'error') {
+                                for (var i = 0; i < statusObj.errors.length; i++) {
+                                    that.showMessage('error', statusObj.errors[i].label);
+                                }
+                            }
+                        } else {
+                            that.showMessage('error', 'adminhelpdialog.form.statusmessage.error');
+                        }
+                    },
+                    error: function () {
+                        that.showMessage('error', 'adminhelpdialog.form.statusmessage.error');
+                    }
+                });
+            };
+
+            this.showMessage = function (type, message) {
+                mpFrm3.showToastMessage(message, type);
+            };
+
+            this.init = function () {
+                var that = this;
+                this.editors = new Array();
+                this.msgsDiv = new Array();
+                this.helpDialog = $('#adminHelpDialog');
+                this.helpDialog.mpDialog({
+                    autoOpen: false,
+                    buttons: [{
+                        click: function () {
+                            that.adminHelpDialogSubmit();
+                        }
+                    }
+                    ],
+                    showDefaultCancelButton: true,
+                    open: function (event, ui) {
+                        $('#adminHelpDialog_key_div').text(that.helpKey);
+                        $('#adminHelpDialog_key_input').val(that.helpKey);
+                        if (that.helpMsgs != null) {
+                            for (i = 0; i < availableLocale.length; i++) {
+                                msgDiv = $("#adminHelpDialog_msg_div_" + availableLocale[i]);
+                                msgDiv.html('<textarea name="message" id="adminHelpDialog_msg_textarea_' + availableLocale[i] + '">' + mpFrm3.escapeHtml(that.helpMsgs[i].message) + '</textarea>');
+                                that.msgsDiv[i] = msgDiv;
+
+                                editor = new TINY.editor.edit('editor_' + availableLocale[i], {
+                                    id: 'adminHelpDialog_msg_textarea_' + availableLocale[i],
+                                    width: 584,
+                                    height: 100,
+                                    cssclass: 'tinyeditor',
+                                    controlclass: 'tinyeditor-control',
+                                    rowclass: 'tinyeditor-header',
+                                    dividerclass: 'tinyeditor-divider',
+                                    controls: ['bold', 'italic', 'underline', 'strikethrough', '|', 'subscript', 'superscript', '|',
+                                        'orderedlist', 'unorderedlist', '|', 'outdent', 'indent', '|', 'leftalign',
+                                        'centeralign', 'rightalign', 'blockjustify', '|', 'unformat', '|', 'undo', 'redo', 'n',
+                                        'font', 'size', 'style', '|', 'image', 'hr', 'link', 'unlink'],
+                                    footer: true,
+                                    fonts: ['Verdana', 'Arial', 'Georgia', 'Trebuchet MS'],
+                                    xhtml: true,
+                                    bodyid: 'editor_' + availableLocale[i],
+                                    footerclass: 'tinyeditor-footer',
+                                    toggle: {text: 'source', activetext: 'wysiwyg', cssclass: 'toggle'},
+                                    resize: {cssclass: 'resize'}
+                                });
+                                that.editors[i] = editor;
+                            }
+                        }
+                    },
+                    close: function (event, ui) {
+                        for (i = 0; i < that.msgsDiv.length; i++) {
+                            that.msgsDiv[i].html("");
+                        }
+                    }
+                });
+            };
+
+            this.getEncodeKeyUrl = function (helpKey) {
+                return '/platform/help/encodeKey?key=' + encodeURIComponent(helpKey);
+            };
+
+            this.executeUserOrAdminHelpMessage = function(htmlObject, helpKey){
+                
+                    
+                    
+                        contextHelpUser.encodeKeyAndShowHelpMessage(htmlObject, helpKey);
+                    
+                
+			}
+        };
+
+        $(function () {
+            helpMessageAdmin.init();
+        });
+
+    </script>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form id="mpPostForm" method="post" enctype="application/x-www-form-urlencoded" class="hide">
+	<div>
+		<div><input name="CSRFToken" type="hidden" value="" /></div><input type="hidden" name="UNIQUE_ID" value="17880317119439IpQsdsnlrQuw8X0931" />
+	</div>
+</form>
+
+<div id="categoryPopupDialog" class="hide" title="Słownik kategorii zakupowych">
+	<div class="mp_box active"  id="categoryPopupDialogTab" >
+		<ul class="mp_tabs">
+			<li><a id="categoryPopupBasicTab" href="#">Wszystkie</a></li>
+			<li><a href="#" id="categoryPopupFavouritesTab" >Ulubione</a></li>
+		</ul>
+	</div>
+	
+	<div class="clearfix">
+		
+
+		<div id="PickCategorySearchNoAction" class="main mp_search_form wide"><div class="mp_box active"><div class="box-header"><ul class="mp_controls"><li><a title="minimize" href="javascript:void(0)" class="anchor ico_mini" onclick="mpFrm3.sendRollFrame(this, 'null', 'searchform');mpFrm3.rollFrame(this)"></a></li></ul><h2>Wyszukiwarka kategorii zakupowych</h2></div><div class="mp_inner">
+			<div class="mp_search_fieldset colset">
+				<div data-mpsearch-id="jsp.categoryPopup.search.name" class="mp_search_col col col-6"><label>Nazwa kategorii</label><div class="search-field">
+					<input class="SearchCategoryInput" aria-label="SearchCategoryInput" type="text" name="searchCategoryPopup" value="" title="Nazwa kategorii"/>
+				</div></div>
+				
+				<input type="hidden" name="searchHidden" value="searchHidden" data-submit-callback="MPCategory.prototype.searchCategoryPopup();" />
+				<input type="hidden" name="clearFields" value="clearFields" data-clear-callback="MPCategory.prototype.clearCategoryPopup();" />
+			</div>
+		<div class="mp_search_aditionalOptionsControls"><div class="options"><a href="#" class="btn1line ico_search submit-form" title="Szukaj" >Szukaj</a><a href="#" class="btn1line ico_cancel secondary clear-form" title="Wyczyść">Wyczyść</a></div></div></div></div></div>
+
+		<div id="PickCategorySearchWithAction" class="main mp_search_form"><div class="mp_box active"><div class="box-header"><ul class="mp_controls"><li><a title="minimize" href="javascript:void(0)" class="anchor ico_mini" onclick="mpFrm3.sendRollFrame(this, 'null', 'searchform');mpFrm3.rollFrame(this)"></a></li></ul><h2>Wybierz kategorię</h2></div><div class="mp_inner">
+			<div class="mp_search_fieldset colset">
+				<div data-mpsearch-id="jsp.categoryPopup.search.name" class="mp_search_col col col-6"><label>Nazwa kategorii</label><div class="search-field">
+					<input class="SearchCategoryInput" aria-label="SearchCategoryInput" type="text" name="searchCategoryPopup" value="" title="Nazwa kategorii"/>
+				</div></div>
+				
+				<input type="hidden" name="searchHidden" value="searchHidden" data-submit-callback="MPCategory.prototype.searchCategoryPopup();" />
+				<input type="hidden" name="clearFields" value="clearFields" data-clear-callback="MPCategory.prototype.clearCategoryPopup();" />
+			</div>
+		<div class="mp_search_aditionalOptionsControls"><div class="options"><a href="#" class="btn1line ico_search submit-form" title="Szukaj" >Szukaj</a><a href="#" class="btn1line ico_cancel secondary clear-form" title="Wyczyść">Wyczyść</a></div></div></div></div></div>
+
+		<div class="column"><div class="mp_box"><div class="box-header"><h2>Akcje</h2></div><div class="mp_inner">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+    
+			
+	
+	
+	
+
+
+
+    
+	
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+		
+	
+	
+
+
+
+
+
+
+	
+
+
+
+
+	
+	<a title="Zapisz wyb&oacute;r" href="javascript:void(0);" id="PickCategoryButton"    class="btn1line ico_save btn-PickCategory"   data-scroll-to="Zapiszwybu00F3r">Zapisz wybór</a>
+
+		</div></div></div>
+	 
+		<div class="column"><div class="mp_box"><div class="box-header"><h2>Akcje</h2></div><div class="mp_inner">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+    
+			
+	
+	
+	
+
+
+
+    
+	
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+		
+	
+	
+
+
+
+
+
+
+	
+
+
+
+
+	
+	<a title="jsp.categorypopup.pickfavouritecategory" href="javascript:void(0);" id="PickFavouriteCategoryButton"    class="btn1line ico_save btn-PickFavouriteCategory"   data-scroll-to="jsp.categorypopup.pickfavouritecategory">jsp.categorypopup.pickfavouritecategory</a>
+
+		</div></div></div>
+	
+		<div class="column"><div class="mp_box"><div class="box-header"><h2>Akcje</h2></div><div class="mp_inner">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+			
+	
+	
+	
+
+
+
+    
+	
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+		
+	
+	
+
+
+
+
+
+
+	
+
+
+	
+
+
+
+	
+	<a title="Zapisz wyb&oacute;r" href="javascript:void(0);" id="PickOneFavouriteCategoryButton"  onclick="MPCategory.prototype.pickButtonFavouriteCategory();"  class="btn1line ico_save"   data-scroll-to="Zapiszwybu00F3r">Zapisz wybór</a>
+	
+		</div></div></div>
+	</div>
+
+	<div id="categoryTree" style="text-align: left; float: left; width: 100%;" class="mp_box active"></div>
+		
+	<div id="favouriteCategory" style="text-align: left; width: 100%;" class="mp_box active">
+		<div class="mp_inner scrollable">
+			<table id="favouriteCategoryTbl" class="mp_gridTable">
+			  	
+			    <tr>
+			     	<th id="favouriteCategoryTblCheckbox">&nbsp;</th>
+		            <th>Numer</th>
+		            <th>Nazwa</th>
+			 	</tr>
+			</table>
+		</div>
+	</div>
+</div>
+
+<div id="calendarLayer" style="display: none; position:absolute; width:300px; height:215px; z-index:2000"></div>
+
+<div id="vatCalLayer" style="display: none; position:absolute; width:150px; z-index:3; visibility: hidden">
+	<div class="CalculatorTab">
+		<table style="border: 0; width: 110px;">
+			<tr>
+				<th style="text-align: right"><a href="#" onclick="javascript:closeLayer('vatCalLayer'); return false;">x</a></th>
+			</tr>
+		</table>
+	</div>
+	<div class="CalculatorFrame">
+	<table style="border: 0; width: 100%;">
+		<tr>
+			<th class="CalculatorName" style="text-align: left;">Kalkulator VAT</th>
+		</tr>
+		<tr>
+			<td><div class="calculatorUnderline"></div></td>
+		</tr>
+	</table>
+	</div>
+</div>
+<div id="paperLayer" style="width: 300px; display: none; position:absolute; z-index:4; visibility: hidden; border: 1px solid #CCC; padding:15px; margin: 3px 3px 3px 3px; text-align: left; background-color:#FFFCF0; border: 1px solid #CCC;"></div>
+
+
+	 <div class="footer-logos">
+	   
+			    		
+			    	
+	   
+			    		
+	 </div>
+
+	
+
+	
+	
+
+    <div id="ticketFormPanel" class="no-padding" title="Formularz zgłoszenia "></div>
+<footer class="py-2" id="footer">
+    <div class="footerWrapper">
+            <div class="quick-help">
+				<div class="line">
+				<p style=margin:0cm;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;><strong><span style=font-size:15px;line-height:107%;font-family:"Arial",sans-serif;color:#707173;>Kontakt</span></strong><span style=font-size:15px;line-height:107%;font-family:"Arial",sans-serif;color:black;>:&nbsp;</span><span style="color:blue;text-decoration:underline;"><span style=font-size:15px;line-height:107%;font-family:"Calibri",sans-serif;color:#E2007A;><a href="mailto:kontakt@swoz.tauron.pl" style=" border-box;text-align:start;"><span style=font-size:15px;line-height:107%;font-family:"Arial",sans-serif;color:#E2007A;>kontakt@swoz.tauron.pl</span></a></span></span></p>
+			</div>
+                
+
+                
+                
+                
+                    
+                
+
+            </div>
+            <div class="py-2">
+                <a href="https://www.marketplanet.pl/"> <img class="footerLogo" src="/pic/images/logo_footer_color.png" alt="marketplanet" title="marketplanet-logo" /></a>
+            </div>
+
+        <div class="copyright py-2">
+             © Copyright by
+            <a href="http://www.marketplanet.pl/">Marketplanet</a> | Wersja 3.2.90.3-STD
+
+            
+            
+             
+            <span class="platformVersion">.</span>
+            
+        </div>
+    </div>
+</footer>
+</div>
+	
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/css/additional.css" />
+
+
+
+
+<div id="BrowserWarning" class="hide">
+	<section class="mp_common_field">
+		<p>Przeglądarka, z której aktualnie Państwo korzystają, nie jest wspierana. Korzystanie z przeglądarki w czasie aukcji mogłoby spowodować problemy przy składaniu ofert oraz wyświetlaniu zawartości aukcji. Prosimy o skorzystanie z dedykowanych przeglądarek:</p>
+		<ul class="mp_color_green">
+			<li>Lista wpieranych przeglądarek przez system:
+			<ul>
+			
+				<li>Mozilla Firefox</li>
+			
+				<li>Google Chrome</li>
+			
+				<li>Edge (Chromium)</li>
+			
+			</ul>
+			</li>
+		</ul>
+		<p>Na obecnie uruchominej przeglądarce nie można otworzyć konsoli aukcyjnej</p>
+	</section>
+</div>
+<div id="DeputyInfo" class="hide">
+	<section class="mp_common_field">
+		<br>Wszystkie czynności które dokonujesz będąc w trybie zastępstwa są realizowane w imieniu zastępowanego.<p>
+Proszę pamiętać o dezaktywowaniu trybu zastępstwa przed przejściem do realizacji własnych zadań. <br>W celu dezaktywacji zastępstwa należy przejść do zakładki "Moje zastępstwa" i skorzystać z akcji "Zakończ zastępstwo"</p>
+	</section>
+</div>
+
+<script>
+
+	$(function() {
+		//sprawdzenie rodzaju przegladarki
+		if (!isNotSupportedBrowser(supportedBrowsers)) {
+			$('.unsupported-browser').addClass("disable");
+		}
+		var $notifications = $('.top-notification');
+		if($notifications.length > 0 && $( ".navbar-notifications" ).length) {
+			$notifications.each(function( index ) {
+				if(!$(this).hasClass("disable")){
+					$(this).removeClass("hide")
+					$('.navbar-notifications').append($(this));
+					setTimeout(function(){
+
+					}, 1000);
+				}
+
+			});
+		}
+	});
+
+	function initUnsupportedBrowserNotifications() {
+		if (isNotSupportedBrowser(supportedBrowsers)) {
+			Lockr.set('isNotSupportedBrowserAccepted', false);
+		}
+	}
+
+	function showBrowserWarning(closeAction) {
+		$('#BrowserWarning').mpDialog({
+			title:'Twoja przeglądarka nie jest wspierana',
+			buttons: [{
+				text: 'Rozumiem',
+				click: function() {
+					$(this).dialog('close');
+					
+				}
+			}]
+	    }, "small");
+	}
+	function showDeputyInfo() {
+		$('#DeputyInfo').mpDialog({
+			title:'Szczegóły zastępstwa',
+			buttons: [{
+				text: 'Rozumiem',
+				click: function() {
+					$(this).dialog('close');
+				}},
+				{
+                	text: 'Zakończ zastępstwo',
+                	"class": 'btn1line ico_signout',
+                	click: function() {
+                	    var url = '/platform/deputy/logoff';
+                        mpFrm3.sendPost(url);
+                    }
+                }
+			]
+		}, "small");
+	}
+
+
+setTimeout(function() {
+    var box_active = document.getElementsByClassName("mp_box active");
+    var box = document.getElementsByClassName("mp_box");
+    var doc = document.getElementsByTagName("body");
+    var platform = 'Platforma Zakupowa Grupy TAURON';
+    if(box[0].classList.contains("active") && box[0].firstElementChild.className === "header colset"){
+        document.title = box[0].firstElementChild.firstChild.innerText + ' - ' + platform;
+    }
+    if(box[0].classList.contains("active") && box[0].firstElementChild.className === "box-header"){
+        document.title = box[0].firstElementChild.textContent + ' - ' + platform;
+    }
+    if(box_active[0].ownerDocument.body.classList.contains("login-module")) {
+        document.title = 'Platforma Zakupowa Grupy TAURON'
+    }
+
+	}, 0);
+
+
+</script>
+
+<script>
+	basicColorLight = $('#basic-color-light').css('color');
+	basicColorDark = $('#basic-color-dark').css('color'); 
+</script>
+
+<script src="/js/bootstrap.bundle.min.js" ></script>
+<script src="/js/mpTooltip.js" ></script>
+<script defer src="/js/form2js.js"></script>
+<script defer src="/js/jquery-ui.min.js"></script>
+<script defer src="/js/jquery.dynatree.js" ></script>
+<script defer src="/js/jquery.jstepper.js" ></script>
+<script defer src="/js/dateFormatter.js" ></script>
+<script src="/js/jquery.scrollTo.min.js" ></script>
+
+<script src="/js/select2/select2.min.js"></script>
+<script src="/js/select2/i18n/pl.js"></script>
+
+<script src="/js/numberFormatter.js" ></script>
+<script defer  src="/js/sweetalert.min.js" ></script>
+
+<script defer src="/js/popup.js"></script>
+
+<script defer src="/js/mpBindings.js"></script>
+<script defer src="/js/mpExtenders.js"></script>
+
+
+<script defer src="/js/jquery.number.min.js"></script>
+
+<script defer  src="/js/list.min.js" ></script>
+<script defer  src="/js/jquery.dotdotdot.min.js" ></script>
+<script defer  src="/js/jquery.magnific-popup.min.js" ></script>
+
+<script src="/js/jquery.jBreadCrumb.1.1.js"></script>
+<script src="/js/jquery.doubleScroll.js"></script>
+
+
+<script>
+	jQuery.fn.jBreadCrumb.defaults.minimumCompressionElements = 2;
+	jQuery.fn.jBreadCrumb.defaults.previewWidth = 50;
+	jQuery.fn.jBreadCrumb.defaults.timeInitialCollapse = 0;
+
+    if ($.fn.button.noConflict) {
+    var bootstrapButton = $.fn.button.noConflict();
+    $.fn.bootstrapBtn = bootstrapButton;
+    };
+
+	$(function() {
+		var breadCrumbContainer = $('#breadCrumb');
+		if(breadCrumbContainer!=null) {
+			breadCrumbContainer.jBreadCrumb();
+		}
+	});
+
+    setTimeout(function() {
+        var box_active = document.getElementsByClassName("mp_box active");
+        var box = document.getElementsByClassName("mp_box");
+        var doc = document.getElementsByTagName("body");
+        var platform = 'Platforma Zakupowa Grupy TAURON';
+        if(box[0].classList.contains("active") && box[0].firstElementChild.className === "header colset"){
+            document.title = box[0].firstElementChild.firstChild.innerText + ' - ' + platform;
+        }
+        if(box[0].classList.contains("active") && box[0].firstElementChild.className === "box-header"){
+            document.title = box[0].firstElementChild.textContent + ' - ' + platform;
+        }
+        if(box_active[0].ownerDocument.body.classList.contains("login-module")) {
+            document.title = 'Platforma Zakupowa Grupy TAURON'
+        }
+
+    }, 0);
+</script>
+
+
+<div class="isNotSupportedBrowserAccepted_info hide">
+    <p>
+        Przeglądarka, z której aktualnie Państwo korzystają nie jest wspierana.  W związku z tym mogą wystąpić problemy przy wyświetlaniu zawartości.  Proszę skorzystać z dedykowanych przeglądarek: Google Chrome, Mozilla Firefox lub Microsoft Edge w wersji Chromium.
+        <a href="#" class="more-info-link mp_color_green_light">Więcej informacji</a>
+    </p>
+    <section class="mp_common_field more-info">
+        <p>Widzisz ten komunikat, ponieważ Platforma zakupowa może wyświetlać się nieprawidłowo pod Twoją wersją przeglądarki internetowej</p>
+        <ul class="mp_color_green_light">
+            <li>Lista wpieranych przeglądarek przez system:
+                <ul>
+                    
+                        <li>Mozilla Firefox</li>
+                    
+                        <li>Google Chrome</li>
+                    
+                        <li>Edge (Chromium)</li>
+                    
+                </ul>
+               </li>
+        </ul>
+        <p>Zachęcamy do zainstalowania najnowszej wersji rekomendowanej przez nas przeglądarki. Kliknij przycisk "Rozumiem" poniżej, aby zignorować komunikat i kontynuować.</p>
+    </section>
+    <a class="btn1line accept fr ico_ok" href='javascript:void(0);'>Rozumiem</a>
+</div>
+</body>
+</html>
+

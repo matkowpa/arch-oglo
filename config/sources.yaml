@@ -60,16 +60,30 @@ bzp:
 
 bip:
   # Sekcja 7: pilotaż 4–5 spółek (sekcja 11, pyt. 1 — rozstrzygnięte).
-  # Każda spółka = osobny parser. Przed parserem sprawdzić robots.txt i Crawl-delay.
+  # Każda spółka = osobny parser (id -> klasa w scraper/run.py). Przed parserem
+  # sprawdzić robots.txt i Crawl-delay. enabled: false = parser gotowy, ale
+  # niepobierany (obserwacja przed włączeniem).
   companies:
     - id: phn
       name: Polski Holding Nieruchomości S.A.
       kind: sp
+      enabled: true
       # strona /ogloszenia zwraca 404 — paginacja to /ogloszenia/1, /2, /3...
       list_url: https://bip.phnsa.pl/ogloszenia/1
       crawl_delay: 10
       pages: 3   # pobieraj strony 1..3 (przerwa crawl_delay między żądaniami)
-      # KGHM/PGE/PGG/ARP — do potwierdzenia URL-i w kroku 0, potem dodać wpisy.
+    - id: tauron
+      name: Grupa TAURON (SWOZ — Platforma Zakupowa)
+      kind: sp
+      enabled: true
+      # UWAGA: www.tauron.pl/tauron/przetargi jest martwe (1 archiwalny wpis
+      # z 2017, docs/zrodla-decyzje.md) — ogłoszenia grupy publikuje SWOZ
+      # (swoz.tauron.pl, platforma Mercus). Server-side HTML, robots.txt: brak.
+      list_url: https://swoz.tauron.pl/platform/demand/notice/public/current/list
+      crawl_delay: 10
+      # Paginacja formularzowa (POST) — MVP: strona 1 (~30 najnowszych)
+      # KGHM/PGE/PGG/ARP/Enea — do potwierdzenia sondą z runnera
+      # (.github/workflows/bip_probe.yml), potem dodać wpisy.
 
 sp_companies:  # rozpoznanie zamawiającego → bonus +1
   - "Polski Holding Nieruchomości"

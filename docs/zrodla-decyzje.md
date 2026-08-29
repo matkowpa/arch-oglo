@@ -82,6 +82,45 @@ domknięte dopiero w Fazie 2 (Logintrade/IMAP) albo po odnalezieniu statycznych 
 
 ---
 
+## Rozszerzenie BIP: research spółek 2–8 (2026-08-29, Faza 0 planu rozszerzenia)
+
+Sondy read-only GET (User-Agent własny). Wstępnie z tej maszyny; **sondy rozstrzygające
+powtarzać z runnera** (`.github/workflows/bip_probe.yml`), bo lokalny DNS/sieć zwraca
+ConnectError/timeout dla części domen (jsw.com.pl, kontrakty.orlen.pl, grupa.enea.pl,
+biuletyny.tauron.pl, arp.com.pl).
+
+### TAURON — WDROŻONE (źródło 5)
+
+- **Kluczowe odkrycie:** statyczna strona `www.tauron.pl/tauron/przetargi` (server-side,
+  roboty budowlane tabelka) zawiera **wyłącznie archiwalny wpis z 2017 r.** — jest martwa
+  dla naszego celu. Realne ogłoszenia całej grupy (~10 spółek) publikuje **SWOZ**:
+  `https://swoz.tauron.pl/platform/demand/notice/public/current/list`.
+- **SWOZ = platforma Mercus** (`mp_gridTable`, `data-mpgrid-id`) — tej samej rodziny co
+  sekcja „Mercus" w menu KGHM; wskazówka, że parser może się przydać dla kolejnych spółek.
+- **Potwierdzone empirycznie:** HTTP 200, HTML renderowany serwerowo (25–30 wierszy/stronę,
+  wpisy z 2026 r.), robots.txt: **brak** (404 → brak zakazów), bez rejestracji.
+- Struktura: `<table id="publicList">`, nagłówek to zwykły `<tr><th>` (bez `<thead>`),
+  kolumny: number, name, procedureType, realizationType, type, categoryItem,
+  publicationDate, stageEndDate, responsiblePerson, namePurchaser. Wiersz **nie zawiera
+  linku do szczegółów** (nawigacja JS) → `url` = strona listy; unikalność po tytule.
+- Paginacja formularzowa (POST `searchform`) — dla MVP strona 1 (30 najnowszych);
+  wolumen dzienny grupy TAURON jest od niej znacznie niższy.
+- Parser: `scraper/sources/bip/tauron.py`, fixture `tests/fixtures/tauron_swoz_list.html`.
+
+### Pozostałe spółki — stan po sondach lokalnych
+
+| Spółka | Sonda | Wniosek |
+|---|---|---|
+| PGG | `pgg.pl/przetargi` → hub **server-side**; podstrona „Przed terminem składania ofert" 200, 49 KB | **Kandydat Tier A** — parser po ustaleniu dokładnych URL-i podstron |
+| KGHM | menu kghm.com ma sekcje (Przetargi nieograniczone, Pozostałe ogłoszenia, Umowy ramowe, Zapytania ofertowe, Mercus); zgłoszone URL-e → 404 | Kandydat Tier A po odkryciu właściwych URL-i (sonda z runnera + linki z homepage) |
+| PKP Intercity | stopka → „Dla dostawców i wykonawców" + BIP; zgłoszony URL → 404 | Profil idealny (dworce); ustalić miejsce publikacji sondą z runnera |
+| Enea | `www.enea.pl/przetargi` → 404; `grupa.enea.pl` — DNS nieosiągalny lokalnie | Sonda z runnera zdecyduje |
+| ARP | timeout lokalnie | Sonda z runnera |
+| PSE | `pse.pl/przetargi` → tylko link do platformy `przetargi.pse.pl` | Tier B: research API platformy (jak BZP) |
+| PGE | Logintrade / `strefazakupow.pge.pl` | Faza 2 (kanał IMAP / research API) |
+
+---
+
 ## Rezerwa — niesprawdzone
 
 - Pozostałe wartości `NoticeType` (400 dla: `DirectContractNotice`, `ContractAwardNotice`,
