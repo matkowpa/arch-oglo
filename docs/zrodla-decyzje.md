@@ -125,15 +125,30 @@ biuletyny.tauron.pl, arp.com.pl).
 - Do powrotu: znaleźć endpoint JSON w aplikacji (badanie jak dla BZP) albo headless —
   **poza MVP**. Notatka zapisana, parser nie pisany (zasada 10.9: zgłosić, nie improwizować).
 
-### Pozostałe spółki — wyniki sondy lokalnej (runner: bip-probe — do potwierdzenia)
+### Pozostałe spółki — ROZSTRZYGNIĘTE sondą z runnera (bip-probe #1, 2026-08-31)
 
-- **Intercity:** właściwa ścieżka to `/pl/site/o-nas/przetargi/` (200), ale to strony
-  opisowe, nie spis ogłoszeń; spis pewnie w BIP (`bip.intercity.pl` — DNS nieosiągalny
-  lokalnie). Sonda z runnera zdecyduje.
-- **Enea:** `www.enea.pl` odpowiada (200), ale `/przetargi` → 404; `grupa.enea.pl`
-  nieosiągalna lokalnie. Sonda z runnera.
-- **PSE:** platforma `przetargi.pse.pl` odpowiada (200) — do researchu API (Tier B).
-- **ARP, JSW, PGE, Orlen:** nieosiągalne z tej sieci (timeout/DNS/SSL) — tylko runner.
+Wyniki bip-probe z sieci GitHub Actions (pełna tabela w Summary runu):
+
+| Spółka | Sonda z runnera | Werdykt |
+|---|---|---|
+| ARP | `www.arp.com.pl` → **ConnectTimeout** także z runnera | **ZAMKNIĘTA** — host nieosiągalny (infra/geo-blokada); brak ścieżki |
+| Enea | `grupa.enea.pl` → **DNS nie istnieje** (Name or service not known); `www.enea.pl` 200, ale 0 linków przetargowych na homepage | **ZAMKNIĘTA** (MVP) — przetargi grupy pewnie na platformie zewn.; dopiero research Tier B |
+| JSW | `jsw.com.pl` → **DNS nie istnieje** | **ZAMKNIĘTA** — domena martwa (restrukturyzacja JSW) |
+| Orlen | `kontrakty.orlen.pl` → **DNS nie istnieje** | **ZAMKNIĘTA** — platforma przeniesiona/domena wygasła; poza zakresem (403 w Azotach już wcześniej) |
+| PGE | `strefazakupow.pge.pl` → SSL verify fail (domena do weryfikacji); PGE = Logintrade | **Faza 2** (kanał IMAP / research Logintrade) |
+| Intercity | `/pl/site/o-nas/przetargi/` → **403 (WAF, 429 B)**; `bip.intercity.pl` → DNS fail | **ZAMKNIĘTA** (MVP) — anty-bot; jedyna ścieżka: ręczne pozyskanie BIP lub kanał informacyjny |
+| PSE | `przetargi.pse.pl` → 200, 16 KB, 4 linki | **Tier B** — research API platformy (jak BZP) — jedyny żywy kandydat kolejnego źródła |
+
+### Bilans rozszerzenia BIP (2026-08-31)
+
+**Wdrożone:** PHN, TAURON (SWOZ/Mercus), KGHM — 3 źródła server-side.
+**Odłożone:** PGG (JS-driven — do powrotu po znalezieniu endpointu JSON).
+**Zamknięte z przyczyn obiektywnych:** ARP, Enea, JSW, Orlen, Intercity (DNS/WAF).
+**Kolejny krok opcjonalny:** PSE (research API) albo PGE/Logintrade (Faza 2).
+
+Wniosek: udział procedur w BZP + TED + 3 portale spółek pokrywa rozsądny
+maksimum przy koszcie utrzymania MVP; dalsze źródła wymagają własnych
+platform/API (Tier B), nie scrapingu statycznego.
 
 ---
 

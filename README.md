@@ -33,7 +33,8 @@ Zostaje jako rezerwa na wypadek włączenia powiadomień na innych platformach
 | BIP: Grupa TAURON (SWOZ) | **AKTYWNY** (od 2026-08-29) | `swoz.tauron.pl/.../current/list` (platforma Mercus, server-side, ~30 najnowszych); robots.txt: brak; szczegóły: [docs/zrodla-decyzje.md](docs/zrodla-decyzje.md) |
 | BIP: KGHM S.A. | **AKTYWNY** (od 2026-08-29) | `kghm.com/pl/przetargi-nieograniczone` (Drupal views, 2 × 10 najnowszych); właściwy URL odkryty sondu (plan zgłaszał 404) |
 | BIP: PGG | **ODŁOŻONY** | listy zakupowe renderowane w JS (pusty `<main>`); do powrotu po znalezieniu endpointu JSON |
-| BIP: PKP IC / Enea / ARP / JSW | **W NAROZKOWIE** | sonda z runnera: Actions → `bip-probe` → Run workflow |
+| BIP: pozostałe spółki (ARP/Enea/JSW/Orlen/Intercity) | **ZAMKNIĘTE** | werdykt sondy z runnera (bip-probe #1): DNS nie istnieje / WAF 403 / timeout — brak ścieżki scrapingu |
+| PSE (`przetargi.pse.pl`) / PGE (Logintrade) | **TIER B / FAZA 2** | jedyny żywy kandydat kolejnego źródła: research API PSE |
 | platformazakupowa (IMAP) | **WYŁĄCZONY** | platforma NIE oferuje subskrypcji CPV e-mail (potwierdzone 2026-08-28); parser dormant na powiadomienia z innych platform (Faza 2) |
 
 Dodawanie źródła: nowy plik w `scraper/sources/` z klasą `fetch() -> list[Announcement]` + wpis w `config/sources.yaml`.
