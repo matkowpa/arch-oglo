@@ -38,6 +38,18 @@ Zostaje jako rezerwa na wypadek włączenia powiadomień na innych platformach
 
 Dodawanie źródła: nowy plik w `scraper/sources/` z klasą `fetch() -> list[Announcement]` + wpis w `config/sources.yaml`.
 
+## Troubleshooting
+
+**Błąd „pages build and deployment" / Jekyll `chdir: No such file or directory - docs`**
+W repo mogą istnieć **dwa równoległe deploymenty Pages**: nasz (`daily-scrape` →
+`deploy-pages`, publikuje artefakt `docs_site`) oraz wbudowany workflow GitHuba
+`pages-build-deployment`, który buduje Jekyll ze źródła `./docs` (brak tam strony —
+błąd nieszkodliwy, ale zaśmieca Actions i może wysyłać maile o błędach).
+Naprawa: **Settings → Pages → Build and deployment → Source: GitHub Actions** —
+wbudowany workflow zniknie, a `deploy-pages` pozostanie jedynym mechanizmem
+publikacji. Odwrotna konfiguracja (*Deploy from a branch*) powoduje, że `deploy-pages`
+zaczyna padać — nie mieszaj obu trybów.
+
 ## Reguły filtrowania (sekcje 1, 3.3)
 
 - Twarde frazy +3 (×waga pola: tytuł ×2, opis ×1), konkurs +2, CPV 71* +3
