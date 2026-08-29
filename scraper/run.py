@@ -17,6 +17,7 @@ from .healthcheck import check, record_run
 from .model import Announcement
 from .site import render_site
 from .sources.bzp import BzpSource
+from .sources.bip.kghm import KghmSource
 from .sources.bip.phn import PhnSource
 from .sources.bip.tauron import TauronSource
 from .sources.pz_email import PzEmailSource
@@ -44,7 +45,7 @@ def build_sources() -> list:
     cpv_codes = [str(c) for c in load_yaml("cpv.yaml").get("cpv", [])]
     out = [TedSource(s["ted"])]
     # BIP-y spółek: rejestr id -> parser (sekcja 7; nowe spółki = nowy parser + wpis)
-    bip_parsers = {"phn": PhnSource, "tauron": TauronSource}
+    bip_parsers = {"phn": PhnSource, "tauron": TauronSource, "kghm": KghmSource}
     for company in s.get("bip", {}).get("companies", []):
         cls = bip_parsers.get(company.get("id"))
         if cls is not None and company.get("enabled", True):

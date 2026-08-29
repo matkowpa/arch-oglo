@@ -107,17 +107,33 @@ biuletyny.tauron.pl, arp.com.pl).
   wolumen dzienny grupy TAURON jest od niej znacznie niższy.
 - Parser: `scraper/sources/bip/tauron.py`, fixture `tests/fixtures/tauron_swoz_list.html`.
 
-### Pozostałe spółki — stan po sondach lokalnych
+### KGHM — WDROŻONE (źródło 6, 2026-08-29)
 
-| Spółka | Sonda | Wniosek |
-|---|---|---|
-| PGG | `pgg.pl/przetargi` → hub **server-side**; podstrona „Przed terminem składania ofert" 200, 49 KB | **Kandydat Tier A** — parser po ustaleniu dokładnych URL-i podstron |
-| KGHM | menu kghm.com ma sekcje (Przetargi nieograniczone, Pozostałe ogłoszenia, Umowy ramowe, Zapytania ofertowe, Mercus); zgłoszone URL-e → 404 | Kandydat Tier A po odkryciu właściwych URL-i (sonda z runnera + linki z homepage) |
-| PKP Intercity | stopka → „Dla dostawców i wykonawców" + BIP; zgłoszony URL → 404 | Profil idealny (dworce); ustalić miejsce publikacji sondą z runnera |
-| Enea | `www.enea.pl/przetargi` → 404; `grupa.enea.pl` — DNS nieosiągalny lokalnie | Sonda z runnera zdecyduje |
-| ARP | timeout lokalnie | Sonda z runnera |
-| PSE | `pse.pl/przetargi` → tylko link do platformy `przetargi.pse.pl` | Tier B: research API platformy (jak BZP) |
-| PGE | Logintrade / `strefazakupow.pge.pl` | Faza 2 (kanał IMAP / research API) |
+- **URL rozstrzygnięty:** zgłoszone w planie `/pl/przetargi` i `/pl/korporacyjne/przetargi`
+  → 404; właściwy spis: `https://kghm.com/pl/przetargi-nieograniczone`.
+- Drupal views, server-side HTML, 10 wierszy/stronę, paginacja `?page=0..N`.
+  Kolumny z `<time datetime="ISO">` (Data publikacji, Termin składania ofert, Tytuł+link).
+- robots.txt kghm.com: 200, brak dyrektyw blokujących ścieżkę.
+- Pozostałe sekcje (Pozostałe ogłoszenia, Umowy ramowe, Zapytania ofertowe) — do
+  rozszerzenia w późniejszych iteracjach. Konfiguracja: `pages: 2` (2 × 10 najnowszych).
+
+### PGG — ODŁOŻONE (listy JS-driven)
+
+- Hub `/przetargi` server-side, ale właściwe listy (`/przetargi/przetargi-zakupowe/
+  przed-terminem-skladania-ofert` → 200, 49 KB) mają **pusty `<main>`** — treść renderuje
+  aplikacja Vite (`app-rB_Ysula.js` + `/js/przetargi/scripts.js`).
+- Do powrotu: znaleźć endpoint JSON w aplikacji (badanie jak dla BZP) albo headless —
+  **poza MVP**. Notatka zapisana, parser nie pisany (zasada 10.9: zgłosić, nie improwizować).
+
+### Pozostałe spółki — wyniki sondy lokalnej (runner: bip-probe — do potwierdzenia)
+
+- **Intercity:** właściwa ścieżka to `/pl/site/o-nas/przetargi/` (200), ale to strony
+  opisowe, nie spis ogłoszeń; spis pewnie w BIP (`bip.intercity.pl` — DNS nieosiągalny
+  lokalnie). Sonda z runnera zdecyduje.
+- **Enea:** `www.enea.pl` odpowiada (200), ale `/przetargi` → 404; `grupa.enea.pl`
+  nieosiągalna lokalnie. Sonda z runnera.
+- **PSE:** platforma `przetargi.pse.pl` odpowiada (200) — do researchu API (Tier B).
+- **ARP, JSW, PGE, Orlen:** nieosiągalne z tej sieci (timeout/DNS/SSL) — tylko runner.
 
 ---
 

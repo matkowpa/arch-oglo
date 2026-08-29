@@ -82,6 +82,18 @@ bip:
       list_url: https://swoz.tauron.pl/platform/demand/notice/public/current/list
       crawl_delay: 10
       # Paginacja formularzowa (POST) — MVP: strona 1 (~30 najnowszych)
+    - id: kghm
+      name: KGHM Polska Miedź S.A.
+      kind: sp
+      enabled: true
+      # Właściwy spis to /pl/przetargi-nieograniczone (plan zgłaszał 404-owe
+      # URL-e; odkrycie 2026-08-29, docs/zrodla-decyzje.md). Drupal views,
+      # server-side, 10 wierszy/stronę, paginacja ?page=0..N (parser 1-based).
+      list_url: https://kghm.com/pl/przetargi-nieograniczone
+      crawl_delay: 10
+      pages: 2   # 2 x 10 najnowszych; można zwiększyć po obserwacji wolumenu
+      # PGG — listy zakupowe renderowane w JS (app-rB_Ysula.js, pusty <main>);
+      # do powrotu dopiero po znalezieniu endpointu JSON (docs/zrodla-decyzje.md)
       # KGHM/PGE/PGG/ARP/Enea — do potwierdzenia sondą z runnera
       # (.github/workflows/bip_probe.yml), potem dodać wpisy.
 
