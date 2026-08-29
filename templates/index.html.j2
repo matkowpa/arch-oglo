@@ -50,8 +50,10 @@
         <div class="text-zinc-400 text-sm mt-1">najbliższy termin składania</div>
       </div>
       <div class="bg-zinc-900 border border-zinc-800 rounded-xl p-5">
-        <div class="text-3xl font-bold">3</div>
-        <div class="text-zinc-400 text-sm mt-1">źródła danych · {{ generated }}</div>
+        <a href="https://github.com/matkowpa/arch-oglo#%C5%BAr%C3%B3d%C5%82a" title="Lista źródeł i ich status — README (otwiera GitHub)" class="block group">
+          <div class="text-3xl font-bold group-hover:text-emerald-400 transition">{{ n_sources }}</div>
+          <div class="text-zinc-400 text-sm mt-1 group-hover:text-zinc-300 transition">{{ sources_word }} · {{ generated }}</div>
+        </a>
       </div>
     </div>
   </div>

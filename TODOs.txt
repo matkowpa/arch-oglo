@@ -23,3 +23,5 @@ link: https://bip.phnsa.pl/ogloszenia/2
 plik: przykład_przetargu.eml
 
 
+todo:
+kolejne BIPY spółek do przeglądnięcia

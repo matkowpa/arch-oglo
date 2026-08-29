@@ -63,6 +63,15 @@ def render_site(announcements_path: str, out_dir: str, display_days: int = 30,
         (a for a in current if a.get("termin_skladania")),
         key=lambda x: x["termin_skladania"],
     )[:3]
+    # Kafelek „N źródeł danych": liczba unikalnych źródeł wśród aktualnie
+    # wyświetlanych ogłoszeń (+ polska odmiana liczby)
+    n_sources = len({a.get("zrodlo") for a in current if a.get("zrodlo")})
+    if n_sources == 1:
+        sources_word = "źródło danych"
+    elif 2 <= n_sources <= 4:
+        sources_word = "źródła danych"
+    else:
+        sources_word = "źródeł danych"
     ctx = {
         "current": current,
         "archive": archive,
@@ -73,6 +82,8 @@ def render_site(announcements_path: str, out_dir: str, display_days: int = 30,
         "deadline_14": d14,
         "display_days": display_days,
         "failed_sources": failed_sources or [],  # sekcja 8.6: źródła zawiedzione w tym runie
+        "n_sources": n_sources,
+        "sources_word": sources_word,
     }
     os.makedirs(out_dir, exist_ok=True)
     for tpl, name in (("index.html.j2", "index.html"), ("archiwum.html.j2", "archiwum.html")):
