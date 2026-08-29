@@ -67,9 +67,9 @@ jobs:
         with:
           name: docs-site
           path: docs_site
+      # UWAGA: bez enablement:true — Pages jest już włączone; wywołanie enablement
+      # potrafi zawisnąć na API (2026-08-31). Configure tylko odczytuje konfigurację.
       - uses: actions/configure-pages@v5
-        with:
-          enablement: true
       - uses: actions/upload-pages-artifact@v3
         with:
           path: docs_site

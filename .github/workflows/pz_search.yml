@@ -89,9 +89,8 @@ jobs:
         with:
           name: docs-site-pz
           path: docs_site
+      # Bez enablement:true — jak w daily.yml (zawieszenie na API, 2026-08-31)
       - uses: actions/configure-pages@v5
-        with:
-          enablement: true
       - uses: actions/upload-pages-artifact@v3
         with:
           path: docs_site
