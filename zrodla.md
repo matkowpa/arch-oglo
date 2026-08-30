@@ -21,9 +21,30 @@ Dokument zbiorczy: jak każde źródło wyszukuje ogłoszenia, co decyduje o „
 **Plik:** `scraper/sources/ted.py` · Uruchamiane w każdym runie (daily + pz-search)
 
 - **Jak wyszukuje:** `POST https://api.ted.europa.eu/v3/notices/search` (API v3, anonimowe, bez klucza). Zapytanie strict: `classification-cpv IN (9 kodów 71*) AND buyer-country=POL` + dynamiczny filtr `deadline>dziś` (`only_open: true`) — dzięki niemu TED zwraca **tylko otwarte** postępowania i pole terminu jest wypełnione.
-- **Co znaczy „zgodne":** tu filtrem są **kody CPV w zapytaniu** (nie frazy) — wyszukiwarka TED dopasowuje klasyfikację przedmiotu; dopasowanie decyduje silnik TED.
+- **Co znaczy „zgodne":** tu filtrem są **kody CPV w zapytaniu** (nie frazy) — wyszukiwarka TED dopasowuje klasyfikację przedmiotu; dopasowanie decyduje silnik TED. Lista 9 kodów: patrz sekcja **„Kody CPV"** poniżej.
 - **Zakres pobrania:** `limit: 100`, `scope: ACTIVE`, strona 1 (paginacja ITERATION — nie wykorzystywana).
 - **Odporność:** backoff na HTTP 429 (2 próby); pola wielojęzyczne — preferuj `pol`, fallback `eng`.
+
+### Kompletność pokrycia (weryfikacja 2026-08-30)
+
+Zapytanie kontrolne z licznikiem (`limit: 1`, odczyt pola `totalNoticeCount`) wykazało: **8 pasujących ogłoszeń** przy bieżącej konfiguracji → nasze `limit: 100` pokrywa wynik **całkowicie** (1 strona, zapas 92 rekordów). Wniosek: **dziś pobieramy wszystkie** ogłoszenia TED spełniające warunki zapytania.
+
+Co „wszystkie" oznacza, a co NIE (wykluczenia z założeń, nie z błędów):
+
+| Wykluczone | Powód |
+|---|---|
+| Ogłoszenia **bez terminu składania** (dialog techniczny, ogłoszenia o zamiarze, część umów ramowych) | warunek `deadline>` odrzuca puste terminy — zamierzona cena za „tylko otwarte" (bez tego TED zwracał zamknięte z pustym terminem, sonda 2026-08-28) |
+| Postępowania **zamknięte** | `scope: ACTIVE` |
+| **Opóźnienie indeksu** TED | ogłoszenie opublikowane w ciągu dnia trafia do nas najpóźniej w następnym runie (pz-search do 10:07, daily 05:07 i 12:30 UTC) |
+| Dopiero **scoring** decyduje o publikacji | z pobranych (np. 8) na stronę trafia tylko część — przejście scoringu to odrębny etap od kompletności pobrania |
+
+Kody spoza listy 9 (np. 71247000 — nadzór nad budową) nie wchodzą — poszerzenie = edycja `query` w `config/sources.yaml`.
+
+### Limity zapytań TED (anonimowe)
+
+Oficjalne limity rate dla dostępu anonimowego **nie są opublikowane** (developer portal to SPA bez statycznej treści; FAQ 404). Znane fakty: twardy sufit `limit` = **100 rekordów/zapytanie**; przekroczenie tempa objawia się **HTTP 429** (nasz kod: backoff 3/6 s, 2 próby); w historii projektu 429 nie wystąpił.
+
+Bezpieczny budżet praktyczny (fair-use, bez klucza): **1–2 żądania na godzinę** — my robimy **7–8 zapytań dziennie** (1/run, runy co ≥ 1 h), głęboko poniżej progu reakcji. Ryzyko blokady wynika z **tempa** (burza żądań), nie z liczby na dobę — nie wysyłać zapytań równolegle ani w seriach bez odstępów. Gdyby wolumen CPV-71* z Polski przekroczył 100/dobę: paginacja w głąb (strony 2..N, odstęp kilkanaście sekund), **nie** częstsze odpytywanie.
 
 
 ## 3. BZP — ezamowienia.gov.pl (główne źródło krajowe, PZP > 130 tys. zł)
@@ -58,6 +79,27 @@ Dokument zbiorczy: jak każde źródło wyszukuje ogłoszenia, co decyduje o „
 - **Jak wyszukuje:** brak wyszukiwarki — Drupal views: `GET /pl/przetargi-nieograniczone` + paginacja `?page=0..N`, **strony 1–2** (`pages: 2` → 2 × 10 najnowszych), przerwa 10 s.
 - **Co znaczy „zgodne":** bez filtrów przy pobraniu — tabela `views-table` (tytuł z linkiem, daty z `<time datetime="ISO">`); selekcję robi scoring.
 - **Możliwe rozszerzenie:** sekcje „Pozostałe ogłoszenia", „Umowy ramowe", „Zapytania ofertowe" — po obserwacji wolumenu.
+
+---
+## Kody CPV — wspólna lista dla TED i BZP
+
+Jedna lista 9 kodów (dział 71, CPV 2008) steruje **wszystkimi** źródłami klasyfikowanymi po CPV:
+- **TED** — kody wstrzykiwane do zapytania strict (`classification-cpv IN (...)`) — filtr po stronie TED,
+- **BZP** — API ignoruje filtr CPV, więc ta sama lista służy do **lokalnego** filtrowania pobranych ogłoszeń (`scraper/filters.py` + `config/cpv.yaml`).
+
+| Kod | Znaczenie |
+|---|---|
+| 71200000 | usługi architektoniczne |
+| 71220000 | usługi architektoniczne w zakresie budynków |
+| 71221000 | usługi projektowania architektonicznego |
+| 71222000 | usługi nadzoru architektonicznego |
+| 71240000 | usługi inżynieryjne i projektowanie |
+| 71300000 | usługi inżynieryjne |
+| 71320000 | usługi doradcze w zakresie inżynierii |
+| 71400000 | projektowanie urbanistyczne i architektura krajobrazu |
+| 71248000 | dokumentacja projektowa |
+
+**Weryfikacja (krok 0.1, 2026-08-29):** każdy kod potwierdzony przez API TED (strict `classification-cpv=<kod>` → HTTP 200; nieznane kody TED odrzuca). Oficjalne źródło: CPV 2008 (SIMAP, dz. 71). Pełny komentarz: `config/cpv.yaml`.
 
 ---
 

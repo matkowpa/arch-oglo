@@ -40,8 +40,17 @@ Zostaje jako rezerwa na wypadek włączenia powiadomień na innych platformach
 | BIP: pozostałe spółki (ARP/Enea/JSW/Orlen/Intercity) | **ZAMKNIĘTE** | werdykt sondy z runnera (bip-probe #1): DNS nie istnieje / WAF 403 / timeout — brak ścieżki scrapingu |
 | PSE (`przetargi.pse.pl`) / PGE (Logintrade) | **TIER B / FAZA 2** | jedyny żywy kandydat kolejnego źródła: research API PSE |
 | platformazakupowa (IMAP) | **WYŁĄCZONY** | platforma NIE oferuje subskrypcji CPV e-mail (potwierdzone 2026-08-28); parser dormant na powiadomienia z innych platform (Faza 2) |
-
 Dodawanie źródła: nowy plik w `scraper/sources/` z klasą `fetch() -> list[Announcement]` + wpis w `config/sources.yaml`.
+
+### Kody CPV
+
+Wspólna lista **9 kodów z działu 71** (CPV 2008, usługi architektoniczne / inżynieryjne / projektowe — pełna tabela z opisami: [zrodla.md](zrodla.md), konfiguracja: `config/cpv.yaml`) steruje wszystkimi źródłami klasyfikowanymi po CPV:
+
+- **TED** — kody w zapytaniu strict (`classification-cpv IN (...)`) — filtrowanie po stronie TED,
+- **BZP** — API nie filtruje po CPV, więc ta sama lista stosowana lokalnie do pobranych ogłoszeń.
+
+Weryfikacja (krok 0.1): każdy kod potwierdzony przez API TED (nieznane kody TED odrzuca); szczegóły w komentarzu `config/cpv.yaml`. Dokumentuje też, które kody są celowo **poza** listą (np. 71247000 — nadzór nad budową) — poszerzenie to edycja `query` w `config/sources.yaml`.
+
 
 ## Troubleshooting
 
