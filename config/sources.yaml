@@ -119,4 +119,4 @@ exchange_companies:  # bonus +1 — spółki giełdowe
   - "PGE"
 
 history_days: 90
-display_days: 30
+display_days: 7   # 2026-08-30: zawężone z 30 na życzenie użytkownika (starsze → archiwum.html)
