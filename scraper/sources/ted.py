@@ -12,7 +12,7 @@ from ..model import Announcement
 from .base import BaseSource
 
 FIELDS = ["publication-number", "notice-title", "buyer-name", "deadline",
-          "classification-cpv", "publication-date"]
+          "deadline-receipt-request", "classification-cpv", "publication-date"]
 
 
 class TedSource(BaseSource):
@@ -97,7 +97,14 @@ class TedSource(BaseSource):
                     url=f"https://ted.europa.eu/en/notice/-/detail/{pub}",
                     zamawiajacy=self._lang(n.get("buyer-name")),
                     data_publikacji=data,
-                    termin_skladania=self._lang(n.get("deadline")) or None,
+                    # UWAGA (2026-08-30): TED indeksuje termin w DWOCH polach
+                    # (eForms: `deadline`, legacy UBL z platform krajowych:
+                    # `deadline-receipt-request`) — patrz komentarz w fetch().
+                    # Bez fallbacku ogłoszenia legacy UBL dostawały termin None,
+                    # a dedup wtórny nie umiał wybrać nowszej wersji przy korekcie.
+                    termin_skladania=self._lang(n.get("deadline"))
+                    or self._lang(n.get("deadline-receipt-request"))
+                    or None,
                     cpv=cpv,
                     status_opisu="brak",
                 )

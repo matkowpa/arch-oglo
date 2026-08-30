@@ -2,8 +2,9 @@
 
 Dodatkowy dedup wtórny: to samo ogłoszenie (ten sam źródło + znormalizowany
 tytuł + zamawiający) z różnych URL-i (np. TED: ogłoszenie + korekta, inne
-numery publikacji) liczone jest raz — zostaje egzemplarz z najbliższym
-terminem składania.
+numery publikacji) liczone jest raz — zostaje NAJNOWSZY egzemplarz
+(późniejszy termin składania / data publikacji; korekty TED przedłużają
+termin, więc stara wersja jest nieważna).
 """
 from __future__ import annotations
 
@@ -54,15 +55,26 @@ def merge(existing: list[Announcement], incoming: list[Announcement],
     out.sort(key=lambda x: (x.termin_skladania or "9999", x.tytul))
 
     # dedup wtórny: ten sam zrodlo + tytuł + zamawiający z różnych URL-i
-    seen: set = set()
+    # (np. TED: ogłoszenie + korekta, inne numery publikacji) liczone raz.
+    # Zostaje NAJNOWSZA wersja: późniejszy termin składania (korekty TED
+    # przedłużają termin — stara wersja jest nieważna), remis -> późniejsza
+    # data publikacji. Bez zamawiającego dedup wtórny nie zadziała
+    # (za ostrożne scalanie).
+    def _rank(a: Announcement) -> tuple:
+        return (a.termin_skladania or "", a.data_publikacji or "")
+
+    best: dict = {}
     final: list[Announcement] = []
     for a in out:
-        if a.zamawiajacy:
-            key = (a.zrodlo, _norm(a.tytul), _norm(a.zamawiajacy))
-            if key in seen:
-                continue
-            seen.add(key)
-        final.append(a)
+        if not a.zamawiajacy:
+            final.append(a)
+            continue
+        key = (a.zrodlo, _norm(a.tytul), _norm(a.zamawiajacy))
+        cur = best.get(key)
+        if cur is None or _rank(a) > _rank(cur):
+            best[key] = a
+    final.extend(best.values())
+    final.sort(key=lambda x: (x.termin_skladania or "9999", x.tytul))
     return final
 
 

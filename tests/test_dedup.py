@@ -109,14 +109,40 @@ def test_secondary_dedup_same_title_different_urls():
     assert len(out) == 1
 
 
-def test_secondary_dedup_keeps_earliest_deadline():
-    a1 = _buyer("https://x/late", "Ten sam tytuł")
-    a1.termin_skladania = "2030-01-01"
-    a2 = _buyer("https://x/early", "Ten sam tytuł")
+def test_secondary_dedup_keeps_extended_deadline():
+    """Korekta TED przedłuża termin -> zostaje wersja z PÓŹNIEJSZYM terminem."""
+    a1 = _buyer("https://ted/591163-2026", "Ten sam tytuł")
+    a1.termin_skladania = "2026-09-04T08:00:00+02:00"
+    a2 = _buyer("https://ted/595865-2026", "Ten sam tytuł")
+    a2.termin_skladania = "2026-09-08T08:00:00+02:00"
+    out = merge([], [a1, a2], history_days=90)
+    assert len(out) == 1
+    assert out[0].termin_skladania == "2026-09-08T08:00:00+02:00"
+
+
+def test_secondary_dedup_store_keeps_newer_correction():
+    """Scenariusz realny (595865-2026): stara wersja w magazynie, korekta
+    przychodzi w incoming — magazyn dostaje nowszy numer publikacji."""
+    old = _buyer("https://ted/591163-2026", "Ten sam tytuł")
+    old.termin_skladania = "2026-09-04T08:00:00+02:00"
+    old.data_publikacji = "2026-08-27"
+    corr = _buyer("https://ted/595865-2026", "Ten sam tytuł")
+    corr.termin_skladania = "2026-09-08T08:00:00+02:00"
+    corr.data_publikacji = "2026-08-28"
+    out = merge([old], [corr], history_days=90)
+    assert len(out) == 1
+    assert out[0].url == "https://ted/595865-2026"
+
+
+def test_secondary_dedup_dated_beats_undated():
+    """Egzemplarz z terminem wygrywa z egzemplarzem bez terminu."""
+    a1 = _buyer("https://x/nodaterm", "Ten sam tytuł")
+    a1.data_publikacji = "2026-08-29"  # nowsza publikacja, ale bez terminu
+    a2 = _buyer("https://x/withterm", "Ten sam tytuł")
     a2.termin_skladania = "2026-09-01"
     out = merge([], [a1, a2], history_days=90)
     assert len(out) == 1
-    assert out[0].termin_skladania == "2026-09-01"
+    assert out[0].url == "https://x/withterm"
 
 
 def test_secondary_dedup_keeps_different_sources():
