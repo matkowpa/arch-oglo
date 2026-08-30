@@ -2,7 +2,8 @@ name: daily-scrape
 
 on:
   schedule:
-    - cron: '7 5 * * *'   # nieokrągła minuta; harmonogram NIE jest gwarantowany (opóźnienia 5–30 min, run może zostać pominięty)
+    - cron: '7 5 * * *'    # nieokrągła minuta; harmonogram NIE jest gwarantowany (opóźnienia 5–30 min, run może zostać pominięty)
+    - cron: '30 12 * * *'  # slot zapasowy — gdy 05:07 zostanie pominięte przez GitHuba (observed 2026-08-30)
   workflow_dispatch: {}   # ręczne uruchomienie do testów / po pominiętym runie
 
 concurrency:
