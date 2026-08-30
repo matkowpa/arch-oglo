@@ -33,6 +33,12 @@ ted:
   url: https://api.ted.europa.eu/v3/notices/search
   scope: ACTIVE
   limit: 100
+  # 2026-08-30: TED indeksuje termin ofert w DWOCH polach (eForms: `deadline`,
+  # legacy UBL z platform krajowych: `deadline-receipt-request`) — pola
+  # ROZŁĄCZNE; only_open => OR obu. pages=5 pokrywa ~440 aktywnych ogłoszeń
+  # (sonda 2026-08-30: 438).
+  pages: 5
+  crawl_delay: 5
   # Potwierdzone sondą 2026-08-28: filtr deadline>dziś zwraca TYLKO otwarte
   # postępowania i pole deadline jest wtedy wypełnione (bez niego TED zwracał
   # ogłoszenia zamknięte z pustym terminem).

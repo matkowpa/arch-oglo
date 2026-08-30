@@ -20,33 +20,34 @@ Dokument zbiorczy: jak każde źródło wyszukuje ogłoszenia, co decyduje o „
 
 **Plik:** `scraper/sources/ted.py` · Uruchamiane w każdym runie (daily + pz-search)
 
-- **Jak wyszukuje:** `POST https://api.ted.europa.eu/v3/notices/search` (API v3, anonimowe, bez klucza). Zapytanie strict: `classification-cpv IN (9 kodów 71*) AND buyer-country=POL` + dynamiczny filtr `deadline>dziś` (`only_open: true`) — dzięki niemu TED zwraca **tylko otwarte** postępowania i pole terminu jest wypełnione.
+- **Jak wyszukuje:** `POST https://api.ted.europa.eu/v3/notices/search` (API v3, anonimowe, bez klucza). Zapytanie strict: `classification-cpv IN (9 kodów 71*) AND buyer-country=POL` + dynamiczny filtr `only_open` → **`(deadline>dziś OR deadline-receipt-request>dziś)`**.
 - **Co znaczy „zgodne":** tu filtrem są **kody CPV w zapytaniu** (nie frazy) — wyszukiwarka TED dopasowuje klasyfikację przedmiotu; dopasowanie decyduje silnik TED. Lista 9 kodów: patrz sekcja **„Kody CPV"** poniżej.
-- **Zakres pobrania:** `limit: 100`, `scope: ACTIVE`, strona 1 (paginacja ITERATION — nie wykorzystywana).
+- **Zakres pobrania:** `limit: 100`/stronę, `scope: ACTIVE`, **paginacja 5 stron** (`pages: 5`, przerwa `crawl_delay: 5 s`); duplikaty między stronami zwija dedup po hash.
 - **Odporność:** backoff na HTTP 429 (2 próby); pola wielojęzyczne — preferuj `pol`, fallback `eng`.
 
-### Kompletność pokrycia (weryfikacja 2026-08-30)
+### ⚠️ Krytyczne odkrycie: TED indeksuje termin ofert w DWOCH polach (2026-08-30)
 
-Zapytanie kontrolne z licznikiem (`limit: 1`, odczyt pola `totalNoticeCount`) wykazało: **8 pasujących ogłoszeń** przy bieżącej konfiguracji → nasze `limit: 100` pokrywa wynik **całkowicie** (1 strona, zapas 92 rekordów). Wniosek: **dziś pobieramy wszystkie** ogłoszenia TED spełniające warunki zapytania.
+Termin składania ofert jest w indeksie TED pod **innym polem, zależnie od formatu ogłoszenia**:
 
-Co „wszystkie" oznacza, a co NIE (wykluczenia z założeń, nie z błędów):
+| Format ogłoszenia | Pole wyszukiwania | Udział |
+|---|---|---|
+| **eForms** (publikowane bezpośrednio w TED) | `deadline` | mniejszość polskich |
+| **legacy UBL** (konwersje z platform krajowych, np. z polskiego BZP) | `deadline-receipt-request` | **większość polskich** |
 
-| Wykluczone | Powód |
-|---|---|
-| Ogłoszenia **bez terminu składania** (dialog techniczny, ogłoszenia o zamiarze, część umów ramowych) | warunek `deadline>` odrzuca puste terminy — zamierzona cena za „tylko otwarte" (bez tego TED zwracał zamknięte z pustym terminem, sonda 2026-08-28) |
-| Postępowania **zamknięte** | `scope: ACTIVE` |
-| **Opóźnienie indeksu** TED | ogłoszenie opublikowane w ciągu dnia trafia do nas najpóźniej w następnym runie (pz-search do 10:07, daily 05:07 i 12:30 UTC) |
-| Dopiero **scoring** decyduje o publikacji | z pobranych (np. 8) na stronę trafia tylko część — przejście scoringu to odrębny etap od kompletności pobrania |
+Pola są **rozłączne** — sonda 2026-08-30, 9 kodów CPV + POL + `scope: ACTIVE`:
+- samo `deadline>dziś` → **8** (nasza stara wersja — **gubiła większość polskich ogłoszeń**, m.in. 595905-2026: termomodernizacja USK Poznań, termin ofert 28.09.2026 widoczny w XML i UI, a `deadline` = null w indeksie),
+- samo `deadline-receipt-request>dziś` → **438**,
+- **UNION obu** (`OR`) → 438 (zawiera nasze 8) → stąd wdrożone `OR` + paginacja + parsowanie `publication-date`.
 
-Kody spoza listy 9 (np. 71247000 — nadzór nad budową) nie wchodzą — poszerzenie = edycja `query` w `config/sources.yaml`.
+**Konsekwencja wdrożenia:** magazyn TED urósł 4 → **46** ogłoszeń (222 przeszły scoring, reszta starsza niż okno 90 dni lub odfiltrowana). Nowy run może pierwszego dnia „wielkiego backfillu" pokazać na stronie wyraźnie więcej ogłoszeń TED.
 
-**Uwaga przy porównywaniu z wyszukiwarką web UI TED** (sonda 2026-08-30, CPV 71200000 + POL): UI-owy filtr `deadline-receipt-request-from` to **inne pole** — termin składania **wniosków o dopuszczenie do udziału** (restricted procedures), nie termin składania **ofert**. Dla tego samego kodu i daty: nasze `deadline>dziś` → **5** wyników; `deadline-receipt-request>dziś` → **249**. Dodatkowo UI domyślnie używa `scope=ALL` (wszystkie typy ogłoszeń: PIN, konkursy, korekty — nie tylko ContractNotice) i `onlyLatestVersions=false` (każda wersja/korekta osobno). Dlatego liczby z UI są zawsze znacznie wyższe i **nie są miarą kompletności naszego zapytania**. Gdyby profile biura miały objąć etap „wniosków o dopuszczenie" (procedury ograniczone), należałoby dodać do zapytania `OR deadline-receipt-request>dziś` — decyzja produktowa, obecnie nie realizowane.
+Wykluczenia z założeń (bez zmian): ogłoszenia zamknięte (`scope: ACTIVE`), **opóźnienie indeksu** (nowe ogłoszenie trafia do nas w następnym runie), kody spoza listy 9, oraz decyzje **scoringu** (odrębny etap od kompletności pobrania).
 
 ### Limity zapytań TED (anonimowe)
 
 Oficjalne limity rate dla dostępu anonimowego **nie są opublikowane** (developer portal to SPA bez statycznej treści; FAQ 404). Znane fakty: twardy sufit `limit` = **100 rekordów/zapytanie**; przekroczenie tempa objawia się **HTTP 429** (nasz kod: backoff 3/6 s, 2 próby); w historii projektu 429 nie wystąpił.
 
-Bezpieczny budżet praktyczny (fair-use, bez klucza): **1–2 żądania na godzinę** — my robimy **7–8 zapytań dziennie** (1/run, runy co ≥ 1 h), głęboko poniżej progu reakcji. Ryzyko blokady wynika z **tempa** (burza żądań), nie z liczby na dobę — nie wysyłać zapytań równolegle ani w seriach bez odstępów. Gdyby wolumen CPV-71* z Polski przekroczył 100/dobę: paginacja w głąb (strony 2..N, odstęp kilkanaście sekund), **nie** częstsze odpytywanie.
+Budżet po wdrożeniu paginacji: **5 żądań TED na run** (odstęp 5 s) × 7 runów dziennie ≈ 35 zapytań/dobę w odstępach ≥ 1 h między runami — nadal w strefie fair-use. Ryzyko blokady wynika z **tempa** (burza żądań), nie z liczby na dobę; nie wysyłać zapytań równolegle.
 
 
 ## 3. BZP — ezamowienia.gov.pl (główne źródło krajowe, PZP > 130 tys. zł)
