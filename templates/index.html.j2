@@ -67,15 +67,35 @@
 {% endif %}
 <main class="max-w-6xl mx-auto px-4 pb-16 grid lg:grid-cols-3 gap-6">
   <div class="lg:col-span-2">
-    <div class="flex items-center justify-between mb-4">
+    <div class="flex flex-wrap items-center justify-between gap-3 mb-4">
       <h2 class="text-lg font-semibold">Ogłoszenia</h2>
       <input id="q" type="search" placeholder="Szukaj…" autocomplete="off"
              class="bg-zinc-900 border border-zinc-800 rounded-xl px-4 py-2 text-sm w-56 outline-none focus:border-emerald-500/50 placeholder:text-zinc-500">
     </div>
+    <div class="flex flex-wrap items-center gap-2 mb-4 text-sm">
+      <select id="sort" class="bg-zinc-900 border border-zinc-800 rounded-xl px-3 py-2 text-sm outline-none focus:border-emerald-500/50">
+        <option value="default">Sortuj: score ↓, termin</option>
+        <option value="termin">Sortuj: termin składania ↑</option>
+        <option value="score">Sortuj: score malejąco</option>
+        <option value="zrodlo">Sortuj: źródło, score ↓</option>
+      </select>
+      <select id="fscore" class="bg-zinc-900 border border-zinc-800 rounded-xl px-3 py-2 text-sm outline-none focus:border-emerald-500/50">
+        <option value="all">Score: wszystkie</option>
+        <option value="3-4">score 3–4</option>
+        <option value="5-6">score 5–6</option>
+        <option value="7-999">score 7+</option>
+      </select>
+      <select id="fsrc" class="bg-zinc-900 border border-zinc-800 rounded-xl px-3 py-2 text-sm outline-none focus:border-emerald-500/50">
+        <option value="all">Źródło: wszystkie</option>
+        {% for s in sources %}<option value="{{ s }}">{{ s }}</option>{% endfor %}
+      </select>
+    </div>
     <div id="cards" class="space-y-4">
     {% for a in current %}
     <article class="card bg-zinc-900 border border-zinc-800 rounded-xl p-5 hover:border-emerald-500/40 transition"
-             data-category="{{ a.kategoria }}" data-t="{{ (a.tytul ~ ' ' ~ a.zamawiajacy)|lower }}">
+             data-category="{{ a.kategoria }}" data-t="{{ (a.tytul ~ ' ' ~ a.zamawiajacy)|lower }}"
+             data-source="{{ a.zrodlo }}" data-score="{{ a.score|default(0) }}"
+             data-deadline="{{ (a.termin_skladania or '')[:10] }}">
       <div class="flex items-start justify-between gap-4">
         <div class="min-w-0">
           <span class="inline-block bg-emerald-500/10 text-emerald-400 text-xs px-2.5 py-0.5 rounded-xl border border-emerald-500/20 mb-2">{{ a.kategoria }}</span>
@@ -139,11 +159,15 @@
   </div>
 </footer>
 <script>
-// Filtry kategorii (interface.md): active button + hide/show kart
+// Filtry kategorii (interface.md) + filtry score/źródło + sortowanie (2026-08-30)
 const btns = document.querySelectorAll('.filter-btn');
-const cards = document.querySelectorAll('.card');
+const cardsBox = document.getElementById('cards');
+const cards = Array.from(document.querySelectorAll('.card'));
 const nores = document.getElementById('nores');
 let activeFilter = 'all';
+let activeSrc = 'all';
+let scoreMin = 0, scoreMax = Infinity;
+let sortKey = 'default';
 const query = document.getElementById('q');
 let q = '';
 
@@ -152,15 +176,32 @@ function apply() {
   cards.forEach(c => {
     const okCat = activeFilter === 'all' || c.dataset.category === activeFilter;
     const okText = !q || c.dataset.t.includes(q);
-    const show = okCat && okText;
+    const okSrc = activeSrc === 'all' || c.dataset.source === activeSrc;
+    const s = parseFloat(c.dataset.score || 0);
+    const okScore = s >= scoreMin && s <= scoreMax;
+    const show = okCat && okText && okSrc && okScore;
     c.classList.toggle('hidden', !show);
     if (show) visible++;
   });
   nores.classList.toggle('hidden', visible > 0);
 }
 
-btns.forEach(b => b.addEventListener('click', () => {
-  btns.forEach(x => {
+function resort() {
+  sortKey = document.getElementById('sort').value;
+  const cmp = {
+    default:  (a, b) => (+b.dataset.score || 0) - (+a.dataset.score || 0) ||
+                        (a.dataset.deadline || '9999').localeCompare(b.dataset.deadline || '9999'),
+    termin:   (a, b) => (a.dataset.deadline || '9999').localeCompare(b.dataset.deadline || '9999'),
+    score:    (a, b) => (+b.dataset.score || 0) - (+a.dataset.score || 0),
+    zrodlo:   (a, b) => (a.dataset.source || '').localeCompare(b.dataset.source || '') ||
+                        (+b.dataset.score || 0) - (+a.dataset.score || 0),
+  }[sortKey];
+  cards.sort(cmp).forEach(c => cardsBox.appendChild(c));
+}
+
+const btnsAll = document.querySelectorAll('.filter-btn');
+btnsAll.forEach(b => b.addEventListener('click', () => {
+  btnsAll.forEach(x => {
     x.classList.remove('bg-emerald-500', 'text-white', 'font-medium');
     x.classList.add('border', 'border-zinc-800', 'text-zinc-400');
   });
@@ -169,6 +210,22 @@ btns.forEach(b => b.addEventListener('click', () => {
   activeFilter = b.dataset.filter;
   apply();
 }));
+
+document.getElementById('sort').addEventListener('change', resort);
+
+document.getElementById('fscore').addEventListener('change', e => {
+  if (e.target.value === 'all') { scoreMin = 0; scoreMax = Infinity; }
+  else {
+    const [lo, hi] = e.target.value.split('-').map(Number);
+    scoreMin = lo; scoreMax = hi;
+  }
+  apply();
+});
+
+document.getElementById('fsrc').addEventListener('change', e => {
+  activeSrc = e.target.value;
+  apply();
+});
 
 query.addEventListener('input', () => { q = query.value.trim().toLowerCase(); apply(); });
 </script>

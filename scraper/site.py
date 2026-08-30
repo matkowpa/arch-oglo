@@ -24,7 +24,7 @@ def render_site(announcements_path: str, out_dir: str, display_days: int = 30,
     with open(announcements_path, encoding="utf-8") as f:
         items = json.load(f)
 
-    items.sort(key=_sort_key)
+    items.sort(key=lambda a: (-(a.get("score") or 0), _sort_key(a)))  # score malejąco, potem termin
     now = datetime.now()
     cutoff_pub = (now - timedelta(days=display_days)).date().isoformat()
 
@@ -72,6 +72,12 @@ def render_site(announcements_path: str, out_dir: str, display_days: int = 30,
         sources_word = "źródła danych"
     else:
         sources_word = "źródeł danych"
+    # lista źródeł (do filtru po źródle) — z licznikiem widocznych ogłoszeń
+    src_counts: dict[str, int] = {}
+    for a in current:
+        if a.get("zrodlo"):
+            src_counts[a.get("zrodlo")] = src_counts.get(a.get("zrodlo"), 0) + 1
+    sources = sorted(src_counts)
     ctx = {
         "current": current,
         "archive": archive,
@@ -84,6 +90,7 @@ def render_site(announcements_path: str, out_dir: str, display_days: int = 30,
         "failed_sources": failed_sources or [],  # sekcja 8.6: źródła zawiedzione w tym runie
         "n_sources": n_sources,
         "sources_word": sources_word,
+        "sources": sources,
     }
     os.makedirs(out_dir, exist_ok=True)
     for tpl, name in (("index.html.j2", "index.html"), ("archiwum.html.j2", "archiwum.html")):
