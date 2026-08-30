@@ -40,6 +40,7 @@ class TedSource(BaseSource):
         limit = min(int(self.cfg.get("limit", 100)), 100)
         pages = int(self.cfg.get("pages", 1))
         out: list[Announcement] = []
+        token = None
         for page in range(1, pages + 1):
             body = {
                 "query": query,
@@ -47,8 +48,14 @@ class TedSource(BaseSource):
                 "limit": limit,
                 "scope": self.cfg.get("scope", "ACTIVE"),
                 "paginationMode": "ITERATION",
-                "page": page,
+                "page": 1,
             }
+            if token:
+                # UWAGA: parametr `page` jest IGNOROWANY przy ITERATION
+                # (strony 2+ zwracają kopię strony 1 — sonda 2026-08-30).
+                # Iteracja odbywa się tokenem z odpowiedzi (iterationNextToken).
+                body.pop("page")
+                body["iterationNextToken"] = token
             notices = None
             for attempt in (1, 2):
                 try:
@@ -58,6 +65,7 @@ class TedSource(BaseSource):
                         continue
                     r.raise_for_status()
                     notices = r.json().get("notices") or []
+                    token = r.json().get("iterationNextToken")
                     break
                 except Exception:
                     if attempt == 2:
@@ -65,7 +73,7 @@ class TedSource(BaseSource):
             if notices is None:
                 break  # obie próby nieudane — izolacja: reszta runu działa dalej
             out.extend(self._parse({"notices": notices}))
-            if len(notices) < limit:
+            if len(notices) < limit or not token:
                 break  # ostatnia strona
             if page < pages:
                 time.sleep(self.cfg.get("crawl_delay", 5))  # fair-use między stronami

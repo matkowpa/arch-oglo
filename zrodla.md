@@ -22,8 +22,10 @@ Dokument zbiorczy: jak każde źródło wyszukuje ogłoszenia, co decyduje o „
 
 - **Jak wyszukuje:** `POST https://api.ted.europa.eu/v3/notices/search` (API v3, anonimowe, bez klucza). Zapytanie strict: `classification-cpv IN (9 kodów 71*) AND buyer-country=POL` + dynamiczny filtr `only_open` → **`(deadline>dziś OR deadline-receipt-request>dziś)`**.
 - **Co znaczy „zgodne":** tu filtrem są **kody CPV w zapytaniu** (nie frazy) — wyszukiwarka TED dopasowuje klasyfikację przedmiotu; dopasowanie decyduje silnik TED. Lista 9 kodów: patrz sekcja **„Kody CPV"** poniżej.
-- **Zakres pobrania:** `limit: 100`/stronę, `scope: ACTIVE`, **paginacja 5 stron** (`pages: 5`, przerwa `crawl_delay: 5 s`); duplikaty między stronami zwija dedup po hash.
+- **Zakres pobrania:** `limit: 100`/stronę, `scope: ACTIVE`, **paginacja tokenowa** (`pages: 5`, przerwa `crawl_delay: 5 s`); duplikaty między stronami zwija dedup po hash.
 - **Odporność:** backoff na HTTP 429 (2 próby); pola wielojęzyczne — preferuj `pol`, fallback `eng`.
+
+**Paginacja tokenowa — nie `page` (2026-08-30):** parametr `page` przy `paginationMode: ITERATION` jest **ignorowany** (strony 2+ zwracają kopię strony 1 — sonda). Prawidłowa iteracja: żądanie 1 z `page: 1`, kolejne z polem `iterationNextToken` (wartość z odpowiedzi), koniec gdy token pusty lub odpowiedź < `limit`. Sonda: 5 iteracji → **438/438 unikalnych** (595865-2026, 595757-2026 obecne — wcześniej gubione).
 
 ### ⚠️ Krytyczne odkrycie: TED indeksuje termin ofert w DWOCH polach (2026-08-30)
 
