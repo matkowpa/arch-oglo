@@ -40,6 +40,8 @@ Co „wszystkie" oznacza, a co NIE (wykluczenia z założeń, nie z błędów):
 
 Kody spoza listy 9 (np. 71247000 — nadzór nad budową) nie wchodzą — poszerzenie = edycja `query` w `config/sources.yaml`.
 
+**Uwaga przy porównywaniu z wyszukiwarką web UI TED** (sonda 2026-08-30, CPV 71200000 + POL): UI-owy filtr `deadline-receipt-request-from` to **inne pole** — termin składania **wniosków o dopuszczenie do udziału** (restricted procedures), nie termin składania **ofert**. Dla tego samego kodu i daty: nasze `deadline>dziś` → **5** wyników; `deadline-receipt-request>dziś` → **249**. Dodatkowo UI domyślnie używa `scope=ALL` (wszystkie typy ogłoszeń: PIN, konkursy, korekty — nie tylko ContractNotice) i `onlyLatestVersions=false` (każda wersja/korekta osobno). Dlatego liczby z UI są zawsze znacznie wyższe i **nie są miarą kompletności naszego zapytania**. Gdyby profile biura miały objąć etap „wniosków o dopuszczenie" (procedury ograniczone), należałoby dodać do zapytania `OR deadline-receipt-request>dziś` — decyzja produktowa, obecnie nie realizowane.
+
 ### Limity zapytań TED (anonimowe)
 
 Oficjalne limity rate dla dostępu anonimowego **nie są opublikowane** (developer portal to SPA bez statycznej treści; FAQ 404). Znane fakty: twardy sufit `limit` = **100 rekordów/zapytanie**; przekroczenie tempa objawia się **HTTP 429** (nasz kod: backoff 3/6 s, 2 próby); w historii projektu 429 nie wystąpił.
