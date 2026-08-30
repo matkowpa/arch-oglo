@@ -69,9 +69,11 @@ zaczyna padać — nie mieszaj obu trybów.
 - Twarde frazy +3 (×waga pola: tytuł ×2, opis ×1), konkurs +2, CPV 71* +3
 - Bonus: spółki SP/giełdowe, UE (POIiS/FEnIKS/KPO), sektory strategiczne
 - Kary −3×waga: drogi (`drogow`, `autostrad`…), sieci/infrastruktura (`kanalizac`, `wodociąg`…)
+- Kara łagodna −1×waga: „roboty budowlane" (kalibracja 2026-08-30 — obniża ranking, nie wyklucza; tag `roboty-budowlane`)
 - **Wyjątek:** „wraz z niezbędną infrastrukturą" ±120 znaków blokuje karę infrastrukturalną
 - Samorządy −1 (niżej, nie usuwane). Publikacja: score ≥ 3; „wysoka trafność": ≥ 5
 - Wszystko w `config/keywords.yaml`, `config/cpv.yaml`, `config/weights.yaml`
+- **Re-scoring całości:** każdy run ocenia na nowo cały magazyn — zmiany wag/fraz działają wstecz (wpisy spadające poniżej progu znikają)
 
 ## Harmonogram
 

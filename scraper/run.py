@@ -94,6 +94,12 @@ def main() -> int:
     merged = merge(load_existing(ANNOUNCEMENTS), scored,
                    history_days=int(sources_cfg.get("history_days", 90)),
                    prune_undated=("ted",) if sources_cfg.get("ted", {}).get("only_open") else ())
+    # Re-scoring CAŁEGO magazynu (kalibracja 2026-08-30): zmiany wag/fraz w
+    # configu działają wstecz — stare wpisy dostają nowy score/tagi, a te,
+    # które po zmianach spadają poniżej progu, znikają (idempotentnie).
+    for a in merged:
+        scorer.score(a)
+    merged = [a for a in merged if scorer.should_publish(a)]
     save(ANNOUNCEMENTS, merged)
 
     record_run(HISTORY, per_source)

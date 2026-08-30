@@ -56,6 +56,13 @@ negative_infra:  # -3 x waga pola (sieci/infrastruktura) — blokowane przez exc
   - "sieć elektroenergetyczn"
   - "oświetlenie uliczn"
 
+negative_construction:  # -1 x waga pola — "roboty budowlane" = roboty, nie projektowanie;
+  # obniża ranking, NIE wyklucza (kalibracja 2026-08-30: biuro chce przede
+  # wszystkim prac projektowych; ogłoszenia z dokumentacją projektową + robotami
+  # zostają, czyste roboty spadają poniżej progu publikacji)
+  - "roboty budowlane"
+  - "robotach budowlanych"
+
 low_priority:  # -1 — zamawiający samorządowy (nie usuwać)
   - "gmina"
   - "gminy"
@@ -63,7 +70,6 @@ low_priority:  # -1 — zamawiający samorządowy (nie usuwać)
   - "powiatu"
   - "urząd miasta"
   - "urząd gminy"
-  - "urząd miasta"
   - "starostwo"
 
 thresholds:

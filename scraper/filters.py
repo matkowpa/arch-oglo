@@ -117,6 +117,17 @@ class Scorer:
             pts -= infra_pts
             tags.append("infrastruktura")
 
+        # Roboty budowlane — łagodna kara (-1 x waga pola): obniża ranking,
+        # nie wyklucza (kalibracja 2026-08-30). Ogłoszenie "roboty budowlane +
+        # dokumentacja projektowa" zostaje (niżej), czyste roboty spadają
+        # poniżej progu publikacji.
+        cons_pts = abs(self.w.get("negative_construction", 1)) * (
+            wt * _hits(title, self.kw.get("negative_construction", []))
+            + wo * _hits(opis, self.kw.get("negative_construction", [])))
+        if cons_pts:
+            pts -= cons_pts
+            tags.append("roboty-budowlane")
+
         # Samorząd — niski priorytet, bez usuwania
         who = (a.zamawiajacy or "").lower() + " " + title.lower()
         if self._count(who, self.kw.get("low_priority", [])):

@@ -25,3 +25,4 @@ plik: przykład_przetargu.eml
 
 todo:
 kolejne BIPY spółek do przeglądnięcia
+sprawdz czy żródłą są podpięte do linku na stronie

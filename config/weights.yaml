@@ -6,6 +6,7 @@ weights:
   contest: 2
   bonus: 1
   negative: -3
+  negative_construction: -1
   low_priority: -1
   sp_company: 1
   exchange_company: 1

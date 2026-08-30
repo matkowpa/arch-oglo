@@ -80,3 +80,32 @@ def test_brak_terminu_tag(scorer):
     a = scorer.score(Announcement(zrodlo="t", tytul="Dokumentacja wielobranżowa hali",
                                   url="https://x/9", termin_skladania=None))
     assert "brak-terminu" in a.tagi
+
+
+# ---------- kalibracja: "roboty budowlane" (2026-08-30) ----------
+
+def test_construction_penalized_but_kept(scorer):
+    """Roboty budowlane + dokumentacja projektowa → zostaje, ale niżej (kara -1×waga)."""
+    base = scorer.score(Announcement(zrodlo="t", tytul="Prace projektowe w zakresie budynku",
+                                     url="https://x/20"))
+    assert "roboty-budowlane" not in base.tagi  # bez frazy — brak kary
+
+    cons = scorer.score(Announcement(
+        zrodlo="t", tytul="Roboty budowlane – wykonanie dokumentacji projektowej budynku",
+        url="https://x/21"))
+    assert "roboty-budowlane" in cons.tagi
+    # kara obniżyła wynik: konstrukcyjny ma mniej punktów niż czysto projektowy
+    assert cons.score < base.score
+    # ale nie wylatuje: dokumentacja projektowa (3×2) + kara (-2) → nadal ≥ próg 3
+    assert scorer.should_publish(cons)
+
+
+def test_pure_construction_below_threshold(scorer):
+    """Same roboty budowlane (+CPV, bez fraz projektowych) → poniżej progu publikacji."""
+    a = scorer.score(Announcement(zrodlo="t",
+                                  tytul="Roboty budowlane – rozbudowa hali produkcyjnej",
+                                  url="https://x/22", cpv=["71220000-6"]))
+    # 3 (CPV) - 2 (kara w tytule) = 1 < próg 3
+    assert "roboty-budowlane" in a.tagi
+    assert not scorer.should_publish(a)
+
