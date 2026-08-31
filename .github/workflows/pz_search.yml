@@ -69,8 +69,25 @@ jobs:
           else
             git commit -m "pz-search run: update announcements"
           fi
-          git pull --rebase origin main
-          for i in 1 2 3; do git push && break || sleep 5; done
+          # Pull+push w pętli retry: checkout potrafi złapać STARY ref (replica lag
+          # po pushu poprzedniego runa w grupie data-write — observed 2026-08-31,
+          # pz-search #16), wtedy rebase daje add/add conflict na heartbeat
+          # data/history/<dzień>.json. -X theirs: wygrywa świeży scraping bieżącego
+          # runu (w rebase "theirs" = replayowany lokalny commit). Po 3 próbach jawny
+          # fail — bez tego pętla push po cichu "udawała" sukces (sleep 5 zwraca 0).
+          ok=0
+          for i in 1 2 3; do
+            if git pull --rebase -X theirs origin main && git push; then
+              ok=1
+              break
+            fi
+            git rebase --abort 2>/dev/null || true
+            sleep 10
+          done
+          if [ "$ok" -ne 1 ]; then
+            echo "::error::Push failed after 3x (git pull --rebase -X theirs + git push)"
+            exit 1
+          fi
 
       - name: Upload site artifact (for deploy job)
         uses: actions/upload-artifact@v4
