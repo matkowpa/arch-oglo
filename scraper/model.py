@@ -25,6 +25,7 @@ class Announcement:
     score: int = 0
     tagi: list = field(default_factory=list)
     status_opisu: str = "brak"  # 'brak' | 'pobrany'
+    dodano: Optional[str] = None  # data pierwszego dodania do bazy (ISO date); None -> wpis sprzed zmiany
 
     @property
     def hash(self) -> str:

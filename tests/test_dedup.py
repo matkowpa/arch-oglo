@@ -1,6 +1,7 @@
 """Testy dedup i parsowania PHN (kroki A5, A6)."""
 import json
 import os
+from datetime import date
 
 from scraper.dedup import merge
 from scraper.model import Announcement
@@ -167,3 +168,33 @@ def test_phn_page_url_pagination():
     assert src._page_url(1) == "https://bip.phnsa.pl/ogloszenia/1"
     assert src._page_url(2) == "https://bip.phnsa.pl/ogloszenia/2"
     assert src._page_url(3) == "https://bip.phnsa.pl/ogloszenia/3"
+
+
+def test_new_item_gets_dodano():
+    """Nowe ogłoszenie dostaje datę pierwszego dodania (licznik „dodane w dniu X”)."""
+    out = merge([], [_ann("https://x/new", "świeży")], history_days=90)
+    assert out[0].dodano == date.today().isoformat()
+
+
+def test_existing_item_keeps_dodano():
+    """Powtórne pobranie tego samego ogłoszenia NIE zmienia daty dodania."""
+    old = _ann("https://x/1", "A")
+    old.dodano = "2026-08-20"
+    out = merge([old], [_ann("https://x/1", "A")], history_days=90)
+    assert len(out) == 1
+    assert out[0].dodano == "2026-08-20"
+
+
+def test_secondary_dedup_preserves_original_dodano():
+    """Korekta (nowszy termin) wygrywa, ale zachowuje pierwotną datę dodania —
+    licznik dnia nie zlicza korekty jako „nowego” ogłoszenia."""
+    old = _buyer("https://ted/591163-2026", "Ten sam tytuł")
+    old.termin_skladania = "2026-09-04T08:00:00+02:00"
+    old.dodano = "2026-08-20"
+    corr = _buyer("https://ted/595865-2026", "Ten sam tytuł")
+    corr.termin_skladania = "2026-09-08T08:00:00+02:00"
+    out = merge([old], [corr], history_days=90)
+    assert len(out) == 1
+    assert out[0].url == "https://ted/595865-2026"
+    assert out[0].dodano == "2026-08-20"
+

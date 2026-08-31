@@ -39,6 +39,7 @@ def merge(existing: list[Announcement], incoming: list[Announcement],
             if old.termin_skladania in (None, "") and a.termin_skladania:
                 old.termin_skladania = a.termin_skladania
         else:
+            a.dodano = date.today().isoformat()  # licznik „dodane w dniu X” — zliczanie per dzień, kasuje się samo po północy
             by_hash[a.hash] = a
 
     cutoff = (date.today() - timedelta(days=history_days)).isoformat()
@@ -72,6 +73,8 @@ def merge(existing: list[Announcement], incoming: list[Announcement],
         key = (a.zrodlo, _norm(a.tytul), _norm(a.zamawiajacy))
         cur = best.get(key)
         if cur is None or _rank(a) > _rank(cur):
+            if cur is not None and cur.dodano:
+                a.dodano = cur.dodano  # to samo ogłoszenie z innego URL-i: zachowaj pierwotną datę dodania
             best[key] = a
     final.extend(best.values())
     final.sort(key=lambda x: (x.termin_skladania or "9999", x.tytul))

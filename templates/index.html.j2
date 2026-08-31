@@ -89,12 +89,17 @@
         <option value="all">Źródło: wszystkie</option>
         {% for s in sources %}<option value="{{ s }}">{{ s }}</option>{% endfor %}
       </select>
+      <select id="fadded" class="bg-zinc-900 border border-zinc-800 rounded-xl px-3 py-2 text-sm outline-none focus:border-emerald-500/50">
+        <option value="all">Dodane: wszystkie</option>
+        {% for d in added %}<option value="{{ d.date }}">Dodane: {{ d.label }} ({{ d.count }})</option>{% endfor %}
+      </select>
     </div>
     <div id="cards" class="space-y-4">
     {% for a in current %}
     <article class="card bg-zinc-900 border border-zinc-800 rounded-xl p-5 hover:border-emerald-500/40 transition"
              data-category="{{ a.kategoria }}" data-t="{{ (a.tytul ~ ' ' ~ a.zamawiajacy)|lower }}"
              data-source="{{ a.zrodlo }}" data-score="{{ a.score|default(0) }}"
+             data-added="{{ (a.dodano or '')[:10] }}"
              data-deadline="{{ (a.termin_skladania or '')[:10] }}">
       <div class="flex items-start justify-between gap-4">
         <div class="min-w-0">
@@ -166,6 +171,7 @@ const cards = Array.from(document.querySelectorAll('.card'));
 const nores = document.getElementById('nores');
 let activeFilter = 'all';
 let activeSrc = 'all';
+let activeAdded = 'all';
 let scoreMin = 0, scoreMax = Infinity;
 let sortKey = 'default';
 const query = document.getElementById('q');
@@ -177,9 +183,10 @@ function apply() {
     const okCat = activeFilter === 'all' || c.dataset.category === activeFilter;
     const okText = !q || c.dataset.t.includes(q);
     const okSrc = activeSrc === 'all' || c.dataset.source === activeSrc;
+    const okAdded = activeAdded === 'all' || c.dataset.added === activeAdded;
     const s = parseFloat(c.dataset.score || 0);
     const okScore = s >= scoreMin && s <= scoreMax;
-    const show = okCat && okText && okSrc && okScore;
+    const show = okCat && okText && okSrc && okAdded && okScore;
     c.classList.toggle('hidden', !show);
     if (show) visible++;
   });
@@ -224,6 +231,11 @@ document.getElementById('fscore').addEventListener('change', e => {
 
 document.getElementById('fsrc').addEventListener('change', e => {
   activeSrc = e.target.value;
+  apply();
+});
+
+document.getElementById('fadded').addEventListener('change', e => {
+  activeAdded = e.target.value;
   apply();
 });
 

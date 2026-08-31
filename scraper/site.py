@@ -78,6 +78,20 @@ def render_site(announcements_path: str, out_dir: str, display_days: int = 30,
         if a.get("zrodlo"):
             src_counts[a.get("zrodlo")] = src_counts.get(a.get("zrodlo"), 0) + 1
     sources = sorted(src_counts)
+    # licznik „dodane w dniu X”: data pierwszego dodania do bazy (pole dodano),
+    # zliczane per dzień — kilkanaście runów dziennie agreguje się naturalnie,
+    # bo nowy dzień = nowa data (licznik „kasuje się” po północy)
+    added_counts: dict[str, int] = {}
+    for a in current:
+        d = (a.get("dodano") or "")[:10]
+        if d:
+            added_counts[d] = added_counts.get(d, 0) + 1
+    yday = (now - timedelta(days=1)).date().isoformat()
+    added = [
+        {"date": d, "label": "Dzisiaj" if d == today else ("Wczoraj" if d == yday else d),
+         "count": added_counts[d]}
+        for d in sorted(added_counts, reverse=True)
+    ]
     ctx = {
         "current": current,
         "archive": archive,
@@ -91,6 +105,7 @@ def render_site(announcements_path: str, out_dir: str, display_days: int = 30,
         "n_sources": n_sources,
         "sources_word": sources_word,
         "sources": sources,
+        "added": added,
     }
     os.makedirs(out_dir, exist_ok=True)
     for tpl, name in (("index.html.j2", "index.html"), ("archiwum.html.j2", "archiwum.html")):
