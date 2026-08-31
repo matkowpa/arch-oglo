@@ -252,6 +252,23 @@
   "hash": "8b26603009992df2aa90e6648df2fc9145a4c1126f90985c705b7b3fa0796fa2"
  },
  {
+  "zrodlo": "pz-search",
+  "tytul": "Budowa łącznika pomiędzy ulicą Polną a Widokową w Kolbudach- wielobranżowa dokumentacja projektowo-kosztorysowa",
+  "url": "https://platformazakupowa.pl/transakcja/1366947",
+  "zamawiajacy": "Gmina Kolbudy",
+  "data_publikacji": null,
+  "termin_skladania": "2026-09-03 09:00:00",
+  "opis": null,
+  "cpv": [],
+  "score": 11,
+  "tagi": [
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "hash": "d697443d4cf45f5d0c3828426f754e51750668c2646760da7ed0249f1ef2ae5d"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Urządzenia medyczne – Dostawa mammografu z funkcją kontrastu wraz z adaptacją pomieszczeń; PN-111/26/DS",
   "url": "https://ted.europa.eu/en/notice/-/detail/595444-2026",
