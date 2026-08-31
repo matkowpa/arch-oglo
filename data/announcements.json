@@ -1148,6 +1148,26 @@
   "hash": "4f7a63652d7531e2a91d02ab243ae695e0b06ab2e05cdbacac37a6bbc33c6bae"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "Przygotowanie dokumentacji projektowej na potrzeby rewitalizacji zabytkowego dworu starostów międzyrzeckich w Międzyrzeczu",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-9d25249e-03c0-4c92-b769-7ff7b9285a01",
+  "zamawiajacy": "Starostwo Powiatowe w Międzyrzeczu",
+  "data_publikacji": "2026-08-31",
+  "termin_skladania": "2026-09-09T12:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00414884 z dnia 2026-08-31 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Przygotowanie dokumentacji projektowej na potrzeby rewitalizacji zabytkowego dworu starostów międzyrzeckich w Międzyrzeczu SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Starostwo Powiatowe w Międzyrzeczu 1.4) Krajowy Numer Identyfikacyjny: REGON 210466948 1.5) Adres zamawiającego 1.5.1.) Ulica: Przemysłowa 1.5.2.) Miejscowość: Międzyrzecz 1.5.3.) Kod pocztowy: 66-300 1.5.4.) Województwo: lubuskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL431 - Gorzowski 1.5.9.) Adres poczty elektronicznej: d.pijaczynski@powiat-miedzyrzecki.pl 1.5.10.) Adres strony internetowej zamawiającego: https://bip.powiat-miedzyrzecki.pl/ 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu teryt",
+  "cpv": [
+   "71320000-7"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "hash": "2aebbede03d12617346a171359dc35b882a6c55f260fa12e7fcbc0914bb2fa26"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – BUDOWA DROGI OD WĘZŁA S1 MIERZĘCICE DO MIĘDZYNARODOWEGO PORTU LOTNICZEGO KATOWICE – DOKUMENTACJA PROJEKTOWA WRAZ Z PEŁNIENIEM NADZORU AUTORSKIEGO",
   "url": "https://ted.europa.eu/en/notice/-/detail/540411-2026",
@@ -1174,6 +1194,29 @@
   ],
   "status_opisu": "brak",
   "hash": "de7db18eee198e1b5810787716680320af4f78afea3f355cf588fde3bb1b108c"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowej i kosztorysowej do realizacji zadania inwestycyjnego pn. „Termomodernizacja budynku Wydziału Elektrycznego przy ul. Sikorskiego 37 w Szczecinie”.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-cf7570b0-e56a-4813-b1e6-9a3577352cf7",
+  "zamawiajacy": "ZACHODNIOPOMORSKI UNIWERSYTET TECHNOLOGICZNY W SZCZECINIE",
+  "data_publikacji": "2026-08-31",
+  "termin_skladania": "2026-09-10T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00414935 z dnia 2026-08-31 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowej i kosztorysowej do realizacji zadania inwestycyjnego pn. „Termomodernizacja budynku Wydziału Elektrycznego przy ul. Sikorskiego 37 w Szczecinie”. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: ZACHODNIOPOMORSKI UNIWERSYTET TECHNOLOGICZNY W SZCZECINIE 1.4) Krajowy Numer Identyfikacyjny: REGON 320588161 1.5) Adres zamawiającego 1.5.1.) Ulica: al. Piastów 17 1.5.2.) Miejscowość: Szczecin 1.5.3.) Kod pocztowy: 70-310 1.5.4.) Województwo: zachodniopomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL424 - Miasto Szczecin 1.5.9.) Adres poczty elektronicznej: dzp@zut.edu.pl 1.5.10.) Adres strony internetowej zamawiającego: www.zut.edu.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka se",
+  "cpv": [
+   "71200000-0",
+   "71220000-6",
+   "71320000-7",
+   "71248000-8",
+   "71242000-6"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "hash": "6224a21b441479fa5a92d236883e2f8671a0ecb66e2e4ec7e74bf5b8a9b94cc8"
  },
  {
   "zrodlo": "ted",
@@ -1346,6 +1389,27 @@
   ],
   "status_opisu": "brak",
   "hash": "da91b7fed894310d2f2ac4e3877a834bbaa2b3f96be293a79c40f668f426697f"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "\"Wykonanie dokumentacji projektowej budowy zbiornika retencyjnego przy ul. Borowskiego w ramach zadania inwestycyjnego pn. „Zagospodarowanie wód opadowych na terenie miasta Gorzowa Wlkp. – Etap V”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-182c2521-621a-4914-a498-9ca7fa1d8420",
+  "zamawiajacy": "Miasto Gorzów Wlkp.",
+  "data_publikacji": "2026-08-31",
+  "termin_skladania": "2026-09-11T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00414969 z dnia 2026-08-31 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi &#34;Wykonanie dokumentacji projektowej budowy zbiornika retencyjnego przy ul. Borowskiego w ramach zadania inwestycyjnego pn. „Zagospodarowanie wód opadowych na terenie miasta Gorzowa Wlkp. – Etap V” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Miasto Gorzów Wlkp. 1.4) Krajowy Numer Identyfikacyjny: REGON 000650181 1.5) Adres zamawiającego 1.5.1.) Ulica: Sikorskiego 4 1.5.2.) Miejscowość: Gorzów Wielkopolski 1.5.3.) Kod pocztowy: 66-400 1.5.4.) Województwo: lubuskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL431 - Gorzowski 1.5.9.) Adres poczty elektronicznej: bartosz.dolny@um.gorzow.pl 1.5.10.) Adres strony internetowej zamawiającego: https://bip.wrota.lubuskie.pl/umgorzow/ 1.6.) Rodzaj zamawiającego: Zamawiający publiczny -",
+  "cpv": [
+   "71322000-1",
+   "71320000-7",
+   "71240000-2"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "hash": "0e31f89ab29bff6962a23d78646fab6861a1cc7fc6caee212d37c41215d6bab9"
  },
  {
   "zrodlo": "ted",
