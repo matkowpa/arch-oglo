@@ -676,7 +676,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-08-31",
+  "dodano": "2026-09-01",
   "hash": "b352b0f4f3816fd50d05d7bae8381a74ed9295032a3f08c620b7be4a6ac526de"
  },
  {
@@ -909,7 +909,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-08-31",
+  "dodano": "2026-09-01",
   "hash": "2fdcc3cf7d912571133819f49489e191e2ff1b5bd9b449ea13e264f975e12a1f"
  },
  {
@@ -987,6 +987,27 @@
   "hash": "9eff4ca2275c451d2dbaaedcc62c2ac2ae0723e3395f3dd5db05c09b4f28c4a8"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "Dokumentacja projektowo-kosztorysowa rozbudowy, przebudowy i remontu pomieszczeń sali gimnastycznej wraz z zapleczem w Publicznej Szkole Podstawowej nr 6 w Kędzierzynie-Koźlu.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-590f96ca-cef2-4f4c-a76d-ffaf9bf1dbdb",
+  "zamawiajacy": "Gmina Kędzierzyn-Koźle - Urząd Miasta",
+  "data_publikacji": "2026-09-01",
+  "termin_skladania": "2026-09-09T09:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00415882 z dnia 2026-09-01 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Dokumentacja projektowo-kosztorysowa rozbudowy, przebudowy i remontu pomieszczeń sali gimnastycznej wraz z zapleczem w Publicznej Szkole Podstawowej nr 6 w Kędzierzynie-Koźlu. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Kędzierzyn-Koźle - Urząd Miasta 1.3.) Oddział zamawiającego: Wydział Zamówień Publicznych 1.4) Krajowy Numer Identyfikacyjny: REGON 531412912 1.5) Adres zamawiającego 1.5.1.) Ulica: Piramowicza 32 1.5.2.) Miejscowość: Kędzierzyn-Koźle 1.5.3.) Kod pocztowy: 47-220 1.5.4.) Województwo: opolskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL524 - Opolski 1.5.9.) Adres poczty elektronicznej: zp@kedzierzynkozle.pl 1.5.10.) Adres strony internetowej zamawiającego: https://bip.kedzierzynkozle.pl/ 1.6.) Rodzaj zama",
+  "cpv": [
+   "71320000-7"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-01",
+  "hash": "42e7322043d69e7fff5be1ba88f38729ca48f378dd9b5a16a8e667b6fe5e5c8b"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Specjalne usługi projektowe – Projekt przebudowy ulicy Okrzei w Jastrzębiu-Zdroju",
   "url": "https://ted.europa.eu/en/notice/-/detail/548032-2026",
@@ -1033,7 +1054,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-08-31",
+  "dodano": "2026-09-01",
   "hash": "b3168e1fe1b43a44f70f1b4a63eba3ba6555344e5140191167c650af3829b3a7"
  },
  {
@@ -1113,7 +1134,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-08-31",
+  "dodano": "2026-09-01",
   "hash": "2ffdaab444dcea9d08b19f7d417f33b5c2caca7f53f376a5b96221022e4af5c5"
  },
  {
@@ -1457,7 +1478,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-08-31",
+  "dodano": "2026-09-01",
   "hash": "c25d9c3f9ccf2353daae18d2c736e862aed64878184bad52eb5470fbb7d1509b"
  },
  {
@@ -1555,7 +1576,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-08-31",
+  "dodano": "2026-09-01",
   "hash": "0c6e8d73c693c5d9a4a3cd858a92f22088ec10358f5c1faeed6069967022afa7"
  },
  {
@@ -1639,7 +1660,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-08-31",
+  "dodano": "2026-09-01",
   "hash": "ecd75c85b6bb0c83205634e87b15a52708a1587828b85eb34e2cab5c31bcb197"
  },
  {
@@ -1872,7 +1893,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-08-31",
+  "dodano": "2026-09-01",
   "hash": "86ba6249b26b2d6c8c44180dcffc17203c3d79688227c7ab051bf71761461530"
  },
  {
@@ -2510,7 +2531,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-08-31",
+  "dodano": "2026-09-01",
   "hash": "a6f15550e90d352eec6541840b1959f765427bb13e666208d8e4ee579982dba0"
  },
  {
@@ -2919,7 +2940,7 @@
    "roboty-budowlane"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-08-31",
+  "dodano": "2026-09-01",
   "hash": "7efaed440e718afa009d7ff22c3310f8a9537604b351de2d71b782c1600d8fca"
  },
  {
@@ -2982,7 +3003,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-08-31",
+  "dodano": "2026-09-01",
   "hash": "d524b28d76804896361211ab9e9c25bddcd331fa02527aea94679892e52a6bfe"
  },
  {
@@ -3141,7 +3162,7 @@
    "roboty-budowlane"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-08-31",
+  "dodano": "2026-09-01",
   "hash": "04aca70fa8f675fc7c12ed401f028509dc9a3074ed644ddcf874d5c1f386215e"
  },
  {
@@ -3225,7 +3246,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-08-31",
+  "dodano": "2026-09-01",
   "hash": "3258a0537ec29a7c32a2e3bcbfc0937f2bc01e618582d7215736e6ea15c23f5d"
  },
  {
@@ -3426,7 +3447,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-08-31",
+  "dodano": "2026-09-01",
   "hash": "0afeb986b6304dbcbb38050530df3fa3ca293f832fa16b9f5312df271c62adbf"
  },
  {
@@ -3888,6 +3909,34 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Usługi projektowania architektonicznego – Opracowanie dokumentacji projektowej zagospodarowania terenu rekreacyjnego w zakresie urządzenia terenów zielonych i placu zabaw na działce geodezyjnej o nr ewid. 11816/19 na Osiedlu II w Suwałkach.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/602103-2026",
+  "zamawiajacy": "Gmina Miasto Suwałki",
+  "data_publikacji": "2026-09-01",
+  "termin_skladania": "2026-10-01T09:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71220000",
+   "71420000",
+   "71421000",
+   "71320000",
+   "71220000",
+   "71420000",
+   "71421000",
+   "71320000"
+  ],
+  "score": 8,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-01",
+  "hash": "79dc6a7c265deff8879483f5f078585c4588ec0d48b4c8194f927bc310adf28c"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi projektowania architektonicznego – Opracowanie kompletnej dokumentacji projektowo-kosztorysowej dla zadania inwestycyjnego pn. ”Poprawa efektywności energetycznej budynku Trzeciego Urzędu Skarbowego Warszawa-Śródmieście, ul. Lindleya 14”",
   "url": "https://ted.europa.eu/en/notice/-/detail/590746-2026",
   "zamawiajacy": "Izba Administracji Skarbowej w Warszawie",
@@ -4006,6 +4055,28 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "092a871d20b2d9fd511c8b6594d17efa2ede8ff142f55eeff64a0e4d9a6680e0"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi architektoniczne, inżynieryjne i planowania – ZZK - NZ/241/3400/106/26 Wykonanie dokumentacji projektowo-kosztorysowej dot. zmiany systemu ogrzewania na elektryczne w lokalach gminnych",
+  "url": "https://ted.europa.eu/en/notice/-/detail/602359-2026",
+  "zamawiajacy": "Zarząd Zasobu Komunalnego Jednostka Budżetowa Gminy Wrocław",
+  "data_publikacji": "2026-09-01",
+  "termin_skladania": "2026-10-02T11:30:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71240000",
+   "71240000"
+  ],
+  "score": 8,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-01",
+  "hash": "da465147e485d828898a094665fc90b11b7ec113f4cad2f92b8f724a581b0481"
  },
  {
   "zrodlo": "pz-search",
@@ -4146,6 +4217,29 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Usługi architektoniczne w zakresie obiektów budowlanych – ZZK - NZ/241/3400/109/26 Wykonanie dokumentacji projektowo-kosztorysowej na remont i przebudowę gminnych budynków położonych we Wrocławiu - 2 Zadania",
+  "url": "https://ted.europa.eu/en/notice/-/detail/601936-2026",
+  "zamawiajacy": "Zarząd Zasobu Komunalnego Jednostka Budżetowa Gminy Wrocław",
+  "data_publikacji": "2026-09-01",
+  "termin_skladania": "2026-10-05T11:30:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71221000",
+   "71221000",
+   "71221000"
+  ],
+  "score": 8,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-01",
+  "hash": "1616159a31a7472d82f4454135791d2515b85355a918e27b9c5dfd7f616b5644"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Różne maszyny specjalnego zastosowania – Modernizacja sortowni odpadów – Zakład Utylizacji Odpadów Sp. z o. o. w Siedlcach",
   "url": "https://ted.europa.eu/en/notice/-/detail/596155-2026",
   "zamawiajacy": "Zakład Utylizacji Odpadów spółka z ograniczoną odpowiedzialnością",
@@ -4175,6 +4269,38 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "66b014e64c809f8913e5684c41c9bd037832dc294bfdda9682a05670c8b5b26e"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Roboty budowlane w zakresie budynków – Opracowanie dokumentacji projektowej (wraz z pełnieniem nadzoru autorskiego na etapie realizacji zadania) oraz wykonanie robót budowlanych, w formule „zaprojektuj i wybuduj” w ramach projektu pn.: Budowa w Zielonej Górze przy ul. Wyspiańskiego nowego budynku na potrzeby Samodzielnego Publicznego Zakładu Opieki Zdrowotnej Centrum Leczenia Dzieci i Młodzieży w Zaborze”.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/601093-2026",
+  "zamawiajacy": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Centrum Leczenia Dzieci i Młodzieży w Zaborze",
+  "data_publikacji": "2026-09-01",
+  "termin_skladania": "2026-10-08T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "45210000",
+   "45215140",
+   "45111200",
+   "45300000",
+   "71220000",
+   "33100000",
+   "45210000",
+   "45215140",
+   "45111200",
+   "45300000",
+   "71220000",
+   "33100000"
+  ],
+  "score": 7,
+  "tagi": [
+   "cpv-71",
+   "roboty-budowlane",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-01",
+  "hash": "12b6305d4a1714be650762efa92015e4d197f33f5fa15853803f4c8181d8e82b"
  },
  {
   "zrodlo": "ted",
@@ -4239,6 +4365,28 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "7566e077d855b9764ea251227122ed3959d67d8b2dabb753f4e40377ccb66b13"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi architektoniczne, inżynieryjne i planowania – Wykonanie dokumentacji projektowo-kosztorysowej na zmianę systemu ogrzewania na elektryczne w lokalach gminnych.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/601808-2026",
+  "zamawiajacy": "Zarząd Zasobu Komunalnego Jednostka Budżetowa Gminy Wrocław",
+  "data_publikacji": "2026-09-01",
+  "termin_skladania": "2026-10-14T11:30:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71240000",
+   "71240000"
+  ],
+  "score": 8,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-01",
+  "hash": "c88cb464942d9f20028a8d71627659681e7729bf62b069a67aa4fe5ec43739bc"
  },
  {
   "zrodlo": "ted",
