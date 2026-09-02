@@ -193,30 +193,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Usługi inżynierii projektowej w zakresie inżynierii lądowej i wodnej – Opracowanie dokumentacji projektowej dla budowy łącznic kolejowych w obszarze węzła kolejowego w Ełku w ramach projektu pn.: „Usprawnienie węzła kolejowego na stacji Ełk – dokumentacja projektowa”",
-  "url": "https://ted.europa.eu/en/notice/-/detail/514548-2026",
-  "zamawiajacy": "PKP Polskie Linie Kolejowe S.A.",
-  "data_publikacji": "2026-07-24",
-  "termin_skladania": "2026-09-02T10:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71322000",
-   "71248000",
-   "71322000",
-   "71248000"
-  ],
-  "score": 18,
-  "tagi": [
-   "bonus-ue/strategiczny",
-   "cpv-71",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": null,
-  "hash": "23aa8d05a032f4cce9fec4aab84843df26cb271772f9eb3305458c393209e66d"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Usługi projektowania architektonicznego – Opracowanie dokumentacji projektowej dla zadania: Budowa budynku dydaktycznego dla administracji",
   "url": "https://ted.europa.eu/en/notice/-/detail/579938-2026",
   "zamawiajacy": "Akademia Sztuki Wojennej",
@@ -676,7 +652,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-01",
+  "dodano": "2026-09-02",
   "hash": "b352b0f4f3816fd50d05d7bae8381a74ed9295032a3f08c620b7be4a6ac526de"
  },
  {
@@ -756,40 +732,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Nadzór nad robotami budowlanymi – Pełnienie funkcji inspektora nadzoru nad budową obiektów małej retencji na terenie Nadleśnictwa Herby",
-  "url": "https://ted.europa.eu/en/notice/-/detail/528781-2026",
-  "zamawiajacy": "Skarb Państwa Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Herby",
-  "data_publikacji": "2026-07-30",
-  "termin_skladania": "2026-09-08T10:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71247000",
-   "71248000",
-   "71520000",
-   "71521000",
-   "71310000",
-   "71311000",
-   "71318000",
-   "71000000",
-   "71247000",
-   "71248000",
-   "71520000",
-   "71521000",
-   "71310000",
-   "71311000",
-   "71318000",
-   "71000000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": null,
-  "hash": "c660dc433b0baf3ad07546a3bc07d7cbc99ad5324b4532062d1cdeda03945e5d"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Roboty instalacyjne elektryczne – Rozbudowa infrastruktury ładowania autobusów elektrycznych na zajezdni autobusowej przy ul. Chemicznej w Zielonej Górze.",
   "url": "https://ted.europa.eu/en/notice/-/detail/513096-2026",
   "zamawiajacy": "Miasto Zielona Góra",
@@ -831,6 +773,30 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "c6709190010e1f25ed5e2c05b0a2d72e5e625c0e946fa0e3fb1def4a1b6a958a"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynierii projektowej w zakresie inżynierii lądowej i wodnej – Opracowanie dokumentacji projektowej dla budowy łącznic kolejowych w obszarze węzła kolejowego w Ełku w ramach projektu pn.: „Usprawnienie węzła kolejowego na stacji Ełk – dokumentacja projektowa”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/605545-2026",
+  "zamawiajacy": "PKP Polskie Linie Kolejowe S.A.",
+  "data_publikacji": "2026-09-02",
+  "termin_skladania": "2026-09-08T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71322000",
+   "71248000",
+   "71322000",
+   "71248000"
+  ],
+  "score": 18,
+  "tagi": [
+   "bonus-ue/strategiczny",
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-02",
+  "hash": "bcca9303e66872f04b02ceef610a9ce411907b628904ea389d7abab1f690f85e"
  },
  {
   "zrodlo": "ted",
@@ -909,7 +875,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-01",
+  "dodano": "2026-09-02",
   "hash": "2fdcc3cf7d912571133819f49489e191e2ff1b5bd9b449ea13e264f975e12a1f"
  },
  {
@@ -1180,7 +1146,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-01",
+  "dodano": "2026-09-02",
   "hash": "2ffdaab444dcea9d08b19f7d417f33b5c2caca7f53f376a5b96221022e4af5c5"
  },
  {
@@ -1348,6 +1314,25 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Przebudowa i dostosowanie do wymogów przeciwpożarowych oraz przystosowanie dla osób ze szczególnymi potrzebami kompleksu obiektów ASP przy Pl. Polskim...",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-c7950c54-823d-46ed-90ec-ecf4af6559e2",
+  "zamawiajacy": "AKADEMIA SZTUK PIĘKNYCH IM. EUGENIUSZA GEPPERTA WE WROCŁAWIU",
+  "data_publikacji": "2026-09-02",
+  "termin_skladania": "2026-09-10T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00417747 z dnia 2026-09-02 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Przebudowa i dostosowanie do wymogów przeciwpożarowych oraz przystosowanie dla osób ze szczególnymi potrzebami kompleksu obiektów ASP przy Pl. Polskim... SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: AKADEMIA SZTUK PIĘKNYCH IM. EUGENIUSZA GEPPERTA WE WROCŁAWIU 1.3.) Oddział zamawiającego: ASP 1.4) Krajowy Numer Identyfikacyjny: REGON 000275814 1.5) Adres zamawiającego 1.5.1.) Ulica: pl. Polski 3/4 1.5.2.) Miejscowość: Wrocław 1.5.3.) Kod pocztowy: 50-156 1.5.4.) Województwo: dolnośląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL514 - Miasto Wrocław 1.5.7.) Numer telefonu: j.polatynski@asp.wroc.pl 1.5.8.) Numer faksu: j.polatynski@asp.wroc.pl 1.5.9.) Adres poczty elektronicznej: j.polatynski@asp.wroc.pl 1.5.10.) Adres strony i",
+  "cpv": [
+   "71220000-6"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-02",
+  "hash": "91ef7882b0d352962c962a339409051fc34c2b360aeb3fb858b8a257c26d95d0"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Wykonanie dokumentacji projektowej i kosztorysowej do realizacji zadania inwestycyjnego pn. „Termomodernizacja budynku Wydziału Elektrycznego przy ul. Sikorskiego 37 w Szczecinie”.",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-cf7570b0-e56a-4813-b1e6-9a3577352cf7",
   "zamawiajacy": "ZACHODNIOPOMORSKI UNIWERSYTET TECHNOLOGICZNY W SZCZECINIE",
@@ -1369,6 +1354,29 @@
   "status_opisu": "pobrany",
   "dodano": null,
   "hash": "6224a21b441479fa5a92d236883e2f8671a0ecb66e2e4ec7e74bf5b8a9b94cc8"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Zaprojektowanie, dostawa i montaż instalacji fotowoltaicznej o mocy 49,56 kWp na terenie PSZOK w Żarnowcu",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-e3c873c8-2594-4474-b97c-28f59f5e1c89",
+  "zamawiajacy": "Jedlickie Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej Sp. z o.o.",
+  "data_publikacji": "2026-09-02",
+  "termin_skladania": "2026-09-10T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00417331 z dnia 2026-09-02 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Dostawy Zaprojektowanie, dostawa i montaż instalacji fotowoltaicznej o mocy 49,56 kWp na terenie PSZOK w Żarnowcu SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Jedlickie Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej Sp. z o.o. 1.4) Krajowy Numer Identyfikacyjny: REGON 370372858 1.5) Adres zamawiającego 1.5.1.) Ulica: Marii Konopnickiej 10 1.5.2.) Miejscowość: Jedlicze 1.5.3.) Kod pocztowy: 38-460 1.5.4.) Województwo: podkarpackie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL821 - Krośnieński 1.5.7.) Numer telefonu: 13 43 521 51 1.5.9.) Adres poczty elektronicznej: jpgkim@jpgkim.pl 1.5.10.) Adres strony internetowej zamawiającego: www.jpgkim.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów public",
+  "cpv": [
+   "09331200-0",
+   "71320000-7",
+   "09332000-5",
+   "45310000-3",
+   "45261215-4"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-02",
+  "hash": "6ffc4918811efc676003dcfc77f2e5709a375775a494c5ee64bb008f9aae0960"
  },
  {
   "zrodlo": "ted",
@@ -1524,7 +1532,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-01",
+  "dodano": "2026-09-02",
   "hash": "c25d9c3f9ccf2353daae18d2c736e862aed64878184bad52eb5470fbb7d1509b"
  },
  {
@@ -1645,7 +1653,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-01",
+  "dodano": "2026-09-02",
   "hash": "0c6e8d73c693c5d9a4a3cd858a92f22088ec10358f5c1faeed6069967022afa7"
  },
  {
@@ -1729,7 +1737,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-01",
+  "dodano": "2026-09-02",
   "hash": "ecd75c85b6bb0c83205634e87b15a52708a1587828b85eb34e2cab5c31bcb197"
  },
  {
@@ -1962,37 +1970,8 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-01",
+  "dodano": "2026-09-02",
   "hash": "86ba6249b26b2d6c8c44180dcffc17203c3d79688227c7ab051bf71761461530"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Roboty budowlane w zakresie wznoszenia kompletnych obiektów budowlanych lub ich części oraz roboty w zakresie inżynierii lądowej i wodnej – Wykonanie kompletnej dokumentacji projektowej oraz wykonanie na jej podstawie robót budowlanych dla zadania inwestycyjnego pn.: „Przebudowa i budowa Stadionu Lekkoatletycznego - kompleks lekkoatletyczno-piłkarski”.",
-  "url": "https://ted.europa.eu/en/notice/-/detail/589430-2026",
-  "zamawiajacy": "Gmina Otwock",
-  "data_publikacji": "2026-08-26",
-  "termin_skladania": "2026-09-14T10:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "45200000",
-   "45223000",
-   "71000000",
-   "71220000",
-   "45200000",
-   "45223000",
-   "71000000",
-   "71220000"
-  ],
-  "score": 6,
-  "tagi": [
-   "cpv-71",
-   "roboty-budowlane",
-   "samorząd",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": null,
-  "hash": "6ee228890d05de04a0ca60d5ec9ec9810d08d38e4f767264d1e520d79ddc0d3a"
  },
  {
   "zrodlo": "ted",
@@ -2600,7 +2579,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-01",
+  "dodano": "2026-09-02",
   "hash": "a6f15550e90d352eec6541840b1959f765427bb13e666208d8e4ee579982dba0"
  },
  {
@@ -2670,6 +2649,40 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "077f89d3437a1d6e7fb5c1f2bf4f5edff1ca99c956ea6a60e79e5ec42da3f467"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Nadzór nad robotami budowlanymi – Pełnienie funkcji inspektora nadzoru nad budową obiektów małej retencji na terenie Nadleśnictwa Herby",
+  "url": "https://ted.europa.eu/en/notice/-/detail/605285-2026",
+  "zamawiajacy": "Skarb Państwa Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Herby",
+  "data_publikacji": "2026-09-02",
+  "termin_skladania": "2026-09-16T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71247000",
+   "71248000",
+   "71520000",
+   "71521000",
+   "71310000",
+   "71311000",
+   "71318000",
+   "71000000",
+   "71247000",
+   "71248000",
+   "71520000",
+   "71521000",
+   "71310000",
+   "71311000",
+   "71318000",
+   "71000000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-02",
+  "hash": "2d82ee3e92ce4ec2b655195cfad0ac36ad0fc51e23eb6550bd873ae014aab095"
  },
  {
   "zrodlo": "ted",
@@ -3009,7 +3022,7 @@
    "roboty-budowlane"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-01",
+  "dodano": "2026-09-02",
   "hash": "7efaed440e718afa009d7ff22c3310f8a9537604b351de2d71b782c1600d8fca"
  },
  {
@@ -3072,7 +3085,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-01",
+  "dodano": "2026-09-02",
   "hash": "d524b28d76804896361211ab9e9c25bddcd331fa02527aea94679892e52a6bfe"
  },
  {
@@ -3231,7 +3244,7 @@
    "roboty-budowlane"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-01",
+  "dodano": "2026-09-02",
   "hash": "04aca70fa8f675fc7c12ed401f028509dc9a3074ed644ddcf874d5c1f386215e"
  },
  {
@@ -3315,7 +3328,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-01",
+  "dodano": "2026-09-02",
   "hash": "3258a0537ec29a7c32a2e3bcbfc0937f2bc01e618582d7215736e6ea15c23f5d"
  },
  {
@@ -3516,7 +3529,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-01",
+  "dodano": "2026-09-02",
   "hash": "0afeb986b6304dbcbb38050530df3fa3ca293f832fa16b9f5312df271c62adbf"
  },
  {
@@ -3979,9 +3992,9 @@
  {
   "zrodlo": "ted",
   "tytul": "Polska – Usługi projektowania architektonicznego – Opracowanie dokumentacji projektowej zagospodarowania terenu rekreacyjnego w zakresie urządzenia terenów zielonych i placu zabaw na działce geodezyjnej o nr ewid. 11816/19 na Osiedlu II w Suwałkach.",
-  "url": "https://ted.europa.eu/en/notice/-/detail/602103-2026",
+  "url": "https://ted.europa.eu/en/notice/-/detail/605731-2026",
   "zamawiajacy": "Gmina Miasto Suwałki",
-  "data_publikacji": "2026-09-01",
+  "data_publikacji": "2026-09-02",
   "termin_skladania": "2026-10-01T09:00:00+02:00",
   "opis": null,
   "cpv": [
@@ -4002,7 +4015,7 @@
   ],
   "status_opisu": "brak",
   "dodano": "2026-09-01",
-  "hash": "79dc6a7c265deff8879483f5f078585c4588ec0d48b4c8194f927bc310adf28c"
+  "hash": "178ae0d627abbe1976abf56cdbf0bbb07e7a831d71f4754912794e83b516a10e"
  },
  {
   "zrodlo": "ted",
@@ -4026,6 +4039,34 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "bceb0733c0ebf0d95c3a2b6571cb4228cbff4cdb169e8a116b0e44d5534ff5c8"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Roboty budowlane w zakresie wznoszenia kompletnych obiektów budowlanych lub ich części oraz roboty w zakresie inżynierii lądowej i wodnej – Wykonanie kompletnej dokumentacji projektowej oraz wykonanie na jej podstawie robót budowlanych dla zadania inwestycyjnego pn.: „Przebudowa i budowa Stadionu Lekkoatletycznego - kompleks lekkoatletyczno-piłkarski”.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/603207-2026",
+  "zamawiajacy": "Gmina Otwock",
+  "data_publikacji": "2026-09-02",
+  "termin_skladania": "2026-10-01T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "45200000",
+   "45223000",
+   "71000000",
+   "71220000",
+   "42912300",
+   "42912100",
+   "42122000"
+  ],
+  "score": 6,
+  "tagi": [
+   "cpv-71",
+   "roboty-budowlane",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-02",
+  "hash": "59c8f8d70495be14b0dfdaaf056eef51c93c8b9755abc2816fb7c4ca06ad528e"
  },
  {
   "zrodlo": "ted",
@@ -4306,6 +4347,44 @@
   "status_opisu": "brak",
   "dodano": "2026-09-01",
   "hash": "1616159a31a7472d82f4454135791d2515b85355a918e27b9c5dfd7f616b5644"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Wykonanie dokumentacji projektowo – kosztorysowej dla obiektów małej retencji nizinnej wraz z pełnieniem nadzoru autorskiego na terenie Nadleśnictwa Leśny Dwór",
+  "url": "https://ted.europa.eu/en/notice/-/detail/605427-2026",
+  "zamawiajacy": "Skarb Państwa PGL LP Nadleśnictwo Leśny Dwór",
+  "data_publikacji": "2026-09-02",
+  "termin_skladania": "2026-10-07T09:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71320000",
+   "71330000",
+   "71520000",
+   "71322000",
+   "71248000",
+   "71320000",
+   "71320000",
+   "71320000",
+   "71330000",
+   "71520000",
+   "71322000",
+   "71248000",
+   "71330000",
+   "71520000",
+   "71322000",
+   "71248000",
+   "71330000",
+   "71520000",
+   "71322000",
+   "71248000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-02",
+  "hash": "33eb34a36c1716017af88ace9464730c98c5767491faabdccfbe361da55a8790"
  },
  {
   "zrodlo": "ted",
