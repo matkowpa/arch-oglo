@@ -1354,6 +1354,30 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowej dla budowy, wyciągu narciarskiego z możliwością alternatywnego wykorzystania infrastruktury w okresie letnim w miejscowości Szczecinek przy ulicy Mikołaja Reja",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-42b17f87-fea2-435f-b6a6-0e75f8005652",
+  "zamawiajacy": "MIASTO SZCZECINEK",
+  "data_publikacji": "2026-09-02",
+  "termin_skladania": "2026-09-10T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00418751 z dnia 2026-09-02 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowej dla budowy, wyciągu narciarskiego z możliwością alternatywnego wykorzystania infrastruktury w okresie letnim w miejscowości Szczecinek przy ulicy Mikołaja Reja SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: MIASTO SZCZECINEK 1.4) Krajowy Numer Identyfikacyjny: REGON 330920890 1.5) Adres zamawiającego 1.5.1.) Ulica: pl. Wolności 13 1.5.2.) Miejscowość: Szczecinek 1.5.3.) Kod pocztowy: 78-400 1.5.4.) Województwo: zachodniopomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL427 - Szczecinecko-pyrzycki 1.5.9.) Adres poczty elektronicznej: zamowienia@um.szczecinek.pl 1.5.10.) Adres strony internetowej zamawiającego: www.szczecinek.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sek",
+  "cpv": [
+   "71220000-6",
+   "71240000-2",
+   "71248000-8",
+   "71420000-8",
+   "71320000-7"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-02",
+  "hash": "38b96d93a47ba42b9a4547c358746280a5429474e961be66b0f9673c4c739cdf"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Wykonanie dokumentacji projektowej i kosztorysowej do realizacji zadania inwestycyjnego pn. „Termomodernizacja budynku Wydziału Elektrycznego przy ul. Sikorskiego 37 w Szczecinie”.",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-cf7570b0-e56a-4813-b1e6-9a3577352cf7",
   "zamawiajacy": "ZACHODNIOPOMORSKI UNIWERSYTET TECHNOLOGICZNY W SZCZECINIE",
@@ -2980,6 +3004,37 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "d99a4f3309eb6617c372ce0c42ee4736357d4c487745435d99beab051a4c6eee"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Sporządzenie dokumentacji projektowej oraz wykonanie remontu łazienek na poziomie 0 w budynku B Centrali NIK. Remont pomieszczeń biurowych w budynku A Centrali NIK.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-c6bed421-90cf-4727-84d4-976e6361ac67",
+  "zamawiajacy": "Najwyższa Izba Kontroli",
+  "data_publikacji": "2026-09-02",
+  "termin_skladania": "2026-09-18T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00418720 z dnia 2026-09-02 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Roboty budowlane Sporządzenie dokumentacji projektowej oraz wykonanie remontu łazienek na poziomie 0 w budynku B Centrali NIK. Remont pomieszczeń biurowych w budynku A Centrali NIK. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Najwyższa Izba Kontroli 1.4) Krajowy Numer Identyfikacyjny: REGON 000000052 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Filtrowa 57 1.5.2.) Miejscowość: Warszawa 1.5.3.) Kod pocztowy: 02-056 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL911 - Miasto Warszawa 1.5.9.) Adres poczty elektronicznej: nik.zp@nik.gov.pl 1.5.10.) Adres strony internetowej zamawiającego: http://bip.nik.gov.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - organ w",
+  "cpv": [
+   "45210000-2",
+   "71220000-6",
+   "71000000-8",
+   "79932000-6",
+   "45400000-1",
+   "45332000-3",
+   "45332400-7",
+   "45331210-1",
+   "71248000-8",
+   "45453000-7",
+   "45442100-8"
+  ],
+  "score": 20,
+  "tagi": [
+   "cpv-71",
+   "roboty-budowlane",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-02",
+  "hash": "4d5d5c9ea33aa34422d0eae87d6ac5e416c8a3db01d88ae2686419148df4ffbb"
  },
  {
   "zrodlo": "ted",
