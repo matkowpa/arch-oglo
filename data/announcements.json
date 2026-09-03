@@ -1596,6 +1596,24 @@
   "hash": "da91b7fed894310d2f2ac4e3877a834bbaa2b3f96be293a79c40f668f426697f"
  },
  {
+  "zrodlo": "pz-search",
+  "tytul": "ZP/5/SZ/2026 Inwentaryzacja sieci oraz dokumentacja projektowa na modernizację trafostacji oraz włączenie agregatu.",
+  "url": "https://platformazakupowa.pl/transakcja/1368492",
+  "zamawiajacy": "Szpital Powiatowy w Piszu",
+  "data_publikacji": null,
+  "termin_skladania": "2026-09-11 10:00:00",
+  "opis": null,
+  "cpv": [],
+  "score": 5,
+  "tagi": [
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-03",
+  "hash": "d9bae8eed9583206918ec38ebc7e61b149e7d73eb05255b441906d2ecf2d0866"
+ },
+ {
   "zrodlo": "bzp",
   "tytul": "Opracowanie dokumentacji projektowej oraz pełnienie nadzoru autorskiego dla zadania pn. „Budowa ul. Bukowej w Malinowicach”.",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-8f1a7c35-79fd-4a71-8d2f-c69cc02bd873",
@@ -2607,6 +2625,30 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "9a1c139380ab3992e9aec89f959a7a97fc484494e06a82063210b534b85bd1db"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej wraz z pełnieniem nadzoru autorskiego dla zadania „Zróbmy klimat - Zagospodarowanie terenu wzdłuż Szkoły Podstawowej 18 wraz z fragmentem parku 900-lecia”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-418a13cf-40e5-4a80-ac1b-50e13c513740",
+  "zamawiajacy": "Zarząd Inwestycji Miejskich",
+  "data_publikacji": "2026-09-03",
+  "termin_skladania": "2026-09-15T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00421591 z dnia 2026-09-03 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej wraz z pełnieniem nadzoru autorskiego dla zadania „Zróbmy klimat - Zagospodarowanie terenu wzdłuż Szkoły Podstawowej 18 wraz z fragmentem parku 900-lecia” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Zarząd Inwestycji Miejskich 1.4) Krajowy Numer Identyfikacyjny: REGON 544042030 1.5) Adres zamawiającego 1.5.1.) Ulica: Ludwika Waryńskiego 34D 1.5.2.) Miejscowość: Grudziądz 1.5.3.) Kod pocztowy: 86-300 1.5.4.) Województwo: kujawsko-pomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL616 - Grudziądzki 1.5.9.) Adres poczty elektronicznej: zamowienia@zim.grudziadz.pl 1.5.10.) Adres strony internetowej zamawiającego: www.zim.e-bip.org.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednos",
+  "cpv": [
+   "71420000-8",
+   "71421000-5",
+   "71220000-6",
+   "71320000-7",
+   "71242000-6"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-03",
+  "hash": "43a3d0804a6d28d876b52e074f374af95d403a6285869ab7280201b43c0cae4d"
  },
  {
   "zrodlo": "ted",

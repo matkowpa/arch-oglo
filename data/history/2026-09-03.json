@@ -4,8 +4,8 @@
   "count": 429
  },
  "bip:phn": {
-  "ok": true,
-  "count": 1
+  "ok": false,
+  "count": 0
  },
  "bip:tauron": {
   "ok": true,
@@ -17,10 +17,10 @@
  },
  "pz-search": {
   "ok": true,
-  "count": 0
+  "count": 3
  },
  "bzp": {
   "ok": true,
-  "count": 41
+  "count": 42
  }
 }
