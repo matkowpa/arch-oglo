@@ -652,7 +652,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-02",
+  "dodano": "2026-09-03",
   "hash": "b352b0f4f3816fd50d05d7bae8381a74ed9295032a3f08c620b7be4a6ac526de"
  },
  {
@@ -831,33 +831,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Usługi zarządzania budową – Usługa pełnienia funkcji inżyniera kontraktu w ramach inwestycji pn. „Budowa i doposażenie nowego budynku BCO na potrzeby rozwoju centrów kompetencji leczenia nowotworów piersi i skóry”",
-  "url": "https://ted.europa.eu/en/notice/-/detail/553037-2026",
-  "zamawiajacy": "Białostockie Centrum Onkologii im. M. Skłodowskiej-Curie w Białymstoku",
-  "data_publikacji": "2026-08-10",
-  "termin_skladania": "2026-09-08T10:00:00+03:00",
-  "opis": null,
-  "cpv": [
-   "71540000",
-   "71247000",
-   "71520000",
-   "71200000",
-   "71300000",
-   "71310000",
-   "71541000",
-   "79994000",
-   "71540000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": null,
-  "hash": "eb5ec7e810b21ae1a7ae56e0b76d4316ba3aa91fed953091a8267d5a60f9bfdf"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Różne meble i wyposażenie – Wykonanie aranżacji przestrzeni wokół Planetarium EC1 (budynek EC-1 Wschód, poz. -2) z dostawą wyposażenia, mebli wypoczynkowych wraz z niezbędnymi usługami projektowymi i montażowymi",
   "url": "https://ted.europa.eu/en/notice/-/detail/560874-2026",
   "zamawiajacy": "\"EC1 Łódź - Miasto Kultury\" w Łodzi",
@@ -875,7 +848,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-02",
+  "dodano": "2026-09-03",
   "hash": "2fdcc3cf7d912571133819f49489e191e2ff1b5bd9b449ea13e264f975e12a1f"
  },
  {
@@ -1146,7 +1119,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-02",
+  "dodano": "2026-09-03",
   "hash": "2ffdaab444dcea9d08b19f7d417f33b5c2caca7f53f376a5b96221022e4af5c5"
  },
  {
@@ -1282,6 +1255,26 @@
   "status_opisu": "pobrany",
   "dodano": null,
   "hash": "2aebbede03d12617346a171359dc35b882a6c55f260fa12e7fcbc0914bb2fa26"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "OPRACOWANIE DOKUMENTACJI PROJEKTOWYCH W ZAKRESIE POPRAWY EFEKTYWNOŚCI ENERGETYCZNEJ BUDYNKÓW UŻYTECZNOŚCI PUBLICZNEJ PAŃSTWOWEJ STRAŻY POŻARNEJ NA TERENIE WOJEWÓDZTWA WARMIŃSKO-MAZURSKIEGO",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-23361d12-2ebd-4aa3-9504-b4e13b074ac0",
+  "zamawiajacy": "Komenda Wojewódzka Państwowej Straży Pożarnej w Olsztynie",
+  "data_publikacji": "2026-09-02",
+  "termin_skladania": "2026-09-10T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00419349 z dnia 2026-09-02 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi OPRACOWANIE DOKUMENTACJI PROJEKTOWYCH W ZAKRESIE POPRAWY EFEKTYWNOŚCI ENERGETYCZNEJ BUDYNKÓW UŻYTECZNOŚCI PUBLICZNEJ PAŃSTWOWEJ STRAŻY POŻARNEJ NA TERENIE WOJEWÓDZTWA WARMIŃSKO-MAZURSKIEGO SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Komenda Wojewódzka Państwowej Straży Pożarnej w Olsztynie 1.4) Krajowy Numer Identyfikacyjny: REGON 000173597 1.5) Adres zamawiającego 1.5.1.) Ulica: Niepodległości 16 1.5.2.) Miejscowość: Olsztyn 1.5.3.) Kod pocztowy: 10-045 1.5.4.) Województwo: warmińsko-mazurskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL622 - Olsztyński 1.5.9.) Adres poczty elektronicznej: kwsekretariat@kwpsp.olsztyn.pl 1.5.10.) Adres strony internetowej zamawiającego: www.gov.pl/web/kwpsp-olsztyn 1.6.) Rodzaj zamawiającego: ",
+  "cpv": [
+   "71320000-7",
+   "71248000-8"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-03",
+  "hash": "1322253709bd3f6b40656107ce95568671f24bb0d8453210572dc9aeb1be075d"
  },
  {
   "zrodlo": "bzp",
@@ -1717,60 +1710,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Jednostki rezonansu magnetycznego – Dostawa wysokospecjalistycznej aparatury medycznej wraz z wyposażeniem i wykonaniem robót budowlanych w Szpitalu Morskim im. PCK w Gdyni w ramach projektu pn.: „Poprawa dostępności i jakości w świadczeniu usług onkologicznych poprzez przebudowę oraz rozbudowę Zakładu Diagnostyki Obrazowej w Szpitalu Morskim im. PCK w Gdyni”...",
-  "url": "https://ted.europa.eu/en/notice/-/detail/589601-2026",
-  "zamawiajacy": "Szpitale Pomorskie Sp. z o.o.",
-  "data_publikacji": "2026-08-26",
-  "termin_skladania": "2026-09-11T09:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "33111610",
-   "71220000",
-   "45000000",
-   "45100000",
-   "45215140",
-   "45262700",
-   "45262800",
-   "45300000",
-   "45310000",
-   "45350000",
-   "45330000",
-   "45343000",
-   "45400000",
-   "39000000",
-   "71321000",
-   "33115000",
-   "33111610",
-   "39000000",
-   "45400000",
-   "71220000",
-   "71321000",
-   "45000000",
-   "45100000",
-   "45215140",
-   "45262700",
-   "45262800",
-   "45350000",
-   "45350000",
-   "45330000",
-   "45343000",
-   "39000000",
-   "33115000",
-   "45400000",
-   "45300000",
-   "45310000",
-   "45330000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-02",
-  "hash": "0c6e8d73c693c5d9a4a3cd858a92f22088ec10358f5c1faeed6069967022afa7"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Usługi architektoniczne, budowlane, inżynieryjne i kontrolne – Opracowanie dokumentacji technicznej dostosowania części podpiwniczonych budynku Szkoły Podstawowej nr 4 w Suwałkach przy ul. W. Polskiego 13 na potrzeby miejsca doraźnego schronienia",
   "url": "https://ted.europa.eu/en/notice/-/detail/544459-2026",
   "zamawiajacy": "Miasto Suwałki",
@@ -1850,7 +1789,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-02",
+  "dodano": "2026-09-03",
   "hash": "ecd75c85b6bb0c83205634e87b15a52708a1587828b85eb34e2cab5c31bcb197"
  },
  {
@@ -1879,6 +1818,39 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "9e2c25698878b123f8edb6fe242aa96d55e3b8be319e6f78ab6b935275595946"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "„Modernizacja i wyposażenie pomieszczeń Poradni Psychologiczno – Pedagogicznej w Kwidzynie” ul. Grudziądzka 8, 82-500 Kwidzyn – opracowanie kompletnej dokumentacji projektowej.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-c8dddaca-bdc7-4efb-a39e-0070ddee0a92",
+  "zamawiajacy": "Powiat Kwidzyński- Starostwo Powiatowe w Kwidzynie",
+  "data_publikacji": "2026-09-03",
+  "termin_skladania": "2026-09-11T10:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00420262 z dnia 2026-09-03 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi „Modernizacja i wyposażenie pomieszczeń Poradni Psychologiczno – Pedagogicznej w Kwidzynie” ul. Grudziądzka 8, 82-500 Kwidzyn – opracowanie kompletnej dokumentacji projektowej. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Powiat Kwidzyński- Starostwo Powiatowe w Kwidzynie 1.4) Krajowy Numer Identyfikacyjny: REGON 192644760 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Kościuszki 29B 1.5.2.) Miejscowość: Kwidzyn 1.5.3.) Kod pocztowy: 82-500 1.5.4.) Województwo: pomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL638 - Starogardzki 1.5.9.) Adres poczty elektronicznej: zamowienia@powiatkwidzynski.pl 1.5.10.) Adres strony internetowej zamawiającego: http://bip.powiatkwidzynski.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - ",
+  "cpv": [
+   "71220000-6",
+   "71223000-7",
+   "71222000-0",
+   "71221000-3",
+   "71250000-5",
+   "71240000-2",
+   "71230000-9",
+   "71210000-3",
+   "71500000-3",
+   "71400000-2",
+   "71300000-1",
+   "71200000-0",
+   "71320000-7"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-03",
+  "hash": "bc13a154a4173d2af750ad9df96cdbdb4c3482f261cb78e90aaf539dac3a4bdb"
  },
  {
   "zrodlo": "ted",
@@ -1940,6 +1912,33 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "b881839ad228313530544b52f848893ef78552daac29d88aee11398446cc3f81"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej przebudowy budynku usługowo-handlowego na potrzeby działalności kulturalnej i edukacyjnej w m. Nowy Wiśnicz.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-7203dadf-9334-470e-84ba-8c43e3969bfc",
+  "zamawiajacy": "GMINA NOWY WIŚNICZ",
+  "data_publikacji": "2026-09-02",
+  "termin_skladania": "2026-09-14T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00419331 z dnia 2026-09-02 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej przebudowy budynku usługowo-handlowego na potrzeby działalności kulturalnej i edukacyjnej w m. Nowy Wiśnicz. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: GMINA NOWY WIŚNICZ 1.4) Krajowy Numer Identyfikacyjny: REGON 851661122 1.5) Adres zamawiającego 1.5.1.) Ulica: Rynek 38 1.5.2.) Miejscowość: Nowy Wiśnicz 1.5.3.) Kod pocztowy: 32-720 1.5.4.) Województwo: małopolskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL214 - Krakowski 1.5.7.) Numer telefonu: 14 68 509 12 1.5.9.) Adres poczty elektronicznej: przetargi@nowywisnicz.pl 1.5.10.) Adres strony internetowej zamawiającego: www.nowywisnicz.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka",
+  "cpv": [
+   "71000000-8",
+   "71220000-6",
+   "71221000-3",
+   "71240000-2",
+   "71242000-6",
+   "71245000-7",
+   "71248000-8"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-03",
+  "hash": "b9599aee218412f703a4904e1d448f2302a234d4b67aba0100f25cc244c26bba"
  },
  {
   "zrodlo": "ted",
@@ -2083,7 +2082,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-02",
+  "dodano": "2026-09-03",
   "hash": "86ba6249b26b2d6c8c44180dcffc17203c3d79688227c7ab051bf71761461530"
  },
  {
@@ -2448,6 +2447,30 @@
   "hash": "e8fd0a129c545dc5906645ed3337e95fb419a692f241278720265ebf918cd58f"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowej dla inwestycji pn. ”Budowa laboratorium środowiskowego GREEN HUB” na terenie kampusu Politechniki Gdańskiej wraz z pełnieniem nadzoru autorskiego",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-9954db98-03c2-4b12-8f23-119c521fd344",
+  "zamawiajacy": "POLITECHNIKA GDAŃSKA",
+  "data_publikacji": "2026-09-03",
+  "termin_skladania": "2026-09-15T09:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00420272 z dnia 2026-09-03 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowej dla inwestycji pn. ”Budowa laboratorium środowiskowego GREEN HUB” na terenie kampusu Politechniki Gdańskiej wraz z pełnieniem nadzoru autorskiego SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: POLITECHNIKA GDAŃSKA 1.3.) Oddział zamawiającego: WILIS SZP 1.4) Krajowy Numer Identyfikacyjny: REGON 000001620 1.5) Adres zamawiającego 1.5.1.) Ulica: NARUTOWICZA11/12 1.5.2.) Miejscowość: Gdańsk 1.5.3.) Kod pocztowy: 80-233 1.5.4.) Województwo: pomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL633 - Trójmiejski 1.5.9.) Adres poczty elektronicznej: szp.wilis@pg.edu.pl 1.5.10.) Adres strony internetowej zamawiającego: https://www.pg.edu.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka s",
+  "cpv": [
+   "71220000-6",
+   "71250000-5",
+   "71320000-7",
+   "71330000-0",
+   "71248000-8"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-03",
+  "hash": "f1c993c302fbe0faec3f53cc54107ee31b981bc5fabb03b7e6c9dc641db91775"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Studia wykonalności, usługi doradcze, analizy – Realizacja usługi doradczej pn. „Wspólna Analiza Komercyjna Nordycko-Bałtyckiego Korytarza Wodorowego”",
   "url": "https://ted.europa.eu/en/notice/-/detail/587136-2026",
@@ -2533,6 +2556,33 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "4cb0e6c0d6fe60e32cfa82afedfd54d563a025dff846431010f85f73196baf90"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi zarządzania budową – Usługa pełnienia funkcji inżyniera kontraktu w ramach inwestycji pn. „Budowa i doposażenie nowego budynku BCO na potrzeby rozwoju centrów kompetencji leczenia nowotworów piersi i skóry”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/606730-2026",
+  "zamawiajacy": "Białostockie Centrum Onkologii im. M. Skłodowskiej-Curie w Białymstoku",
+  "data_publikacji": "2026-09-03",
+  "termin_skladania": "2026-09-15T10:00:00+03:00",
+  "opis": null,
+  "cpv": [
+   "71540000",
+   "71247000",
+   "71520000",
+   "71200000",
+   "71300000",
+   "71310000",
+   "71541000",
+   "79994000",
+   "71540000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-03",
+  "hash": "50a167f64d89ab84eeab19aea497604aab2bf808f4454890c6fc37d5395d827f"
  },
  {
   "zrodlo": "ted",
@@ -2692,7 +2742,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-02",
+  "dodano": "2026-09-03",
   "hash": "a6f15550e90d352eec6541840b1959f765427bb13e666208d8e4ee579982dba0"
  },
  {
@@ -2739,6 +2789,60 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "c730709f3c403a069b59c826ec1d02d033e6049f54629bc01437e1d77db21452"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Jednostki rezonansu magnetycznego – Dostawa wysokospecjalistycznej aparatury medycznej wraz z wyposażeniem i wykonaniem robót budowlanych w Szpitalu Morskim im. PCK w Gdyni w ramach projektu pn.: „Poprawa dostępności i jakości w świadczeniu usług onkologicznych poprzez przebudowę oraz rozbudowę Zakładu Diagnostyki Obrazowej w Szpitalu Morskim im. PCK w Gdyni”...",
+  "url": "https://ted.europa.eu/en/notice/-/detail/607659-2026",
+  "zamawiajacy": "Szpitale Pomorskie Sp. z o.o.",
+  "data_publikacji": "2026-09-03",
+  "termin_skladania": "2026-09-16T09:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "33111610",
+   "71220000",
+   "45000000",
+   "45100000",
+   "45215140",
+   "45262700",
+   "45262800",
+   "45300000",
+   "45310000",
+   "45350000",
+   "45330000",
+   "45343000",
+   "45400000",
+   "39000000",
+   "71321000",
+   "33115000",
+   "33111610",
+   "39000000",
+   "45400000",
+   "71220000",
+   "71321000",
+   "45000000",
+   "45100000",
+   "45215140",
+   "45262700",
+   "45262800",
+   "45350000",
+   "45350000",
+   "45330000",
+   "45343000",
+   "39000000",
+   "33115000",
+   "45400000",
+   "45300000",
+   "45310000",
+   "45330000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-03",
+  "hash": "cd06b93da1133bc3d25d5db61c4d16be02beebc6d617626d6ff1f33fe4ebd48a"
  },
  {
   "zrodlo": "ted",
@@ -2794,7 +2898,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-02",
+  "dodano": "2026-09-03",
   "hash": "2d82ee3e92ce4ec2b655195cfad0ac36ad0fc51e23eb6550bd873ae014aab095"
  },
  {
@@ -3229,7 +3333,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-02",
+  "dodano": "2026-09-03",
   "hash": "d524b28d76804896361211ab9e9c25bddcd331fa02527aea94679892e52a6bfe"
  },
  {
@@ -3388,7 +3492,7 @@
    "roboty-budowlane"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-02",
+  "dodano": "2026-09-03",
   "hash": "04aca70fa8f675fc7c12ed401f028509dc9a3074ed644ddcf874d5c1f386215e"
  },
  {
@@ -3472,7 +3576,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-02",
+  "dodano": "2026-09-03",
   "hash": "3258a0537ec29a7c32a2e3bcbfc0937f2bc01e618582d7215736e6ea15c23f5d"
  },
  {
@@ -3673,7 +3777,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-02",
+  "dodano": "2026-09-03",
   "hash": "0afeb986b6304dbcbb38050530df3fa3ca293f832fa16b9f5312df271c62adbf"
  },
  {
@@ -4072,42 +4176,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Usługi zarządzania budową – Pełnienie funkcji Inżyniera Kontraktu dotyczącej inwestycji pn. „Poszerzenie odcinka toru wodnego na podejściu do portu morskiego w Świnoujściu”",
-  "url": "https://ted.europa.eu/en/notice/-/detail/522766-2026",
-  "zamawiajacy": "Dyrektor Urzędu Morskiego w Szczecinie",
-  "data_publikacji": "2026-07-29",
-  "termin_skladania": "2026-09-30T10:30:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71540000",
-   "71541000",
-   "71520000",
-   "71248000",
-   "71247000",
-   "71244000",
-   "71311000",
-   "71311100",
-   "71317000",
-   "71540000",
-   "71541000",
-   "71520000",
-   "71248000",
-   "71247000",
-   "71244000",
-   "71311000",
-   "71311100",
-   "71317000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": null,
-  "hash": "ed99e6ae76507498b9d010b54ae75ea6674d5fa3c13004cbcf12548999778d08"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Usługi architektoniczne, budowlane, inżynieryjne i kontrolne – Opracowanie dokumentacji projektowo-kosztorysowej dla zadania: Przebudowa Pawilonu nr XVII z przeznaczeniem na stacjonarny oddział psychiatryczny stanowiący komórkę organizacyjną Centrum Zdrowia Psychicznego",
   "url": "https://ted.europa.eu/en/notice/-/detail/592652-2026",
   "zamawiajacy": "Szpital dla Nerwowo i Psychicznie Chorych im. Stanisława Kryzana",
@@ -4209,7 +4277,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-02",
+  "dodano": "2026-09-03",
   "hash": "59c8f8d70495be14b0dfdaaf056eef51c93c8b9755abc2816fb7c4ca06ad528e"
  },
  {
@@ -4704,5 +4772,41 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "b76dd22dbc47c8c406e5943ac2160105f80f679eed285a428951161a9822fe1d"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi zarządzania budową – Pełnienie funkcji Inżyniera Kontraktu dotyczącej inwestycji pn. „Poszerzenie odcinka toru wodnego na podejściu do portu morskiego w Świnoujściu”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/609239-2026",
+  "zamawiajacy": "Dyrektor Urzędu Morskiego w Szczecinie",
+  "data_publikacji": "2026-09-03",
+  "termin_skladania": "2026-10-30T10:30:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71540000",
+   "71541000",
+   "71520000",
+   "71248000",
+   "71247000",
+   "71244000",
+   "71311000",
+   "71311100",
+   "71317000",
+   "71540000",
+   "71541000",
+   "71520000",
+   "71248000",
+   "71247000",
+   "71244000",
+   "71311000",
+   "71311100",
+   "71317000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-03",
+  "hash": "43bdd6dc8d3e34537761c8edeb21e1a54576493c9b7a9057f6f163465cd82fc7"
  }
 ]
