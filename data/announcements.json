@@ -1774,6 +1774,30 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowej dla zadania modernizacja dachu sali gimnastycznej i nawierzchni boiska szkolnego przy Szkole Podstawowej nr 1 w Iławie",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-60cb4f64-ff55-4dcf-b39f-b667e8326c28",
+  "zamawiajacy": "GMINA MIEJSKA IŁAWA",
+  "data_publikacji": "2026-09-03",
+  "termin_skladania": "2026-09-11T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00420935 z dnia 2026-09-03 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowej dla zadania modernizacja dachu sali gimnastycznej i nawierzchni boiska szkolnego przy Szkole Podstawowej nr 1 w Iławie SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: GMINA MIEJSKA IŁAWA 1.4) Krajowy Numer Identyfikacyjny: REGON 510743456 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Niepodległości 13 1.5.2.) Miejscowość: Iława 1.5.3.) Kod pocztowy: 14-200 1.5.4.) Województwo: warmińsko-mazurskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL621 - Elbląski 1.5.9.) Adres poczty elektronicznej: przetargi@umilawa.pl 1.5.10.) Adres strony internetowej zamawiającego: https://bip.umilawa.pl/ 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu ter",
+  "cpv": [
+   "71320000-7",
+   "71322000-1",
+   "71242000-6",
+   "71248000-8"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-03",
+  "hash": "09d5df7c2095c595943d3100a49cba3ef38081fe7e38a1fe6464beea6655a5b0"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Wykonanie dokumentacji projektowej modernizacji ścieżki w Lesie Komunalnym zlokalizowanej na działkach nr 4/1, 10/11 i 10/6 w Gliwicach, obręb Kopernik.",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-dca54dc5-d942-46c3-8739-3affa260fd50",
   "zamawiajacy": "Miejski Zarząd Usług Komunalnych",
@@ -3224,6 +3248,25 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "0454e5cab26a5dbc43ae9c6b74bc2a398f4179d9bf598237fe395687a0347707"
+ },
+ {
+  "zrodlo": "bip:tauron",
+  "tytul": "Opracowanie Dokumentacji Projektowej (projektowo-kosztorysowej i terenowo-prawnej) dla zadania pn.: „Modernizacja ciągu kablowego 6kV GPZ Zuzanka-S-019 poprzez zmianę napięcia pracy na napięcie 15kV na terenie miasta Zawiercie”",
+  "url": "https://swoz.tauron.pl/platform/demand/notice/public/current/list",
+  "zamawiajacy": "TAURON Dystrybucja S.A.",
+  "data_publikacji": "2026-09-03",
+  "termin_skladania": "2026-09-17 09:00",
+  "opis": null,
+  "cpv": [],
+  "score": 8,
+  "tagi": [
+   "giełdowa",
+   "spolka-sp",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-03",
+  "hash": "8fe0e77ba88d71395e19eb8a6ef4e50a46308862556a1955097b92776bf58243"
  },
  {
   "zrodlo": "ted",
