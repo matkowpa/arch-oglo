@@ -41,7 +41,7 @@
       <div class="text-xs text-zinc-500 flex items-center gap-3">
         <span>{{ a.termin_skladania|default("—", true) }}</span>
         <span class="border border-zinc-800 rounded-xl px-2.5 py-1">score {{ a.score|default("–") }}</span>
-        <span class="border border-zinc-800 rounded-xl px-2.5 py-1">{{ a.zrodlo }}</span>
+        <a class="border border-zinc-800 rounded-xl px-2.5 py-1 hover:border-emerald-500/40" href="https://github.com/matkowpa/arch-oglo#%C5%BAr%C3%B3d%C5%82a" target="_blank" rel="noopener">{{ a.zrodlo }}</a>
       </div>
     </div>
   {% else %}

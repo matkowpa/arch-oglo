@@ -24,9 +24,13 @@ plik: przykład_przetargu.eml
 
 
 todo:
-Tauron
-
-
+- [x] Tauron — WDROŻONE 2026-08-29 (SWOZ/Mercus, aktywne źródło)
+- [x] sprawdz czy żródłą są podpięte do linku na stronie — ZWERYFIKOWANE 2026-09-03
+      (kafelek „N źródeł" → README#Źródła; tytuł karty → URL ogłoszenia; badge źródła klikalny)
+- [x] PSE — WDROŻONE 2026-09-03 (eB2B: przetargi.pse.pl, GET /auction/auction/list,
+      JSON, ~159 postępowań; docs/zrodla-decyzje.md)
 
 kolejne BIPY spółek do przeglądnięcia
-sprawdz czy żródłą są podpięte do linku na stronie
+- PGG — endpoint POTWIERDZONY 2026-09-03 (POST {ścieżka}-list + CSRF, HTML z 23
+  wierszami; docs/zrodla-decyzje.md) — DO WDROŻENIA
+- PGE — Logintrade (Faza 2 / kanał IMAP)

@@ -98,6 +98,20 @@ bip:
       list_url: https://kghm.com/pl/przetargi-nieograniczone
       crawl_delay: 10
       pages: 2   # 2 x 10 najnowszych; można zwiększyć po obserwacji wolumenu
+    - id: pse
+      name: Polskie Sieci Elektroenergetyczne S.A. (platforma eB2B)
+      kind: sp
+      enabled: true
+      # Research 2026-09-03 (docs/zrodla-decyzje.md): publiczna lista postępowań
+      # otwartych; dane przez XHR GET api_url (JSON; POST -> 403; szczegóły
+      # postępowań za loginem -> url = strona listy). robots.txt: 404 (brak).
+      list_url: https://przetargi.pse.pl/open-auctions.html
+      api_url: https://przetargi.pse.pl/auction/auction/list
+      crawl_delay: 10
+      limit: 100        # PageSize (sonda: OK)
+      max_requests: 3   # ~159 postępowań -> 2 żądania (100+59) + zapas
+      # PGG — endpoint listy POTWIERDZONY 2026-09-03 (POST {ścieżka}-list
+      # z tokenem CSRF, HTML; docs/zrodla-decyzje.md) — do wdrożenia
       # PGG — listy zakupowe renderowane w JS (app-rB_Ysula.js, pusty <main>);
       # do powrotu dopiero po znalezieniu endpointu JSON (docs/zrodla-decyzje.md)
       # KGHM/PGE/PGG/ARP/Enea — do potwierdzenia sondą z runnera
@@ -111,6 +125,7 @@ sp_companies:  # rozpoznanie zamawiającego → bonus +1
   - "Agencja Rozwoju Przemysłu"
   - "ORLEN"
   - "Tauron"
+  - "Polskie Sieci Elektroenergetyczne"
 
 exchange_companies:  # bonus +1 — spółki giełdowe
   - "ORLEN"

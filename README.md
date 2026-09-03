@@ -36,9 +36,11 @@ Zostaje jako rezerwa na wypadek włączenia powiadomień na innych platformach
 | BIP: PHN S.A. | **AKTYWNY** (od 2026-08-28) | `bip.phnsa.pl/ogloszenia/1..3` (paginacja 3 stron), Crawl-delay 10 |
 | BIP: Grupa TAURON (SWOZ) | **AKTYWNY** (od 2026-08-29) | `swoz.tauron.pl/.../current/list` (platforma Mercus, server-side, ~30 najnowszych); robots.txt: brak; szczegóły: [docs/zrodla-decyzje.md](docs/zrodla-decyzje.md) |
 | BIP: KGHM S.A. | **AKTYWNY** (od 2026-08-29) | `kghm.com/pl/przetargi-nieograniczone` (Drupal views, 2 × 10 najnowszych); właściwy URL odkryty sondu (plan zgłaszał 404) |
+| **PSE — platforma eB2B** | **AKTYWNY** (od 2026-09-03) | `przetargi.pse.pl/open-auctions.html` („Lista postępowań otwartych"); dane przez anonimowy XHR GET `/auction/auction/list?start&limit` (JSON, ~159 postępowań, paginacja 100+59); szczegóły za loginem → url = strona listy; research: [docs/zrodla-decyzje.md](docs/zrodla-decyzje.md) |
 | BIP: PGG | **ODŁOŻONY** | listy zakupowe renderowane w JS (pusty `<main>`); do powrotu po znalezieniu endpointu JSON |
 | BIP: pozostałe spółki (ARP/Enea/JSW/Orlen/Intercity) | **ZAMKNIĘTE** | werdykt sondy z runnera (bip-probe #1): DNS nie istnieje / WAF 403 / timeout — brak ścieżki scrapingu |
-| PSE (`przetargi.pse.pl`) / PGE (Logintrade) | **TIER B / FAZA 2** | jedyny żywy kandydat kolejnego źródła: research API PSE |
+| PSE (`przetargi.pse.pl`) | ✅ **AKTYWNY** (od 2026-09-03) | platforma eB2B — wdrożony adapter `bip:pse` (wiersz wyżej) |
+| PGE (Logintrade) | **TIER B / FAZA 2** | kolejny żywy kandydat: research Logintrade / kanał IMAP |
 | platformazakupowa (IMAP) | **WYŁĄCZONY** | platforma NIE oferuje subskrypcji CPV e-mail (potwierdzone 2026-08-28); parser dormant na powiadomienia z innych platform (Faza 2) |
 Dodawanie źródła: nowy plik w `scraper/sources/` z klasą `fetch() -> list[Announcement]` + wpis w `config/sources.yaml`.
 

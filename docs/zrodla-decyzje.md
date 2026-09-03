@@ -117,13 +117,49 @@ biuletyny.tauron.pl, arp.com.pl).
 - Pozostałe sekcje (Pozostałe ogłoszenia, Umowy ramowe, Zapytania ofertowe) — do
   rozszerzenia w późniejszych iteracjach. Konfiguracja: `pages: 2` (2 × 10 najnowszych).
 
-### PGG — ODŁOŻONE (listy JS-driven)
+### PSE — WDROŻONE (platforma eB2B, 2026-09-03)
 
-- Hub `/przetargi` server-side, ale właściwe listy (`/przetargi/przetargi-zakupowe/
-  przed-terminem-skladania-ofert` → 200, 49 KB) mają **pusty `<main>`** — treść renderuje
-  aplikacja Vite (`app-rB_Ysula.js` + `/js/przetargi/scripts.js`).
-- Do powrotu: znaleźć endpoint JSON w aplikacji (badanie jak dla BZP) albo headless —
-  **poza MVP**. Notatka zapisana, parser nie pisany (zasada 10.9: zgłosić, nie improwizować).
+Sonduje 2026-09-03 (anonimowo, User-Agent własny; poprzedzona sondą z runnera
+bip-probe #1, która wykazała 200/16 KB — patrz wyżej):
+
+- `przetargi.pse.pl` = **platforma eB2B** (ExtJS 4.1 + PHP); routing
+  `module/controller/action`, strony publiczne na trasach custom (`*.html`).
+- `robots.txt` przetargi.pse.pl: **404** — brak dyrektyw.
+- Strony `/procurements/*` (procedury po zalogowaniu) → **403 „Brak dostępu"**.
+- **PUBLICZNE:** `/open-auctions.html` („Lista postępowań otwartych") i
+  `/auction-notices.html` („Lista ogłoszeń do postępowań otwartych") → 200.
+- Dane listy ładuje XHR: **`GET /auction/auction/list?start=0&limit=100`** →
+  200 `application/json` `{success, total, data}` (endpoint zidentyfikowany
+  w `/js/app/controller/compiled/Auction.js`, proxy store; routing eB2B z app.js).
+  Wymaga wcześniejszego GET strony listy (sesja PHPSESSID); **POST → 403** (GET only).
+- Wolumen: `total = 159` (stan 2026-09-03); paginacja `start/limit`: 100+59,
+  **zero nakładania** między stronami.
+- Kluczowe pola rekordu: `name` (tytuł), `company_name` (POLSKIE SIECI
+  ELEKTROENERGETYCZNE S.A.), `publication_date`, `offers_attachments_deadline_date`
+  (termin ofert; w etapie RFI bywa null → fallback `stage_offers_end_date` → null),
+  `evidence_number`/`auction_number`, `is_test` (od filtrowane), `slug`.
+- **Szczegóły postępowania ZA LOGINEM** (przetestowane warianty `/auction/{slug}`,
+  `/aukcja/{slug}`, `/auction/details/{slug}` → 403) → `url = strona listy`,
+  unikalność przez dedup wtórny (jak TAURON).
+- Wdrożenie: `scraper/sources/bip/pse.py` (`PseSource`, `bip:pse`), fixture
+  `tests/fixtures/pse_open_auctions.json` (3 pełne wiersze z żywego endpointu),
+  testy `tests/test_pse.py`, konfiguracja `config/sources.yaml` (`bip.companies`,
+  id `pse`) + `sp_companies` (+1 bonus SP).
+
+### PGG — ENDPOINT POTWIERDZONY (2026-09-03; do wdrożenia)
+
+Poprzednia nota („pusty `<main>`, aplikacja Vite") — rozstrzygnięcie:
+
+- Lista renderuje `/js/przetargi/scripts.js`: `getPrzetargiList('<basename>-list')`
+  wykonuje **POST** na `<ścieżka-strony>-list`
+  (np. `https://www.pgg.pl/przetargi/przetargi-zakupowe/przed-terminem-skladania-ofert-list`)
+  z parametrem `_token` z `<meta name="csrf-token">` (aplikacja Laravel).
+- **Test empiryczny (2026-09-03):** GET strony (200, token obecny) → POST `-list`
+  z tokenem → **200, HTML z 23 wierszami tabeli** (nr postępowania, komórka,
+  typ, daty publikacji i terminu). 2 żądania/run.
+- Wolumen: postępowania górnicze (zaopatrzenie), profil archeologicznie niski —
+  wdrożenie odłożone do kolejnej iteracji „kolejne BIPY"; przepis jest kompletny.
+
 
 ### Pozostałe spółki — ROZSTRZYGNIĘTE sondą z runnera (bip-probe #1, 2026-08-31)
 
