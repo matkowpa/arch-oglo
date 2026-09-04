@@ -2065,6 +2065,28 @@
   "hash": "6477822476f4b5ca5066553602e1fdf5cf25c0151d2b8986b278645fec411456"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowej budowy ul. Leśnej na odcinku od nr 14 do nr 16 w miejscowości Sucha Górna",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-8ce3cd72-e546-4f02-8fef-9684e67a5c29",
+  "zamawiajacy": "GMINA POLKOWICE",
+  "data_publikacji": "2026-09-04",
+  "termin_skladania": "2026-09-14T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00423287 z dnia 2026-09-04 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowej budowy ul. Leśnej na odcinku od nr 14 do nr 16 w miejscowości Sucha Górna SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: GMINA POLKOWICE 1.4) Krajowy Numer Identyfikacyjny: REGON 390647618 1.5) Adres zamawiającego 1.5.1.) Ulica: Rynek 1 1.5.2.) Miejscowość: Polkowice 1.5.3.) Kod pocztowy: 59-100 1.5.4.) Województwo: dolnośląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL516 - Legnicko-głogowski 1.5.7.) Numer telefonu: 76/8474121 1.5.9.) Adres poczty elektronicznej: a.nowak@gmina.polkowice.pl 1.5.10.) Adres strony internetowej zamawiającego: https://bip.polkowice.eu/ 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1",
+  "cpv": [
+   "71240000-2",
+   "71320000-7"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-04",
+  "hash": "fc97fd4859a259bd3c2dfbadf0d2881b3df84b2ddce63fe36143f364be61d82a"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Energia elektryczna, cieplna, słoneczna i jądrowa – „Budowa Wodorowego Magazynu Energii o pojemności 3 MWh w ramach zadania inwestycyjnego pn. „Działania inwestycyjne w zakresie budowy infrastruktury Klastra Energii Gmin Odolanów, Przygodzice, Sulmierzyce” w ramach Inwestycji B2.2.2/G1.1.2 Krajowego Planu Odbudowy i Zwiększania Odporności (KPO): Instalacje OZE realizowane przez społeczności energetyczne Część B:wsparcie inwestycyjne sp-ści ener.",
   "url": "https://ted.europa.eu/en/notice/-/detail/570823-2026",
@@ -3950,6 +3972,28 @@
   "status_opisu": "brak",
   "dodano": "2026-09-04",
   "hash": "3258a0537ec29a7c32a2e3bcbfc0937f2bc01e618582d7215736e6ea15c23f5d"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowej przebudowy i modernizacji parkingu wewnętrznego przy budynkach Rektoratu UŁ przy ul. Narutowicza 68 i Uniwersyteckiej 3 w Łodzi z przystosow. do obowiąz. przepisów",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-e015c2ef-9fbd-4a8c-adb2-82f45bad2dad",
+  "zamawiajacy": "UNIWERSYTET ŁÓDZKI",
+  "data_publikacji": "2026-09-04",
+  "termin_skladania": "2026-09-22T07:30:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00423372 z dnia 2026-09-04 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowej przebudowy i modernizacji parkingu wewnętrznego przy budynkach Rektoratu UŁ przy ul. Narutowicza 68 i Uniwersyteckiej 3 w Łodzi z przystosow. do obowiąz. przepisów SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: UNIWERSYTET ŁÓDZKI 1.4) Krajowy Numer Identyfikacyjny: REGON 000001287 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Prezydenta Gabriela Narutowicza 68 1.5.2.) Miejscowość: Łódź 1.5.3.) Kod pocztowy: 90-136 1.5.4.) Województwo: łódzkie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL711 - Miasto Łódź 1.5.7.) Numer telefonu: (42) 635-42-90 1.5.8.) Numer faksu: (42) 635-43-05 1.5.9.) Adres poczty elektronicznej: curi@uni.lodz.pl 1.5.10.) Adres strony internetowej zamawiającego: www.uni.lodz.pl 1.",
+  "cpv": [
+   "71320000-7",
+   "71220000-6",
+   "71221000-3"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-04",
+  "hash": "93d9bfb1a2453b0e7fbfa899e033f950fc49aab8844cab8422ee3b570369a517"
  },
  {
   "zrodlo": "ted",
