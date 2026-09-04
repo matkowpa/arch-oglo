@@ -2129,6 +2129,30 @@
   "hash": "fc97fd4859a259bd3c2dfbadf0d2881b3df84b2ddce63fe36143f364be61d82a"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "„Zaprojektowanie, dostawa i montaż agregatu prądotwórczego oraz systemu zasilania gwarantowanego UPS wraz z bateriami dla budynku SZPZLO Warszawa Praga-Północ przy ul. Otwockiej 1”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-d3500417-732d-43b1-964d-059d245eebae",
+  "zamawiajacy": "Samodzielny Zespół Publicznych Zakładów Lecznictwa Otwartego Warszawa Praga-Północ",
+  "data_publikacji": "2026-09-04",
+  "termin_skladania": "2026-09-14T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00423905 z dnia 2026-09-04 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Dostawy „Zaprojektowanie, dostawa i montaż agregatu prądotwórczego oraz systemu zasilania gwarantowanego UPS wraz z bateriami dla budynku SZPZLO Warszawa Praga-Północ przy ul. Otwockiej 1” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Samodzielny Zespół Publicznych Zakładów Lecznictwa Otwartego Warszawa Praga-Północ 1.4) Krajowy Numer Identyfikacyjny: REGON 000311415 1.5) Adres zamawiającego 1.5.1.) Ulica: Jagiellońska 34 1.5.2.) Miejscowość: Warszawa 1.5.3.) Kod pocztowy: 03-719 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL911 - Miasto Warszawa 1.5.9.) Adres poczty elektronicznej: dzp@szpzlo.pl 1.5.10.) Adres strony internetowej zamawiającego: www.szpzlo.pl 1.6.) Rodzaj zamawiającego: Zamawiający public",
+  "cpv": [
+   "31122000-7",
+   "31154000-0",
+   "45310000-3",
+   "45311000-0",
+   "45315700-5",
+   "71320000-7"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-04",
+  "hash": "ece5a87dc6fb46a5d70b27528d54c31aa783ad349fdf413679c5462bafa50a43"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Energia elektryczna, cieplna, słoneczna i jądrowa – „Budowa Wodorowego Magazynu Energii o pojemności 3 MWh w ramach zadania inwestycyjnego pn. „Działania inwestycyjne w zakresie budowy infrastruktury Klastra Energii Gmin Odolanów, Przygodzice, Sulmierzyce” w ramach Inwestycji B2.2.2/G1.1.2 Krajowego Planu Odbudowy i Zwiększania Odporności (KPO): Instalacje OZE realizowane przez społeczności energetyczne Część B:wsparcie inwestycyjne sp-ści ener.",
   "url": "https://ted.europa.eu/en/notice/-/detail/570823-2026",
@@ -2219,6 +2243,28 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "845fd2ee0da30b4e3dfb7fdbb991e3f76831bea0f9a153a29736761137f4f592"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej rozbudowy i przebudowy budynku OSP w Dąbrówce",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-21a5ac7e-d93c-48fb-b789-2856795a1b24",
+  "zamawiajacy": "GMINA CELESTYNÓW",
+  "data_publikacji": "2026-09-04",
+  "termin_skladania": "2026-09-14T09:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00423897 z dnia 2026-09-04 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej rozbudowy i przebudowy budynku OSP w Dąbrówce SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: GMINA CELESTYNÓW 1.4) Krajowy Numer Identyfikacyjny: REGON 013268965 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Regucka 3 1.5.2.) Miejscowość: Celestynów 1.5.3.) Kod pocztowy: 05-430 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL912 - Warszawski wschodni 1.5.9.) Adres poczty elektronicznej: zamowienia@celestynow.pl 1.5.10.) Adres strony internetowej zamawiającego: www.celestynow.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Przedmiot działalności zamawiającego: Ogólne usługi public",
+  "cpv": [
+   "71320000-7",
+   "71220000-6"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-04",
+  "hash": "76d01d678e763d7d7e4c2b84c46630e0183d5b730afc67f76949d6210ea623ee"
  },
  {
   "zrodlo": "ted",
@@ -5144,6 +5190,31 @@
   "status_opisu": "brak",
   "dodano": "2026-09-01",
   "hash": "1616159a31a7472d82f4454135791d2515b85355a918e27b9c5dfd7f616b5644"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowo-kosztorysowej przebudowy kompleksu Ośrodka Szkoleniowo-Wypoczynkowego w Porażynie",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-5cadff6f-283f-4912-bc08-a8c3d3ed000c",
+  "zamawiajacy": "PGL Lasy Państwowe Nadleśnictwo Grodzisk",
+  "data_publikacji": "2026-09-04",
+  "termin_skladania": "2026-10-06T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00423892 z dnia 2026-09-04 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowo-kosztorysowej przebudowy kompleksu Ośrodka Szkoleniowo-Wypoczynkowego w Porażynie SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: PGL Lasy Państwowe Nadleśnictwo Grodzisk 1.4) Krajowy Numer Identyfikacyjny: REGON 630012930 1.5) Adres zamawiającego 1.5.1.) Ulica: Lasówki 1 1.5.2.) Miejscowość: Grodzisk Wielkopolski 1.5.3.) Kod pocztowy: 62-065 1.5.4.) Województwo: wielkopolskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL417 - Leszczyński 1.5.7.) Numer telefonu: tel. 61 444 53 01 1.5.9.) Adres poczty elektronicznej: grodzisk@poznan.lasy.gov.pl 1.5.10.) Adres strony internetowej zamawiającego: www.grodzisk.poznan.lasy.gov.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - inna państwowa jednos",
+  "cpv": [
+   "71320000-7",
+   "71242000-6",
+   "71248000-8",
+   "71250000-5",
+   "71322000-1",
+   "71330000-0"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-04",
+  "hash": "4d510e07c76034daa9f68095f45bd7198ead4b87a8c5d062e078e9b791e003e3"
  },
  {
   "zrodlo": "ted",
