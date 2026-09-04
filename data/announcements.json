@@ -1974,6 +1974,29 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Aktualizacja dokumentacji projektowej dla Rewitalizacji Parku Miejskiego w Hajnówce",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-230746a1-a7a4-4c39-a17d-6673d4f31a87",
+  "zamawiajacy": "Gmina Miejska Hajnówka",
+  "data_publikacji": "2026-09-04",
+  "termin_skladania": "2026-09-14T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00423659 z dnia 2026-09-04 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Aktualizacja dokumentacji projektowej dla Rewitalizacji Parku Miejskiego w Hajnówce SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Miejska Hajnówka 1.4) Krajowy Numer Identyfikacyjny: REGON 050658999 1.5) Adres zamawiającego 1.5.1.) Ulica: Aleksego Zina 1 1.5.2.) Miejscowość: Hajnówka 1.5.3.) Kod pocztowy: 17-200 1.5.4.) Województwo: podlaskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL842 - Łomżyński 1.5.9.) Adres poczty elektronicznej: hajnowka@hajnowka.pl 1.5.10.) Adres strony internetowej zamawiającego: www.hajnowka.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Przedmiot działalności zamawiającego: Ogólne usługi publiczne SEKCJA ",
+  "cpv": [
+   "71220000-6",
+   "71320000-7",
+   "71248000-8"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-04",
+  "hash": "6312dc107fcd194d000ad9cba80b724ecbfb811a0b05bfa5935b2efa44b391b6"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Opracowanie dokumentacji projektowej przebudowy budynku usługowo-handlowego na potrzeby działalności kulturalnej i edukacyjnej w m. Nowy Wiśnicz.",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-7203dadf-9334-470e-84ba-8c43e3969bfc",
   "zamawiajacy": "GMINA NOWY WIŚNICZ",
@@ -1998,6 +2021,25 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-03",
   "hash": "b9599aee218412f703a4904e1d448f2302a234d4b67aba0100f25cc244c26bba"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji przedmiarowo-kosztorysowej oraz specyfikacji technicznych na remonty 20 pustostanów lokali mieszkalnych administrowanych przez ZGN w Dzielnicy Włochy m.st. Warszawy",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-eaa6f7b3-8e2f-4b1a-b9d0-e1982116e805",
+  "zamawiajacy": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Włochy m.st. Warszawy",
+  "data_publikacji": "2026-09-04",
+  "termin_skladania": "2026-09-14T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00423680 z dnia 2026-09-04 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji przedmiarowo-kosztorysowej oraz specyfikacji technicznych na remonty 20 pustostanów lokali mieszkalnych administrowanych przez ZGN w Dzielnicy Włochy m.st. Warszawy SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Zakład Gospodarowania Nieruchomościami w Dzielnicy Włochy m.st. Warszawy 1.4) Krajowy Numer Identyfikacyjny: REGON 015259640 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Bolesława Chrobrego 7 1.5.2.) Miejscowość: Warszawa 1.5.3.) Kod pocztowy: 02-479 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL911 - Miasto Warszawa 1.5.7.) Numer telefonu: 22 863 55 24 1.5.9.) Adres poczty elektronicznej: wlochy.zgn@um.warszawa.pl 1.5.10.) Adres strony internetowej zamawiającego: wlo",
+  "cpv": [
+   "71240000-2"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-04",
+  "hash": "849bbb1b559539cc7ab552109aa859e469883e7e133afb045c58a3596031aadd"
  },
  {
   "zrodlo": "bzp",
@@ -2294,6 +2336,28 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "b7085b0350c9642610dd6684658e779bb3ed7201d542e9e9bb0e76fcda818f07"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Przystosowanie pomieszczeń piwnic budynku ZST-E CKU w Ostrowie Wlkp przy ul. Kantaka 6 do pełnienia funkcji obiektu zbiorowej ochrony - Ukrycie",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-14a2dc3b-b29e-43a6-be28-00c1a727b924",
+  "zamawiajacy": "Zespół Szkół Transportowo - Elektrycznych Centrum Kształcenia Ustawicznego",
+  "data_publikacji": "2026-09-04",
+  "termin_skladania": "2026-09-14T10:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00423766 z dnia 2026-09-04 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Przystosowanie pomieszczeń piwnic budynku ZST-E CKU w Ostrowie Wlkp przy ul. Kantaka 6 do pełnienia funkcji obiektu zbiorowej ochrony - Ukrycie SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Zespół Szkół Transportowo - Elektrycznych Centrum Kształcenia Ustawicznego 1.3.) Oddział zamawiającego: ZST-E CKU 1.4) Krajowy Numer Identyfikacyjny: REGON 000124995 1.5) Adres zamawiającego 1.5.1.) Ulica: Kantaka 6 1.5.2.) Miejscowość: Ostrów Wielkopolski 1.5.3.) Kod pocztowy: 63-400 1.5.4.) Województwo: wielkopolskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL416 - Kaliski 1.5.9.) Adres poczty elektronicznej: zste@promax.media.pl 1.5.10.) Adres strony internetowej zamawiającego: www.zste.info.pl 1.6.) Rodzaj zamawiającego: Zamawiający publ",
+  "cpv": [
+   "71250000-5",
+   "71400000-2",
+   "71300000-1",
+   "71200000-0"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-04",
+  "hash": "c48b95a5c4c364295da244deb94a591f2f4e73aea063d71f45384b0ba21dc04e"
  },
  {
   "zrodlo": "ted",
