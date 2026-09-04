@@ -2406,6 +2406,30 @@
   "hash": "c48b95a5c4c364295da244deb94a591f2f4e73aea063d71f45384b0ba21dc04e"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowo-kosztorysowej wraz z dokumentacją konserwatorską (...) w Świnoujściu (II postępowanie)",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-149bb178-ed5a-4594-8f09-30eb4b788622",
+  "zamawiajacy": "Gmina Miasto Świnoujście",
+  "data_publikacji": "2026-09-04",
+  "termin_skladania": "2026-09-14T10:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00424003 z dnia 2026-09-04 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowo-kosztorysowej wraz z dokumentacją konserwatorską (...) w Świnoujściu (II postępowanie) SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzi podmiot, któremu powierzono przeprowadzenie postępowania 1.2.) Nazwa zamawiającego: Gmina Miasto Świnoujście 1.4) Krajowy Numer Identyfikacyjny: REGON 811684290 1.5) Adres zamawiającego 1.5.1.) Ulica: Wojska Polskiego 1.5.2.) Miejscowość: Świnoujście 1.5.3.) Kod pocztowy: 72-600 1.5.4.) Województwo: zachodniopomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL428 - Szczeciński 1.5.7.) Numer telefonu: (91) 321 24 25 1.5.9.) Adres poczty elektronicznej: bzp@um.swinoujscie.pl 1.5.10.) Adres strony internetowej zamawiającego: www.platformazakupowa.pl/um_swinoujscie 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektor",
+  "cpv": [
+   "71200000-0",
+   "71320000-7",
+   "71242000-6",
+   "71248000-8"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-04",
+  "hash": "11e0053f5e052b84ca169685f57bbab6d1478d9137a2dd995c45329ae6be453c"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Usługi zarządzania budową – Pełnienie funkcji Inżyniera Kontraktu dotyczącej inwestycji pn. „Poprawa dostępu do portu morskiego w Szczecinie – Budowa mijanki dla statków na torze wodnym Świnoujście – Szczecin.”",
   "url": "https://ted.europa.eu/en/notice/-/detail/529420-2026",
