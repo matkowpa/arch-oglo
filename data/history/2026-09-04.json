@@ -1,0 +1,30 @@
+{
+ "ted": {
+  "ok": true,
+  "count": 430
+ },
+ "bip:phn": {
+  "ok": true,
+  "count": 1
+ },
+ "bip:tauron": {
+  "ok": true,
+  "count": 25
+ },
+ "bip:kghm": {
+  "ok": true,
+  "count": 20
+ },
+ "bip:pse": {
+  "ok": true,
+  "count": 159
+ },
+ "pz-search": {
+  "ok": true,
+  "count": 0
+ },
+ "bzp": {
+  "ok": true,
+  "count": 38
+ }
+}

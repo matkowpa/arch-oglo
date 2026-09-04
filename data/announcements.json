@@ -499,27 +499,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Usługi projektowania architektonicznego – Opracowanie dokumentacji projektowej dla zadania: Budowa budynku administracyjno - biurowego",
-  "url": "https://ted.europa.eu/en/notice/-/detail/519855-2026",
-  "zamawiajacy": "Akademia Sztuki Wojennej",
-  "data_publikacji": "2026-07-28",
-  "termin_skladania": "2026-09-04T10:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71220000",
-   "71200000"
-  ],
-  "score": 9,
-  "tagi": [
-   "cpv-71",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": null,
-  "hash": "48a403b71181dbb5d5016ccc4c4b8e43bd3db7e0e275f9198fd6e44dec12f6ae"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Architektoniczne usługi zagospodarowania terenu – ZZK - NZ/241/3400/91/26-Wykonanie dokumentacji projektowo-kosztorysowej na zagospodarowanie wnętrz podwórzowych położonych we Wrocławiu.",
   "url": "https://ted.europa.eu/en/notice/-/detail/537830-2026",
   "zamawiajacy": "Zarząd Zasobu Komunalnego Jednostka Budżetowa Gminy Wrocław",
@@ -732,50 +711,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Roboty instalacyjne elektryczne – Rozbudowa infrastruktury ładowania autobusów elektrycznych na zajezdni autobusowej przy ul. Chemicznej w Zielonej Górze.",
-  "url": "https://ted.europa.eu/en/notice/-/detail/513096-2026",
-  "zamawiajacy": "Miasto Zielona Góra",
-  "data_publikacji": "2026-07-24",
-  "termin_skladania": "2026-09-08T10:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "45310000",
-   "31681500",
-   "32441000",
-   "71000000",
-   "71320000",
-   "71323100",
-   "45000000",
-   "45213314",
-   "45231400",
-   "45232200",
-   "45311000",
-   "45315300",
-   "45317000",
-   "45310000",
-   "31681500",
-   "32441000",
-   "71000000",
-   "71320000",
-   "71323100",
-   "45000000",
-   "45213314",
-   "45231400",
-   "45232200",
-   "45311000",
-   "45315300",
-   "45317000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": null,
-  "hash": "c6709190010e1f25ed5e2c05b0a2d72e5e625c0e946fa0e3fb1def4a1b6a958a"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Usługi inżynierii projektowej w zakresie inżynierii lądowej i wodnej – Opracowanie dokumentacji projektowej dla budowy łącznic kolejowych w obszarze węzła kolejowego w Ełku w ramach projektu pn.: „Usprawnienie węzła kolejowego na stacji Ełk – dokumentacja projektowa”",
   "url": "https://ted.europa.eu/en/notice/-/detail/605545-2026",
   "zamawiajacy": "PKP Polskie Linie Kolejowe S.A.",
@@ -828,28 +763,6 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "2fbbd5ed7b846227755a8d48e087b930b69d35ab4da7df88cfb3289bb6cd1b5c"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Różne meble i wyposażenie – Wykonanie aranżacji przestrzeni wokół Planetarium EC1 (budynek EC-1 Wschód, poz. -2) z dostawą wyposażenia, mebli wypoczynkowych wraz z niezbędnymi usługami projektowymi i montażowymi",
-  "url": "https://ted.europa.eu/en/notice/-/detail/560874-2026",
-  "zamawiajacy": "\"EC1 Łódź - Miasto Kultury\" w Łodzi",
-  "data_publikacji": "2026-08-13",
-  "termin_skladania": "2026-09-08T12:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "39150000",
-   "71200000",
-   "45212310",
-   "39150000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-03",
-  "hash": "2fdcc3cf7d912571133819f49489e191e2ff1b5bd9b449ea13e264f975e12a1f"
  },
  {
   "zrodlo": "bzp",
@@ -1072,55 +985,6 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "dd8a699a2b784aac2d6ab49117d5b5cb2b1e066ebc913d1af83428db5075e87b"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Roboty budowlane w zakresie ścieżek rowerowych – Opracowanie dokumentacji projektowej i wykonanie robót budowlanych dla zadania „Budowa dróg pieszo-rowerowych wzdłuż Jeziora Żywieckiego i wzdłuż Jeziora Międzybrodzkiego na terenie Gminy Czernichów”",
-  "url": "https://ted.europa.eu/en/notice/-/detail/551167-2026",
-  "zamawiajacy": "ZWIĄZEK MIĘDZYGMINNY D/S EKOLOGII W ŻYWCU",
-  "data_publikacji": "2026-08-10",
-  "termin_skladania": "2026-09-09T11:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "45233162",
-   "45200000",
-   "45233260",
-   "45243300",
-   "45233200",
-   "45316210",
-   "71320000",
-   "45233162",
-   "45233162",
-   "45233162",
-   "45200000",
-   "45233260",
-   "45243300",
-   "45233220",
-   "45316210",
-   "71320000",
-   "45200000",
-   "45233260",
-   "45243300",
-   "45233220",
-   "45316210",
-   "71320000",
-   "45200000",
-   "45233260",
-   "45243300",
-   "45233220",
-   "45316210",
-   "71320000"
-  ],
-  "score": 6,
-  "tagi": [
-   "cpv-71",
-   "roboty-budowlane",
-   "samorząd",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-03",
-  "hash": "2ffdaab444dcea9d08b19f7d417f33b5c2caca7f53f376a5b96221022e4af5c5"
  },
  {
   "zrodlo": "ted",
@@ -1944,6 +1808,27 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Usługi projektowania architektonicznego – Opracowanie dokumentacji projektowej dla zadania: Budowa budynku administracyjno - biurowego",
+  "url": "https://ted.europa.eu/en/notice/-/detail/610884-2026",
+  "zamawiajacy": "Akademia Sztuki Wojennej",
+  "data_publikacji": "2026-09-04",
+  "termin_skladania": "2026-09-11T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71220000",
+   "71200000"
+  ],
+  "score": 9,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-04",
+  "hash": "94284d297603cf9ee9367ce2461a88e3aa50d722d5b673ce520210d938820c76"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi projektowania architektonicznego – Opracowanie dokumentacji projektowo-kosztorysowej wraz z pełnieniem nadzoru autorskiego budowy budynku dla Prokuratury Okręgowej w Siedlcach przy ul. Kazimierzowskiej",
   "url": "https://ted.europa.eu/en/notice/-/detail/586546-2026",
   "zamawiajacy": "Prokuratura Okręgowa w Siedlcach",
@@ -1962,35 +1847,8 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-03",
+  "dodano": "2026-09-04",
   "hash": "ecd75c85b6bb0c83205634e87b15a52708a1587828b85eb34e2cab5c31bcb197"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Usługi zarządzania budową – Usługa pełnienia funkcji Inżyniera Kontraktu („Dostawa urządzeń medycznych linii terapeutycznej do radioterapii wraz z budową budynku Zakładu Radioterapii jako ośrodka satelitarnego BCO w Suwałkach”)",
-  "url": "https://ted.europa.eu/en/notice/-/detail/556057-2026",
-  "zamawiajacy": "Białostockie Centrum Onkologii im. M. Skłodowskiej-Curie w Białymstoku",
-  "data_publikacji": "2026-08-11",
-  "termin_skladania": "2026-09-11T10:00:00+03:00",
-  "opis": null,
-  "cpv": [
-   "71540000",
-   "71247000",
-   "71520000",
-   "71200000",
-   "71300000",
-   "71310000",
-   "71541000",
-   "79994000",
-   "71540000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": null,
-  "hash": "9e2c25698878b123f8edb6fe242aa96d55e3b8be319e6f78ab6b935275595946"
  },
  {
   "zrodlo": "bzp",
@@ -2142,6 +2000,49 @@
   "hash": "b9599aee218412f703a4904e1d448f2302a234d4b67aba0100f25cc244c26bba"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej dla zadania „Budowa sali gimnastycznej przy Szkole Podstawowej Nr 4 w Kołobrzegu",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-567b8980-eed8-47c9-9b92-032593bd5168",
+  "zamawiajacy": "Gmina Miasto Kołobrzeg",
+  "data_publikacji": "2026-09-04",
+  "termin_skladania": "2026-09-14T07:30:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00422393 z dnia 2026-09-04 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej dla zadania „Budowa sali gimnastycznej przy Szkole Podstawowej Nr 4 w Kołobrzegu SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Miasto Kołobrzeg 1.4) Krajowy Numer Identyfikacyjny: REGON 330920736 1.5) Adres zamawiającego 1.5.1.) Ulica: Ratuszowa 13 1.5.2.) Miejscowość: Kołobrzeg 1.5.3.) Kod pocztowy: 78-100 1.5.4.) Województwo: zachodniopomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL426 - Koszaliński 1.5.9.) Adres poczty elektronicznej: przetargi@um.kolobrzeg.pl 1.5.10.) Adres strony internetowej zamawiającego: https://i-kolobrzeg.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Przedmiot dzia",
+  "cpv": [
+   "71320000-7",
+   "71247000-1"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-04",
+  "hash": "c247f106d53e56398ac485df611bd9ef2b9d24210b84353b517b520e04c0c8b8"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie 19 analiz technicznych, ocen, opinii i ekspertyz oraz opracowania dokumentacji dot. wykorzystania wskazanych budynków w ramach realizacji zadań z zakresu ochrony ludności i obrony cywilnej",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-62fc7306-b02d-40f1-9084-047c95344a40",
+  "zamawiajacy": "WARSZAWSKIE CENTRUM POMOCY RODZINIE",
+  "data_publikacji": "2026-09-04",
+  "termin_skladania": "2026-09-14T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00422737 z dnia 2026-09-04 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie 19 analiz technicznych, ocen, opinii i ekspertyz oraz opracowania dokumentacji dot. wykorzystania wskazanych budynków w ramach realizacji zadań z zakresu ochrony ludności i obrony cywilnej SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: WARSZAWSKIE CENTRUM POMOCY RODZINIE 1.4) Krajowy Numer Identyfikacyjny: REGON 014931762 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Lipińska 2 1.5.2.) Miejscowość: Warszawa 1.5.3.) Kod pocztowy: 01-833 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL911 - Miasto Warszawa 1.5.9.) Adres poczty elektronicznej: zamowieniapubliczne@wcpr.pl 1.5.10.) Adres strony internetowej zamawiającego: https://wcpr.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka",
+  "cpv": [
+   "71319000-7",
+   "71240000-2",
+   "71320000-7"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-04",
+  "hash": "6477822476f4b5ca5066553602e1fdf5cf25c0151d2b8986b278645fec411456"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Energia elektryczna, cieplna, słoneczna i jądrowa – „Budowa Wodorowego Magazynu Energii o pojemności 3 MWh w ramach zadania inwestycyjnego pn. „Działania inwestycyjne w zakresie budowy infrastruktury Klastra Energii Gmin Odolanów, Przygodzice, Sulmierzyce” w ramach Inwestycji B2.2.2/G1.1.2 Krajowego Planu Odbudowy i Zwiększania Odporności (KPO): Instalacje OZE realizowane przez społeczności energetyczne Część B:wsparcie inwestycyjne sp-ści ener.",
   "url": "https://ted.europa.eu/en/notice/-/detail/570823-2026",
@@ -2283,7 +2184,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-03",
+  "dodano": "2026-09-04",
   "hash": "86ba6249b26b2d6c8c44180dcffc17203c3d79688227c7ab051bf71761461530"
  },
  {
@@ -2506,6 +2407,30 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej wraz z pełnieniem nadzoru autorskiego dla zadania „Zróbmy klimat – Rewitalizacja terenów zieleni wzdłuż Kanału Trynka”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-adaaa335-b24f-4b86-aacb-5562c57ba15d",
+  "zamawiajacy": "Zarząd Inwestycji Miejskich",
+  "data_publikacji": "2026-09-04",
+  "termin_skladania": "2026-09-15T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00422658 z dnia 2026-09-04 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej wraz z pełnieniem nadzoru autorskiego dla zadania „Zróbmy klimat – Rewitalizacja terenów zieleni wzdłuż Kanału Trynka” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Zarząd Inwestycji Miejskich 1.4) Krajowy Numer Identyfikacyjny: REGON 544042030 1.5) Adres zamawiającego 1.5.1.) Ulica: Ludwika Waryńskiego 34D 1.5.2.) Miejscowość: Grudziądz 1.5.3.) Kod pocztowy: 86-300 1.5.4.) Województwo: kujawsko-pomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL616 - Grudziądzki 1.5.9.) Adres poczty elektronicznej: zamowienia@zim.grudziadz.pl 1.5.10.) Adres strony internetowej zamawiającego: www.zim.e-bip.org.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - j",
+  "cpv": [
+   "71420000-8",
+   "71421000-5",
+   "71220000-6",
+   "71320000-7",
+   "71242000-6"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-04",
+  "hash": "1a49723ab8e4224a011129e1c1cecbc789ba9c7c8d81f9cc30c85c844747cccc"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "„Zróbmy klimat - Błękitno - Zielona akupunktura miasta - rewitalizacja przestrzeni publicznych z zastosowaniem rozwiązań opartych na przyrodzie - Lokalizacja 2 Plac Niepodległości”",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-703d88a4-ba41-4fbe-a7e2-5a3d705770da",
   "zamawiajacy": "Zarząd Inwestycji Miejskich",
@@ -2526,6 +2451,26 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-03",
   "hash": "2e0d930c47023be2e4cd5db028075d03c981d5ec1febe1ce380c07ff7f0ec37f"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej w ramach zadania: Modernizacja boiska przy Zespole Szkół im. M. Konarskiego przy ul. Okopowej 55a w Warszawie – numer postępowania: 56/ZP/26.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-31cfcce1-a449-4385-abfa-1897eb65972b",
+  "zamawiajacy": "Miasto Stołeczne Warszawa, Dzielnica Wola",
+  "data_publikacji": "2026-09-04",
+  "termin_skladania": "2026-09-15T07:30:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00421972 z dnia 2026-09-04 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej w ramach zadania: Modernizacja boiska przy Zespole Szkół im. M. Konarskiego przy ul. Okopowej 55a w Warszawie – numer postępowania: 56/ZP/26. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Miasto Stołeczne Warszawa, Dzielnica Wola 1.3.) Oddział zamawiającego: Miasto Stołeczne Warszawa, Dzielnica Wola 1.4) Krajowy Numer Identyfikacyjny: REGON 01525964000184 1.5) Adres zamawiającego 1.5.1.) Ulica: Aleja &#34;Solidarności&#34; 90 1.5.2.) Miejscowość: Warszawa 1.5.3.) Kod pocztowy: 01-003 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL911 - Miasto Warszawa 1.5.9.) Adres poczty elektronicznej: wola.zzp@um.warszawa.pl 1.5.10.) Adres strony internetowej zamawiającego: ww",
+  "cpv": [
+   "71320000-7"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-04",
+  "hash": "d01ae74227532c78ec4116503a944cda6f3ef627386957231b4144695e544c8e"
  },
  {
   "zrodlo": "ted",
@@ -2651,6 +2596,27 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej dla budowy parkingów przy stacjach PKM w miejscowości Rębiechowo i Borkowo",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-fe34b0df-c52e-494c-a518-29389c9db111",
+  "zamawiajacy": "Gmina Żukowo",
+  "data_publikacji": "2026-09-04",
+  "termin_skladania": "2026-09-15T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00422585 z dnia 2026-09-04 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej dla budowy parkingów przy stacjach PKM w miejscowości Rębiechowo i Borkowo SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Żukowo 1.4) Krajowy Numer Identyfikacyjny: REGON 191675095 1.5) Adres zamawiającego 1.5.1.) Ulica: Gdańska 52 1.5.2.) Miejscowość: Żukowo 1.5.3.) Kod pocztowy: 83-330 1.5.4.) Województwo: pomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL634 - Gdański 1.5.9.) Adres poczty elektronicznej: ugzukowo@zukowo.pl 1.5.10.) Adres strony internetowej zamawiającego: www.zukowo.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Przedmiot działalności zamawiającego: Ogólne usługi publiczne SE",
+  "cpv": [
+   "71320000-7"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-04",
+  "hash": "8c33e31f13a08de5a01618cd9bf3daf6338550d66508d304964d8d878a7361e6"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Opracowanie dokumentacji projektowej wraz z pełnieniem nadzoru autorskiego dla zadania „Zróbmy klimat - Zagospodarowanie terenu wzdłuż Szkoły Podstawowej 18 wraz z fragmentem parku 900-lecia”",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-418a13cf-40e5-4a80-ac1b-50e13c513740",
   "zamawiajacy": "Zarząd Inwestycji Miejskich",
@@ -2717,6 +2683,50 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-03",
   "hash": "f1c993c302fbe0faec3f53cc54107ee31b981bc5fabb03b7e6c9dc641db91775"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Roboty instalacyjne elektryczne – Rozbudowa infrastruktury ładowania autobusów elektrycznych na zajezdni autobusowej przy ul. Chemicznej w Zielonej Górze.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/611547-2026",
+  "zamawiajacy": "Miasto Zielona Góra",
+  "data_publikacji": "2026-09-04",
+  "termin_skladania": "2026-09-15T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "45310000",
+   "31681500",
+   "32441000",
+   "71000000",
+   "71320000",
+   "71323100",
+   "45000000",
+   "45213314",
+   "45231400",
+   "45232200",
+   "45311000",
+   "45315300",
+   "45317000",
+   "45310000",
+   "31681500",
+   "32441000",
+   "71000000",
+   "71320000",
+   "71323100",
+   "45000000",
+   "45213314",
+   "45231400",
+   "45232200",
+   "45311000",
+   "45315300",
+   "45317000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-04",
+  "hash": "1831b96d3da60c602a4d5597d44af7962fcb1a7150e1fe3912ab50e69f93e08b"
  },
  {
   "zrodlo": "ted",
@@ -2829,7 +2839,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-03",
+  "dodano": "2026-09-04",
   "hash": "50a167f64d89ab84eeab19aea497604aab2bf808f4454890c6fc37d5395d827f"
  },
  {
@@ -2990,7 +3000,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-03",
+  "dodano": "2026-09-04",
   "hash": "a6f15550e90d352eec6541840b1959f765427bb13e666208d8e4ee579982dba0"
  },
  {
@@ -3089,7 +3099,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-03",
+  "dodano": "2026-09-04",
   "hash": "cd06b93da1133bc3d25d5db61c4d16be02beebc6d617626d6ff1f33fe4ebd48a"
  },
  {
@@ -3146,7 +3156,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-03",
+  "dodano": "2026-09-04",
   "hash": "2d82ee3e92ce4ec2b655195cfad0ac36ad0fc51e23eb6550bd873ae014aab095"
  },
  {
@@ -3605,6 +3615,33 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Usługi zarządzania budową – Usługa pełnienia funkcji Inżyniera Kontraktu („Dostawa urządzeń medycznych linii terapeutycznej do radioterapii wraz z budową budynku Zakładu Radioterapii jako ośrodka satelitarnego BCO w Suwałkach”)",
+  "url": "https://ted.europa.eu/en/notice/-/detail/609715-2026",
+  "zamawiajacy": "Białostockie Centrum Onkologii im. M. Skłodowskiej-Curie w Białymstoku",
+  "data_publikacji": "2026-09-04",
+  "termin_skladania": "2026-09-18T10:00:00+03:00",
+  "opis": null,
+  "cpv": [
+   "71540000",
+   "71247000",
+   "71520000",
+   "71200000",
+   "71300000",
+   "71310000",
+   "71541000",
+   "79994000",
+   "71540000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-04",
+  "hash": "c063cb3332b5f9e33be00619de574b455a0fd93840421530e276a271a77389b0"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Studia wykonalności, usługi doradcze, analizy – Ocena formalno-rachunkowa wniosków o dofinansowanie przedsięwzięć złożonych w ramach ogłoszonego naboru ciągłego o dofinansowanie przedsięwzięć PP Dofinansowanie przydomowych magazynów energii część 1",
   "url": "https://ted.europa.eu/en/notice/-/detail/578614-2026",
   "zamawiajacy": "Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej",
@@ -3867,7 +3904,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-03",
+  "dodano": "2026-09-04",
   "hash": "3258a0537ec29a7c32a2e3bcbfc0937f2bc01e618582d7215736e6ea15c23f5d"
  },
  {
@@ -4002,32 +4039,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Usługi inżynierii projektowej w zakresie inżynierii lądowej i wodnej – Opracowanie dokumentacji projektowej wraz z pełnieniem nadzoru autorskiego dla zadania inwestycyjnego pn.: „Przebudowa odcinka linii kolejowej nr 285 w zakresie wyniesienia toru na obiekt inżynieryjny nad ul. Bardzką we Wrocławiu\" w ramach projektu pn.: „Projekty przygotowawcze”",
-  "url": "https://ted.europa.eu/en/notice/-/detail/570139-2026",
-  "zamawiajacy": "PKP Polskie Linie Kolejowe S.A.",
-  "data_publikacji": "2026-08-18",
-  "termin_skladania": "2026-09-23T10:00:00+01:00",
-  "opis": null,
-  "cpv": [
-   "71322000",
-   "71248000",
-   "71247000",
-   "71322000",
-   "71248000",
-   "71247000"
-  ],
-  "score": 10,
-  "tagi": [
-   "bonus-ue/strategiczny",
-   "cpv-71",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": null,
-  "hash": "15fc32f9bdf528d26bd4b938e7383048cd94038d3f4415007ed4f3626c54e060"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Nadzór nad projektem i dokumentacją – Wybór usługodawcy do przeprowadzenia odbioru i oceny dokumentacji projektowej dla zadania pn. Budowa głównego terminala pasażerskiego wraz z infrastrukturą towarzyszącą” Międzynarodowego Portu Lotniczego Katowice w Pyrzowicach",
   "url": "https://ted.europa.eu/en/notice/-/detail/592012-2026",
   "zamawiajacy": "Górnośląskie Towarzystwo Lotnicze S.A.",
@@ -4068,7 +4079,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-03",
+  "dodano": "2026-09-04",
   "hash": "0afeb986b6304dbcbb38050530df3fa3ca293f832fa16b9f5312df271c62adbf"
  },
  {
@@ -4091,6 +4102,55 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "05500d8474016b42bdf3a96f14f4d69d49eb5fc235fd1eea9db36649249a54b8"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Roboty budowlane w zakresie ścieżek rowerowych – Opracowanie dokumentacji projektowej i wykonanie robót budowlanych dla zadania „Budowa dróg pieszo-rowerowych wzdłuż Jeziora Żywieckiego i wzdłuż Jeziora Międzybrodzkiego na terenie Gminy Czernichów”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/610966-2026",
+  "zamawiajacy": "ZWIĄZEK MIĘDZYGMINNY D/S EKOLOGII W ŻYWCU",
+  "data_publikacji": "2026-09-04",
+  "termin_skladania": "2026-09-23T11:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "45233162",
+   "45200000",
+   "45233260",
+   "45243300",
+   "45233200",
+   "45316210",
+   "71320000",
+   "45233162",
+   "45233162",
+   "45233162",
+   "45200000",
+   "45233260",
+   "45243300",
+   "45233220",
+   "45316210",
+   "71320000",
+   "45200000",
+   "45233260",
+   "45243300",
+   "45233220",
+   "45316210",
+   "71320000",
+   "45200000",
+   "45233260",
+   "45243300",
+   "45233220",
+   "45316210",
+   "71320000"
+  ],
+  "score": 6,
+  "tagi": [
+   "cpv-71",
+   "roboty-budowlane",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-04",
+  "hash": "5e3475ec7d549eeeeea8ef842332254ea9df04dee028610a188e298b9b065875"
  },
  {
   "zrodlo": "ted",
@@ -4438,6 +4498,32 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynierii projektowej w zakresie inżynierii lądowej i wodnej – Opracowanie dokumentacji projektowej wraz z pełnieniem nadzoru autorskiego dla zadania inwestycyjnego pn.: „Przebudowa odcinka linii kolejowej nr 285 w zakresie wyniesienia toru na obiekt inżynieryjny nad ul. Bardzką we Wrocławiu\" w ramach projektu pn.: „Projekty przygotowawcze”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/612485-2026",
+  "zamawiajacy": "PKP Polskie Linie Kolejowe S.A.",
+  "data_publikacji": "2026-09-04",
+  "termin_skladania": "2026-09-30T10:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71322000",
+   "71248000",
+   "71247000",
+   "71322000",
+   "71248000",
+   "71247000"
+  ],
+  "score": 10,
+  "tagi": [
+   "bonus-ue/strategiczny",
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-04",
+  "hash": "8e4e6c9382f46f7daf0763055a15b31486a604e85dc3a40cec906e75fdfb57ff"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi architektoniczne, budowlane, inżynieryjne i kontrolne – Wykonanie aktualizacji dokumentacji projektowej termomodernizacji budynku Szkoły Podstawowej nr 46 przy ul. Kombatantów 2 w Bydgoszczy.",
   "url": "https://ted.europa.eu/en/notice/-/detail/588625-2026",
   "zamawiajacy": "Miasto Bydgoszcz",
@@ -4464,6 +4550,28 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "bc3774be43236ef313a41328ae72621678bbd7bdfc0147f4919d3ea7a6a0e89d"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Różne meble i wyposażenie – Wykonanie aranżacji przestrzeni wokół Planetarium EC1 (budynek EC-1 Wschód, poz. -2) z dostawą wyposażenia, mebli wypoczynkowych wraz z niezbędnymi usługami projektowymi i montażowymi",
+  "url": "https://ted.europa.eu/en/notice/-/detail/609888-2026",
+  "zamawiajacy": "\"EC1 Łódź - Miasto Kultury\" w Łodzi",
+  "data_publikacji": "2026-09-04",
+  "termin_skladania": "2026-09-30T12:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "39150000",
+   "71200000",
+   "45212310",
+   "39150000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-04",
+  "hash": "a262a45d5e5dbbbaf85d812ae76eea72a6cc32d1c5e0ed80fcdd23b50d67ca0a"
  },
  {
   "zrodlo": "ted",
@@ -4568,7 +4676,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-03",
+  "dodano": "2026-09-04",
   "hash": "59c8f8d70495be14b0dfdaaf056eef51c93c8b9755abc2816fb7c4ca06ad528e"
  },
  {
@@ -4783,6 +4891,40 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "dabef291fd8f17ee85579cab1bbceb015c81d2c30daae51ad2a6828d662fb39a"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi architektoniczne i podobne – Wykonanie dokumentacji projektowej dla zadania: „Budowa Punktu Selektywnego Zbierania Odpadów Komunalnych przy ul. Popielskiego” Wrocław - Brochów",
+  "url": "https://ted.europa.eu/en/notice/-/detail/611300-2026",
+  "zamawiajacy": "Gmina Wrocław, w imieniu i na rzecz której działa Ekosystem Sp. z o.o.",
+  "data_publikacji": "2026-09-04",
+  "termin_skladania": "2026-10-05T10:30:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71200000",
+   "71220000",
+   "71221000",
+   "71240000",
+   "71327000",
+   "71420000",
+   "71248000",
+   "71200000",
+   "71220000",
+   "71221000",
+   "71240000",
+   "71327000",
+   "71420000",
+   "71248000"
+  ],
+  "score": 8,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-04",
+  "hash": "bcb0c3185c5efe1184595cf9c80604f17f486caf20f386dc19e55230adee33d0"
  },
  {
   "zrodlo": "ted",
@@ -5019,6 +5161,62 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Wykonanie wielobranżowej dokumentacji projektowo-kosztorysowej budowy drogi gminnej ul. Potułkały w Dzielnicy Wilanów w m.st. Warszawie",
+  "url": "https://ted.europa.eu/en/notice/-/detail/610616-2026",
+  "zamawiajacy": "Miasto Stołeczne Warszawa Dzielnica Wilanów",
+  "data_publikacji": "2026-09-04",
+  "termin_skladania": "2026-10-09T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71320000",
+   "71320000"
+  ],
+  "score": 9,
+  "tagi": [
+   "cpv-71",
+   "drogi",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-04",
+  "hash": "6c9457d881b883fd532f5043ea59c6d2db14ea95a05f98a702548b081ad4f8a5"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – 90.2026 Wykonanie wielobranżowej dokumentacji projektowej dla zadania pn. „Termomodernizacja budynków zabytkowych UMW” w ramach działania FENX.01.01 Efektywność energetyczna oraz sprawowanie nadzoru autorskiego - Budynek przy ul. Chałubińskiego 3 we Wrocławiu",
+  "url": "https://ted.europa.eu/en/notice/-/detail/610953-2026",
+  "zamawiajacy": "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",
+  "data_publikacji": "2026-09-04",
+  "termin_skladania": "2026-10-14T09:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71320000",
+   "71220000",
+   "71321000",
+   "71321200",
+   "71327000",
+   "71323100",
+   "71700000",
+   "71244000",
+   "71700000",
+   "71220000",
+   "71321000",
+   "71321200",
+   "71327000",
+   "71323100",
+   "71244000"
+  ],
+  "score": 15,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-04",
+  "hash": "b2bb34e7d80e386afa104a69de9ca41a5fd3fa14c4f77a6c761993b3b6eed7e8"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi architektoniczne, inżynieryjne i planowania – Wykonanie dokumentacji projektowo-kosztorysowej na zmianę systemu ogrzewania na elektryczne w lokalach gminnych.",
   "url": "https://ted.europa.eu/en/notice/-/detail/601808-2026",
   "zamawiajacy": "Zarząd Zasobu Komunalnego Jednostka Budżetowa Gminy Wrocław",
@@ -5097,7 +5295,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-03",
+  "dodano": "2026-09-04",
   "hash": "43bdd6dc8d3e34537761c8edeb21e1a54576493c9b7a9057f6f163465cd82fc7"
  }
 ]
