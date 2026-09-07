@@ -931,32 +931,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Urządzenia do tomografii – Zakup tomografu komputerowego z oprogramowaniem kardiologicznym wraz z dostosowaniem infrastruktury",
-  "url": "https://ted.europa.eu/en/notice/-/detail/597906-2026",
-  "zamawiajacy": "Samodzielny Publiczny ZOZ Wojewódzki Szpital Zespolony im. Jędrzeja Śniadeckiego w Białymstoku",
-  "data_publikacji": "2026-08-31",
-  "termin_skladania": "2026-09-09T10:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "33115000",
-   "33100000",
-   "45453000",
-   "71220000",
-   "33115000",
-   "33100000",
-   "45453000",
-   "71220000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-01",
-  "hash": "b3168e1fe1b43a44f70f1b4a63eba3ba6555344e5140191167c650af3829b3a7"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Usługi architektoniczne, budowlane, inżynieryjne i kontrolne – Szczegółowe opracowanie wielobranżowej koncepcji oraz dokumentacji projektowej i przetargowej oraz uzyskanie prawomocnego pozwolenia na budowę wraz z pełnieniem nadzoru autorskiego w ramach zadania inwestycyjnego pod nazwą: „Przebudowa budynku przy pl. S. Starynkiewicza 7/9 w celu utworzenia „Centrum zarządzania ruchem drogowym”",
   "url": "https://ted.europa.eu/en/notice/-/detail/581019-2026",
   "zamawiajacy": "Zarząd Dróg Miejskich w Warszawie",
@@ -1340,34 +1314,6 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "2c806c5be955ca8235ac32042b266e169cda98feab8e38959208f7d892df5def"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Usługi nadzoru budowlanego – Pełnienie nadzoru dla zaprojektowania i wykonania robót na linii kolejowej nr 68 na odcinku Stalowa Wola Rozwadów – Przeworsk wraz z pełnieniem nadzoru autorskiego w ramach projektu pn.: Prace na linii kolejowej nr 68 na odcinku Stalowa Wola Rozwadów – Przeworsk - etap I",
-  "url": "https://ted.europa.eu/en/notice/-/detail/589707-2026",
-  "zamawiajacy": "PKP Polskie Linie Kolejowe S.A.",
-  "data_publikacji": "2026-08-26",
-  "termin_skladania": "2026-09-10T10:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71520000",
-   "71247000",
-   "71521000",
-   "71248000",
-   "71520000",
-   "71247000",
-   "71521000",
-   "71248000"
-  ],
-  "score": 5,
-  "tagi": [
-   "bonus-ue/strategiczny",
-   "cpv-71",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": null,
-  "hash": "8d3147b23492b9ddda5c47241c8dd8cf4747dd83eebddba34edf361b126521c4"
  },
  {
   "zrodlo": "ted",
@@ -1847,7 +1793,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-06",
+  "dodano": "2026-09-07",
   "hash": "ecd75c85b6bb0c83205634e87b15a52708a1587828b85eb34e2cab5c31bcb197"
  },
  {
@@ -2316,7 +2262,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-06",
+  "dodano": "2026-09-07",
   "hash": "86ba6249b26b2d6c8c44180dcffc17203c3d79688227c7ab051bf71761461530"
  },
  {
@@ -2925,7 +2871,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-06",
+  "dodano": "2026-09-07",
   "hash": "1831b96d3da60c602a4d5597d44af7962fcb1a7150e1fe3912ab50e69f93e08b"
  },
  {
@@ -2947,6 +2893,32 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "74a38bc3344065587ea3bde795efd77ca864690b611faa6729435a4ca14bfa0b"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Urządzenia do tomografii – Zakup tomografu komputerowego z oprogramowaniem kardiologicznym wraz z dostosowaniem infrastruktury",
+  "url": "https://ted.europa.eu/en/notice/-/detail/612720-2026",
+  "zamawiajacy": "Samodzielny Publiczny ZOZ Wojewódzki Szpital Zespolony im. Jędrzeja Śniadeckiego w Białymstoku",
+  "data_publikacji": "2026-09-07",
+  "termin_skladania": "2026-09-15T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "33115000",
+   "33100000",
+   "45453000",
+   "71220000",
+   "33115000",
+   "33100000",
+   "45453000",
+   "71220000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-01",
+  "hash": "eb6adc1d0121ed42ec8b3768df7b63e2696f6796d1800ff8e30d87c4976c9771"
  },
  {
   "zrodlo": "ted",
@@ -3039,7 +3011,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-06",
+  "dodano": "2026-09-07",
   "hash": "50a167f64d89ab84eeab19aea497604aab2bf808f4454890c6fc37d5395d827f"
  },
  {
@@ -3200,7 +3172,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-06",
+  "dodano": "2026-09-07",
   "hash": "a6f15550e90d352eec6541840b1959f765427bb13e666208d8e4ee579982dba0"
  },
  {
@@ -3247,6 +3219,26 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "c730709f3c403a069b59c826ec1d02d033e6049f54629bc01437e1d77db21452"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej dla rozbudowy/przebudowy układu drogowego ul. Branickiej na zakresie od ul. Tokarzewskiego do rejonu posesji nr 31.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-b7a1011d-5324-4035-b296-2d54a1a0e642",
+  "zamawiajacy": "Zarząd Dróg Miasta Krakowa",
+  "data_publikacji": "2026-09-07",
+  "termin_skladania": "2026-09-16T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00424759 z dnia 2026-09-07 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej dla rozbudowy/przebudowy układu drogowego ul. Branickiej na zakresie od ul. Tokarzewskiego do rejonu posesji nr 31. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Zarząd Dróg Miasta Krakowa 1.4) Krajowy Numer Identyfikacyjny: REGON 357116163 1.5) Adres zamawiającego 1.5.1.) Ulica: Centralna 53 1.5.2.) Miejscowość: Kraków 1.5.3.) Kod pocztowy: 31-586 1.5.4.) Województwo: małopolskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL213 - Miasto Kraków 1.5.7.) Numer telefonu: (12) 616 7416 1.5.8.) Numer faksu: (12) 616 7417 1.5.9.) Adres poczty elektronicznej: sekretariat@zdmk.krakow.pl 1.5.10.) Adres strony internetowej zamawiającego: www.zdmk.krakow.pl 1.6.) Rodzaj zamawiającego: Zamawiający publicz",
+  "cpv": [
+   "71320000-7"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71",
+   "drogi"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-07",
+  "hash": "7a93f15ecb5f9baa82537aabee1e141d1a7f2a1cc1067457970a362ba03b5da9"
  },
  {
   "zrodlo": "ted",
@@ -3299,7 +3291,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-06",
+  "dodano": "2026-09-07",
   "hash": "cd06b93da1133bc3d25d5db61c4d16be02beebc6d617626d6ff1f33fe4ebd48a"
  },
  {
@@ -3356,7 +3348,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-06",
+  "dodano": "2026-09-07",
   "hash": "2d82ee3e92ce4ec2b655195cfad0ac36ad0fc51e23eb6550bd873ae014aab095"
  },
  {
@@ -3567,6 +3559,29 @@
   "hash": "8fe0e77ba88d71395e19eb8a6ef4e50a46308862556a1955097b92776bf58243"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowo-kosztorysowej dla zadania: „Rozbudowa DP 2614S ul. Beskidzkiej w Skoczowie od km 3+015 do km 3+735 wraz z budową chodnika”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-2931c677-2c64-44e3-8dd3-c5ccfc09b866",
+  "zamawiajacy": "Powiatowy Zarząd Dróg Publicznych w Cieszynie",
+  "data_publikacji": "2026-09-07",
+  "termin_skladania": "2026-09-17T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00424527 z dnia 2026-09-07 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowo-kosztorysowej dla zadania: „Rozbudowa DP 2614S ul. Beskidzkiej w Skoczowie od km 3+015 do km 3+735 wraz z budową chodnika” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Powiatowy Zarząd Dróg Publicznych w Cieszynie 1.4) Krajowy Numer Identyfikacyjny: REGON 072253400 1.5) Adres zamawiającego 1.5.1.) Ulica: Bobrecka 29 1.5.2.) Miejscowość: Cieszyn 1.5.3.) Kod pocztowy: 43-400 1.5.4.) Województwo: śląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL225 - Bielski 1.5.9.) Adres poczty elektronicznej: wiz@powiat.cieszyn.pl 1.5.10.) Adres strony internetowej zamawiającego: https://www.pzdp.cieszyn.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostk",
+  "cpv": [
+   "71300000-1",
+   "71322000-1",
+   "71320000-7"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-07",
+  "hash": "958797e4f68fceb990028432ad2cc018839bfa89b7adc169036920749fbe835b"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Nadzór nad robotami budowlanymi – Pełnienie nadzoru inwestorskiego nad realizacją robót budowlanych w ramach zadania inwestycyjnego pn. „Przebudowa w celu poprawy efektywności energetycznej budynku Urzędu Skarbowego w Lubaczowie przy ul. Jana III Sobieskiego 6”.",
   "url": "https://ted.europa.eu/en/notice/-/detail/571081-2026",
@@ -3625,6 +3640,34 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "7d1d53849c57165e1dd813aec1114f035db1707e200d6b814e84d12665010ec0"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi nadzoru budowlanego – Pełnienie nadzoru dla zaprojektowania i wykonania robót na linii kolejowej nr 68 na odcinku Stalowa Wola Rozwadów – Przeworsk wraz z pełnieniem nadzoru autorskiego w ramach projektu pn.: Prace na linii kolejowej nr 68 na odcinku Stalowa Wola Rozwadów – Przeworsk - etap I",
+  "url": "https://ted.europa.eu/en/notice/-/detail/614577-2026",
+  "zamawiajacy": "PKP Polskie Linie Kolejowe S.A.",
+  "data_publikacji": "2026-09-07",
+  "termin_skladania": "2026-09-17T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71520000",
+   "71247000",
+   "71521000",
+   "71248000",
+   "71520000",
+   "71247000",
+   "71521000",
+   "71248000"
+  ],
+  "score": 5,
+  "tagi": [
+   "bonus-ue/strategiczny",
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-07",
+  "hash": "f812e7eda01173ca7242742f0a026d331698e8b578e78888a1704c83b9384261"
  },
  {
   "zrodlo": "ted",
@@ -3816,9 +3859,9 @@
  {
   "zrodlo": "ted",
   "tytul": "Polska – Usługi zarządzania budową – Usługa pełnienia funkcji Inżyniera Kontraktu („Dostawa urządzeń medycznych linii terapeutycznej do radioterapii wraz z budową budynku Zakładu Radioterapii jako ośrodka satelitarnego BCO w Suwałkach”)",
-  "url": "https://ted.europa.eu/en/notice/-/detail/609715-2026",
+  "url": "https://ted.europa.eu/en/notice/-/detail/614977-2026",
   "zamawiajacy": "Białostockie Centrum Onkologii im. M. Skłodowskiej-Curie w Białymstoku",
-  "data_publikacji": "2026-09-04",
+  "data_publikacji": "2026-09-07",
   "termin_skladania": "2026-09-18T10:00:00+03:00",
   "opis": null,
   "cpv": [
@@ -3837,8 +3880,8 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-06",
-  "hash": "c063cb3332b5f9e33be00619de574b455a0fd93840421530e276a271a77389b0"
+  "dodano": "2026-09-07",
+  "hash": "49408ac57321d5679ef49c940a840d681891c5422de05bc2428baf5141994632"
  },
  {
   "zrodlo": "ted",
@@ -4104,7 +4147,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-06",
+  "dodano": "2026-09-07",
   "hash": "3258a0537ec29a7c32a2e3bcbfc0937f2bc01e618582d7215736e6ea15c23f5d"
  },
  {
@@ -4301,29 +4344,8 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-06",
+  "dodano": "2026-09-07",
   "hash": "0afeb986b6304dbcbb38050530df3fa3ca293f832fa16b9f5312df271c62adbf"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Usługi projektowania architektonicznego – Opracowanie dokumentacji projektowej dla zadania: Budowa Internatu Asystenta nr 2 na działkach o numerach ewidencyjnych 2/170 i 2/171 wraz z pełnieniem nadzoru autorskiego",
-  "url": "https://ted.europa.eu/en/notice/-/detail/576089-2026",
-  "zamawiajacy": "Akademia Sztuki Wojennej",
-  "data_publikacji": "2026-08-20",
-  "termin_skladania": "2026-09-23T10:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71220000",
-   "71200000"
-  ],
-  "score": 9,
-  "tagi": [
-   "cpv-71",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": null,
-  "hash": "05500d8474016b42bdf3a96f14f4d69d49eb5fc235fd1eea9db36649249a54b8"
  },
  {
   "zrodlo": "ted",
@@ -4371,7 +4393,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-06",
+  "dodano": "2026-09-07",
   "hash": "5e3475ec7d549eeeeea8ef842332254ea9df04dee028610a188e298b9b065875"
  },
  {
@@ -4741,7 +4763,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-06",
+  "dodano": "2026-09-07",
   "hash": "8e4e6c9382f46f7daf0763055a15b31486a604e85dc3a40cec906e75fdfb57ff"
  },
  {
@@ -4775,6 +4797,27 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Usługi projektowania architektonicznego – Opracowanie dokumentacji projektowej dla zadania: Budowa Internatu Asystenta nr 2 na działkach o numerach ewidencyjnych 2/170 i 2/171 wraz z pełnieniem nadzoru autorskiego",
+  "url": "https://ted.europa.eu/en/notice/-/detail/612953-2026",
+  "zamawiajacy": "Akademia Sztuki Wojennej",
+  "data_publikacji": "2026-09-07",
+  "termin_skladania": "2026-09-30T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71220000",
+   "71200000"
+  ],
+  "score": 9,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-07",
+  "hash": "c201c5302f63573a01ec79afc74e54ee644291a9cfc2d87419f0738e7b29e26e"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Różne meble i wyposażenie – Wykonanie aranżacji przestrzeni wokół Planetarium EC1 (budynek EC-1 Wschód, poz. -2) z dostawą wyposażenia, mebli wypoczynkowych wraz z niezbędnymi usługami projektowymi i montażowymi",
   "url": "https://ted.europa.eu/en/notice/-/detail/609888-2026",
   "zamawiajacy": "\"EC1 Łódź - Miasto Kultury\" w Łodzi",
@@ -4792,7 +4835,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-06",
+  "dodano": "2026-09-07",
   "hash": "a262a45d5e5dbbbaf85d812ae76eea72a6cc32d1c5e0ed80fcdd23b50d67ca0a"
  },
  {
@@ -4898,7 +4941,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-06",
+  "dodano": "2026-09-07",
   "hash": "59c8f8d70495be14b0dfdaaf056eef51c93c8b9755abc2816fb7c4ca06ad528e"
  },
  {
@@ -5383,6 +5426,28 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Usługi architektoniczne w zakresie obiektów budowlanych – ZZK-NZ/241/3400/108/26 Wykonanie dokumentacji projektowo-kosztorysowej na remont i przebudowę budynku gminnego położonego we Wrocławiu przy ul. Kołłątaja 31.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/614268-2026",
+  "zamawiajacy": "Zarząd Zasobu Komunalnego Jednostka Budżetowa Gminy Wrocław",
+  "data_publikacji": "2026-09-07",
+  "termin_skladania": "2026-10-08T11:30:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71221000",
+   "71221000"
+  ],
+  "score": 8,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-07",
+  "hash": "fa4bfe61b9db043796db68ae467e2f4aa36610aeba610d1598e00df41ad0d389"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Przedmiotem zamówienia jest wykonanie dokumentacji projektowej instalacji SSP, DSO, modernizacji oświetlenia ogólnego i awaryjnego ppoż., systemu CCTV i SIUP, prac związanych z instalacjami sanitarnymi, prac konstrukcyjnych przegród budowlanych oraz montażu sufitów podwieszonych na korytarzach, wraz z montażem oświetlenia ogólnego i miejscowego w budynku MFIPR",
   "url": "https://ted.europa.eu/en/notice/-/detail/588562-2026",
   "zamawiajacy": "Ministerstwo Funduszy i Polityki Regionalnej",
@@ -5427,6 +5492,46 @@
   "status_opisu": "brak",
   "dodano": "2026-09-04",
   "hash": "6c9457d881b883fd532f5043ea59c6d2db14ea95a05f98a702548b081ad4f8a5"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Wykonanie dokumentacji projektowo-kosztorysowej dotyczącej obiektów małej retencji na terenie Nadleśnictwa Durowo wraz z pełnieniem nadzoru autorskiego – II postępowanie",
+  "url": "https://ted.europa.eu/en/notice/-/detail/613854-2026",
+  "zamawiajacy": "Skarb Państwa PGL LP Nadleśnictwo Durowo",
+  "data_publikacji": "2026-09-07",
+  "termin_skladania": "2026-10-13T09:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71320000",
+   "71330000",
+   "71520000",
+   "71320000",
+   "71320000",
+   "71320000",
+   "71320000",
+   "71320000",
+   "71320000",
+   "71330000",
+   "71520000",
+   "71330000",
+   "71520000",
+   "71330000",
+   "71520000",
+   "71330000",
+   "71520000",
+   "71330000",
+   "71520000",
+   "71330000",
+   "71520000"
+  ],
+  "score": 9,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-07",
+  "hash": "615016c30846cab53c0431aa7ef5d2a00db5c1f05be508ee60755352b003efdd"
  },
  {
   "zrodlo": "ted",
@@ -5486,6 +5591,48 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Urządzenia do obrazowania rezonansu magnetycznego – Zakup rezonansu magnetycznego 3T wraz z pełnym wyposażeniem z dostawą, instalacją, szkoleniem, demontażem i utylizacją rezonansu magnetycznego będącego na wyposażeniu Zamawiającego oraz modernizacją pomieszczenia.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/614451-2026",
+  "zamawiajacy": "Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie - Państwowy Instytut Badawczy",
+  "data_publikacji": "2026-09-07",
+  "termin_skladania": "2026-10-15T09:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "33113000",
+   "71221000",
+   "39150000",
+   "39180000",
+   "45400000",
+   "45215143",
+   "45310000",
+   "45311100",
+   "45232460",
+   "45332400",
+   "45343000",
+   "45331220",
+   "33113000",
+   "71221000",
+   "39150000",
+   "39180000",
+   "45400000",
+   "45215143",
+   "45310000",
+   "45311100",
+   "45232460",
+   "45332400",
+   "45343000",
+   "45331220"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-07",
+  "hash": "58f14c25b296c12a846553285dbe31862fac5c9ae2edf9e02ca24a45d7c0d70a"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi projektowania architektonicznego – Opracowanie dokumentacji projektowo-kosztorysowej dla zadania „Rozbudowa Sądu Rejonowego w Lidzbarku Warmińskim przy ul. Bartoszyckiej 4A”",
   "url": "https://ted.europa.eu/en/notice/-/detail/488234-2026",
   "zamawiajacy": "Sąd Okręgowy w Olsztynie",
@@ -5542,7 +5689,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-06",
+  "dodano": "2026-09-07",
   "hash": "43bdd6dc8d3e34537761c8edeb21e1a54576493c9b7a9057f6f163465cd82fc7"
  }
 ]
