@@ -3000,7 +3000,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-07",
+  "dodano": "2026-09-08",
   "hash": "eb6adc1d0121ed42ec8b3768df7b63e2696f6796d1800ff8e30d87c4976c9771"
  },
  {
@@ -3245,6 +3245,29 @@
   "hash": "516c99cc0706921c84cdd5b1dff480043d5711716b96d0c546c2c02c73e1a0d3"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "Oprac. dok. projekt. przebud. ul. Kościuszki i ul. Woj. Polskiego na odc. od ronda im. J. Gajewskiego do skrzyż. ul. Kościuszki z ul. Wigierską i ul. 24 Sierpnia- Zrównoważona Mobil. Miejska– etap III",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-8e44039e-b384-4e3e-a21c-5e036e21a59d",
+  "zamawiajacy": "Zarząd Dróg i Zieleni w Suwałkach",
+  "data_publikacji": "2026-09-08",
+  "termin_skladania": "2026-09-16T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00426401 z dnia 2026-09-08 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Oprac. dok. projekt. przebud. ul. Kościuszki i ul. Woj. Polskiego na odc. od ronda im. J. Gajewskiego do skrzyż. ul. Kościuszki z ul. Wigierską i ul. 24 Sierpnia- Zrównoważona Mobil. Miejska– etap III SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Zarząd Dróg i Zieleni w Suwałkach 1.4) Krajowy Numer Identyfikacyjny: REGON 200662077 1.5) Adres zamawiającego 1.5.1.) Ulica: Sejneńska 84 1.5.2.) Miejscowość: Suwałki 1.5.3.) Kod pocztowy: 16-400 1.5.4.) Województwo: podlaskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL843 - Suwalski 1.5.7.) Numer telefonu: 87 – 567 57 32, 87 – 566 78 55 1.5.8.) Numer faksu: 87 – 565 99 26 1.5.9.) Adres poczty elektronicznej: sekretariat@zdiz.suwalki.pl 1.5.10.) Adres strony internetowej zamawiającego",
+  "cpv": [
+   "71000000-8",
+   "71220000-6",
+   "71300000-1",
+   "71320000-7",
+   "71420000-8"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-08",
+  "hash": "3c8b02f656e3007e710126bdffe03f37d495108698ab1b903b1aa5b3d046efa1"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Słoneczne moduły fotoelektryczne – Dostawa, montaż, uruchomienie oraz przekazanie do eksploatacji kompletnej instalacji fotowoltaicznej wraz z towarzyszącymi robotami budowlanymi - zamówienie udzielane w 2 częściach",
   "url": "https://ted.europa.eu/en/notice/-/detail/596407-2026",
@@ -3346,6 +3369,32 @@
   "hash": "7a93f15ecb5f9baa82537aabee1e141d1a7f2a1cc1067457970a362ba03b5da9"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej dla zadania pn: Rozbudowa dróg gminnych nr: 232036G ul. Kolejowa, 232034G ul. Dworcowa, 232035G ul. Południowa, 232044G ul Strzelecka w m. Czarne",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-24719b8c-ac83-4e97-a555-55c3e424d8d1",
+  "zamawiajacy": "Gmina Czarne",
+  "data_publikacji": "2026-09-08",
+  "termin_skladania": "2026-09-16T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00427221 z dnia 2026-09-08 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej dla zadania pn: Rozbudowa dróg gminnych nr: 232036G ul. Kolejowa, 232034G ul. Dworcowa, 232035G ul. Południowa, 232044G ul Strzelecka w m. Czarne SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Czarne 1.4) Krajowy Numer Identyfikacyjny: REGON 770979476 1.5) Adres zamawiającego 1.5.1.) Ulica: Moniuszki 12 1.5.2.) Miejscowość: Czarne 1.5.3.) Kod pocztowy: 77-330 1.5.4.) Województwo: pomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL637 - Chojnicki 1.5.7.) Numer telefonu: 59 8332078 1.5.9.) Adres poczty elektronicznej: przetargi@czarne.pl 1.5.10.) Adres strony internetowej zamawiającego: bip.czarne.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publiczn",
+  "cpv": [
+   "71320000-7",
+   "71322000-1",
+   "71248000-8",
+   "71322500-6",
+   "71220000-6"
+  ],
+  "score": 13,
+  "tagi": [
+   "bonus-ue/strategiczny",
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-08",
+  "hash": "5bac731eaa6b307c61a6bba47cee5799de9a6869270ffdacd50c072088f29210"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Jednostki rezonansu magnetycznego – Dostawa wysokospecjalistycznej aparatury medycznej wraz z wyposażeniem i wykonaniem robót budowlanych w Szpitalu Morskim im. PCK w Gdyni w ramach projektu pn.: „Poprawa dostępności i jakości w świadczeniu usług onkologicznych poprzez przebudowę oraz rozbudowę Zakładu Diagnostyki Obrazowej w Szpitalu Morskim im. PCK w Gdyni”...",
   "url": "https://ted.europa.eu/en/notice/-/detail/607659-2026",
@@ -3396,7 +3445,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-07",
+  "dodano": "2026-09-08",
   "hash": "cd06b93da1133bc3d25d5db61c4d16be02beebc6d617626d6ff1f33fe4ebd48a"
  },
  {
@@ -3687,6 +3736,28 @@
   "hash": "958797e4f68fceb990028432ad2cc018839bfa89b7adc169036920749fbe835b"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "Przygotowanie wielobranż.dokum. projektowej dla inwestycji pn. Rewitalizacja zabytkowej kaplicy wraz z dziedzińcem z przeznaczeniem na salę konferencyjną w Szpitalu M. Kopernika w Gdańsku.-POWTÓRKA",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-15a1e6e5-e4f0-40cc-9e10-bcdc1760ccba",
+  "zamawiajacy": "Copernicus Podmiot Leczniczy Sp. z o.o.",
+  "data_publikacji": "2026-09-08",
+  "termin_skladania": "2026-09-17T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00426354 z dnia 2026-09-08 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Przygotowanie wielobranż.dokum. projektowej dla inwestycji pn. Rewitalizacja zabytkowej kaplicy wraz z dziedzińcem z przeznaczeniem na salę konferencyjną w Szpitalu M. Kopernika w Gdańsku.-POWTÓRKA SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Copernicus Podmiot Leczniczy Sp. z o.o. 1.3.) Oddział zamawiającego: Szpital św. Wojciecha al. Jana Pawła II 50, 80-462 Gdańsk 1.4) Krajowy Numer Identyfikacyjny: REGON 221964385 1.5) Adres zamawiającego 1.5.1.) Ulica: Nowe Ogrody 1-6 1.5.2.) Miejscowość: Gdańsk 1.5.3.) Kod pocztowy: 80-803 1.5.4.) Województwo: pomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL633 - Trójmiejski 1.5.9.) Adres poczty elektronicznej: zamowienia.publiczne@copernicus.gda.pl 1.5.10.) Adres strony internetowe",
+  "cpv": [
+   "71000000-8",
+   "71220000-6",
+   "71320000-7",
+   "71248000-8"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-08",
+  "hash": "64c2560f48aed71f3c3b063004d38e6052375a9d66d79195f9e2af24483aa23e"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Nadzór nad robotami budowlanymi – Pełnienie nadzoru inwestorskiego nad realizacją robót budowlanych w ramach zadania inwestycyjnego pn. „Przebudowa w celu poprawy efektywności energetycznej budynku Urzędu Skarbowego w Lubaczowie przy ul. Jana III Sobieskiego 6”.",
   "url": "https://ted.europa.eu/en/notice/-/detail/571081-2026",
@@ -3771,7 +3842,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-07",
+  "dodano": "2026-09-08",
   "hash": "f812e7eda01173ca7242742f0a026d331698e8b578e78888a1704c83b9384261"
  },
  {
@@ -3801,6 +3872,30 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "d99a4f3309eb6617c372ce0c42ee4736357d4c487745435d99beab051a4c6eee"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowo-kosztorysowej zagospodarowania terenu przyległego do ul. Zbigniewa Herberta w Bełchatowie",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-d1b3e4a8-5820-4438-b0db-257956108a4e",
+  "zamawiajacy": "MIASTO BEŁCHATÓW REPREZENTOWANE PRZEZ PREZYDENTA MIASTA BEŁCHATOWA",
+  "data_publikacji": "2026-09-08",
+  "termin_skladania": "2026-09-18T06:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00426759 z dnia 2026-09-08 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowo-kosztorysowej zagospodarowania terenu przyległego do ul. Zbigniewa Herberta w Bełchatowie SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: MIASTO BEŁCHATÓW REPREZENTOWANE PRZEZ PREZYDENTA MIASTA BEŁCHATOWA 1.4) Krajowy Numer Identyfikacyjny: REGON 001232830 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Kościuszki 1 1.5.2.) Miejscowość: Bełchatów 1.5.3.) Kod pocztowy: 97-400 1.5.4.) Województwo: łódzkie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL713 - Piotrkowski 1.5.7.) Numer telefonu: 447335137 1.5.9.) Adres poczty elektronicznej: bzp@um.belchatow.pl 1.5.10.) Adres strony internetowej zamawiającego: www.belchatow.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów pu",
+  "cpv": [
+   "71220000-6",
+   "71420000-8",
+   "71322000-1",
+   "71242000-6",
+   "71321000-4"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-08",
+  "hash": "3ed23e9bae099a5d0510f89af84cb1ba02f4b2404be78573451af378fe1256a1"
  },
  {
   "zrodlo": "bzp",
@@ -3985,7 +4080,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-07",
+  "dodano": "2026-09-08",
   "hash": "49408ac57321d5679ef49c940a840d681891c5422de05bc2428baf5141994632"
  },
  {
@@ -4252,7 +4347,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-07",
+  "dodano": "2026-09-08",
   "hash": "3258a0537ec29a7c32a2e3bcbfc0937f2bc01e618582d7215736e6ea15c23f5d"
  },
  {
@@ -4473,7 +4568,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-07",
+  "dodano": "2026-09-08",
   "hash": "0afeb986b6304dbcbb38050530df3fa3ca293f832fa16b9f5312df271c62adbf"
  },
  {
@@ -4522,7 +4617,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-07",
+  "dodano": "2026-09-08",
   "hash": "5e3475ec7d549eeeeea8ef842332254ea9df04dee028610a188e298b9b065875"
  },
  {
@@ -4546,6 +4641,32 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "77fb90fa62338024e3fe27df09135edec92999bd1807af0b1d5235dfad0c7ab6"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Pełnienie funkcji inwestora zastępczego i inspektora nadzoru inwestorskiego nad realizacją robót budowlanych w zadaniu inwestycyjnym pn. „Młode Stare Miasto w Piotrkowie Trybunalskim – etap I”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-d59e5689-1fee-43de-affe-959e37f9a606",
+  "zamawiajacy": "Miasto Piotrków Trybunalski",
+  "data_publikacji": "2026-09-08",
+  "termin_skladania": "2026-09-24T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00426951 z dnia 2026-09-08 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Pełnienie funkcji inwestora zastępczego i inspektora nadzoru inwestorskiego nad realizacją robót budowlanych w zadaniu inwestycyjnym pn. „Młode Stare Miasto w Piotrkowie Trybunalskim – etap I” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Miasto Piotrków Trybunalski 1.4) Krajowy Numer Identyfikacyjny: REGON 590648468 1.5) Adres zamawiającego 1.5.1.) Ulica: Pasaż Karola Rudowskiego 10 1.5.2.) Miejscowość: Piotrków Trybunalski 1.5.3.) Kod pocztowy: 97-300 1.5.4.) Województwo: łódzkie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL713 - Piotrkowski 1.5.9.) Adres poczty elektronicznej: zamowienia.publiczne@piotrkow.pl 1.5.10.) Adres strony internetowej zamawiającego: www.piotrkow.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - j",
+  "cpv": [
+   "71247000-1",
+   "71520000-9",
+   "71540000-5",
+   "71310000-4",
+   "71541000-2",
+   "71500000-3",
+   "71200000-0",
+   "71300000-1"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-08",
+  "hash": "9595313a6c676640d0ed95f318a46fe7d1716c4c9cb7d47cac27394acdc8b9ad"
  },
  {
   "zrodlo": "ted",
@@ -4639,6 +4760,29 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "996b4d05c8ec97c6bf5bf6e679d8f26e4eed4c274e4fb67894f4c801864719e4"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie pełnobranżowej dokumentacji projektowej – obejmującej projekt budowlany, techniczny, wykonawczy oraz kosztorysy – dla zadania inwestycyjnego przy ul. Brzeskiej 7 w Warszawie.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-3e8fc2d5-c02b-4f0c-9ae6-c712cea4c862",
+  "zamawiajacy": "Zarząd Mienia m.st. Warszawy",
+  "data_publikacji": "2026-09-08",
+  "termin_skladania": "2026-09-28T08:30:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00426712 z dnia 2026-09-08 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie pełnobranżowej dokumentacji projektowej – obejmującej projekt budowlany, techniczny, wykonawczy oraz kosztorysy – dla zadania inwestycyjnego przy ul. Brzeskiej 7 w Warszawie. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Zarząd Mienia m.st. Warszawy 1.4) Krajowy Numer Identyfikacyjny: REGON 015259640 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Jana Kazimierza 62 1.5.2.) Miejscowość: Warszawa 1.5.3.) Kod pocztowy: 01-248 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL911 - Miasto Warszawa 1.5.7.) Numer telefonu: 0222770300 1.5.9.) Adres poczty elektronicznej: sekretariat@zmw.waw.pl 1.5.10.) Adres strony internetowej zamawiającego: www.zmw.waw.pl 1.6.) Rodzaj zamawiającego: Zamawiający pub",
+  "cpv": [
+   "71000000-8",
+   "71200000-0",
+   "71500000-3",
+   "71700000-5"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-08",
+  "hash": "3c67af8bd23f281257bdf520d51ebbbb4132bdf0dad6065d16e5ab1dcec4b975"
  },
  {
   "zrodlo": "ted",
@@ -4892,7 +5036,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-07",
+  "dodano": "2026-09-08",
   "hash": "8e4e6c9382f46f7daf0763055a15b31486a604e85dc3a40cec906e75fdfb57ff"
  },
  {
@@ -4942,7 +5086,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-07",
+  "dodano": "2026-09-08",
   "hash": "c201c5302f63573a01ec79afc74e54ee644291a9cfc2d87419f0738e7b29e26e"
  },
  {
@@ -5070,7 +5214,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-07",
+  "dodano": "2026-09-08",
   "hash": "59c8f8d70495be14b0dfdaaf056eef51c93c8b9755abc2816fb7c4ca06ad528e"
  },
  {
@@ -5386,6 +5530,27 @@
   "status_opisu": "brak",
   "dodano": "2026-09-01",
   "hash": "1616159a31a7472d82f4454135791d2515b85355a918e27b9c5dfd7f616b5644"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi projektowania architektonicznego – Wykonanie dokumentacji projektowo-kosztorysowej wraz z ekspertyzą dla zadania pn.: Przebudowa pomieszczeń piwnicznych w budynku nr 6 wraz z autonomicznym wyjściem w celu dostosowania ich do wymagań dla Miejsca Doraźnego Schronienia (MDS)",
+  "url": "https://ted.europa.eu/en/notice/-/detail/618210-2026",
+  "zamawiajacy": "10 Wojskowy Szpital Kliniczny z Polikliniką Samodzielny Publiczny Zakład Opieki Zdrowotnej",
+  "data_publikacji": "2026-09-08",
+  "termin_skladania": "2026-10-06T08:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71220000",
+   "71220000"
+  ],
+  "score": 9,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-08",
+  "hash": "a74161bfd8d10f6d92bcec6649fa73fa5dec322f6d95e48e5cc6b5b643a04965"
  },
  {
   "zrodlo": "bzp",
@@ -5762,6 +5927,30 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Usługi projektowania rurociągów – Opracowanie projektu dla budowy zlewni ogólnospławnej – odciążenie sieci ogólnospławnej w rejonie ul. Dolna Wilda w Poznaniu.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/619106-2026",
+  "zamawiajacy": "Aquanet S.A.",
+  "data_publikacji": "2026-09-08",
+  "termin_skladania": "2026-10-15T10:30:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71322200",
+   "71248000",
+   "71320000",
+   "71322200",
+   "71248000",
+   "71320000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-08",
+  "hash": "2ae46fe0789f497bc6fc51fc0826d3a363845491f9556b14ff4f3218257aa1c8"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi projektowania architektonicznego – Opracowanie dokumentacji projektowo-kosztorysowej dla zadania „Rozbudowa Sądu Rejonowego w Lidzbarku Warmińskim przy ul. Bartoszyckiej 4A”",
   "url": "https://ted.europa.eu/en/notice/-/detail/488234-2026",
   "zamawiajacy": "Sąd Okręgowy w Olsztynie",
@@ -5818,7 +6007,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-07",
+  "dodano": "2026-09-08",
   "hash": "43bdd6dc8d3e34537761c8edeb21e1a54576493c9b7a9057f6f163465cd82fc7"
  }
 ]
