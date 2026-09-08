@@ -3396,6 +3396,30 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Opracowanie kompleksowej dokumentacji projektowo-kosztorysowej dla zadania polegającego na adaptacji pomieszczeń piwnicznych w budynku Szkoły Podstawowej w Trzciance na miejsca doraźnego schronienia",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-522f47bd-62d5-4971-8043-dbd40816dbb6",
+  "zamawiajacy": "Gmina Brańszczyk",
+  "data_publikacji": "2026-09-08",
+  "termin_skladania": "2026-09-16T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00428260 z dnia 2026-09-08 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie kompleksowej dokumentacji projektowo-kosztorysowej dla zadania polegającego na adaptacji pomieszczeń piwnicznych w budynku Szkoły Podstawowej w Trzciance na miejsca doraźnego schronienia SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Brańszczyk 1.4) Krajowy Numer Identyfikacyjny: REGON 550667824 1.5) Adres zamawiającego 1.5.1.) Ulica: Jana Pawła II, 45 1.5.2.) Miejscowość: Brańszczyk 1.5.3.) Kod pocztowy: 07-221 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL924 - Ostrołęcki 1.5.9.) Adres poczty elektronicznej: zamowienia.publiczne@branszczyk.pl 1.5.10.) Adres strony internetowej zamawiającego: www.bip.branszczyk.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sekto",
+  "cpv": [
+   "71320000-7",
+   "71240000-2",
+   "71242000-6",
+   "71248000-8"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-08",
+  "hash": "f316f13e7cc6bc4693386de13eddf5f87164f32c52d4c91be9839a5eca7a1337"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Wykonanie kompleksowej aktualizacji istniejącej dokumentacji projektowej dla zadania inwestycyjnego pn. „Adaptacja obiektu biurowo-administracyjnego na potrzeby WIIH we Wrocławiu”.",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-a7ae94a1-567d-443b-bcba-c2d498edd442",
   "zamawiajacy": "Wojewódzki Inspektorat Inspekcji Handlowej we Wrocławiu",
@@ -3947,6 +3971,31 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-08",
   "hash": "3ed23e9bae099a5d0510f89af84cb1ba02f4b2404be78573451af378fe1256a1"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Budowa Dzielnicowego Centrum Sportu i Rekreacji przy ul. Żywieckiej Bocznej w Krakowie - opracowanie dokumentacji projektowej budowy basenu otwartego wraz z zapleczem i infrastrukturą towarzyszącą.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-d500693c-171b-41e5-95e2-6cc836ce4d84",
+  "zamawiajacy": "Gmina Miejska Kraków -Zarząd Infrastruktury Sportowej w Krakowie",
+  "data_publikacji": "2026-09-08",
+  "termin_skladania": "2026-09-18T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00428263 z dnia 2026-09-08 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Budowa Dzielnicowego Centrum Sportu i Rekreacji przy ul. Żywieckiej Bocznej w Krakowie - opracowanie dokumentacji projektowej budowy basenu otwartego wraz z zapleczem i infrastrukturą towarzyszącą. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Miejska Kraków -Zarząd Infrastruktury Sportowej w Krakowie 1.3.) Oddział zamawiającego: Zarząd Infrastruktury Sportowej w Krakowie 1.4) Krajowy Numer Identyfikacyjny: REGON 351554353 1.5) Adres zamawiającego 1.5.1.) Ulica: Plac Wszystkich Świętych 3-4 1.5.2.) Miejscowość: Kraków 1.5.3.) Kod pocztowy: 31-004 1.5.4.) Województwo: małopolskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL213 - Miasto Kraków 1.5.9.) Adres poczty elektronicznej: sekretariat@zis.krakow.pl 1.5.10.) Adres stro",
+  "cpv": [
+   "71000000-8",
+   "71200000-0",
+   "71320000-7",
+   "71541000-2",
+   "71322000-1"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-08",
+  "hash": "08f62320409bcbe52342a202e4db53c1df9e4ea5d2fd1befd4125917826224fa"
  },
  {
   "zrodlo": "bzp",
