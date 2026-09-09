@@ -1256,44 +1256,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Opracowanie dokumentacji projektowej na budowę ciągów pieszo-rowerowych na terenie miasta Łodzi – 17 części",
-  "url": "https://ted.europa.eu/en/notice/-/detail/555822-2026",
-  "zamawiajacy": "Miasto Łódź-Urząd Miasta Łodzi",
-  "data_publikacji": "2026-08-11",
-  "termin_skladania": "2026-09-10T09:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71320000",
-   "71320000",
-   "71320000",
-   "71320000",
-   "71320000",
-   "71320000",
-   "71320000",
-   "71320000",
-   "71320000",
-   "71320000",
-   "71320000",
-   "71320000",
-   "71320000",
-   "71320000",
-   "71320000",
-   "71320000",
-   "71320000",
-   "71320000"
-  ],
-  "score": 8,
-  "tagi": [
-   "cpv-71",
-   "samorząd",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": null,
-  "hash": "b3df1ef934e2ab661575fdda5ad4624eb989167bbc5965cc8a10d06fe64daf12"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – OPRACOWANIE DOKUMENTACJI PROJEKTOWEJ PRZEBUDOWY ULIC MALINOWEJ I SADOWEJ WRAZ Z PEŁNIENIEM NADZORU AUTORSKIEGO NA ETAPIE REALIZACJI INWESTYCJI W RAMACH ZADANIA INWESTYCYJNEGO PN. „SŁUPSKI PROGRAM ROZWOJU DRÓG”.",
   "url": "https://ted.europa.eu/en/notice/-/detail/553815-2026",
   "zamawiajacy": "Zarząd Infrastruktury Miejskiej w Słupsku, który działa w imieniu i na rzecz Miasta Słupsk",
@@ -2161,6 +2123,44 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Opracowanie dokumentacji projektowej na budowę ciągów pieszo-rowerowych na terenie miasta Łodzi – 17 części",
+  "url": "https://ted.europa.eu/en/notice/-/detail/621089-2026",
+  "zamawiajacy": "Miasto Łódź-Urząd Miasta Łodzi",
+  "data_publikacji": "2026-09-09",
+  "termin_skladania": "2026-09-14T09:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71320000",
+   "71320000",
+   "71320000",
+   "71320000",
+   "71320000",
+   "71320000",
+   "71320000",
+   "71320000",
+   "71320000",
+   "71320000",
+   "71320000",
+   "71320000",
+   "71320000",
+   "71320000",
+   "71320000",
+   "71320000",
+   "71320000",
+   "71320000"
+  ],
+  "score": 8,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-09",
+  "hash": "147923872189a1b25e59385a5a2cb1ab48d6bec96612f52c9bc7ae68975bf5db"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi projektowania systemów zasilania energią elektryczną – Wykonanie dokumentacji projektowej w ramach projektu „Kompleksowy projekt adaptacji lasów i leśnictwa do zmian klimatu – zapobieganie, przeciwdziałanie oraz ograniczanie skutków zagrożeń związanych z pożarami lasów (PPOŻ2)” - postępowanie nr II",
   "url": "https://ted.europa.eu/en/notice/-/detail/565549-2026",
   "zamawiajacy": "Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Brzózka",
@@ -2237,33 +2237,6 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "311eecb563344b4696ce523f7766093bc65b169ffcc9d35a81bcd4c3ca48b299"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Przygotowanie przedsięwzięcia i projektu, oszacowanie kosztów – „Umowa ramowa na opracowanie dokumentacji projektowych”",
-  "url": "https://ted.europa.eu/en/notice/-/detail/561071-2026",
-  "zamawiajacy": "Operator Gazociągów Przesyłowych GAZ-SYSTEM S.A.",
-  "data_publikacji": "2026-08-13",
-  "termin_skladania": "2026-09-14T10:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71242000",
-   "71248000",
-   "71320000",
-   "71242000",
-   "71242000",
-   "71248000",
-   "71320000",
-   "71248000",
-   "71320000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-07",
-  "hash": "86ba6249b26b2d6c8c44180dcffc17203c3d79688227c7ab051bf71761461530"
  },
  {
   "zrodlo": "ted",
@@ -3121,40 +3094,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Roboty budowlane – Opracowanie dokumentacji projektowej i realizacja robót budowlanych w zakresie podsystemu \"Energia\" - sieć trakcyjna na linii kolejowej nr 85 odc. Warszawa - Łódź",
-  "url": "https://ted.europa.eu/en/notice/-/detail/578428-2026",
-  "zamawiajacy": "Centralny Port Komunikacyjny sp. z o.o.",
-  "data_publikacji": "2026-08-21",
-  "termin_skladania": "2026-09-15T11:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "45000000",
-   "34632300",
-   "45232220",
-   "45234100",
-   "45231400",
-   "71321000",
-   "71322000",
-   "45000000",
-   "34632300",
-   "45232220",
-   "45234100",
-   "45231400",
-   "71321000",
-   "71322000"
-  ],
-  "score": 5,
-  "tagi": [
-   "bonus-ue/strategiczny",
-   "roboty-budowlane",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": null,
-  "hash": "137c184fd911edb45ba5454477095fbef97b581d56d5068977818b224f92f205"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Architektoniczne usługi zagospodarowania terenu – ZZK - NZ/241/3400/96/26 Wykonanie dokumentacji projektowo-kosztorysowej na zagospodarowanie wnętrz podwórzowych położonych we Wrocławiu.",
   "url": "https://ted.europa.eu/en/notice/-/detail/547840-2026",
   "zamawiajacy": "Zarząd Zasobu Komunalnego Jednostka Budżetowa Gminy Wrocław",
@@ -3212,37 +3151,6 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "d92724bdc7ca80202863d33fdde3844f2b788a6d7d2471841cd175c4b85a072c"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Roboty inżynieryjne i budowlane – Zaprojektowanie i wybudowanie wielkoskalowego magazynu ciepła w PGE Energia Ciepła S.A. Oddział w Lublinie",
-  "url": "https://ted.europa.eu/en/notice/-/detail/551642-2026",
-  "zamawiajacy": "PGE Energia Ciepła S.A.",
-  "data_publikacji": "2026-08-10",
-  "termin_skladania": "2026-09-15T13:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "45220000",
-   "71320000",
-   "45110000",
-   "71314000",
-   "09320000",
-   "45220000",
-   "71320000",
-   "45110000",
-   "71314000",
-   "09320000"
-  ],
-  "score": 5,
-  "tagi": [
-   "cpv-71",
-   "giełdowa",
-   "spolka-sp",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": null,
-  "hash": "516c99cc0706921c84cdd5b1dff480043d5711716b96d0c546c2c02c73e1a0d3"
  },
  {
   "zrodlo": "bzp",
@@ -3517,7 +3425,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-08",
+  "dodano": "2026-09-09",
   "hash": "cd06b93da1133bc3d25d5db61c4d16be02beebc6d617626d6ff1f33fe4ebd48a"
  },
  {
@@ -3651,56 +3559,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Usługi opracowywania oprogramowania informatycznego – Usługa wytworzenia, dostawy oraz utrzymania systemu informatycznego propagującego dynamiczną i statyczną informację pasażerską wraz z zarządzaniem nośnikami elektronicznymi ją prezentującymi.",
-  "url": "https://ted.europa.eu/en/notice/-/detail/513746-2026",
-  "zamawiajacy": "Zarząd Transportu Miejskiego w Warszawie, działający na podstawie udzielonych pełnomocnictw w imieniu i na rzecz Miasta Stołecznego Warszawa",
-  "data_publikacji": "2026-07-24",
-  "termin_skladania": "2026-09-16T11:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "72212517",
-   "72265000",
-   "72263000",
-   "72268000",
-   "72267000",
-   "48000000",
-   "48460000",
-   "48219700",
-   "48600000",
-   "48800000",
-   "64212500",
-   "71248000",
-   "72220000",
-   "72212610",
-   "72000000",
-   "30200000",
-   "72212517",
-   "72268000",
-   "72265000",
-   "72263000",
-   "72267000",
-   "48000000",
-   "48460000",
-   "48219700",
-   "48600000",
-   "48800000",
-   "64212500",
-   "71248000",
-   "72220000",
-   "72212610",
-   "72000000",
-   "30200000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": null,
-  "hash": "cf9d4a919f14530083e5e2f8a24e5583342b9cb3313c2818964d2e4686f360a1"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Usługi projektowania architektonicznego – Wykonanie dokumentacji projektowo-kosztorysowej termomodernizacji z zagospodarowaniem przyległego terenu w budynku – Grochowska 275",
   "url": "https://ted.europa.eu/en/notice/-/detail/558104-2026",
   "zamawiajacy": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Praga-Południe m. st. Warszawy",
@@ -3786,6 +3644,27 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej wraz z pełnieniem nadzoru autorskiego dla zadania pn.: „Rozbudowa skrzyżowania dr woj. nr 221 z drogami gminnymi nr 188001G i 188004G w Lubaniu”.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-c7ff109b-99a2-451c-bf7b-541d4fa0e057",
+  "zamawiajacy": "ZARZĄD DRÓG WOJEWÓDZKICH W GDAŃSKU",
+  "data_publikacji": "2026-09-09",
+  "termin_skladania": "2026-09-17T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00429089 z dnia 2026-09-09 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej wraz z pełnieniem nadzoru autorskiego dla zadania pn.: „Rozbudowa skrzyżowania dr woj. nr 221 z drogami gminnymi nr 188001G i 188004G w Lubaniu”. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: ZARZĄD DRÓG WOJEWÓDZKICH W GDAŃSKU 1.4) Krajowy Numer Identyfikacyjny: REGON 191687276 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Mostowa 11A 1.5.2.) Miejscowość: Gdańsk 1.5.3.) Kod pocztowy: 80-778 1.5.4.) Województwo: pomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL633 - Trójmiejski 1.5.9.) Adres poczty elektronicznej: sekretariat@zdwgdansk.pl 1.5.10.) Adres strony internetowej zamawiającego: www.zdw-gdansk.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicz",
+  "cpv": [
+   "71322000-1",
+   "71248000-8"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-09",
+  "hash": "ea407f6e9f2f4bb10e5b004e7c146f096260332be4afeb7e7a77bb68c8e08ddb"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Opracowanie dokumentacji projektowo-kosztorysowej dla zadania: „Rozbudowa DP 2614S ul. Beskidzkiej w Skoczowie od km 3+015 do km 3+735 wraz z budową chodnika”",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-2931c677-2c64-44e3-8dd3-c5ccfc09b866",
   "zamawiajacy": "Powiatowy Zarząd Dróg Publicznych w Cieszynie",
@@ -3852,6 +3731,51 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-08",
   "hash": "64c2560f48aed71f3c3b063004d38e6052375a9d66d79195f9e2af24483aa23e"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "wykonanie dokumentacji projektowo-kosztorysowej wraz z pełnieniem nadzoru autorskiego – część 6",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-3f1173d3-dc77-413b-9d92-653b54edeee7",
+  "zamawiajacy": "Szczecińskie Towarzystwo Budownictwa Społecznego Sp. z o. o.",
+  "data_publikacji": "2026-09-09",
+  "termin_skladania": "2026-09-17T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00429080 z dnia 2026-09-09 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi wykonanie dokumentacji projektowo-kosztorysowej wraz z pełnieniem nadzoru autorskiego – część 6 SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Szczecińskie Towarzystwo Budownictwa Społecznego Sp. z o. o. 1.4) Krajowy Numer Identyfikacyjny: REGON 811015666 1.5) Adres zamawiającego 1.5.1.) Ulica: Bohaterów Getta Warszawskiego 1a 1.5.2.) Miejscowość: Szczecin 1.5.3.) Kod pocztowy: 70-302 1.5.4.) Województwo: zachodniopomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL424 - Miasto Szczecin 1.5.9.) Adres poczty elektronicznej: biuro@stbs.pl 1.5.10.) Adres strony internetowej zamawiającego: http://stbs.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - osoba prawna, o której mowa w art. 4 pkt 3 ustawy (podmiot prawa publicznego)",
+  "cpv": [
+   "71220000-6",
+   "71221000-3",
+   "71320000-7",
+   "71242000-6",
+   "71248000-8"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-09",
+  "hash": "173c1efc744e6536155ddaadd02cc577fc836b59ad0adeade7a8b458376f5135"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "„Opracowanie dokumentacji projektowej hali magazynowej wraz z oświetleniem i monitoringiem w ramach realizacji Programu Ochrony Ludności i Obrony Cywilnej na lata 2025-2026”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-5762e809-bf71-4054-935e-9ab563478ff2",
+  "zamawiajacy": "Gmina Polanów",
+  "data_publikacji": "2026-09-09",
+  "termin_skladania": "2026-09-17T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00428875 z dnia 2026-09-09 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi „Opracowanie dokumentacji projektowej hali magazynowej wraz z oświetleniem i monitoringiem w ramach realizacji Programu Ochrony Ludności i Obrony Cywilnej na lata 2025-2026” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Polanów 1.4) Krajowy Numer Identyfikacyjny: REGON 330920660 1.5) Adres zamawiającego 1.5.1.) Ulica: Wolności 4 1.5.2.) Miejscowość: Polanów 1.5.3.) Kod pocztowy: 76-010 1.5.4.) Województwo: zachodniopomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL426 - Koszaliński 1.5.7.) Numer telefonu: +48 94 3188329 1.5.9.) Adres poczty elektronicznej: um@polanow.eu 1.5.10.) Adres strony internetowej zamawiającego: https://bip.polanow.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów",
+  "cpv": [
+   "71320000-7"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-09",
+  "hash": "23eff392385b1d305ae1a396c87ef4b920e76dda52ed88b13147309fe56f2eaa"
  },
  {
   "zrodlo": "ted",
@@ -3938,7 +3862,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-08",
+  "dodano": "2026-09-09",
   "hash": "f812e7eda01173ca7242742f0a026d331698e8b578e78888a1704c83b9384261"
  },
  {
@@ -4017,6 +3941,31 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-08",
   "hash": "08f62320409bcbe52342a202e4db53c1df9e4ea5d2fd1befd4125917826224fa"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowo-kosztorysowej w ramach zadania pn. \"Park Wiecha - rewitalizacja przestrzeni\".",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-72f3f17c-42c1-47e2-897d-80656c95478c",
+  "zamawiajacy": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+  "data_publikacji": "2026-09-09",
+  "termin_skladania": "2026-09-18T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00429151 z dnia 2026-09-09 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowo-kosztorysowej w ramach zadania pn. &#34;Park Wiecha - rewitalizacja przestrzeni&#34;. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Miasto Stołeczne Warszawa Dzielnica Targówek 1.4) Krajowy Numer Identyfikacyjny: REGON 015259640 1.5) Adres zamawiającego 1.5.1.) Ulica: Ludwika Kondratowicza 20 1.5.2.) Miejscowość: Warszawa 1.5.3.) Kod pocztowy: 00-983 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL911 - Miasto Warszawa 1.5.7.) Numer telefonu: (22) 44 38 704 1.5.9.) Adres poczty elektronicznej: targowek.zzp@um.warszawa.pl 1.5.10.) Adres strony internetowej zamawiającego: www.targowek.waw.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finans",
+  "cpv": [
+   "71220000-6",
+   "71320000-7",
+   "71322000-1",
+   "71242000-6",
+   "71321000-4",
+   "71222000-0"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-09",
+  "hash": "aa0ac769d1448e816f14bceceea2dcd9b48e94394afb8389f99b76dd5c281ba2"
  },
  {
   "zrodlo": "bzp",
@@ -4116,6 +4065,33 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Przygotowanie przedsięwzięcia i projektu, oszacowanie kosztów – „Umowa ramowa na opracowanie dokumentacji projektowych”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/621854-2026",
+  "zamawiajacy": "Operator Gazociągów Przesyłowych GAZ-SYSTEM S.A.",
+  "data_publikacji": "2026-09-09",
+  "termin_skladania": "2026-09-18T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71242000",
+   "71248000",
+   "71320000",
+   "71242000",
+   "71242000",
+   "71248000",
+   "71320000",
+   "71248000",
+   "71320000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-07",
+  "hash": "1a88cc516df4a16980bc8b2fca0395ad193a0e77e07e55cf98ac0d54af6b6bec"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Roboty budowlane – Wykonanie kompletnej dokumentacji projektowej wraz z uzyskaniem wszystkich decyzji administracyjnych niezbędnych do przeprowadzania robót budowlanych oraz wykonanie robót polegających na budowie punktu czerpania wody, zbiornika podziemnego wraz z utwardzonym placem manewrowym realizowanych na terenie Nadleśnictwa Opole Leśnictwo Krasiejów",
   "url": "https://ted.europa.eu/en/notice/-/detail/573963-2026",
   "zamawiajacy": "Skarb Państwa Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Opole",
@@ -4201,8 +4177,29 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-08",
+  "dodano": "2026-09-09",
   "hash": "49408ac57321d5679ef49c940a840d681891c5422de05bc2428baf5141994632"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie aktualizacji dokumentacji projektowej dla zadania pn. „Przebudowa siedziby Muzeum Archeologicznego w Poznaniu (Pałacu Górków) na cele wystawiennicze i edukacyjne” (powtórzone)",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-e2d29ce6-7930-4bed-819a-4d56e6324dbf",
+  "zamawiajacy": "Muzeum Archeologiczne w Poznaniu",
+  "data_publikacji": "2026-09-08",
+  "termin_skladania": "2026-09-18T10:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00428497 z dnia 2026-09-08 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie aktualizacji dokumentacji projektowej dla zadania pn. „Przebudowa siedziby Muzeum Archeologicznego w Poznaniu (Pałacu Górków) na cele wystawiennicze i edukacyjne” (powtórzone) SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Muzeum Archeologiczne w Poznaniu 1.4) Krajowy Numer Identyfikacyjny: REGON 000654977 1.5) Adres zamawiającego 1.5.1.) Ulica: Wodna 27 1.5.2.) Miejscowość: Poznań 1.5.3.) Kod pocztowy: 61-781 1.5.4.) Województwo: wielkopolskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL415 - Miasto Poznań 1.5.9.) Adres poczty elektronicznej: sekretariat@muzarp.poznan.pl 1.5.10.) Adres strony internetowej zamawiającego: https://muzarp.poznan.pl/ 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora fina",
+  "cpv": [
+   "71200000-0",
+   "92522200-8"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-09",
+  "hash": "1bafe14de5054feea82eb530048194b4f1637b34b9d65f788b655cb91492b24a"
  },
  {
   "zrodlo": "ted",
@@ -4276,6 +4273,33 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "e0ff08373d39c58aded120a387c91fef27df862877f0f11e35d27cf9c98a4be0"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie wielobranżowej dokumentacji projektowej oraz sprawowanie nadzoru autorskiego dla zadania pn. „Budowa i przebudowa bazy dydaktycznej na działce nr 571/5 w Rudnej”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-3e710651-be28-4182-bdde-2cd35f427d83",
+  "zamawiajacy": "ZESPÓŁ SZKÓŁ CENTRUM KSZTAŁCENIA ROLNICZEGO W RUDNEJ",
+  "data_publikacji": "2026-09-08",
+  "termin_skladania": "2026-09-21T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00428489 z dnia 2026-09-08 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie wielobranżowej dokumentacji projektowej oraz sprawowanie nadzoru autorskiego dla zadania pn. „Budowa i przebudowa bazy dydaktycznej na działce nr 571/5 w Rudnej” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: ZESPÓŁ SZKÓŁ CENTRUM KSZTAŁCENIA ROLNICZEGO W RUDNEJ 1.4) Krajowy Numer Identyfikacyjny: REGON 391066993 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Kolejowa 5 1.5.2.) Miejscowość: Rudna 1.5.3.) Kod pocztowy: 59-305 1.5.4.) Województwo: dolnośląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL516 - Legnicko-głogowski 1.5.9.) Adres poczty elektronicznej: sekretariat@zsckr-rudna.pl 1.5.10.) Adres strony internetowej zamawiającego: www.gov.pl/zsckr-rudna 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka ",
+  "cpv": [
+   "71220000-6",
+   "71320000-7",
+   "71248000-8",
+   "71354000-4",
+   "71351910-5",
+   "71351500-8",
+   "71242000-6"
+  ],
+  "score": 22,
+  "tagi": [
+   "bonus-ue/strategiczny",
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-09",
+  "hash": "0f05446b1d15c77c9c85a1538462a27de26f231c1d08e100a830d929326e7d61"
  },
  {
   "zrodlo": "bzp",
@@ -4468,7 +4492,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-08",
+  "dodano": "2026-09-09",
   "hash": "3258a0537ec29a7c32a2e3bcbfc0937f2bc01e618582d7215736e6ea15c23f5d"
  },
  {
@@ -4737,7 +4761,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-08",
+  "dodano": "2026-09-09",
   "hash": "0afeb986b6304dbcbb38050530df3fa3ca293f832fa16b9f5312df271c62adbf"
  },
  {
@@ -4861,31 +4885,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Przygotowanie przedsięwzięcia i projektu, oszacowanie kosztów – Opracowanie dokumentacji projektowej i pełnienie nadzoru autorskiego dla zadania: \"Gaz. Wrocław Obw. Pd, odc. Ołtaszyn - ZZU Wysoka wyłączenie gaz. z eksploatacji oraz Gaz. Wrocław Obw. Pd, odc. Ołtaszyn - ZZU Cargill - wyłączenie gaz z eksploatacji\"",
-  "url": "https://ted.europa.eu/en/notice/-/detail/581672-2026",
-  "zamawiajacy": "Operator Gazociągów Przesyłowych GAZ-SYSTEM S.A.",
-  "data_publikacji": "2026-08-24",
-  "termin_skladania": "2026-09-24T10:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71242000",
-   "71248000",
-   "71320000",
-   "71242000",
-   "71248000",
-   "71320000"
-  ],
-  "score": 9,
-  "tagi": [
-   "cpv-71",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": null,
-  "hash": "7d954d3eaa558823d6315a09d5fcb4cabb0eabb4c8292e9b6d0573bda2fed617"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Usługi architektoniczne, inżynieryjne i planowania – Opracowanie wielowariantowej i wielobranżowej koncepcji budowy linii tramwajowej Cichy Kącik - Azory wraz z niezbędną infrastrukturą techniczną oraz uzyskaniem decyzji o środowiskowych uwarunkowaniach",
   "url": "https://ted.europa.eu/en/notice/-/detail/576581-2026",
   "zamawiajacy": "Zarząd Inwestycji Miejskich w Krakowie",
@@ -4929,6 +4928,56 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "996b4d05c8ec97c6bf5bf6e679d8f26e4eed4c274e4fb67894f4c801864719e4"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi opracowywania oprogramowania informatycznego – Usługa wytworzenia, dostawy oraz utrzymania systemu informatycznego propagującego dynamiczną i statyczną informację pasażerską wraz z zarządzaniem nośnikami elektronicznymi ją prezentującymi.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/622420-2026",
+  "zamawiajacy": "Zarząd Transportu Miejskiego w Warszawie, działający na podstawie udzielonych pełnomocnictw w imieniu i na rzecz Miasta Stołecznego Warszawa",
+  "data_publikacji": "2026-09-09",
+  "termin_skladania": "2026-09-25T11:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "72212517",
+   "72265000",
+   "72263000",
+   "72268000",
+   "72267000",
+   "48000000",
+   "48460000",
+   "48219700",
+   "48600000",
+   "48800000",
+   "64212500",
+   "71248000",
+   "72220000",
+   "72212610",
+   "72000000",
+   "30200000",
+   "72212517",
+   "72268000",
+   "72265000",
+   "72263000",
+   "72267000",
+   "48000000",
+   "48460000",
+   "48219700",
+   "48600000",
+   "48800000",
+   "64212500",
+   "71248000",
+   "72220000",
+   "72212610",
+   "72000000",
+   "30200000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-09",
+  "hash": "d160c1cd14cab3cadda992ea801d58c2907d201ef80e9d2790edb8c7a520ad8f"
  },
  {
   "zrodlo": "bzp",
@@ -5102,6 +5151,29 @@
   "hash": "741532b2ac5324eea535c361660944fe8901fa8835417bd4e448b000fa5532b0"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie pełnobranżowej dokumentacji projektowej dla zadania inwestycyjnego polegającego na modernizacji wyłączonych z użytkowania budynków frontowego i oficyn przy ul. Ząbkowskiej 12 w Warszawie.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-af86dbb4-9eae-43af-b31b-b758060f62e1",
+  "zamawiajacy": "Zarząd Mienia m.st. Warszawy",
+  "data_publikacji": "2026-09-09",
+  "termin_skladania": "2026-09-29T08:30:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00429391 z dnia 2026-09-09 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie pełnobranżowej dokumentacji projektowej dla zadania inwestycyjnego polegającego na modernizacji wyłączonych z użytkowania budynków frontowego i oficyn przy ul. Ząbkowskiej 12 w Warszawie. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Zarząd Mienia m.st. Warszawy 1.4) Krajowy Numer Identyfikacyjny: REGON 015259640 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Jana Kazimierza 62 1.5.2.) Miejscowość: Warszawa 1.5.3.) Kod pocztowy: 01-248 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL911 - Miasto Warszawa 1.5.7.) Numer telefonu: 0222770349 1.5.9.) Adres poczty elektronicznej: Eburza@zmw.waw.pl 1.5.10.) Adres strony internetowej zamawiającego: www.zmw.waw.pl 1.6.) Rodzaj zamawiającego: Zamawia",
+  "cpv": [
+   "71000000-8",
+   "71200000-0",
+   "71700000-5",
+   "71500000-3"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-09",
+  "hash": "fba8aab8e1f81adcf2d16a8ac3314e600151882ff6e2149ff33eabbcf66215a6"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Przygotowanie przedsięwzięcia i projektu, oszacowanie kosztów – Opracowanie dokumentacji projektowej dla zadania pn.: Gaz. Ołtaszyn Kudowa Jeleniów: likwidacja i wybudowanie nowych ZZU Dolina i ZZU Jordanów Śląski oraz likwidacja zwarcia galwanicznego w m. Jordanów Śląski.",
   "url": "https://ted.europa.eu/en/notice/-/detail/595757-2026",
@@ -5127,6 +5199,65 @@
   "hash": "f191f5a37d07f089f78abfc4d2e47ac71a22425157c3aae292621346cad9bb69"
  },
  {
+  "zrodlo": "ted",
+  "tytul": "Polska – Przygotowanie przedsięwzięcia i projektu, oszacowanie kosztów – Opracowanie dokumentacji projektowej i pełnienie nadzoru autorskiego dla zadania: \"Gaz. Wrocław Obw. Pd, odc. Ołtaszyn - ZZU Wysoka wyłączenie gaz. z eksploatacji oraz Gaz. Wrocław Obw. Pd, odc. Ołtaszyn - ZZU Cargill - wyłączenie gaz z eksploatacji\"",
+  "url": "https://ted.europa.eu/en/notice/-/detail/620870-2026",
+  "zamawiajacy": "Operator Gazociągów Przesyłowych GAZ-SYSTEM S.A.",
+  "data_publikacji": "2026-09-09",
+  "termin_skladania": "2026-09-29T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71242000",
+   "71248000",
+   "71320000",
+   "71242000",
+   "71248000",
+   "71320000"
+  ],
+  "score": 9,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-09",
+  "hash": "cc7c5bfea86a44a12d01bedd29d4dad99861ecd9869986058731c9bcf51b4280"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Roboty budowlane – Opracowanie dokumentacji projektowej i realizacja robót budowlanych w zakresie podsystemu \"Energia\" - sieć trakcyjna na linii kolejowej nr 85 odc. Warszawa - Łódź",
+  "url": "https://ted.europa.eu/en/notice/-/detail/621301-2026",
+  "zamawiajacy": "Centralny Port Komunikacyjny sp. z o.o.",
+  "data_publikacji": "2026-09-09",
+  "termin_skladania": "2026-09-29T11:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "45000000",
+   "34632300",
+   "45232220",
+   "45234100",
+   "45231400",
+   "71321000",
+   "71322000",
+   "45000000",
+   "34632300",
+   "45232220",
+   "45234100",
+   "45231400",
+   "71321000",
+   "71322000"
+  ],
+  "score": 5,
+  "tagi": [
+   "bonus-ue/strategiczny",
+   "roboty-budowlane",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-09",
+  "hash": "0ad3976e34ec21fdf575871f2d9f95f1e72d0d0aa4d02f9fe37f347d6c7b6410"
+ },
+ {
   "zrodlo": "bzp",
   "tytul": "Opracowanie dokumentacji projektowo-kosztorysowej budynku siedziby Nadleśnictwa Chrzanów",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-50b590b3-e169-40b4-aafe-d8448890ea8c",
@@ -5150,6 +5281,29 @@
   "status_opisu": "pobrany",
   "dodano": null,
   "hash": "3c129e13b386e8ce7f3b3b86c211cb04313f4103e045ec5592ba3cb9f07fe5e0"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie pełnobranżowej dokumentacji projektowej dla zadania polegającego na modernizacji budynków frontowych i oficyn przy ul. Okrzei 29 i ul. Kłopotowskiego 28 w Warszawie.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-37dc1f76-5c38-4d6c-a071-d0f06b7045c7",
+  "zamawiajacy": "Zarząd Mienia m.st. Warszawy",
+  "data_publikacji": "2026-09-09",
+  "termin_skladania": "2026-09-30T08:30:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00429484 z dnia 2026-09-09 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie pełnobranżowej dokumentacji projektowej dla zadania polegającego na modernizacji budynków frontowych i oficyn przy ul. Okrzei 29 i ul. Kłopotowskiego 28 w Warszawie. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Zarząd Mienia m.st. Warszawy 1.4) Krajowy Numer Identyfikacyjny: REGON 015259640 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Jana Kazimierza 62 1.5.2.) Miejscowość: Warszawa 1.5.3.) Kod pocztowy: 01-248 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL911 - Miasto Warszawa 1.5.7.) Numer telefonu: 0222770349 1.5.9.) Adres poczty elektronicznej: Eburza@zmw.waw.pl 1.5.10.) Adres strony internetowej zamawiającego: www.zmw.waw.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jedno",
+  "cpv": [
+   "71000000-8",
+   "71200000-0",
+   "71700000-5",
+   "71500000-3"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-09",
+  "hash": "e3d051477b2758602f6664ad6d987be22443718bfd6412d43cd1ead46f41731c"
  },
  {
   "zrodlo": "ted",
@@ -5205,7 +5359,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-08",
+  "dodano": "2026-09-09",
   "hash": "8e4e6c9382f46f7daf0763055a15b31486a604e85dc3a40cec906e75fdfb57ff"
  },
  {
@@ -5255,7 +5409,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-08",
+  "dodano": "2026-09-09",
   "hash": "c201c5302f63573a01ec79afc74e54ee644291a9cfc2d87419f0738e7b29e26e"
  },
  {
@@ -5306,6 +5460,37 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "c592fef1f920ffff35bf34bb260bbb8c1a81744e8cc8287ce448ea37103e1a5c"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Roboty inżynieryjne i budowlane – Zaprojektowanie i wybudowanie wielkoskalowego magazynu ciepła w PGE Energia Ciepła S.A. Oddział w Lublinie",
+  "url": "https://ted.europa.eu/en/notice/-/detail/619565-2026",
+  "zamawiajacy": "PGE Energia Ciepła S.A.",
+  "data_publikacji": "2026-09-09",
+  "termin_skladania": "2026-09-30T13:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "45220000",
+   "71320000",
+   "45110000",
+   "71314000",
+   "09320000",
+   "45220000",
+   "71320000",
+   "45110000",
+   "71314000",
+   "09320000"
+  ],
+  "score": 5,
+  "tagi": [
+   "cpv-71",
+   "giełdowa",
+   "spolka-sp",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-09",
+  "hash": "fb858bd55fdebea096e12df7232c50ea719a6f48ab71e4c3666dbcea0ab921fc"
  },
  {
   "zrodlo": "ted",
@@ -5383,7 +5568,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-08",
+  "dodano": "2026-09-09",
   "hash": "59c8f8d70495be14b0dfdaaf056eef51c93c8b9755abc2816fb7c4ca06ad528e"
  },
  {
@@ -5958,6 +6143,85 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Wykonanie usług projektowych w ramach zadania inwestycyjnego pn.: „Katowicka Infrastruktura Rowerowa – wspieranie zrównoważonej multimodalnej mobilności miejskiej”- zamówienie udzielane w 5 częściach.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/620236-2026",
+  "zamawiajacy": "Miasto Katowice",
+  "data_publikacji": "2026-09-09",
+  "termin_skladania": "2026-10-12T08:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71320000",
+   "71248000",
+   "71320000",
+   "71320000",
+   "71320000",
+   "71320000",
+   "71320000",
+   "71248000",
+   "71248000",
+   "71248000",
+   "71248000",
+   "71248000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-09",
+  "hash": "12bc967c06d3d817994cc5d9588c0e8cabd9c4e9a08dd020a6b93dfd447f52db"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynieryjne – Opracowanie operatów wodnoprawnych wraz z instrukcjami gospodarowania wodą na usługę wodną polegającą na piętrzeniu i retencjonowaniu wód rzeki Czapelka na jazach w km 3+000, 11+180, 14+200 i 16+140",
+  "url": "https://ted.europa.eu/en/notice/-/detail/620442-2026",
+  "zamawiajacy": "Państwowe Gospodarstwo Wodne Wody Polskie",
+  "data_publikacji": "2026-09-09",
+  "termin_skladania": "2026-10-12T08:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71300000",
+   "71322000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-09",
+  "hash": "140a78fba7a10a8f9ed83a064df333d4413eaa8cffe2b02d9312e396247426b0"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi instalowania urządzeń elektrycznych i mechanicznych – Przedmiotem zamówienia jest kompleksowa realizacja zadania pn.: „Modernizacja zasuw, krat i systemu sterowania na zamku wodnym EW Żur”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/620918-2026",
+  "zamawiajacy": "ENEA Nowa Energia sp. z o.o.",
+  "data_publikacji": "2026-09-09",
+  "termin_skladania": "2026-10-12T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "51100000",
+   "71320000",
+   "45240000",
+   "45315700",
+   "50530000",
+   "51100000",
+   "45351000",
+   "71320000",
+   "45315100",
+   "71323100",
+   "50530000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-09",
+  "hash": "33b1a5a26550a58c7fec3a72c3c5870c5c59dc36aac88a5d3dbe329abf3b359d"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Wykonanie dokumentacji projektowo-kosztorysowej dotyczącej obiektów małej retencji na terenie Nadleśnictwa Durowo wraz z pełnieniem nadzoru autorskiego – II postępowanie",
   "url": "https://ted.europa.eu/en/notice/-/detail/613854-2026",
   "zamawiajacy": "Skarb Państwa PGL LP Nadleśnictwo Durowo",
@@ -5995,6 +6259,56 @@
   "status_opisu": "brak",
   "dodano": "2026-09-07",
   "hash": "615016c30846cab53c0431aa7ef5d2a00db5c1f05be508ee60755352b003efdd"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Sprzęt wystawowy – Zagospodarowanie budynku pokopalnianego Łaźni Moszczenica w Jastrzębiu-Zdroju – Etap III – Porozumienie Jastrzębskie",
+  "url": "https://ted.europa.eu/en/notice/-/detail/619326-2026",
+  "zamawiajacy": "Miasto Jastrzębie-Zdrój",
+  "data_publikacji": "2026-09-09",
+  "termin_skladania": "2026-10-13T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "39154000",
+   "39133000",
+   "39171000",
+   "39154100",
+   "45311100",
+   "30236000",
+   "32322000",
+   "92521100",
+   "71320000",
+   "45000000",
+   "45300000",
+   "45311200",
+   "45315300",
+   "45400000",
+   "45316000",
+   "45421153",
+   "39154000",
+   "39133000",
+   "39171000",
+   "39154100",
+   "45311100",
+   "30236000",
+   "32322000",
+   "92521100",
+   "71320000",
+   "45000000",
+   "45300000",
+   "45311200",
+   "45315300",
+   "45400000",
+   "45316000",
+   "45421153"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-09",
+  "hash": "f116678b3da663b574e5869ce6fa5062f6b7d7e5d29082971a353289b8ab4e21"
  },
  {
   "zrodlo": "ted",
@@ -6176,7 +6490,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-08",
+  "dodano": "2026-09-09",
   "hash": "43bdd6dc8d3e34537761c8edeb21e1a54576493c9b7a9057f6f163465cd82fc7"
  }
 ]
