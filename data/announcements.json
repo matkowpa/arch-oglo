@@ -4489,6 +4489,30 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Pełnienie obowiązków Inspektora Nadzoru Inwestorskiego nad zadaniem Kompleksowa rewitalizacja terenu Starego Szpitala w Nowym Targu poprzez wykonanie prac budowlanych, rozbiórkowych z zago. terenu",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-29d7fa85-e863-47d8-8650-f0b2009dc3a1",
+  "zamawiajacy": "Akademia Nauk Stosowanych w Nowym Targu",
+  "data_publikacji": "2026-09-10",
+  "termin_skladania": "2026-09-21T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00432978 z dnia 2026-09-10 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Pełnienie obowiązków Inspektora Nadzoru Inwestorskiego nad zadaniem Kompleksowa rewitalizacja terenu Starego Szpitala w Nowym Targu poprzez wykonanie prac budowlanych, rozbiórkowych z zago. terenu SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Akademia Nauk Stosowanych w Nowym Targu 1.4) Krajowy Numer Identyfikacyjny: REGON 492722404 1.5) Adres zamawiającego 1.5.1.) Ulica: Kokoszków 71 1.5.2.) Miejscowość: Nowy Targ 1.5.3.) Kod pocztowy: 34-400 1.5.4.) Województwo: małopolskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL219 - Nowotarski 1.5.7.) Numer telefonu: 182610709 1.5.9.) Adres poczty elektronicznej: inwestycja@ans-nt.edu.pl 1.5.10.) Adres strony internetowej zamawiającego: https://bip.malopolska.pl/ppwsz 1.6.) Rodzaj zamaw",
+  "cpv": [
+   "71520000-9",
+   "71247000-1",
+   "71248000-8",
+   "71521000-6",
+   "71500000-3",
+   "71000000-8"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-10",
+  "hash": "bc2881fdb85f4f3ceb40022a55aa4d20235d66e6683b5baa7ee2e17d0a3c5f76"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Wykonanie dokumentacji projektowej i robót budowlanych (formuła zaprojektuj i wybuduj) dla zadania „Remont nawierzchni parkingu wraz z zagospodarowaniem terenów zielonych przy ul. Rembielińskiego”",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-167847c2-359f-4380-92ef-3a0c4d1dab02",
   "zamawiajacy": "GMINA - MIASTO PŁOCK",
