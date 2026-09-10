@@ -4332,6 +4332,32 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Na usługi nadzoru inwestorskiego w ramach projektu „Kompleksowa rehabilitacja blisko domu – Projekt SPZZOZ w Lipsku w ramach wsparcia Funduszy Europejskich",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-e0b29da3-0547-456e-899e-a7399e63e107",
+  "zamawiajacy": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej",
+  "data_publikacji": "2026-09-10",
+  "termin_skladania": "2026-09-21T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00432221 z dnia 2026-09-10 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Na usługi nadzoru inwestorskiego w ramach projektu „Kompleksowa rehabilitacja blisko domu – Projekt SPZZOZ w Lipsku w ramach wsparcia Funduszy Europejskich SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej 1.4) Krajowy Numer Identyfikacyjny: REGON 670997773 1.5) Adres zamawiającego 1.5.1.) Ulica: Jędrzeja Śniadeckiego 2 1.5.2.) Miejscowość: Lipsko 1.5.3.) Kod pocztowy: 27-300 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL921 - Radomski 1.5.7.) Numer telefonu: 483783512 1.5.9.) Adres poczty elektronicznej: przetargi@szpitallipsko.pl 1.5.10.) Adres strony internetowej zamawiającego: https://szpitallipsko.pl 1.6.) Rodzaj zamawiającego: Zamawiający pu",
+  "cpv": [
+   "71520000-9",
+   "71000000-8",
+   "71318000-0",
+   "71317000-3",
+   "71312000-8",
+   "71310000-4",
+   "71247000-1",
+   "71248000-8"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-10",
+  "hash": "0785dfc27f8335ceeee165e48be25aaa1277b799e1f0e4c27e6b7e3c2e4e0dd5"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Opracowanie wielobranżowej dokumentacji projektowej oraz sprawowanie nadzoru autorskiego dla zadania pn. „Budowa i przebudowa bazy dydaktycznej na działce nr 571/5 w Rudnej”",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-3e710651-be28-4182-bdde-2cd35f427d83",
   "zamawiajacy": "ZESPÓŁ SZKÓŁ CENTRUM KSZTAŁCENIA ROLNICZEGO W RUDNEJ",
@@ -4401,6 +4427,29 @@
   "status_opisu": "pobrany",
   "dodano": null,
   "hash": "9512547a6c36376d4a447b7a241833e00d83d8d05c997ef2df1ff3ac7643bddd"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowo – kosztorysowej dotyczącej remontu budynku nr 10 w kompleksie wojskowym w Gdyni.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-edb21065-a1e6-4c12-8c8c-c45194e2b526",
+  "zamawiajacy": "Rejonowy Zarząd Infrastruktury w Gdyni",
+  "data_publikacji": "2026-09-10",
+  "termin_skladania": "2026-09-21T08:30:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00432243 z dnia 2026-09-10 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowo – kosztorysowej dotyczącej remontu budynku nr 10 w kompleksie wojskowym w Gdyni. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Rejonowy Zarząd Infrastruktury w Gdyni 1.3.) Oddział zamawiającego: Sekcja Zamówień Publicznych 1.4) Krajowy Numer Identyfikacyjny: REGON 19005559700000 1.5) Adres zamawiającego 1.5.1.) Ulica: JANA Z KOLNA 8B 1.5.2.) Miejscowość: Gdynia 1.5.3.) Kod pocztowy: 81-301 1.5.4.) Województwo: pomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL633 - Trójmiejski 1.5.9.) Adres poczty elektronicznej: rzigdynia.kancelaria@ron.mil.pl 1.5.10.) Adres strony internetowej zamawiającego: https://rzigdynia.wp.mil.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - inna państwowa je",
+  "cpv": [
+   "71000000-8",
+   "71220000-6",
+   "71242000-6",
+   "71221000-3",
+   "71244000-0"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-10",
+  "hash": "1325e22aadeb05328a81d957dc383e88b2a759ff163f09ef8aeafa08d6d96abe"
  },
  {
   "zrodlo": "ted",
@@ -5065,6 +5114,44 @@
   "hash": "77fb90fa62338024e3fe27df09135edec92999bd1807af0b1d5235dfad0c7ab6"
  },
  {
+  "zrodlo": "bip:tauron",
+  "tytul": "144/2026/RZ1 - Opracowanie dokumentacji projektowej i wykonanie robót budowlano-montażowych dla zadania pod nazwą: „Przebudowa linii napowietrznych nN w miejscowości Lwówek  Śląski stacja JGB67209 obwód L-1, L-2 – (KZ JG/000233/26)",
+  "url": "https://swoz.tauron.pl/platform/demand/notice/public/current/list",
+  "zamawiajacy": "TAURON Dystrybucja S.A.",
+  "data_publikacji": "2026-09-10",
+  "termin_skladania": "2026-09-24 11:00",
+  "opis": null,
+  "cpv": [],
+  "score": 8,
+  "tagi": [
+   "giełdowa",
+   "spolka-sp",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-10",
+  "hash": "2ad2737ee4128d79d01ef18f99eca7b05149990e904856acd093c9a3da180f65"
+ },
+ {
+  "zrodlo": "bip:tauron",
+  "tytul": "RZ4/160/26 Jaszkowa Dolna - opracowanie dokumentacji projektowej i na jej podstawie przebudowa zasilania obwodów X-1 z WBK81317, X-2 z WBK81327 oraz X-1, X-2 z WBK81326 (PSP 2601361)",
+  "url": "https://swoz.tauron.pl/platform/demand/notice/public/current/list",
+  "zamawiajacy": "TAURON Dystrybucja S.A.",
+  "data_publikacji": "2026-09-10",
+  "termin_skladania": "2026-09-24 12:00",
+  "opis": null,
+  "cpv": [],
+  "score": 8,
+  "tagi": [
+   "giełdowa",
+   "spolka-sp",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-10",
+  "hash": "4ffdf7490b861cbb33dd34f55d166ec7978ede6fc126f225f26b5e09837d3300"
+ },
+ {
   "zrodlo": "bzp",
   "tytul": "Pełnienie funkcji inwestora zastępczego i inspektora nadzoru inwestorskiego nad realizacją robót budowlanych w zadaniu inwestycyjnym pn. „Młode Stare Miasto w Piotrkowie Trybunalskim – etap I”",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-d59e5689-1fee-43de-affe-959e37f9a606",
@@ -5292,6 +5379,25 @@
   "status_opisu": "brak",
   "dodano": "2026-09-10",
   "hash": "d160c1cd14cab3cadda992ea801d58c2907d201ef80e9d2790edb8c7a520ad8f"
+ },
+ {
+  "zrodlo": "bip:tauron",
+  "tytul": "150/2026/RZ1 - Opracowanie dokumentacji projektowej i wykonanie robót budowlano-montażowych dla zadania pod nazwą: Przebudowa linii napowietrznych nN w miejscowości Nielestno stacja JGB10802 obwód L-2, L-5 - (KZ JG/000144/26)",
+  "url": "https://swoz.tauron.pl/platform/demand/notice/public/current/list",
+  "zamawiajacy": "TAURON Dystrybucja S.A.",
+  "data_publikacji": "2026-09-10",
+  "termin_skladania": "2026-09-28 11:00",
+  "opis": null,
+  "cpv": [],
+  "score": 8,
+  "tagi": [
+   "giełdowa",
+   "spolka-sp",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-10",
+  "hash": "171353fabd634a1c1a36cb824e016f6ab095db1cb7bd6428ec4fec4f6918631a"
  },
  {
   "zrodlo": "bzp",
