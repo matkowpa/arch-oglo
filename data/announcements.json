@@ -3460,6 +3460,27 @@
   "hash": "debbae911655dc7422a4e3136605139a5b3195d1609ef64c6ff93dd1fb023e75"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej i przetargowej dla zabudowy magazynu energii elektrycznej na terenie OŚ Rydułtowy",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-8887f972-3c35-4985-982c-c310000d9d27",
+  "zamawiajacy": "Przedsiębiorstwo Wodociągów i Kanalizacji Sp. z o.o.",
+  "data_publikacji": "2026-09-10",
+  "termin_skladania": "2026-09-17T07:30:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00432639 z dnia 2026-09-10 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej i przetargowej dla zabudowy magazynu energii elektrycznej na terenie OŚ Rydułtowy SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Przedsiębiorstwo Wodociągów i Kanalizacji Sp. z o.o. 1.4) Krajowy Numer Identyfikacyjny: REGON 273617720 1.5) Adres zamawiającego 1.5.1.) Ulica: Marklowicka 15 1.5.2.) Miejscowość: Wodzisław Śląski 1.5.3.) Kod pocztowy: 44-300 1.5.4.) Województwo: śląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL227 - Rybnicki 1.5.9.) Adres poczty elektronicznej: poczta@pwik-wodzislaw.pl 1.5.10.) Adres strony internetowej zamawiającego: https://www.pwik-wodzislaw.pl/ 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - osoba prawna, o której mowa w art. 4 pkt 3 ustawy (podmiot praw",
+  "cpv": [
+   "71320000-7",
+   "71600000-4"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71",
+   "infrastruktura"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-10",
+  "hash": "4ac5deb5d67c96f144f353bf55b6be4001e211bdb270ef4714acde36ee4490ea"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Różne urządzenia i produkty medyczne – DOSTARCZENIE TOMOGRAFU KOMPUTEROWEGO Z WYPOSAŻENIEM WRAZ Z MODERNIZACJĄ PRACOWNI TOMOGRAFU",
   "url": "https://ted.europa.eu/en/notice/-/detail/625350-2026",
@@ -3911,6 +3932,29 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-10",
   "hash": "56fb1f3e4df9b98e7a86804aaa4e9e97d6db24a4aaf9dbdbd87fceae6b1f5658"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "„Modernizacja budynku GOK Hyżne (dokumentacja projektowa)”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-b5ecb99d-7391-44b6-a3b9-6b64e58f5229",
+  "zamawiajacy": "GMINA HYŻNE",
+  "data_publikacji": "2026-09-10",
+  "termin_skladania": "2026-09-18T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00432623 z dnia 2026-09-10 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi „Modernizacja budynku GOK Hyżne (dokumentacja projektowa)” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: GMINA HYŻNE 1.4) Krajowy Numer Identyfikacyjny: REGON 690582080 1.5) Adres zamawiającego 1.5.1.) Ulica: 103 1.5.2.) Miejscowość: Hyżne 1.5.3.) Kod pocztowy: 36-024 1.5.4.) Województwo: podkarpackie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL823 - Rzeszowski 1.5.7.) Numer telefonu: 17 23 045 60 1.5.8.) Numer faksu: 17 22 950 01 1.5.9.) Adres poczty elektronicznej: a.bozek@hyzne.pl 1.5.10.) Adres strony internetowej zamawiającego: https://pzp.hyzne.pl/ 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Przedmiot działalności zamawiającego: Ogóln",
+  "cpv": [
+   "71320000-7",
+   "71322000-1",
+   "71250000-5"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-10",
+  "hash": "cebfb25ae59ca25aa1c72d7ee2dbf324145e527f56e81a5a153fbad17daa478f"
  },
  {
   "zrodlo": "ted",
