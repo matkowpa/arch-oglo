@@ -4330,6 +4330,33 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Opracowanie ekspertyzy technicznej dotyczącej możliwości modernizacji i przebudowy kondygnacji podziemnej na potrzeby budowli ochronnej oraz lewego skrzydła parteru budynku biurowego w Katowicach",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-ed291825-abdb-4b74-bad6-fdf9fe8f2a59",
+  "zamawiajacy": "WOJEWÓDZTWO ŚLĄSKIE",
+  "data_publikacji": "2026-09-11",
+  "termin_skladania": "2026-09-21T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00434500 z dnia 2026-09-11 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie ekspertyzy technicznej dotyczącej możliwości modernizacji i przebudowy kondygnacji podziemnej na potrzeby budowli ochronnej oraz lewego skrzydła parteru budynku biurowego w Katowicach SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: WOJEWÓDZTWO ŚLĄSKIE 1.4) Krajowy Numer Identyfikacyjny: REGON 276254650 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Juliusza Ligonia 46 1.5.2.) Miejscowość: Katowice 1.5.3.) Kod pocztowy: 40-037 1.5.4.) Województwo: śląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL22A - Katowicki 1.5.9.) Adres poczty elektronicznej: zamowienia@slaskie.pl 1.5.10.) Adres strony internetowej zamawiającego: www.slaskie.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publiczny",
+  "cpv": [
+   "71310000-4",
+   "71600000-4",
+   "71312000-8",
+   "71315210-4",
+   "71318000-0",
+   "71320000-7",
+   "71350000-6",
+   "71330000-0",
+   "71530000-2"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-11",
+  "hash": "ca8fc1ab68c1c34ca4e297ceb5528870efd80a4facba30558b72bbd728e4a33d"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Wykonanie dokumentacji projektowej dla zadania pn.: Rozbudowa i przebudowa budynku przy ul. Potockiego 1a w Żninie (działka nr 1048/4) o miejsce ukrycia U-1",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-81ffbe0f-e80c-4d1a-b2b5-0e61276d529f",
   "zamawiajacy": "Gmina Żnin",
@@ -4452,6 +4479,29 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-10",
   "hash": "bc2881fdb85f4f3ceb40022a55aa4d20235d66e6683b5baa7ee2e17d0a3c5f76"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Usługa opracowania dokumentacji projektowej przebudowy Domu Studenckiego „Konstantyna” przy ul. Konstantynów 1D w Lublinie",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-fa5a3b6b-1400-4150-bfeb-4064496c172e",
+  "zamawiajacy": "KATOLICKI UNIWERSYTET LUBELSKI JANA PAWŁA II",
+  "data_publikacji": "2026-09-11",
+  "termin_skladania": "2026-09-21T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00434402 z dnia 2026-09-11 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Usługa opracowania dokumentacji projektowej przebudowy Domu Studenckiego „Konstantyna” przy ul. Konstantynów 1D w Lublinie SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: KATOLICKI UNIWERSYTET LUBELSKI JANA PAWŁA II 1.4) Krajowy Numer Identyfikacyjny: REGON 000514064 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Aleje Racławickie 14 1.5.2.) Miejscowość: Lublin 1.5.3.) Kod pocztowy: 20-950 1.5.4.) Województwo: lubelskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL814 - Lubelski 1.5.9.) Adres poczty elektronicznej: dzp@kul.pl 1.5.10.) Adres strony internetowej zamawiającego: www.kul.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - inny zamawiający Kościelna szkoła wyższa o pełnych prawach publicznych szkół wyższych 1.7.) Przedmi",
+  "cpv": [
+   "71242000-6",
+   "71000000-8",
+   "71322000-1",
+   "71320000-7"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-11",
+  "hash": "2d494be3f22c8ea35b10d4e6062131a7d5664a33090b12f61026ff542ccce425"
  },
  {
   "zrodlo": "bzp",
@@ -4893,6 +4943,26 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Wykonanie pełnej dokumentacji projektowej wraz z uzyskaniem wszystkich wymaganych decyzji zw. z realiz. inwest. dot. budowy hali magazynowej w m. Mierzyn 224, gm. Rozprza, stan. własn. Woj. Łódzkiego",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-5fdbb85c-ab6f-4d95-958c-813f8f919bff",
+  "zamawiajacy": "Zarząd Nieruchomości Województwa Łódzkiego",
+  "data_publikacji": "2026-09-11",
+  "termin_skladania": "2026-09-22T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00434638 z dnia 2026-09-11 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie pełnej dokumentacji projektowej wraz z uzyskaniem wszystkich wymaganych decyzji zw. z realiz. inwest. dot. budowy hali magazynowej w m. Mierzyn 224, gm. Rozprza, stan. własn. Woj. Łódzkiego SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Zarząd Nieruchomości Województwa Łódzkiego 1.4) Krajowy Numer Identyfikacyjny: REGON 100134708 1.5) Adres zamawiającego 1.5.1.) Ulica: Kamińskiego 7/9 1.5.2.) Miejscowość: Łódź 1.5.3.) Kod pocztowy: 91-427 1.5.4.) Województwo: łódzkie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL711 - Miasto Łódź 1.5.9.) Adres poczty elektronicznej: sekretariat@znwl.pl 1.5.10.) Adres strony internetowej zamawiającego: www.znwl.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finans",
+  "cpv": [
+   "71200000-0"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-11",
+  "hash": "ef22b9d265a6e20639f434db48df8cca3fc6bfa0069e4295db2d2d8b8b0c6ec7"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Opracowanie dokumentacji projektowej wraz z pełnieniem nadzoru autorskiego dla zadania pn.: „Rozbudowa Szkoły Podstawowej nr 84 w Gdańsku przy ul. Otomińskiej 72”",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-7701c684-4c5a-4b9e-a179-3c448c90a2c7",
   "zamawiajacy": "Dyrekcja Rozbudowy Miasta Gdańska działająca w imieniu i na rzecz Gminy Miasta Gdańska",
@@ -5125,6 +5195,28 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowo-kosztorysowej na zadanie pn.: „Modernizacja budynku - I/Zambrów (II etap)” oraz pełnienie nadzoru autorskiego nad realizacją robót budowalnych",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-3f20593c-7b2f-4b26-9cf0-cafa422d2cfe",
+  "zamawiajacy": "Zakład Ubezpieczeń Społecznych Oddział w Białymstoku",
+  "data_publikacji": "2026-09-11",
+  "termin_skladania": "2026-09-23T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00434230 z dnia 2026-09-11 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowo-kosztorysowej na zadanie pn.: „Modernizacja budynku - I/Zambrów (II etap)” oraz pełnienie nadzoru autorskiego nad realizacją robót budowalnych SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Zakład Ubezpieczeń Społecznych Oddział w Białymstoku 1.4) Krajowy Numer Identyfikacyjny: REGON 00001775600048 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Młynowa 29 1.5.2.) Miejscowość: Białystok 1.5.3.) Kod pocztowy: 15-404 1.5.4.) Województwo: podlaskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL841 - Białostocki 1.5.9.) Adres poczty elektronicznej: zamowienia.bialystok@zus.pl 1.5.10.) Adres strony internetowej zamawiającego: www.zus.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora f",
+  "cpv": [
+   "71220000-6",
+   "71320000-7",
+   "71248000-8"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-11",
+  "hash": "c36384709f48f2ac4651ac9e3791e121def3fc7cc44974b34a52e84d5d4fde9d"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Wykonanie kompleksowej wielobranżowej dokumentacji projektowej wraz z uzyskaniem pozwolenia na budowę dla zadania inwestycyjnego p.n. „Budowa Jednostki Ratowniczo-Gaśniczej w Sulechowie - I etap”.",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-33f0b64c-15b5-4e9e-ae1a-64c8bbf98db5",
   "zamawiajacy": "Komenda Miejska Państwowej Straży Pożarnej w Zielonej Górze",
@@ -5299,6 +5391,27 @@
   "status_opisu": "brak",
   "dodano": "2026-09-11",
   "hash": "567337a72537ddc9a19c60c9767108cf7daa5984b5afc734fe3593cc725857f2"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowo-kosztorysowej oraz pełnienie nadzoru autorskiego dla budowy układu/ów oczyszczania wód opadowych i roztopowych z terenu miasta Lublin (...) Zadanie VI-4 części",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-5a72cac0-ce83-43b3-99b2-a3e7801822d3",
+  "zamawiajacy": "Zarząd Inwestycji Miejskich w Lublinie",
+  "data_publikacji": "2026-09-11",
+  "termin_skladania": "2026-09-23T10:30:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00434658 z dnia 2026-09-11 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowo-kosztorysowej oraz pełnienie nadzoru autorskiego dla budowy układu/ów oczyszczania wód opadowych i roztopowych z terenu miasta Lublin (...) Zadanie VI-4 części SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Zarząd Inwestycji Miejskich w Lublinie 1.4) Krajowy Numer Identyfikacyjny: REGON 542059462 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Podwale 3a 1.5.2.) Miejscowość: Lublin 1.5.3.) Kod pocztowy: 20-117 1.5.4.) Województwo: lubelskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL814 - Lubelski 1.5.9.) Adres poczty elektronicznej: sekretariat@zim.lublin.eu 1.5.10.) Adres strony internetowej zamawiającego: zim.lublin.eu 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów",
+  "cpv": [
+   "71320000-7",
+   "71248000-8"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-11",
+  "hash": "4b08dae941c807a803f2422de7814d18d6c40af1ba6d7ca88fa0823c62f17456"
  },
  {
   "zrodlo": "ted",
@@ -5751,6 +5864,27 @@
   "status_opisu": "brak",
   "dodano": "2026-09-10",
   "hash": "171353fabd634a1c1a36cb824e016f6ab095db1cb7bd6428ec4fec4f6918631a"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Sprawowanie nadzoru inwestorskiego dla zadań obejmujących projektowanie i budowę nowej siedziby Nadleśnictwa Wieluń",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-7b41f23e-81a2-49f9-b769-a24c79430d7b",
+  "zamawiajacy": "Skarb Państwa Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Wieluń",
+  "data_publikacji": "2026-09-11",
+  "termin_skladania": "2026-09-28T06:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00434511 z dnia 2026-09-11 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Sprawowanie nadzoru inwestorskiego dla zadań obejmujących projektowanie i budowę nowej siedziby Nadleśnictwa Wieluń SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Skarb Państwa Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Wieluń 1.4) Krajowy Numer Identyfikacyjny: REGON 730020990 1.5) Adres zamawiającego 1.5.1.) Ulica: Żeromskiego 5 1.5.2.) Miejscowość: Wieluń 1.5.3.) Kod pocztowy: 98-300 1.5.4.) Województwo: łódzkie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL714 - Sieradzki 1.5.9.) Adres poczty elektronicznej: wielun@lodz.lasy.gov.pl 1.5.10.) Adres strony internetowej zamawiającego: https://wielun.lodz.lasy.gov.pl/ 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - inny zamawiający PGL LP Lasy Państowe 1.7.) Przedm",
+  "cpv": [
+   "71520000-9",
+   "71247000-1",
+   "71248000-8"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-11",
+  "hash": "c37ac109d2403ba457b5bdf5f87695ede8af8688cbc831e02d2d716e53e04a0d"
  },
  {
   "zrodlo": "bzp",
@@ -6822,6 +6956,30 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-04",
   "hash": "4d510e07c76034daa9f68095f45bd7198ead4b87a8c5d062e078e9b791e003e3"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowej montażu w wejściach do budynku przy ul. Wspólnej 2/4 w Warszawie od strony ulicy Wspólnej drzwi wejściowych zewnętrznych rozsuwanych automatycznie",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-3229ca89-63b4-4abe-93b8-2424a8038557",
+  "zamawiajacy": "MINISTERSTWO FUNDUSZY I POLITYKI REGIONALNEJ",
+  "data_publikacji": "2026-09-11",
+  "termin_skladania": "2026-10-06T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00434303 z dnia 2026-09-11 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowej montażu w wejściach do budynku przy ul. Wspólnej 2/4 w Warszawie od strony ulicy Wspólnej drzwi wejściowych zewnętrznych rozsuwanych automatycznie SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: MINISTERSTWO FUNDUSZY I POLITYKI REGIONALNEJ 1.4) Krajowy Numer Identyfikacyjny: REGON 140315583 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Wspólna 2/4 1.5.2.) Miejscowość: Warszawa 1.5.3.) Kod pocztowy: 00-926 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL911 - Miasto Warszawa 1.5.7.) Numer telefonu: (22) 273 71-50 1.5.9.) Adres poczty elektronicznej: zamowienia@mfipr.gov.pl 1.5.10.) Adres strony internetowej zamawiającego: https://zamowienia.mfipr.gov.pl/ 1.6.) Rodzaj zam",
+  "cpv": [
+   "71242000-6",
+   "71320000-7",
+   "71220000-6",
+   "71248000-8",
+   "71240000-2"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-11",
+  "hash": "0e25983b723e2222bb22c967f9e780f5e3badd3847550b740d9aec47dfe636cd"
  },
  {
   "zrodlo": "ted",
