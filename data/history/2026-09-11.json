@@ -1,7 +1,7 @@
 {
  "ted": {
-  "ok": false,
-  "count": 0
+  "ok": true,
+  "count": 414
  },
  "bip:phn": {
   "ok": true,
@@ -16,15 +16,15 @@
   "count": 20
  },
  "bip:pse": {
-  "ok": false,
-  "count": 0
+  "ok": true,
+  "count": 160
  },
  "pz-search": {
   "ok": true,
-  "count": 1
+  "count": 0
  },
  "bzp": {
   "ok": true,
-  "count": 48
+  "count": 49
  }
 }

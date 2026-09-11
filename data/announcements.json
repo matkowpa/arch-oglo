@@ -2539,60 +2539,6 @@
   "hash": "d01ae74227532c78ec4116503a944cda6f3ef627386957231b4144695e544c8e"
  },
  {
-  "zrodlo": "ted",
-  "tytul": "Polska – Słoneczne moduły fotoelektryczne – Zaprojektowanie, dostawa, montaż, uruchomienie oraz przekazanie do eksploatacji kompletnej instalacji fotowoltaicznej wraz z towarzyszącymi robotami budowlanymi - zamówienie udzielane w 5 częściach",
-  "url": "https://ted.europa.eu/en/notice/-/detail/566760-2026",
-  "zamawiajacy": "Miasto Katowice",
-  "data_publikacji": "2026-08-17",
-  "termin_skladania": "2026-09-15T08:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "09331200",
-   "45000000",
-   "45311200",
-   "09332000",
-   "45261215",
-   "71320000",
-   "09331200",
-   "09331200",
-   "09331200",
-   "09331200",
-   "09331200",
-   "45000000",
-   "45311200",
-   "09332000",
-   "45261215",
-   "71320000",
-   "45000000",
-   "45311200",
-   "09332000",
-   "45261215",
-   "71320000",
-   "45000000",
-   "45311200",
-   "09332000",
-   "45261215",
-   "71320000",
-   "45000000",
-   "45311200",
-   "09332000",
-   "45261215",
-   "71320000",
-   "45000000",
-   "45311200",
-   "09332000",
-   "45261215",
-   "71320000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": null,
-  "hash": "9a1c139380ab3992e9aec89f959a7a97fc484494e06a82063210b534b85bd1db"
- },
- {
   "zrodlo": "bzp",
   "tytul": "Inwentaryzacja i ekspertyza techniczna obiektu ochronnego w celu określenia kosztów pozwalających osiągnąć status miejsca doraźnego schronienia/budowli ochronnej kategorii U-1",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-c71a3e23-5689-4155-b23d-5427325d20bd",
@@ -2791,32 +2737,6 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "74a38bc3344065587ea3bde795efd77ca864690b611faa6729435a4ca14bfa0b"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Urządzenia do tomografii – Zakup tomografu komputerowego z oprogramowaniem kardiologicznym wraz z dostosowaniem infrastruktury",
-  "url": "https://ted.europa.eu/en/notice/-/detail/612720-2026",
-  "zamawiajacy": "Samodzielny Publiczny ZOZ Wojewódzki Szpital Zespolony im. Jędrzeja Śniadeckiego w Białymstoku",
-  "data_publikacji": "2026-09-07",
-  "termin_skladania": "2026-09-15T10:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "33115000",
-   "33100000",
-   "45453000",
-   "71220000",
-   "33115000",
-   "33100000",
-   "45453000",
-   "71220000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-08",
-  "hash": "eb6adc1d0121ed42ec8b3768df7b63e2696f6796d1800ff8e30d87c4976c9771"
  },
  {
   "zrodlo": "ted",
@@ -3545,7 +3465,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-10",
+  "dodano": "2026-09-11",
   "hash": "7b8373f9ad5ebaed4c88fdeac82bf75d2092b45e1fdcdfcbcb7a14022518dffd"
  },
  {
@@ -3718,6 +3638,32 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "7d1d53849c57165e1dd813aec1114f035db1707e200d6b814e84d12665010ec0"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Urządzenia do tomografii – Zakup tomografu komputerowego z oprogramowaniem kardiologicznym wraz z dostosowaniem infrastruktury",
+  "url": "https://ted.europa.eu/en/notice/-/detail/626854-2026",
+  "zamawiajacy": "Samodzielny Publiczny ZOZ Wojewódzki Szpital Zespolony im. Jędrzeja Śniadeckiego w Białymstoku",
+  "data_publikacji": "2026-09-11",
+  "termin_skladania": "2026-09-17T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "33115000",
+   "33100000",
+   "45453000",
+   "71220000",
+   "33115000",
+   "33100000",
+   "45453000",
+   "71220000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-08",
+  "hash": "a41012a0f2c52b4b225370a85c51c1da900b2495cbed2f92e472d7bf66e19c47"
  },
  {
   "zrodlo": "ted",
@@ -3998,60 +3944,6 @@
   "hash": "cebfb25ae59ca25aa1c72d7ee2dbf324145e527f56e81a5a153fbad17daa478f"
  },
  {
-  "zrodlo": "ted",
-  "tytul": "Polska – Jednostki rezonansu magnetycznego – Dostawa wysokospecjalistycznej aparatury medycznej wraz z wyposażeniem i wykonaniem robót budowlanych w Szpitalu Morskim im. PCK w Gdyni w ramach projektu pn.: „Poprawa dostępności i jakości w świadczeniu usług onkologicznych poprzez przebudowę oraz rozbudowę Zakładu Diagnostyki Obrazowej w Szpitalu Morskim im. PCK w Gdyni”...",
-  "url": "https://ted.europa.eu/en/notice/-/detail/624722-2026",
-  "zamawiajacy": "Szpitale Pomorskie Sp. z o.o.",
-  "data_publikacji": "2026-09-10",
-  "termin_skladania": "2026-09-18T09:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "33111610",
-   "71220000",
-   "45000000",
-   "45100000",
-   "45215140",
-   "45262700",
-   "45262800",
-   "45300000",
-   "45310000",
-   "45350000",
-   "45330000",
-   "45343000",
-   "45400000",
-   "39000000",
-   "71321000",
-   "33115000",
-   "33111610",
-   "39000000",
-   "45400000",
-   "71220000",
-   "71321000",
-   "45000000",
-   "45100000",
-   "45215140",
-   "45262700",
-   "45262800",
-   "45350000",
-   "45350000",
-   "45330000",
-   "45343000",
-   "39000000",
-   "33115000",
-   "45400000",
-   "45300000",
-   "45310000",
-   "45330000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-10",
-  "hash": "5161ebfaf1db091f11fd74c0ba86697fffc49908cc2a718a17e55ed917a9d720"
- },
- {
   "zrodlo": "bzp",
   "tytul": "Wykonanie dokumentacji projektowej urządzenia parku miejskiego przy ul. Jesionowej w Krzepicach",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-291d0cc0-6941-4f6b-a895-30d3b151ed49",
@@ -4164,7 +4056,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-10",
+  "dodano": "2026-09-11",
   "hash": "1a88cc516df4a16980bc8b2fca0395ad193a0e77e07e55cf98ac0d54af6b6bec"
  },
  {
@@ -4263,7 +4155,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-10",
+  "dodano": "2026-09-11",
   "hash": "3a551b3f151081fd896867e4d711a154934cc779a3f63a201d000ab431bb66be"
  },
  {
@@ -4747,7 +4639,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-10",
+  "dodano": "2026-09-11",
   "hash": "b568dc0209f84f56da98dcb0d068c1bbae3fced0ffdad8553b81343e722cfcbc"
  },
  {
@@ -4831,7 +4723,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-10",
+  "dodano": "2026-09-11",
   "hash": "3258a0537ec29a7c32a2e3bcbfc0937f2bc01e618582d7215736e6ea15c23f5d"
  },
  {
@@ -4899,6 +4791,60 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-04",
   "hash": "93d9bfb1a2453b0e7fbfa899e033f950fc49aab8844cab8422ee3b570369a517"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Słoneczne moduły fotoelektryczne – Zaprojektowanie, dostawa, montaż, uruchomienie oraz przekazanie do eksploatacji kompletnej instalacji fotowoltaicznej wraz z towarzyszącymi robotami budowlanymi - zamówienie udzielane w 5 częściach",
+  "url": "https://ted.europa.eu/en/notice/-/detail/627661-2026",
+  "zamawiajacy": "Miasto Katowice",
+  "data_publikacji": "2026-09-11",
+  "termin_skladania": "2026-09-22T08:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "09331200",
+   "45000000",
+   "45311200",
+   "09332000",
+   "45261215",
+   "71320000",
+   "09331200",
+   "09331200",
+   "09331200",
+   "09331200",
+   "09331200",
+   "45000000",
+   "45311200",
+   "09332000",
+   "45261215",
+   "71320000",
+   "45000000",
+   "45311200",
+   "09332000",
+   "45261215",
+   "71320000",
+   "45000000",
+   "45311200",
+   "09332000",
+   "45261215",
+   "71320000",
+   "45000000",
+   "45311200",
+   "09332000",
+   "45261215",
+   "71320000",
+   "45000000",
+   "45311200",
+   "09332000",
+   "45261215",
+   "71320000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-11",
+  "hash": "c13cfafe0dc62f751e13c4c0727fca9f119cd88479f3a5233f5fd6c5afa12877"
  },
  {
   "zrodlo": "ted",
@@ -5022,7 +4968,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-10",
+  "dodano": "2026-09-11",
   "hash": "c1e6b6796990bb0bfc7b564f3055c03967dd00537b7c7751fc71d9df19546f74"
  },
  {
@@ -5223,7 +5169,7 @@
    "cpv-71"
   ],
   "status_opisu": "pobrany",
-  "dodano": "2026-09-10",
+  "dodano": "2026-09-11",
   "hash": "4dbf91c05414606d66afe8a2bb2e92e51246616f2577a7e11422d416d8fbcbfd"
  },
  {
@@ -5351,7 +5297,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-10",
+  "dodano": "2026-09-11",
   "hash": "567337a72537ddc9a19c60c9767108cf7daa5984b5afc734fe3593cc725857f2"
  },
  {
@@ -5639,6 +5585,60 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Jednostki rezonansu magnetycznego – Dostawa wysokospecjalistycznej aparatury medycznej wraz z wyposażeniem i wykonaniem robót budowlanych w Szpitalu Morskim im. PCK w Gdyni w ramach projektu pn.: „Poprawa dostępności i jakości w świadczeniu usług onkologicznych poprzez przebudowę oraz rozbudowę Zakładu Diagnostyki Obrazowej w Szpitalu Morskim im. PCK w Gdyni”...",
+  "url": "https://ted.europa.eu/en/notice/-/detail/626688-2026",
+  "zamawiajacy": "Szpitale Pomorskie Sp. z o.o.",
+  "data_publikacji": "2026-09-11",
+  "termin_skladania": "2026-09-25T09:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "33111610",
+   "71220000",
+   "45000000",
+   "45100000",
+   "45215140",
+   "45262700",
+   "45262800",
+   "45300000",
+   "45310000",
+   "45350000",
+   "45330000",
+   "45343000",
+   "45400000",
+   "39000000",
+   "71321000",
+   "33115000",
+   "33111610",
+   "39000000",
+   "45400000",
+   "71220000",
+   "71321000",
+   "45000000",
+   "45100000",
+   "45215140",
+   "45262700",
+   "45262800",
+   "45350000",
+   "45350000",
+   "45330000",
+   "45343000",
+   "39000000",
+   "33115000",
+   "45400000",
+   "45300000",
+   "45310000",
+   "45330000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-11",
+  "hash": "8f3f925b4e7d4241c622865b67d4754c0442b70317dfb0c1aaa4966ac35f1379"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi architektoniczne, inżynieryjne i planowania – Opracowanie wielowariantowej i wielobranżowej koncepcji budowy linii tramwajowej Cichy Kącik - Azory wraz z niezbędną infrastrukturą techniczną oraz uzyskaniem decyzji o środowiskowych uwarunkowaniach",
   "url": "https://ted.europa.eu/en/notice/-/detail/576581-2026",
   "zamawiajacy": "Zarząd Inwestycji Miejskich w Krakowie",
@@ -5730,7 +5730,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-10",
+  "dodano": "2026-09-11",
   "hash": "d160c1cd14cab3cadda992ea801d58c2907d201ef80e9d2790edb8c7a520ad8f"
  },
  {
@@ -5983,7 +5983,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-10",
+  "dodano": "2026-09-11",
   "hash": "cc7c5bfea86a44a12d01bedd29d4dad99861ecd9869986058731c9bcf51b4280"
  },
  {
@@ -6017,7 +6017,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-10",
+  "dodano": "2026-09-11",
   "hash": "0ad3976e34ec21fdf575871f2d9f95f1e72d0d0aa4d02f9fe37f347d6c7b6410"
  },
  {
@@ -6046,7 +6046,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-10",
+  "dodano": "2026-09-11",
   "hash": "99699c127fced244cf022a3270771060394774fcd9fc84531d3ed6acc5c45394"
  },
  {
@@ -6151,7 +6151,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-10",
+  "dodano": "2026-09-11",
   "hash": "8e4e6c9382f46f7daf0763055a15b31486a604e85dc3a40cec906e75fdfb57ff"
  },
  {
@@ -6208,7 +6208,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-10",
+  "dodano": "2026-09-11",
   "hash": "951c7a757ca7b49025db54225adb4f73c81adf4894848056379ba13a89d36934"
  },
  {
@@ -6229,7 +6229,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-10",
+  "dodano": "2026-09-11",
   "hash": "c201c5302f63573a01ec79afc74e54ee644291a9cfc2d87419f0738e7b29e26e"
  },
  {
@@ -6309,7 +6309,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-10",
+  "dodano": "2026-09-11",
   "hash": "fb858bd55fdebea096e12df7232c50ea719a6f48ab71e4c3666dbcea0ab921fc"
  },
  {
@@ -6388,7 +6388,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-10",
+  "dodano": "2026-09-11",
   "hash": "59c8f8d70495be14b0dfdaaf056eef51c93c8b9755abc2816fb7c4ca06ad528e"
  },
  {
@@ -7275,6 +7275,28 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Wykonanie projektów technicznych i wykonawczych dla zadania inwestycyjnego pn.: „Przebudowa przestrzeni warsztatowej na V piętrze w Teatrze Wielkim - Operze Narodowej” wraz ze świadczeniem usługi nadzoru autorskiego",
+  "url": "https://ted.europa.eu/en/notice/-/detail/629027-2026",
+  "zamawiajacy": "Teatr Wielki - Opera Narodowa",
+  "data_publikacji": "2026-09-11",
+  "termin_skladania": "2026-10-14T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71320000",
+   "71240000",
+   "71320000",
+   "71240000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-11",
+  "hash": "4c88dea8c1c0bdeb23340e3ec110a839da238f88e690bcb2ff1fc95ad77487a6"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi architektoniczne, inżynieryjne i planowania – Wykonanie dokumentacji projektowo-kosztorysowej na zmianę systemu ogrzewania na elektryczne w lokalach gminnych.",
   "url": "https://ted.europa.eu/en/notice/-/detail/601808-2026",
   "zamawiajacy": "Zarząd Zasobu Komunalnego Jednostka Budżetowa Gminy Wrocław",
@@ -7363,6 +7385,82 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Chłodziarki i zamrażarki – Zakup zamrażarek głębokiego zamrażania -70oC do przechowywania tkanek ludzkich wraz z instalacją, uruchomieniem oraz niezbędnymi robotami budowlanymi związanymi z przygotowaniem miejsca instalacji urządzeń.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/627799-2026",
+  "zamawiajacy": "Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie - Państwowy Instytut Badawczy",
+  "data_publikacji": "2026-09-11",
+  "termin_skladania": "2026-10-16T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "39711100",
+   "71220000",
+   "71320000",
+   "39180000",
+   "39150000",
+   "45400000",
+   "45215143",
+   "45223210",
+   "45310000",
+   "45311000",
+   "45232460",
+   "45332400",
+   "45314320",
+   "45343000",
+   "45331220",
+   "42961100",
+   "45314320",
+   "45400000",
+   "44112310",
+   "45421152",
+   "45410000",
+   "45442100",
+   "45421141",
+   "45421146",
+   "45421000",
+   "45421100",
+   "45421160",
+   "45430000",
+   "45432100",
+   "39711100",
+   "71320000",
+   "71220000",
+   "39180000",
+   "39150000",
+   "45400000",
+   "45215143",
+   "45223210",
+   "45310000",
+   "45311000",
+   "45232460",
+   "45332400",
+   "45314320",
+   "45343000",
+   "45331220",
+   "42961100",
+   "45314320",
+   "45400000",
+   "44112310",
+   "45421152",
+   "45410000",
+   "45442100",
+   "45421141",
+   "45421146",
+   "45421000",
+   "45421100",
+   "45421160",
+   "45430000",
+   "45432100"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-11",
+  "hash": "3cf37e919bb895c72cb6dc0a80b92d7495b87288643d42be412fe891d251e046"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Nadzór nad robotami budowlanymi – Prowadzenie nadzoru inwestorskiego dla zadania z zakresu małej retencji w górach PGL LP Nadleśnictwa Ustroń w ramach projektu pn.: „Kompleksowy projekt adaptacji lasów i leśnictwa do zmian klimatu – mała retencja oraz przeciwdziałanie erozji wodnej na terenach górskich - kontynuacja (MRG3)”",
   "url": "https://ted.europa.eu/en/notice/-/detail/624462-2026",
   "zamawiajacy": "Skarb Państwa państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Ustroń",
@@ -7408,6 +7506,37 @@
   "status_opisu": "brak",
   "dodano": "2026-09-10",
   "hash": "a1f5fd9f341188ab299695e4a9438847dd1c0f9351009148e9ec6e4bd5a5e6b4"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Urządzenia medyczne – Dostawa rezonansu magnetycznego wraz z adaptacją pomieszczeń; PN-115/26/DS",
+  "url": "https://ted.europa.eu/en/notice/-/detail/627234-2026",
+  "zamawiajacy": "Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie - Państwowy Instytut Badawczy",
+  "data_publikacji": "2026-09-11",
+  "termin_skladania": "2026-10-19T09:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "33100000",
+   "71221000",
+   "45400000",
+   "45215143",
+   "45310000",
+   "45311000",
+   "45232460",
+   "45332400",
+   "45343000",
+   "39180000",
+   "39150000",
+   "45331220",
+   "33100000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-11",
+  "hash": "113b4d489bea036b114a3b848f71910eac0a70a3cb89dd1bb95c8a5bf834d2a4"
  },
  {
   "zrodlo": "ted",
@@ -7459,6 +7588,36 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Urządzenia do obróbki osadów – Instalacja jako element ciągu technologicznego oczyszczalni umożliwiająca uzyskanie Produktu Końcowego",
+  "url": "https://ted.europa.eu/en/notice/-/detail/627017-2026",
+  "zamawiajacy": "Spółka Komunalna Wschowa Sp. z o.o.",
+  "data_publikacji": "2026-09-11",
+  "termin_skladania": "2026-10-30T08:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "42996900",
+   "71320000",
+   "45252127",
+   "45351000",
+   "50800000",
+   "66114000",
+   "42996900",
+   "71320000",
+   "45252127",
+   "45351000",
+   "50800000",
+   "66114000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-11",
+  "hash": "bb24f3978adf9542bbe3821ac2bb30129fe96c7983a40743f9bdc048e5aef582"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi zarządzania budową – Pełnienie funkcji Inżyniera Kontraktu dotyczącej inwestycji pn. „Poszerzenie odcinka toru wodnego na podejściu do portu morskiego w Świnoujściu”",
   "url": "https://ted.europa.eu/en/notice/-/detail/609239-2026",
   "zamawiajacy": "Dyrektor Urzędu Morskiego w Szczecinie",
@@ -7490,7 +7649,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-10",
+  "dodano": "2026-09-11",
   "hash": "43bdd6dc8d3e34537761c8edeb21e1a54576493c9b7a9057f6f163465cd82fc7"
  }
 ]
