@@ -4436,6 +4436,33 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej dla zadania pn. „Budowa przepompowni na cieku Cisek w m. Landzmierz, gm. Cisek” wraz z opracowaniem wniosków do uzyskania wymaganych decyzji administracyjnych”.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-d4a610e1-1781-4068-8aac-c20332972ff4",
+  "zamawiajacy": "Państwowe Gospodarstwo Wodne Wody Polskie",
+  "data_publikacji": "2026-09-11",
+  "termin_skladania": "2026-09-21T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00433351 z dnia 2026-09-11 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej dla zadania pn. „Budowa przepompowni na cieku Cisek w m. Landzmierz, gm. Cisek” wraz z opracowaniem wniosków do uzyskania wymaganych decyzji administracyjnych”. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Państwowe Gospodarstwo Wodne Wody Polskie 1.4) Krajowy Numer Identyfikacyjny: REGON 368302575 1.5) Adres zamawiającego 1.5.1.) Ulica: Chałubińskiego 8 1.5.2.) Miejscowość: Warszawa 1.5.3.) Kod pocztowy: 00-613 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL911 - Miasto Warszawa 1.5.7.) Numer telefonu: 48 32 231 64 31 wew.16 1.5.9.) Adres poczty elektronicznej: gliwice@wody.gov.pl 1.5.10.) Adres strony internetowej zamawiającego: https://www.gov.pl/web/wody-pol",
+  "cpv": [
+   "71248000-8",
+   "71320000-7",
+   "72242000-3",
+   "71336000-2",
+   "71242000-6",
+   "71250000-5",
+   "71322000-1",
+   "71332000-4"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-11",
+  "hash": "ef696e928cf96bb99824fd0eb519542ff8ce8cea135853f75f5acf7a1a9c6bf4"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Na usługi nadzoru inwestorskiego w ramach projektu „Kompleksowa rehabilitacja blisko domu – Projekt SPZZOZ w Lipsku w ramach wsparcia Funduszy Europejskich",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-e0b29da3-0547-456e-899e-a7399e63e107",
   "zamawiajacy": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej",
@@ -4459,6 +4486,29 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-10",
   "hash": "0785dfc27f8335ceeee165e48be25aaa1277b799e1f0e4c27e6b7e3c2e4e0dd5"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej dla zadania: „Rozbudowa ulicy Leśnej w Pińczowie”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-5800561f-93ff-4332-ae23-5bd855bbdaf4",
+  "zamawiajacy": "Gmina Pińczów",
+  "data_publikacji": "2026-09-11",
+  "termin_skladania": "2026-09-21T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00433329 z dnia 2026-09-11 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej dla zadania: „Rozbudowa ulicy Leśnej w Pińczowie” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Pińczów 1.3.) Oddział zamawiającego: Gmina Pińczów 1.4) Krajowy Numer Identyfikacyjny: REGON 291009840 1.5) Adres zamawiającego 1.5.1.) Ulica: 3 Maja 10 1.5.2.) Miejscowość: Pińczów 1.5.3.) Kod pocztowy: 28-400 1.5.4.) Województwo: świętokrzyskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL722 - Sandomiersko-jędrzejowski 1.5.7.) Numer telefonu: 412345100 1.5.9.) Adres poczty elektronicznej: sekretariat@pinczow.com.pl 1.5.10.) Adres strony internetowej zamawiającego: www.pinczow.com.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorz",
+  "cpv": [
+   "71320000-7",
+   "71322000-1",
+   "71248000-8"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-11",
+  "hash": "dceab8e470333479cfde29c41124464a4fdc8de404de80710d22fb1f4933e9ff"
  },
  {
   "zrodlo": "bzp",
@@ -4558,26 +4608,48 @@
  },
  {
   "zrodlo": "bzp",
-  "tytul": "Opracowanie dokumentacji projektowo – kosztorysowej dotyczącej remontu budynku nr 10 w kompleksie wojskowym w Gdyni.",
-  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-edb21065-a1e6-4c12-8c8c-c45194e2b526",
-  "zamawiajacy": "Rejonowy Zarząd Infrastruktury w Gdyni",
-  "data_publikacji": "2026-09-10",
-  "termin_skladania": "2026-09-21T08:30:00Z",
-  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00432243 z dnia 2026-09-10 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowo – kosztorysowej dotyczącej remontu budynku nr 10 w kompleksie wojskowym w Gdyni. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Rejonowy Zarząd Infrastruktury w Gdyni 1.3.) Oddział zamawiającego: Sekcja Zamówień Publicznych 1.4) Krajowy Numer Identyfikacyjny: REGON 19005559700000 1.5) Adres zamawiającego 1.5.1.) Ulica: JANA Z KOLNA 8B 1.5.2.) Miejscowość: Gdynia 1.5.3.) Kod pocztowy: 81-301 1.5.4.) Województwo: pomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL633 - Trójmiejski 1.5.9.) Adres poczty elektronicznej: rzigdynia.kancelaria@ron.mil.pl 1.5.10.) Adres strony internetowej zamawiającego: https://rzigdynia.wp.mil.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - inna państwowa je",
+  "tytul": "„Wykonanie dokumentacji projektowej rozbudowy Szkoły Podstawowej w Kłódnej” – powt.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-9f122fa0-1687-482d-942d-043c202d1c99",
+  "zamawiajacy": "GMINA WARTKOWICE",
+  "data_publikacji": "2026-09-11",
+  "termin_skladania": "2026-09-21T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00433235 z dnia 2026-09-11 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi „Wykonanie dokumentacji projektowej rozbudowy Szkoły Podstawowej w Kłódnej” – powt. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: GMINA WARTKOWICE 1.4) Krajowy Numer Identyfikacyjny: REGON 730934364 1.5) Adres zamawiającego 1.5.1.) Ulica: Targowa 25 1.5.2.) Miejscowość: Wartkowice 1.5.3.) Kod pocztowy: 99-220 1.5.4.) Województwo: łódzkie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL714 - Sieradzki 1.5.9.) Adres poczty elektronicznej: urzad@wartkowice.pl 1.5.10.) Adres strony internetowej zamawiającego: http://www.wartkowice.biuletyn.net 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Przedmiot działalności zamawiającego: Ogólne usługi publiczne ",
   "cpv": [
    "71000000-8",
    "71220000-6",
-   "71242000-6",
-   "71221000-3",
-   "71244000-0"
+   "71240000-2",
+   "71250000-5"
   ],
-  "score": 3,
+  "score": 11,
   "tagi": [
-   "cpv-71"
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
   ],
   "status_opisu": "pobrany",
-  "dodano": "2026-09-10",
-  "hash": "1325e22aadeb05328a81d957dc383e88b2a759ff163f09ef8aeafa08d6d96abe"
+  "dodano": "2026-09-11",
+  "hash": "a950228e49612cfaef1efd515fddf05136354b689b2921b00e6608c8e952197c"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie wielobranżowej dokumentacji projektowej budowy sali gimnastycznej wraz z łącznikiem i salami dydaktycznymi na terenie ZS im. Jadwigi i Władysława Zamoyskich w Rokietnicy, ul. Szamotulska 24.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-ae27c3ac-bf31-469c-a615-bcce4b402e2c",
+  "zamawiajacy": "Starostwo Powiatowe w Poznaniu",
+  "data_publikacji": "2026-09-11",
+  "termin_skladania": "2026-09-21T08:30:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00433161 z dnia 2026-09-11 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie wielobranżowej dokumentacji projektowej budowy sali gimnastycznej wraz z łącznikiem i salami dydaktycznymi na terenie ZS im. Jadwigi i Władysława Zamoyskich w Rokietnicy, ul. Szamotulska 24. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Starostwo Powiatowe w Poznaniu 1.4) Krajowy Numer Identyfikacyjny: REGON 631276788 1.5) Adres zamawiającego 1.5.1.) Ulica: Jackowskiego 18 1.5.2.) Miejscowość: Poznań 1.5.3.) Kod pocztowy: 60-509 1.5.4.) Województwo: wielkopolskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL415 - Miasto Poznań 1.5.9.) Adres poczty elektronicznej: zp@powiat.poznan.pl 1.5.10.) Adres strony internetowej zamawiającego: www.bip.powiat.poznan.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka se",
+  "cpv": [
+   "71220000-6"
+  ],
+  "score": 20,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-11",
+  "hash": "08fb3c3cb8c79a88f7f2ef225ae7b18373219fbaed2de8964faebd750bee19f0"
  },
  {
   "zrodlo": "ted",
@@ -4764,6 +4836,28 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projekt.-kosztorysowej z nadzorem autorskim dla zadań: Poprawa efektywności energet. budynku II US w Bydgoszczy ul. Wojska Polskiego 20B i budynków US w Lipnie ul. Staszica 4",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-1c03f9c8-c6b4-4fcb-aab4-d0d18273eda7",
+  "zamawiajacy": "IZBA ADMINISTRACJI SKARBOWEJ W BYDGOSZCZY",
+  "data_publikacji": "2026-09-11",
+  "termin_skladania": "2026-09-22T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00433865 z dnia 2026-09-11 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projekt.-kosztorysowej z nadzorem autorskim dla zadań: Poprawa efektywności energet. budynku II US w Bydgoszczy ul. Wojska Polskiego 20B i budynków US w Lipnie ul. Staszica 4 SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: IZBA ADMINISTRACJI SKARBOWEJ W BYDGOSZCZY 1.4) Krajowy Numer Identyfikacyjny: REGON 001021145 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Dr. Emila Warmińskiego 18 1.5.2.) Miejscowość: Bydgoszcz 1.5.3.) Kod pocztowy: 85-950 1.5.4.) Województwo: kujawsko-pomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL613 - Bydgosko-toruński 1.5.9.) Adres poczty elektronicznej: przetargi.ias.bydgoszcz@mf.gov.pl 1.5.10.) Adres strony internetowej zamawiającego: https://www.gov.pl/web/ias-bydgoszcz 1.6.",
+  "cpv": [
+   "71320000-7",
+   "71220000-6",
+   "71248000-8",
+   "71240000-2"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-11",
+  "hash": "1f1414619770a4ec0c1c842ccf4e181b14996d8d096b2f72223c73384fe25e3d"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "„Wykonanie dokumentacji projektowej przebudowy kanalizacji deszczowej w rejonie zbiornika retencyjnego oraz rowu RS przy ul. Bojkowskiej w Gliwicach”",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-3d9efada-4bdd-47be-a5ec-8929600b371a",
   "zamawiajacy": "Miasto Gliwice",
@@ -4829,6 +4923,27 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "7855ed4c16b3bbf6703b2236a2830346954bc470dd99e74a2f73edbfec382c19"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowej – koncepcji budowy trasy rowerowej na odcinku Zduńska Wola-Sieradz wraz z opracowaniem programu funkcjonalno-użytkowego",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-67b48289-a443-4589-a84f-86610cf6a387",
+  "zamawiajacy": "ZARZĄD DRÓG WOJEWÓDZKICH W ŁODZI",
+  "data_publikacji": "2026-09-11",
+  "termin_skladania": "2026-09-22T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00433680 z dnia 2026-09-11 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowej – koncepcji budowy trasy rowerowej na odcinku Zduńska Wola-Sieradz wraz z opracowaniem programu funkcjonalno-użytkowego SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: ZARZĄD DRÓG WOJEWÓDZKICH W ŁODZI 1.3.) Oddział zamawiającego: ZARZĄD DRÓG WOJEWÓDZKICH W ŁODZI 1.4) Krajowy Numer Identyfikacyjny: REGON 470850645 1.5) Adres zamawiającego 1.5.1.) Ulica: AL. PIŁSUDSKIEGO 12 1.5.2.) Miejscowość: Łódź 1.5.3.) Kod pocztowy: 90-051 1.5.4.) Województwo: łódzkie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL711 - Miasto Łódź 1.5.9.) Adres poczty elektronicznej: sekretariat@zdw.lodz.pl 1.5.10.) Adres strony internetowej zamawiającego: www.zdw.lodz.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jedno",
+  "cpv": [
+   "71320000-7",
+   "71242000-6"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-11",
+  "hash": "97451cd3af4b988f7bcddc0bb0b9c9116f83c627122ff875355db4077cc325c9"
  },
  {
   "zrodlo": "bzp",
@@ -4950,6 +5065,29 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowo-kosztorysowej dla inwestycji „Budowa zespołu budynków mieszkalnych wielorodzinnych na działce nr 3/295 w m. Redzikowo",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-5ec06892-6ba7-430b-89cf-f33e110d237d",
+  "zamawiajacy": "Gmina Redzikowo",
+  "data_publikacji": "2026-09-11",
+  "termin_skladania": "2026-09-23T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00433772 z dnia 2026-09-11 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowo-kosztorysowej dla inwestycji „Budowa zespołu budynków mieszkalnych wielorodzinnych na działce nr 3/295 w m. Redzikowo SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Redzikowo 1.4) Krajowy Numer Identyfikacyjny: REGON 770979855 1.5) Adres zamawiającego 1.5.1.) Ulica: Sportowa 1.5.2.) Miejscowość: Słupsk 1.5.3.) Kod pocztowy: 76-200 1.5.4.) Województwo: pomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL636 - Słupski 1.5.9.) Adres poczty elektronicznej: info@gminaredzikowo.pl 1.5.10.) Adres strony internetowej zamawiającego: http://www.gminaredzikowo.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Pr",
+  "cpv": [
+   "71320000-7",
+   "71322000-1",
+   "71354000-4"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-11",
+  "hash": "5627e9030eb0c2ad6482bd4dda33c20102e56e86fe82775e9a035aeb5ad05821"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Opracowanie dokumentacji projektowo-kosztorysowej na budowę, przebudowę dróg, budowę chodników na terenie gm. Wisznia Mała",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-53a488e4-57c2-4073-b0a8-3a8b4baafa77",
   "zamawiajacy": "Gmina Wisznia Mała",
@@ -5018,6 +5156,29 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Opracowanie kompleksowej dokumentacji projektowej dla zadania pn.: Adaptacja pomieszczeń - zorganizowanie miejsca doraźnego schronienia MDS o oznaczeniu lokalnym w odniesieniu do lokalizacji w Czersku",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-53438a95-d2cb-455e-a592-4efbf02dc833",
+  "zamawiajacy": "GMINA CZERSK",
+  "data_publikacji": "2026-09-11",
+  "termin_skladania": "2026-09-23T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00433546 z dnia 2026-09-11 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie kompleksowej dokumentacji projektowej dla zadania pn.: Adaptacja pomieszczeń - zorganizowanie miejsca doraźnego schronienia MDS o oznaczeniu lokalnym w odniesieniu do lokalizacji w Czersku SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: GMINA CZERSK 1.4) Krajowy Numer Identyfikacyjny: REGON 092351274 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Kościuszki 27 1.5.2.) Miejscowość: Czersk 1.5.3.) Kod pocztowy: 89-650 1.5.4.) Województwo: pomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL637 - Chojnicki 1.5.7.) Numer telefonu: 523954810 1.5.9.) Adres poczty elektronicznej: urzad_miejski@czersk.pl 1.5.10.) Adres strony internetowej zamawiającego: https://platformazakupowa.pl/pn/czersk 1.6.) Rodzaj zamawiającego: Zamawiaj",
+  "cpv": [
+   "71000000-8",
+   "71320000-7",
+   "71242000-6"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-11",
+  "hash": "c83ec82917d5cd4ea90e23a5cb7be0926d384247e4d437cca854b6c3466b5667"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Wykonanie kompleksowej wielobranżowej dokumentacji projektowej wraz z uzyskaniem pozwolenia na budowę dla zadania inwestycyjnego p.n. „Budowa Jednostki Ratowniczo-Gaśniczej w Sulechowie - I etap”.",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-33f0b64c-15b5-4e9e-ae1a-64c8bbf98db5",
   "zamawiajacy": "Komenda Miejska Państwowej Straży Pożarnej w Zielonej Górze",
@@ -5041,6 +5202,29 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-08",
   "hash": "56d2a33369d1b4ba14d948f1d1160a7405cff25975c90210938d8ec0a448f608"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowo – kosztorysowej dotyczącej remontu budynku nr 10 w kompleksie wojskowym w Gdyni.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-e4472c33-6661-4cfc-a54c-3e5f157813f6",
+  "zamawiajacy": "Rejonowy Zarząd Infrastruktury w Gdyni",
+  "data_publikacji": "2026-09-11",
+  "termin_skladania": "2026-09-23T08:30:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00433620 z dnia 2026-09-11 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowo – kosztorysowej dotyczącej remontu budynku nr 10 w kompleksie wojskowym w Gdyni. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Rejonowy Zarząd Infrastruktury w Gdyni 1.3.) Oddział zamawiającego: Sekcja Zamówień Publicznych 1.4) Krajowy Numer Identyfikacyjny: REGON 19005559700000 1.5) Adres zamawiającego 1.5.1.) Ulica: JANA Z KOLNA 8B 1.5.2.) Miejscowość: Gdynia 1.5.3.) Kod pocztowy: 81-301 1.5.4.) Województwo: pomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL633 - Trójmiejski 1.5.9.) Adres poczty elektronicznej: rzigdynia.kancelaria@ron.mil.pl 1.5.10.) Adres strony internetowej zamawiającego: https://rzigdynia.wp.mil.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - inna państwowa je",
+  "cpv": [
+   "71000000-8",
+   "71220000-6",
+   "71221000-3",
+   "71242000-6",
+   "71244000-0"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-10",
+  "hash": "4dbf91c05414606d66afe8a2bb2e92e51246616f2577a7e11422d416d8fbcbfd"
  },
  {
   "zrodlo": "ted",
@@ -5374,6 +5558,25 @@
   "hash": "df4525cbd3f45ae0b5368ba32b35a8124801b6c85d7b19927e16e82c35a2aa28"
  },
  {
+  "zrodlo": "bip:tauron",
+  "tytul": "145/2026/RZ1 - Opracowanie dokumentacji projektowej i wykonanie robót budowlano-montażowych dla zadania pod nazwą: „Przebudowa sieci niskiego napięcia zasilanej z JGB 74501 obwód L-2 i z JGB 57001 obwód L-3 w m. Bożejowice - (KZ JG 001853/25)",
+  "url": "https://swoz.tauron.pl/platform/demand/notice/public/current/list",
+  "zamawiajacy": "TAURON Dystrybucja S.A.",
+  "data_publikacji": "2026-09-11",
+  "termin_skladania": "2026-09-25 11:00",
+  "opis": null,
+  "cpv": [],
+  "score": 8,
+  "tagi": [
+   "giełdowa",
+   "spolka-sp",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-11",
+  "hash": "721613de629f2dd8757ab2f4a4044e1d40cd19b22f61a172d9cbbab1f2d21700"
+ },
+ {
   "zrodlo": "bzp",
   "tytul": "Opracowanie zamiennej dokumentacji projektowej oraz wykonanie robót dla zadania nr 04321 Przebudowa ul. Traktatowej na odcinku od skrzyżowania z linią kolejową nr 273 do ul. Muchoborskiej",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-8c9e3704-d860-4c71-a77b-6443fb4fe1e1",
@@ -5411,6 +5614,28 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-09",
   "hash": "fbe357aab71136f35ea45761b47d77391593060797c90e2fb2ca82c029738bc3"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowej dla zadania pn.: Budowa Dolnośląskiej Cyklostrady - Trasa Via Regia - odcinek miasto Lubań - etap I.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-8fd41ec0-c9f7-443a-80be-5c24197e9ee5",
+  "zamawiajacy": "Gmina Miejska Lubań",
+  "data_publikacji": "2026-09-11",
+  "termin_skladania": "2026-09-25T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00433647 z dnia 2026-09-11 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowej dla zadania pn.: Budowa Dolnośląskiej Cyklostrady - Trasa Via Regia - odcinek miasto Lubań - etap I. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Miejska Lubań 1.4) Krajowy Numer Identyfikacyjny: REGON 230821380 1.5) Adres zamawiającego 1.5.1.) Ulica: 7 Dywizji 14 1.5.2.) Miejscowość: Lubań 1.5.3.) Kod pocztowy: 59-800 1.5.4.) Województwo: dolnośląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL515 - Jeleniogórski 1.5.9.) Adres poczty elektronicznej: boi.um@miastoluban.pl 1.5.10.) Adres strony internetowej zamawiającego: www.luban.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Przedmiot działalnośc",
+  "cpv": [
+   "71320000-7",
+   "71322000-1"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-11",
+  "hash": "a509c04936d12f47915c707bcf6549d45ff626460f88d055fda2ba53f8d14811"
  },
  {
   "zrodlo": "ted",
