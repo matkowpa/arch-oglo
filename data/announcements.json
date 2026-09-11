@@ -766,31 +766,6 @@
  },
  {
   "zrodlo": "bzp",
-  "tytul": "Wykonanie dokumentacji projektowej dla zadania pn.: Rozbudowa i przebudowa budynku przy ul. Potockiego 1a w Żninie (działka nr 1048/4) o miejsce ukrycia U-1",
-  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-e3b3f789-9f55-4799-9ed1-c6e61c75a905",
-  "zamawiajacy": "Gmina Żnin",
-  "data_publikacji": "2026-08-31",
-  "termin_skladania": "2026-09-09T07:00:00Z",
-  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00415010 z dnia 2026-08-31 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowej dla zadania pn.: Rozbudowa i przebudowa budynku przy ul. Potockiego 1a w Żninie (działka nr 1048/4) o miejsce ukrycia U-1 SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Żnin 1.4) Krajowy Numer Identyfikacyjny: REGON 092351222 1.5) Adres zamawiającego 1.5.1.) Ulica: 700-lecia 39 1.5.2.) Miejscowość: Żnin 1.5.3.) Kod pocztowy: 88-400 1.5.4.) Województwo: kujawsko-pomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL617 - Inowrocławski 1.5.9.) Adres poczty elektronicznej: m.julga@gminaznin.pl 1.5.10.) Adres strony internetowej zamawiającego: http://gminaznin.pl/ 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7",
-  "cpv": [
-   "71221000-3",
-   "71242000-6",
-   "71248000-8",
-   "71250000-5",
-   "71320000-7"
-  ],
-  "score": 11,
-  "tagi": [
-   "cpv-71",
-   "samorząd",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "pobrany",
-  "dodano": null,
-  "hash": "ca0488216b7563201f8bc0f6e38ba78a1dd837dea58f19add0813685bbfaf8fe"
- },
- {
-  "zrodlo": "bzp",
   "tytul": "Wykonanie interdyscyplinarnych analiz dotyczących zmiany gospodarki wodnej Zbiornika Wodnego Klimkówka wraz z opracowaniem wielowariantowej koncepcji techniczno-ekonomicznej obiektu elektrowni wodnej",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-65f58714-83b8-48d2-94a2-99a0a9d0d20e",
   "zamawiajacy": "Państwowe Gospodarstwo Wodne Wody Polskie",
@@ -3662,7 +3637,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-08",
+  "dodano": "2026-09-11",
   "hash": "a41012a0f2c52b4b225370a85c51c1da900b2495cbed2f92e472d7bf66e19c47"
  },
  {
@@ -4352,6 +4327,31 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-11",
   "hash": "ef696e928cf96bb99824fd0eb519542ff8ce8cea135853f75f5acf7a1a9c6bf4"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowej dla zadania pn.: Rozbudowa i przebudowa budynku przy ul. Potockiego 1a w Żninie (działka nr 1048/4) o miejsce ukrycia U-1",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-81ffbe0f-e80c-4d1a-b2b5-0e61276d529f",
+  "zamawiajacy": "Gmina Żnin",
+  "data_publikacji": "2026-09-11",
+  "termin_skladania": "2026-09-21T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00434025 z dnia 2026-09-11 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowej dla zadania pn.: Rozbudowa i przebudowa budynku przy ul. Potockiego 1a w Żninie (działka nr 1048/4) o miejsce ukrycia U-1 SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Żnin 1.4) Krajowy Numer Identyfikacyjny: REGON 092351222 1.5) Adres zamawiającego 1.5.1.) Ulica: 700-lecia 39 1.5.2.) Miejscowość: Żnin 1.5.3.) Kod pocztowy: 88-400 1.5.4.) Województwo: kujawsko-pomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL617 - Inowrocławski 1.5.9.) Adres poczty elektronicznej: m.julga@gminaznin.pl 1.5.10.) Adres strony internetowej zamawiającego: http://gminaznin.pl/ 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7",
+  "cpv": [
+   "71221000-3",
+   "71242000-6",
+   "71248000-8",
+   "71250000-5",
+   "71320000-7"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-11",
+  "hash": "77c6fc48667c000278964edac9998a2d75b8e46774558261858c646ab2ac4874"
  },
  {
   "zrodlo": "bzp",
@@ -5776,6 +5776,32 @@
   "hash": "3c67af8bd23f281257bdf520d51ebbbb4132bdf0dad6065d16e5ab1dcec4b975"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "Budowa wiaty wystawowej",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-b3bbded6-8fc5-4559-ac0f-3adf75f84bd0",
+  "zamawiajacy": "Kujawsko-Pomorski Ośrodek Doradztwa Rolniczego w Minikowie",
+  "data_publikacji": "2026-09-11",
+  "termin_skladania": "2026-09-28T09:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00434007 z dnia 2026-09-11 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Roboty budowlane Budowa wiaty wystawowej SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Kujawsko-Pomorski Ośrodek Doradztwa Rolniczego w Minikowie 1.3.) Oddział zamawiającego: Dział Administracyjno-Gospodarczy 1.4) Krajowy Numer Identyfikacyjny: REGON 093222745 1.5) Adres zamawiającego 1.5.1.) Ulica: 1 1.5.2.) Miejscowość: Minikowo 1.5.3.) Kod pocztowy: 89-122 1.5.4.) Województwo: kujawsko-pomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL617 - Inowrocławski 1.5.9.) Adres poczty elektronicznej: sekretariat@kpodr.pl 1.5.10.) Adres strony internetowej zamawiającego: www.kpodr.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - inny zamawiający Państwowa jednostka organizacyjna posiadająca osobowość prawną. 1.7.) Przedmiot działalno",
+  "cpv": [
+   "45000000-7",
+   "71000000-8",
+   "71200000-0",
+   "71240000-2",
+   "44510000-8",
+   "45223000-6"
+  ],
+  "score": 4,
+  "tagi": [
+   "bonus-ue/strategiczny",
+   "cpv-71",
+   "roboty-budowlane"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-11",
+  "hash": "77dfcd2dbe76adcc049aee0d9514396bed9976143bbe0ebcdcf5196e8808a53c"
+ },
+ {
   "zrodlo": "bip:kghm",
   "tytul": "KGHM-JGBZ-P-AW-240-2026 Modernizacja budynków należących do KGHM PM S.A. Centrala – Wykonanie dokumentacji projektowej",
   "url": "https://kghm.com/pl/kghm-jgbz-p-aw-240-2026-modernizacja-budynkow-nalezacych-do-kghm-pm-sa-centrala-wykonanie",
@@ -5912,6 +5938,27 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "4c04f324ceaede2e35d59036c6891bcbb0bd4bc2813e10ef5ed5e26784b05905"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Prace projektowe dla zadania pn.: \"Budowa Dolnośląskiej Cyklostrady - Trasa Kolej na rowery na terenie gminy Gromadka\"",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-9992efe0-e807-43e2-ac9a-b01c543478ba",
+  "zamawiajacy": "Dolnośląska Służba Dróg i Kolei we Wrocławiu",
+  "data_publikacji": "2026-09-11",
+  "termin_skladania": "2026-09-29T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00434017 z dnia 2026-09-11 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Prace projektowe dla zadania pn.: &#34;Budowa Dolnośląskiej Cyklostrady - Trasa Kolej na rowery na terenie gminy Gromadka&#34; SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Dolnośląska Służba Dróg i Kolei we Wrocławiu 1.4) Krajowy Numer Identyfikacyjny: REGON 001255179 1.5) Adres zamawiającego 1.5.1.) Ulica: Krakowska 28 1.5.2.) Miejscowość: Wrocław 1.5.3.) Kod pocztowy: 50-425 1.5.4.) Województwo: dolnośląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL514 - Miasto Wrocław 1.5.9.) Adres poczty elektronicznej: zamowienia.publiczne@dsdik.wroc.pl 1.5.10.) Adres strony internetowej zamawiającego: https://dsdik.wroc.pl/ 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka budżetowa ",
+  "cpv": [
+   "71320000-7"
+  ],
+  "score": 4,
+  "tagi": [
+   "bonus-ue/strategiczny",
+   "cpv-71",
+   "samorząd"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-11",
+  "hash": "3ce340c894a93695601423d0b3d31a36f41b0314a2814a7b95872cf7162de398"
  },
  {
   "zrodlo": "bzp",
@@ -6510,6 +6557,31 @@
   "status_opisu": "brak",
   "dodano": "2026-09-01",
   "hash": "da465147e485d828898a094665fc90b11b7ec113f4cad2f92b8f724a581b0481"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Budowa instalacji fotowoltaicznej o mocy do 40 kWp przy ul. Hotelowej wraz z układem pomp ciepła o mocy cieplnej ok.180 kW (dostawa i montaż)",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-1ae5705c-e686-418a-a2da-efbc5cbf97f3",
+  "zamawiajacy": "Centrum Zielonej Energii Sp. z o.o.",
+  "data_publikacji": "2026-09-11",
+  "termin_skladania": "2026-10-02T11:30:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00434013 z dnia 2026-09-11 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Dostawy Budowa instalacji fotowoltaicznej o mocy do 40 kWp przy ul. Hotelowej wraz z układem pomp ciepła o mocy cieplnej ok.180 kW (dostawa i montaż) SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Centrum Zielonej Energii Sp. z o.o. 1.3.) Oddział zamawiającego: Centrum Zielonej Energii Sp. z o.o. 1.4) Krajowy Numer Identyfikacyjny: REGON 008437469 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Gliwicka 72 1.5.2.) Miejscowość: Rybnik 1.5.3.) Kod pocztowy: 44-200 1.5.4.) Województwo: śląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL227 - Rybnicki 1.5.9.) Adres poczty elektronicznej: sekretariat@czerybnik.pl 1.5.10.) Adres strony internetowej zamawiającego: https://czerybnik.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - osoba praw",
+  "cpv": [
+   "45000000-7",
+   "09331200-0",
+   "42511110-5",
+   "45223200-8",
+   "45310000-3",
+   "71221000-3",
+   "45261210-9"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-11",
+  "hash": "ea1c274ffe811407c60e152a665ec32febb9e747c13618b2c7b5c42bb1efb193"
  },
  {
   "zrodlo": "pz-search",
