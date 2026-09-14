@@ -4800,6 +4800,33 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "2- Opracowanie kompleksowej dokumentacji projektowej budowy komunalnego budynku mieszkalnego z częścią usługową przy ul. Kościelnej 2 w Pabianicach",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-14eaaecf-11d4-4009-8f94-ea7d0b194e66",
+  "zamawiajacy": "Zakład Gospodarki Mieszkaniowej",
+  "data_publikacji": "2026-09-14",
+  "termin_skladania": "2026-09-22T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00436885 z dnia 2026-09-14 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi 2- Opracowanie kompleksowej dokumentacji projektowej budowy komunalnego budynku mieszkalnego z częścią usługową przy ul. Kościelnej 2 w Pabianicach SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Zakład Gospodarki Mieszkaniowej 1.4) Krajowy Numer Identyfikacyjny: REGON 470013843 1.5) Adres zamawiającego 1.5.1.) Ulica: Warzywna 6 1.5.2.) Miejscowość: Pabianice 1.5.3.) Kod pocztowy: 95-200 1.5.4.) Województwo: łódzkie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL712 - Łódzki 1.5.7.) Numer telefonu: 422259264 1.5.9.) Adres poczty elektronicznej: Przemyslaw.szczapinski@zgm.pabianice.pl 1.5.10.) Adres strony internetowej zamawiającego: www.zgm.pabianice.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów pu",
+  "cpv": [
+   "71000000-8",
+   "45100000-8",
+   "71220000-6",
+   "71221000-3",
+   "71420000-8",
+   "71320000-7",
+   "45000000-7",
+   "45211340-4"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-14",
+  "hash": "a73ff4f694906ac13b7b3bb47c73e8bc7558edce300041da9e99c044a113d808"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Opracowanie dokumentacji projektowej pn.: Projekt remontu i przebudowy kamienicy frontowej i rozbiórki budynków gospodarczych położonych na nieruchomości przy ul. Włókienniczej 17 w Łodzi (...)",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-e7e89f9d-89a2-499e-a18d-8804f08d5f9e",
   "zamawiajacy": "Urząd Miasta Łodzi",
@@ -4972,6 +4999,27 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "7855ed4c16b3bbf6703b2236a2830346954bc470dd99e74a2f73edbfec382c19"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie wielobranżowej dokumentacji projektowo – kosztorysowej dla potrzeb adaptacji pomieszczeń budynku Zespołu Szkół nr 3 w Wołominie",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-c782abc9-e36b-40a9-b392-50d0194c25e2",
+  "zamawiajacy": "Gmina Wołomin",
+  "data_publikacji": "2026-09-14",
+  "termin_skladania": "2026-09-22T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00437028 z dnia 2026-09-14 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie wielobranżowej dokumentacji projektowo – kosztorysowej dla potrzeb adaptacji pomieszczeń budynku Zespołu Szkół nr 3 w Wołominie SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Wołomin 1.4) Krajowy Numer Identyfikacyjny: REGON 013269640 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Ogrodowa 4 1.5.2.) Miejscowość: Wołomin 1.5.3.) Kod pocztowy: 05-200 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL912 - Warszawski wschodni 1.5.9.) Adres poczty elektronicznej: przetargi@wolomin.org.pl 1.5.10.) Adres strony internetowej zamawiającego: www.wolomin.org 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Przedmio",
+  "cpv": [
+   "71320000-7"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-14",
+  "hash": "92fb861454149b242a4de2618e788eb8541a46b0f6c7688f2f075ecdf216f3ec"
  },
  {
   "zrodlo": "bzp",
