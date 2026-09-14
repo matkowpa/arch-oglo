@@ -3440,7 +3440,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-13",
+  "dodano": "2026-09-14",
   "hash": "7b8373f9ad5ebaed4c88fdeac82bf75d2092b45e1fdcdfcbcb7a14022518dffd"
  },
  {
@@ -3637,7 +3637,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-13",
+  "dodano": "2026-09-14",
   "hash": "a41012a0f2c52b4b225370a85c51c1da900b2495cbed2f92e472d7bf66e19c47"
  },
  {
@@ -4211,27 +4211,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Studia wykonalności, usługi doradcze, analizy – Ocena formalno-rachunkowa wniosków o dofinansowanie przedsięwzięć złożonych w ramach ogłoszonego naboru ciągłego o dofinansowanie przedsięwzięć PP Dofinansowanie przydomowych magazynów energii część 1",
-  "url": "https://ted.europa.eu/en/notice/-/detail/578614-2026",
-  "zamawiajacy": "Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej",
-  "data_publikacji": "2026-08-21",
-  "termin_skladania": "2026-09-18T11:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71241000",
-   "71241000",
-   "71241000"
-  ],
-  "score": 3,
-  "tagi": [
-   "bonus-ue/strategiczny"
-  ],
-  "status_opisu": "brak",
-  "dodano": null,
-  "hash": "5e78ac8271aeb390a932d246ab136a9f115b8cc6638eba5c15a194db1dcb3d70"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Usługi architektoniczne, budowlane, inżynieryjne i kontrolne – Opracowanie dokumentacji projektowej wraz z pełnieniem nadzoru autorskiego dla zadania pod nazwą: Termomodernizacja wraz z remontem budynku Szkoły Podstawowej nr 19 im. Zasłużonych Ludzi Morza przy ulicy Emilii Hoene 6 w Gdańsku w ramach przedsięwzięcia pn.: „Poprawa efektywności energetycznej w budynkach szkolnych należących do Gminy Miasta Gdańska”",
   "url": "https://ted.europa.eu/en/notice/-/detail/568534-2026",
   "zamawiajacy": "Dyrekcja Rozbudowy Miasta Gdańska działająca w imieniu i na rzecz Gminy Miasta Gdańska",
@@ -4711,7 +4690,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-13",
+  "dodano": "2026-09-14",
   "hash": "b568dc0209f84f56da98dcb0d068c1bbae3fced0ffdad8553b81343e722cfcbc"
  },
  {
@@ -4735,6 +4714,27 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "4023b26cbed0d46402c71ef73a93bdfbdff1e78a65f3bdca32090603b22439a7"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Studia wykonalności, usługi doradcze, analizy – Ocena formalno-rachunkowa wniosków o dofinansowanie przedsięwzięć złożonych w ramach ogłoszonego naboru ciągłego o dofinansowanie przedsięwzięć PP Dofinansowanie przydomowych magazynów energii część 1",
+  "url": "https://ted.europa.eu/en/notice/-/detail/630817-2026",
+  "zamawiajacy": "Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej",
+  "data_publikacji": "2026-09-14",
+  "termin_skladania": "2026-09-21T11:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71241000",
+   "71241000",
+   "71241000"
+  ],
+  "score": 3,
+  "tagi": [
+   "bonus-ue/strategiczny"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-14",
+  "hash": "9265f7748bfc965268a4f297e92e356e78e6218d7c6938734677ed2d36aa5fe0"
  },
  {
   "zrodlo": "ted",
@@ -4795,7 +4795,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-13",
+  "dodano": "2026-09-14",
   "hash": "3258a0537ec29a7c32a2e3bcbfc0937f2bc01e618582d7215736e6ea15c23f5d"
  },
  {
@@ -4915,7 +4915,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-13",
+  "dodano": "2026-09-14",
   "hash": "c13cfafe0dc62f751e13c4c0727fca9f119cd88479f3a5233f5fd6c5afa12877"
  },
  {
@@ -5168,6 +5168,28 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-07",
   "hash": "000e5f7426ce8b9e1b54805d62b51ef2c693466d6baecea33336e98544831e0c"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Część 1 Wykonanie dokumentacji projektowo-kosztorysowej Nr 1465 T Część 2 Wykonanie dokumentacji projektowo-kosztorysowej Nr 1385 T Część 3 Wykonanie dokumentacji projektowo-kosztorysowej Nr 1484T",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-3d6581aa-af97-4421-a2b7-6c8e790d72ca",
+  "zamawiajacy": "Zarząd Dróg Powiatowych w Końskich",
+  "data_publikacji": "2026-09-14",
+  "termin_skladania": "2026-09-23T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00435463 z dnia 2026-09-14 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Część 1 Wykonanie dokumentacji projektowo-kosztorysowej Nr 1465 T Część 2 Wykonanie dokumentacji projektowo-kosztorysowej Nr 1385 T Część 3 Wykonanie dokumentacji projektowo-kosztorysowej Nr 1484T SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Zarząd Dróg Powiatowych w Końskich 1.4) Krajowy Numer Identyfikacyjny: REGON 291020126 1.5) Adres zamawiającego 1.5.1.) Ulica: Staszica, 2 1.5.2.) Miejscowość: Końskie 1.5.3.) Kod pocztowy: 26-200 1.5.4.) Województwo: świętokrzyskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL721 - Kielecki 1.5.7.) Numer telefonu: 41 2604852 , 41 3750850 1.5.9.) Adres poczty elektronicznej: zdpkonskie.zamowienia@vp.pl 1.5.10.) Adres strony internetowej zamawiającego: https://zdpkonskie.bip.gov.pl/ 1.6.) Rod",
+  "cpv": [
+   "71320000-7",
+   "71322000-1"
+  ],
+  "score": 29,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-14",
+  "hash": "503bec254c1f3c2c63d42861046325b7143dd0ea0c0398ded00c65ae0e75ff5a"
  },
  {
   "zrodlo": "bzp",
@@ -5431,7 +5453,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-13",
+  "dodano": "2026-09-14",
   "hash": "567337a72537ddc9a19c60c9767108cf7daa5984b5afc734fe3593cc725857f2"
  },
  {
@@ -5789,7 +5811,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-13",
+  "dodano": "2026-09-14",
   "hash": "8f3f925b4e7d4241c622865b67d4754c0442b70317dfb0c1aaa4966ac35f1379"
  },
  {
@@ -5885,7 +5907,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-13",
+  "dodano": "2026-09-14",
   "hash": "d160c1cd14cab3cadda992ea801d58c2907d201ef80e9d2790edb8c7a520ad8f"
  },
  {
@@ -6206,7 +6228,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-13",
+  "dodano": "2026-09-14",
   "hash": "cc7c5bfea86a44a12d01bedd29d4dad99861ecd9869986058731c9bcf51b4280"
  },
  {
@@ -6240,7 +6262,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-13",
+  "dodano": "2026-09-14",
   "hash": "0ad3976e34ec21fdf575871f2d9f95f1e72d0d0aa4d02f9fe37f347d6c7b6410"
  },
  {
@@ -6269,8 +6291,27 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-13",
+  "dodano": "2026-09-14",
   "hash": "99699c127fced244cf022a3270771060394774fcd9fc84531d3ed6acc5c45394"
+ },
+ {
+  "zrodlo": "bip:tauron",
+  "tytul": "140/2026 - Opracowanie dokumentacji projektowej i wykonanie robót budowlano-montażowych dla zadań pod nazwą: \n- R-304 Bolesławiec ul. Matejki – skablowanie linii SN wraz z termomodernizacją budynku stacyjnego - (KZ JG/000262/25);\n- R-304 Bolesławiec ul. Matejki - budowa Systemu Sygnalizacji Włamania i Napadu (SSWiN) oraz Systemu Dozoru Wizyjnego (SDW) - (KZ JG/000314/25)",
+  "url": "https://swoz.tauron.pl/platform/demand/notice/public/current/list",
+  "zamawiajacy": "TAURON Dystrybucja S.A.",
+  "data_publikacji": "2026-09-14",
+  "termin_skladania": "2026-09-30 11:00",
+  "opis": null,
+  "cpv": [],
+  "score": 8,
+  "tagi": [
+   "giełdowa",
+   "spolka-sp",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-14",
+  "hash": "eaff4d766d899a0101fe97ea660515768467216447399f995c3d4449c7c5e64a"
  },
  {
   "zrodlo": "bzp",
@@ -6374,15 +6415,15 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-13",
+  "dodano": "2026-09-14",
   "hash": "8e4e6c9382f46f7daf0763055a15b31486a604e85dc3a40cec906e75fdfb57ff"
  },
  {
   "zrodlo": "ted",
   "tytul": "Polska – Usługi architektoniczne, budowlane, inżynieryjne i kontrolne – Wykonanie aktualizacji dokumentacji projektowej termomodernizacji budynku Szkoły Podstawowej nr 46 przy ul. Kombatantów 2 w Bydgoszczy.",
-  "url": "https://ted.europa.eu/en/notice/-/detail/588625-2026",
+  "url": "https://ted.europa.eu/en/notice/-/detail/630648-2026",
   "zamawiajacy": "Miasto Bydgoszcz",
-  "data_publikacji": "2026-08-26",
+  "data_publikacji": "2026-09-14",
   "termin_skladania": "2026-09-30T10:00:00+02:00",
   "opis": null,
   "cpv": [
@@ -6403,8 +6444,8 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": null,
-  "hash": "bc3774be43236ef313a41328ae72621678bbd7bdfc0147f4919d3ea7a6a0e89d"
+  "dodano": "2026-09-14",
+  "hash": "f81addb3a97e667a87cd374a9a9135580a17eb673f554108df39a079e4ef4a2f"
  },
  {
   "zrodlo": "ted",
@@ -6431,7 +6472,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-13",
+  "dodano": "2026-09-14",
   "hash": "951c7a757ca7b49025db54225adb4f73c81adf4894848056379ba13a89d36934"
  },
  {
@@ -6452,7 +6493,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-13",
+  "dodano": "2026-09-14",
   "hash": "c201c5302f63573a01ec79afc74e54ee644291a9cfc2d87419f0738e7b29e26e"
  },
  {
@@ -6532,7 +6573,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-13",
+  "dodano": "2026-09-14",
   "hash": "fb858bd55fdebea096e12df7232c50ea719a6f48ab71e4c3666dbcea0ab921fc"
  },
  {
@@ -6611,7 +6652,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-13",
+  "dodano": "2026-09-14",
   "hash": "59c8f8d70495be14b0dfdaaf056eef51c93c8b9755abc2816fb7c4ca06ad528e"
  },
  {
@@ -7781,6 +7822,37 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Urządzenia do tomografii – Zakup tomografu komputerowego CBCT",
+  "url": "https://ted.europa.eu/en/notice/-/detail/630519-2026",
+  "zamawiajacy": "Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie - Państwowy Instytut Badawczy",
+  "data_publikacji": "2026-09-14",
+  "termin_skladania": "2026-10-19T09:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "33115000",
+   "71220000",
+   "39150000",
+   "45400000",
+   "45215143",
+   "45310000",
+   "45311000",
+   "45232460",
+   "45343000",
+   "45331220",
+   "45332400",
+   "39180000",
+   "33115000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-14",
+  "hash": "9d63b3fe0c661391969212667414405f23f43486a643171f50a86edf8bcdcd76"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Urządzenia medyczne – Dostawa rezonansu magnetycznego wraz z adaptacją pomieszczeń; PN-115/26/DS",
   "url": "https://ted.europa.eu/en/notice/-/detail/627234-2026",
   "zamawiajacy": "Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie - Państwowy Instytut Badawczy",
@@ -7860,6 +7932,137 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Urządzenia do radioterapii, mechanoterapii, elektroterapii i fizykoterapii – Akcelerator do tomoterapii wraz z modernizacją bunkra.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/629835-2026",
+  "zamawiajacy": "Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie - Państwowy Instytut Badawczy",
+  "data_publikacji": "2026-09-14",
+  "termin_skladania": "2026-10-20T09:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "33150000",
+   "71221000",
+   "71320000",
+   "45400000",
+   "45215143",
+   "39180000",
+   "39150000",
+   "45310000",
+   "45311000",
+   "45232460",
+   "45332400",
+   "45343000",
+   "45331220",
+   "42961100",
+   "45314320",
+   "33150000",
+   "71221000",
+   "71320000",
+   "45400000",
+   "45215143",
+   "39180000",
+   "39150000",
+   "45310000",
+   "45311000",
+   "45232460",
+   "45332400",
+   "45343000",
+   "45331220",
+   "42961100",
+   "45314320"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-14",
+  "hash": "86a43318254325333b6383fede11359d2d5edb18a72ac4dcbd030359e59fef0a"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Roboty budowlane – Modernizacja stacji elektroenergetycznej 110/15 kV Łososina tryb zaprojektuj i wybuduj",
+  "url": "https://ted.europa.eu/en/notice/-/detail/631172-2026",
+  "zamawiajacy": "TAURON Dystrybucja S. A. Oddział w Krakowie",
+  "data_publikacji": "2026-09-14",
+  "termin_skladania": "2026-10-21T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "45000000",
+   "45100000",
+   "45110000",
+   "45111000",
+   "45112000",
+   "45113000",
+   "45220000",
+   "45222000",
+   "45223000",
+   "45232000",
+   "45233000",
+   "45236000",
+   "45300000",
+   "45310000",
+   "45311000",
+   "45314000",
+   "45317000",
+   "45400000",
+   "45440000",
+   "45442000",
+   "45450000",
+   "45510000",
+   "45520000",
+   "71240000",
+   "71250000",
+   "71310000",
+   "71320000",
+   "71330000",
+   "71220000",
+   "71300000",
+   "71520000",
+   "45000000",
+   "45100000",
+   "45110000",
+   "45111000",
+   "45112000",
+   "45113000",
+   "45220000",
+   "45222000",
+   "45223000",
+   "45232000",
+   "45233000",
+   "45236000",
+   "45300000",
+   "45310000",
+   "45311000",
+   "45314000",
+   "45317000",
+   "45400000",
+   "45440000",
+   "45442000",
+   "45450000",
+   "45510000",
+   "45520000",
+   "71240000",
+   "71250000",
+   "71310000",
+   "71320000",
+   "71330000",
+   "71220000",
+   "71300000",
+   "71520000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71",
+   "giełdowa",
+   "roboty-budowlane",
+   "spolka-sp"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-14",
+  "hash": "96ed61ee64a880a37164e98af33b6ea8aa8b842cf7fb4297014fc55570d96fe5"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Urządzenia do obróbki osadów – Instalacja jako element ciągu technologicznego oczyszczalni umożliwiająca uzyskanie Produktu Końcowego",
   "url": "https://ted.europa.eu/en/notice/-/detail/627017-2026",
   "zamawiajacy": "Spółka Komunalna Wschowa Sp. z o.o.",
@@ -7921,7 +8124,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-13",
+  "dodano": "2026-09-14",
   "hash": "43bdd6dc8d3e34537761c8edeb21e1a54576493c9b7a9057f6f163465cd82fc7"
  }
 ]
