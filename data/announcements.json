@@ -2037,43 +2037,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Energia elektryczna, cieplna, słoneczna i jądrowa – „Budowa Wodorowego Magazynu Energii o pojemności 3 MWh w ramach zadania inwestycyjnego pn. „Działania inwestycyjne w zakresie budowy infrastruktury Klastra Energii Gmin Odolanów, Przygodzice, Sulmierzyce” w ramach Inwestycji B2.2.2/G1.1.2 Krajowego Planu Odbudowy i Zwiększania Odporności (KPO): Instalacje OZE realizowane przez społeczności energetyczne Część B:wsparcie inwestycyjne sp-ści ener.",
-  "url": "https://ted.europa.eu/en/notice/-/detail/570823-2026",
-  "zamawiajacy": "Gmina i Miasto Odolanów",
-  "data_publikacji": "2026-08-18",
-  "termin_skladania": "2026-09-14T09:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "09300000",
-   "09332000",
-   "09331200",
-   "09120000",
-   "45261215",
-   "31422000",
-   "45310000",
-   "45300000",
-   "45311100",
-   "45311200",
-   "45315100",
-   "45315300",
-   "45315600",
-   "45317300",
-   "45333200",
-   "71320000",
-   "09300000"
-  ],
-  "score": 3,
-  "tagi": [
-   "bonus-ue/strategiczny",
-   "cpv-71",
-   "samorząd"
-  ],
-  "status_opisu": "brak",
-  "dodano": null,
-  "hash": "39ac567ed00aaeb20f5983353a0ed11e5aa58e955a94f7ffaf7df283007faf42"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Usługi architektoniczne, budowlane, inżynieryjne i kontrolne – Pełnienie funkcji inspektora nadzoru inwestorskiego nad budową obiektów małej retencji nizinnej (MRN3) na terenie Nadleśnictwa Świerklaniec",
   "url": "https://ted.europa.eu/en/notice/-/detail/573725-2026",
   "zamawiajacy": "Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Świerklaniec",
@@ -2692,26 +2655,6 @@
   "status_opisu": "brak",
   "dodano": "2026-09-07",
   "hash": "1831b96d3da60c602a4d5597d44af7962fcb1a7150e1fe3912ab50e69f93e08b"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Studia wykonalności, usługi doradcze, analizy – Realizacja usługi doradczej pn. „Wspólna Analiza Komercyjna Nordycko-Bałtyckiego Korytarza Wodorowego”",
-  "url": "https://ted.europa.eu/en/notice/-/detail/587136-2026",
-  "zamawiajacy": "Operator Gazociągów Przesyłowych GAZ-SYSTEM S.A.",
-  "data_publikacji": "2026-08-26",
-  "termin_skladania": "2026-09-15T10:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71241000",
-   "71240000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": null,
-  "hash": "74a38bc3344065587ea3bde795efd77ca864690b611faa6729435a4ca14bfa0b"
  },
  {
   "zrodlo": "ted",
@@ -4690,7 +4633,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-14",
+  "dodano": "2026-09-15",
   "hash": "b568dc0209f84f56da98dcb0d068c1bbae3fced0ffdad8553b81343e722cfcbc"
  },
  {
@@ -4733,7 +4676,7 @@
    "bonus-ue/strategiczny"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-14",
+  "dodano": "2026-09-15",
   "hash": "9265f7748bfc965268a4f297e92e356e78e6218d7c6938734677ed2d36aa5fe0"
  },
  {
@@ -4795,7 +4738,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-14",
+  "dodano": "2026-09-15",
   "hash": "3258a0537ec29a7c32a2e3bcbfc0937f2bc01e618582d7215736e6ea15c23f5d"
  },
  {
@@ -4921,60 +4864,6 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-04",
   "hash": "93d9bfb1a2453b0e7fbfa899e033f950fc49aab8844cab8422ee3b570369a517"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Słoneczne moduły fotoelektryczne – Zaprojektowanie, dostawa, montaż, uruchomienie oraz przekazanie do eksploatacji kompletnej instalacji fotowoltaicznej wraz z towarzyszącymi robotami budowlanymi - zamówienie udzielane w 5 częściach",
-  "url": "https://ted.europa.eu/en/notice/-/detail/627661-2026",
-  "zamawiajacy": "Miasto Katowice",
-  "data_publikacji": "2026-09-11",
-  "termin_skladania": "2026-09-22T08:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "09331200",
-   "45000000",
-   "45311200",
-   "09332000",
-   "45261215",
-   "71320000",
-   "09331200",
-   "09331200",
-   "09331200",
-   "09331200",
-   "09331200",
-   "45000000",
-   "45311200",
-   "09332000",
-   "45261215",
-   "71320000",
-   "45000000",
-   "45311200",
-   "09332000",
-   "45261215",
-   "71320000",
-   "45000000",
-   "45311200",
-   "09332000",
-   "45261215",
-   "71320000",
-   "45000000",
-   "45311200",
-   "09332000",
-   "45261215",
-   "71320000",
-   "45000000",
-   "45311200",
-   "09332000",
-   "45261215",
-   "71320000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-14",
-  "hash": "c13cfafe0dc62f751e13c4c0727fca9f119cd88479f3a5233f5fd6c5afa12877"
  },
  {
   "zrodlo": "ted",
@@ -5202,6 +5091,29 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Aktualizacja dokumentacji projektowej dla Rewitalizacji Parku Miejskiego w Hajnówce - II",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-50a8afb6-27c8-4b5c-84ca-e3a5eff808b1",
+  "zamawiajacy": "Gmina Miejska Hajnówka",
+  "data_publikacji": "2026-09-15",
+  "termin_skladania": "2026-09-23T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00438351 z dnia 2026-09-15 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Aktualizacja dokumentacji projektowej dla Rewitalizacji Parku Miejskiego w Hajnówce - II SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Miejska Hajnówka 1.4) Krajowy Numer Identyfikacyjny: REGON 050658999 1.5) Adres zamawiającego 1.5.1.) Ulica: Aleksego Zina 1 1.5.2.) Miejscowość: Hajnówka 1.5.3.) Kod pocztowy: 17-200 1.5.4.) Województwo: podlaskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL842 - Łomżyński 1.5.9.) Adres poczty elektronicznej: hajnowka@hajnowka.pl 1.5.10.) Adres strony internetowej zamawiającego: www.hajnowka.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Przedmiot działalności zamawiającego: Ogólne usługi publiczne SE",
+  "cpv": [
+   "71220000-6",
+   "71320000-7",
+   "71248000-8"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-15",
+  "hash": "2fd2fc271c51d5841e7438822805f4c5c04919adac75e34f7a49c41500ab01e4"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Opracowanie dokumentacji projektowo-kosztorysowej dla inwestycji „Budowa zespołu budynków mieszkalnych wielorodzinnych na działce nr 3/295 w m. Redzikowo",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-5ec06892-6ba7-430b-89cf-f33e110d237d",
   "zamawiajacy": "Gmina Redzikowo",
@@ -5338,6 +5250,31 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowej.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-0145beda-438a-44c1-98a2-63dd8c873c0e",
+  "zamawiajacy": "Gmina Gniewino",
+  "data_publikacji": "2026-09-15",
+  "termin_skladania": "2026-09-23T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00437665 z dnia 2026-09-15 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowej. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Gniewino 1.4) Krajowy Numer Identyfikacyjny: REGON 191675280 1.5) Adres zamawiającego 1.5.1.) Ulica: Pomorska 1.5.2.) Miejscowość: Gniewino 1.5.3.) Kod pocztowy: 84-250 1.5.4.) Województwo: pomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL634 - Gdański 1.5.7.) Numer telefonu: 587366100 1.5.9.) Adres poczty elektronicznej: gniewino@gniewino.pl 1.5.10.) Adres strony internetowej zamawiającego: www.gniewino.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Przedmiot działalności zamawiającego: Ogólne usługi publiczne SEKCJA II – INFORMACJE PODSTAWOWE 2.1.",
+  "cpv": [
+   "71000000-8",
+   "71200000-0",
+   "71220000-6",
+   "71240000-2",
+   "71300000-1"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-15",
+  "hash": "9d44860f88ffb089df500337c886d6eff959f4004f3836f3bb133dac1032951f"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Wykonanie dokumentacji projektowo-kosztorysowej na zadanie pn.: „Modernizacja budynku - I/Zambrów (II etap)” oraz pełnienie nadzoru autorskiego nad realizacją robót budowalnych",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-3f20593c-7b2f-4b26-9cf0-cafa422d2cfe",
   "zamawiajacy": "Zakład Ubezpieczeń Społecznych Oddział w Białymstoku",
@@ -5406,6 +5343,28 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "„Wykonanie ekspertyz konstrukcyjno- budowlanych wraz z oceną stanu technicznego budynków – III części”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-593bb858-2e03-4f71-b920-119c81adb403",
+  "zamawiajacy": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Praga-Południe m. st. Warszawy",
+  "data_publikacji": "2026-09-15",
+  "termin_skladania": "2026-09-23T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00437763 z dnia 2026-09-15 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi „Wykonanie ekspertyz konstrukcyjno- budowlanych wraz z oceną stanu technicznego budynków – III części” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Zakład Gospodarowania Nieruchomościami w Dzielnicy Praga-Południe m. st. Warszawy 1.4) Krajowy Numer Identyfikacyjny: REGON 015259640 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Mińska 63A 1.5.2.) Miejscowość: Warszawa 1.5.3.) Kod pocztowy: 03-828 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL911 - Miasto Warszawa 1.5.9.) Adres poczty elektronicznej: zamowienia.publiczne@zgnpragapld.pl 1.5.10.) Adres strony internetowej zamawiającego: https://zamowienia.zgnpragapld.pl/menu_powyzej_130000.html 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostk",
+  "cpv": [
+   "71621000-7",
+   "71320000-7",
+   "71530000-2",
+   "71335000-5"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-15",
+  "hash": "a5e39ed79a9f4ab8cced198c891162f14c3b4ef432fa66d87932e2f2f1222fc6"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Opracowanie dokumentacji projektowo – kosztorysowej dotyczącej remontu budynku nr 10 w kompleksie wojskowym w Gdyni.",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-e4472c33-6661-4cfc-a54c-3e5f157813f6",
   "zamawiajacy": "Rejonowy Zarząd Infrastruktury w Gdyni",
@@ -5426,6 +5385,43 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-11",
   "hash": "4dbf91c05414606d66afe8a2bb2e92e51246616f2577a7e11422d416d8fbcbfd"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Energia elektryczna, cieplna, słoneczna i jądrowa – „Budowa Wodorowego Magazynu Energii o pojemności 3 MWh w ramach zadania inwestycyjnego pn. „Działania inwestycyjne w zakresie budowy infrastruktury Klastra Energii Gmin Odolanów, Przygodzice, Sulmierzyce” w ramach Inwestycji B2.2.2/G1.1.2 Krajowego Planu Odbudowy i Zwiększania Odporności (KPO): Instalacje OZE realizowane przez społeczności energetyczne Część B:wsparcie inwestycyjne sp-ści ener.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/633227-2026",
+  "zamawiajacy": "Gmina i Miasto Odolanów",
+  "data_publikacji": "2026-09-15",
+  "termin_skladania": "2026-09-23T09:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "09300000",
+   "09332000",
+   "09331200",
+   "09120000",
+   "45261215",
+   "31422000",
+   "45310000",
+   "45300000",
+   "45311100",
+   "45311200",
+   "45315100",
+   "45315300",
+   "45315600",
+   "45317300",
+   "45333200",
+   "71320000",
+   "09300000"
+  ],
+  "score": 3,
+  "tagi": [
+   "bonus-ue/strategiczny",
+   "cpv-71",
+   "samorząd"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-15",
+  "hash": "1f616b081af336cd6d2f34db66c3c8e3ecdb3e0cbc64a573ee85310a4b2711ee"
  },
  {
   "zrodlo": "ted",
@@ -5552,7 +5548,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-14",
+  "dodano": "2026-09-15",
   "hash": "567337a72537ddc9a19c60c9767108cf7daa5984b5afc734fe3593cc725857f2"
  },
  {
@@ -5575,55 +5571,6 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-11",
   "hash": "4b08dae941c807a803f2422de7814d18d6c40af1ba6d7ca88fa0823c62f17456"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Roboty budowlane w zakresie ścieżek rowerowych – Opracowanie dokumentacji projektowej i wykonanie robót budowlanych dla zadania „Budowa dróg pieszo-rowerowych wzdłuż Jeziora Żywieckiego i wzdłuż Jeziora Międzybrodzkiego na terenie Gminy Czernichów”",
-  "url": "https://ted.europa.eu/en/notice/-/detail/610966-2026",
-  "zamawiajacy": "ZWIĄZEK MIĘDZYGMINNY D/S EKOLOGII W ŻYWCU",
-  "data_publikacji": "2026-09-04",
-  "termin_skladania": "2026-09-23T11:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "45233162",
-   "45200000",
-   "45233260",
-   "45243300",
-   "45233200",
-   "45316210",
-   "71320000",
-   "45233162",
-   "45233162",
-   "45233162",
-   "45200000",
-   "45233260",
-   "45243300",
-   "45233220",
-   "45316210",
-   "71320000",
-   "45200000",
-   "45233260",
-   "45243300",
-   "45233220",
-   "45316210",
-   "71320000",
-   "45200000",
-   "45233260",
-   "45243300",
-   "45233220",
-   "45316210",
-   "71320000"
-  ],
-  "score": 6,
-  "tagi": [
-   "cpv-71",
-   "roboty-budowlane",
-   "samorząd",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-08",
-  "hash": "5e3475ec7d549eeeeea8ef842332254ea9df04dee028610a188e298b9b065875"
  },
  {
   "zrodlo": "ted",
@@ -5713,6 +5660,27 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Montaż instalacji fotowoltaicznej w Szkołach Podstawowych: a) Szkoła Podstawowa nr 143 przy Al. Stanów Zjednoczonych 27",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-44cd25c7-65ab-4176-a67d-67c4c972e66c",
+  "zamawiajacy": "Urząd m.st. Warszawy Dzielnica Praga-Południe",
+  "data_publikacji": "2026-09-15",
+  "termin_skladania": "2026-09-24T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00438131 z dnia 2026-09-15 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Dostawy Montaż instalacji fotowoltaicznej w Szkołach Podstawowych: a) Szkoła Podstawowa nr 143 przy Al. Stanów Zjednoczonych 27 SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Urząd m.st. Warszawy Dzielnica Praga-Południe 1.4) Krajowy Numer Identyfikacyjny: REGON 015259640 1.5) Adres zamawiającego 1.5.1.) Ulica: Grochowska 274 1.5.2.) Miejscowość: Warszawa 1.5.3.) Kod pocztowy: 03-841 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL911 - Miasto Warszawa 1.5.9.) Adres poczty elektronicznej: pragapoludnie.wzp@um.warszawa.pl 1.5.10.) Adres strony internetowej zamawiającego: www.pragapld.um.warszawa.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu",
+  "cpv": [
+   "09332000-5",
+   "71320000-7",
+   "45310000-3"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-15",
+  "hash": "44d900fea5525116a9f5f8c3629a5109b2d302e6f5112c4692646c1afdc78dd8"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Opracowanie dokumentacji projektowej dla rozbudowy dróg powiatowych nr 1566T Gołębiów – Nasławice i nr 1588T Pęchów – Usarzów wraz z przebudową obiektu mostowego w m. Usarzów",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-adc2e013-362c-43c7-87fb-2aa21932fc97",
   "zamawiajacy": "Zarząd Dróg Powiatowych w Opatowie",
@@ -5756,6 +5724,28 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-10",
   "hash": "38f9da6b1f4adfa9c877c075440bce10f80b0741fb318b9ef2e57e2a65e0f55f"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowej budowy ścieżki rowerowej w obrębie przejazdu kolejowego w ciągu drogi powiatowej nr 1029F ul. Kochanowskiego w Niedoradzu w ramach zadania pn.: ,,Rozbudowa sieci...",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-54dbea12-7943-4e99-b295-f3535b54081f",
+  "zamawiajacy": "POWIAT NOWOSOLSKI",
+  "data_publikacji": "2026-09-15",
+  "termin_skladania": "2026-09-24T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00437633 z dnia 2026-09-15 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowej budowy ścieżki rowerowej w obrębie przejazdu kolejowego w ciągu drogi powiatowej nr 1029F ul. Kochanowskiego w Niedoradzu w ramach zadania pn.: ,,Rozbudowa sieci... SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: POWIAT NOWOSOLSKI 1.4) Krajowy Numer Identyfikacyjny: REGON 970770103 1.5) Adres zamawiającego 1.5.1.) Ulica: MONIUSZKI 3 1.5.2.) Miejscowość: Nowa Sól 1.5.3.) Kod pocztowy: 67-100 1.5.4.) Województwo: lubuskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL432 - Zielonogórski 1.5.9.) Adres poczty elektronicznej: sekretariat@powiat-nowosolski.pl 1.5.10.) Adres strony internetowej zamawiającego: www.powiat-nowosolski.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora fi",
+  "cpv": [
+   "71320000-7"
+  ],
+  "score": 4,
+  "tagi": [
+   "bonus-ue/strategiczny",
+   "cpv-71",
+   "drogi",
+   "samorząd"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-15",
+  "hash": "a503db41fb5186c671f45f43cb66d48397f1d3b0e1ebfc9ccb55b9fa07a24dcf"
  },
  {
   "zrodlo": "ted",
@@ -5861,6 +5851,80 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Słoneczne moduły fotoelektryczne – Zaprojektowanie, dostawa, montaż, uruchomienie oraz przekazanie do eksploatacji kompletnej instalacji fotowoltaicznej wraz z towarzyszącymi robotami budowlanymi - zamówienie udzielane w 5 częściach",
+  "url": "https://ted.europa.eu/en/notice/-/detail/633751-2026",
+  "zamawiajacy": "Miasto Katowice",
+  "data_publikacji": "2026-09-15",
+  "termin_skladania": "2026-09-25T08:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "09331200",
+   "45000000",
+   "45311200",
+   "09332000",
+   "45261215",
+   "71320000",
+   "09331200",
+   "09331200",
+   "09331200",
+   "09331200",
+   "09331200",
+   "45000000",
+   "45311200",
+   "09332000",
+   "45261215",
+   "71320000",
+   "45000000",
+   "45311200",
+   "09332000",
+   "45261215",
+   "71320000",
+   "45000000",
+   "45311200",
+   "09332000",
+   "45261215",
+   "71320000",
+   "45000000",
+   "45311200",
+   "09332000",
+   "45261215",
+   "71320000",
+   "45000000",
+   "45311200",
+   "09332000",
+   "45261215",
+   "71320000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-14",
+  "hash": "ef853998a7e8747962ffcdde8759c21f65f897b8032074ce4341009e5e4ac843"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "\"Rozbudowa i przebudowa ul. Promowej w Koszalinie - opracowanie wielobranżowej dokumentacji projektowej\".",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-6ea25e68-eb1f-49cd-bf2e-e9edfa811b8b",
+  "zamawiajacy": "Zarząd Dróg i Transportu w Koszalinie",
+  "data_publikacji": "2026-09-15",
+  "termin_skladania": "2026-09-25T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00438236 z dnia 2026-09-15 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi &#34;Rozbudowa i przebudowa ul. Promowej w Koszalinie - opracowanie wielobranżowej dokumentacji projektowej&#34;. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Zarząd Dróg i Transportu w Koszalinie 1.4) Krajowy Numer Identyfikacyjny: REGON 330002466 1.5) Adres zamawiającego 1.5.1.) Ulica: Połczyńska 1.5.2.) Miejscowość: Koszalin 1.5.3.) Kod pocztowy: 75-815 1.5.4.) Województwo: zachodniopomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL426 - Koszaliński 1.5.9.) Adres poczty elektronicznej: sekretariat@zdit-koszalin.pl 1.5.10.) Adres strony internetowej zamawiającego: www.zdit-koszalin.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Przed",
+  "cpv": [
+   "71320000-7"
+  ],
+  "score": 21,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-15",
+  "hash": "ed4bea8281960c356d55166e02fd7664d6682e456c926c7dbdfb72fbe268cc8c"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Jednostki rezonansu magnetycznego – Dostawa wysokospecjalistycznej aparatury medycznej wraz z wyposażeniem i wykonaniem robót budowlanych w Szpitalu Morskim im. PCK w Gdyni w ramach projektu pn.: „Poprawa dostępności i jakości w świadczeniu usług onkologicznych poprzez przebudowę oraz rozbudowę Zakładu Diagnostyki Obrazowej w Szpitalu Morskim im. PCK w Gdyni”...",
   "url": "https://ted.europa.eu/en/notice/-/detail/626688-2026",
   "zamawiajacy": "Szpitale Pomorskie Sp. z o.o.",
@@ -5910,7 +5974,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-14",
+  "dodano": "2026-09-15",
   "hash": "8f3f925b4e7d4241c622865b67d4754c0442b70317dfb0c1aaa4966ac35f1379"
  },
  {
@@ -5960,6 +6024,29 @@
   "hash": "996b4d05c8ec97c6bf5bf6e679d8f26e4eed4c274e4fb67894f4c801864719e4"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie kompletnej wielobranżowej dokumentacji projektowej niezbędnych do realizacji inwestycji: „Modernizacja kotłowni SPZOZ w Lubartowie .....”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-0abe117b-817e-479b-9218-c9be7ec626fb",
+  "zamawiajacy": "Samodzielny Publiczny Zakład Opieki Zdrowotnejw Lubartowie",
+  "data_publikacji": "2026-09-14",
+  "termin_skladania": "2026-09-25T10:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00437277 z dnia 2026-09-15 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie kompletnej wielobranżowej dokumentacji projektowej niezbędnych do realizacji inwestycji: „Modernizacja kotłowni SPZOZ w Lubartowie .....” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Samodzielny Publiczny Zakład Opieki Zdrowotnejw Lubartowie 1.4) Krajowy Numer Identyfikacyjny: REGON 431219957 1.5) Adres zamawiającego 1.5.1.) Ulica: Cicha 14 1.5.2.) Miejscowość: Lubartów 1.5.3.) Kod pocztowy: 21-100 1.5.4.) Województwo: lubelskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL814 - Lubelski 1.5.9.) Adres poczty elektronicznej: zamowienia@spzoz-lubartow.pl 1.5.10.) Adres strony internetowej zamawiającego: https://spzoz-lubartow.pl/ 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych",
+  "cpv": [
+   "71220000-6",
+   "71221000-3",
+   "71248000-8",
+   "71320000-7"
+  ],
+  "score": 21,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-15",
+  "hash": "a863e70bae8f00f7df4e6adae1baaa5427f5eb004f5d144141f2602ec97d96bc"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Usługi opracowywania oprogramowania informatycznego – Usługa wytworzenia, dostawy oraz utrzymania systemu informatycznego propagującego dynamiczną i statyczną informację pasażerską wraz z zarządzaniem nośnikami elektronicznymi ją prezentującymi.",
   "url": "https://ted.europa.eu/en/notice/-/detail/622420-2026",
@@ -6006,7 +6093,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-14",
+  "dodano": "2026-09-15",
   "hash": "d160c1cd14cab3cadda992ea801d58c2907d201ef80e9d2790edb8c7a520ad8f"
  },
  {
@@ -6327,8 +6414,29 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-14",
+  "dodano": "2026-09-15",
   "hash": "cc7c5bfea86a44a12d01bedd29d4dad99861ecd9869986058731c9bcf51b4280"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowo-kosztorysowej dla zdania pod nazwą „ Budowa hali sportowej przy Zespole Szkół Technicznych i Licealnych Nr 2 w Grodzisku Mazowieckim ”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-fe591364-f012-4f41-973b-f671e3081fcd",
+  "zamawiajacy": "POWIAT GRODZISKI",
+  "data_publikacji": "2026-09-15",
+  "termin_skladania": "2026-09-29T10:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00438356 z dnia 2026-09-15 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowo-kosztorysowej dla zdania pod nazwą „ Budowa hali sportowej przy Zespole Szkół Technicznych i Licealnych Nr 2 w Grodzisku Mazowieckim ” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: POWIAT GRODZISKI 1.4) Krajowy Numer Identyfikacyjny: REGON 013269108 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Daleka 11a 1.5.2.) Miejscowość: Grodzisk Mazowiecki 1.5.3.) Kod pocztowy: 05-825 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL913 - Warszawski zachodni 1.5.7.) Numer telefonu: zp@powiat-grodziski.pl 1.5.8.) Numer faksu: zp@powiat-grodziski.pl 1.5.9.) Adres poczty elektronicznej: zp@powiat-grodziski.pl 1.5.10.) Adres strony internetowej zamawiającego: http://www.powiat-grodzis",
+  "cpv": [
+   "71320000-7"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-15",
+  "hash": "efe673d0baeb42223199cf94fecc1955420152d416363161a8eedb18873b5f95"
  },
  {
   "zrodlo": "ted",
@@ -6390,7 +6498,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-14",
+  "dodano": "2026-09-15",
   "hash": "99699c127fced244cf022a3270771060394774fcd9fc84531d3ed6acc5c45394"
  },
  {
@@ -6514,7 +6622,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-14",
+  "dodano": "2026-09-15",
   "hash": "8e4e6c9382f46f7daf0763055a15b31486a604e85dc3a40cec906e75fdfb57ff"
  },
  {
@@ -6571,7 +6679,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-14",
+  "dodano": "2026-09-15",
   "hash": "951c7a757ca7b49025db54225adb4f73c81adf4894848056379ba13a89d36934"
  },
  {
@@ -6592,8 +6700,57 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-14",
+  "dodano": "2026-09-15",
   "hash": "c201c5302f63573a01ec79afc74e54ee644291a9cfc2d87419f0738e7b29e26e"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Roboty budowlane w zakresie ścieżek rowerowych – Opracowanie dokumentacji projektowej i wykonanie robót budowlanych dla zadania „Budowa dróg pieszo-rowerowych wzdłuż Jeziora Żywieckiego i wzdłuż Jeziora Międzybrodzkiego na terenie Gminy Czernichów”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/634757-2026",
+  "zamawiajacy": "ZWIĄZEK MIĘDZYGMINNY D/S EKOLOGII W ŻYWCU",
+  "data_publikacji": "2026-09-15",
+  "termin_skladania": "2026-09-30T11:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "45233162",
+   "45200000",
+   "45233260",
+   "45243300",
+   "45233200",
+   "45316210",
+   "71320000",
+   "45233162",
+   "45233162",
+   "45233162",
+   "45200000",
+   "45233260",
+   "45243300",
+   "45233220",
+   "45316210",
+   "71320000",
+   "45200000",
+   "45233260",
+   "45243300",
+   "45233220",
+   "45316210",
+   "71320000",
+   "45200000",
+   "45233260",
+   "45243300",
+   "45233220",
+   "45316210",
+   "71320000"
+  ],
+  "score": 6,
+  "tagi": [
+   "cpv-71",
+   "roboty-budowlane",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-08",
+  "hash": "4173df87b2f79d25705e7a25b768b976cf756cbd94f3085a524d66a8a6d1c465"
  },
  {
   "zrodlo": "ted",
@@ -6728,34 +6885,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Roboty budowlane w zakresie wznoszenia kompletnych obiektów budowlanych lub ich części oraz roboty w zakresie inżynierii lądowej i wodnej – Wykonanie kompletnej dokumentacji projektowej oraz wykonanie na jej podstawie robót budowlanych dla zadania inwestycyjnego pn.: „Przebudowa i budowa Stadionu Lekkoatletycznego - kompleks lekkoatletyczno-piłkarski”.",
-  "url": "https://ted.europa.eu/en/notice/-/detail/603207-2026",
-  "zamawiajacy": "Gmina Otwock",
-  "data_publikacji": "2026-09-02",
-  "termin_skladania": "2026-10-01T10:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "45200000",
-   "45223000",
-   "71000000",
-   "71220000",
-   "42912300",
-   "42912100",
-   "42122000"
-  ],
-  "score": 6,
-  "tagi": [
-   "cpv-71",
-   "roboty-budowlane",
-   "samorząd",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-14",
-  "hash": "59c8f8d70495be14b0dfdaaf056eef51c93c8b9755abc2816fb7c4ca06ad528e"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Maszyny do uzdatniania ścieków – Projekt, dostawę, montaż i uruchomienie trzech wirówek dekantacyjnych wraz z niezbędnym wyposażeniem",
   "url": "https://ted.europa.eu/en/notice/-/detail/591581-2026",
   "zamawiajacy": "Wodociągi Białostockie Sp. z o.o. w Białymstoku",
@@ -6851,6 +6980,35 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "092a871d20b2d9fd511c8b6594d17efa2ede8ff142f55eeff64a0e4d9a6680e0"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Roboty budowlane w zakresie wznoszenia kompletnych obiektów budowlanych lub ich części oraz roboty w zakresie inżynierii lądowej i wodnej – Wykonanie kompletnej dokumentacji projektowej oraz wykonanie na jej podstawie robót budowlanych dla zadania inwestycyjnego pn.: „Przebudowa i budowa Stadionu Lekkoatletycznego - kompleks lekkoatletyczno-piłkarski”.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/634134-2026",
+  "zamawiajacy": "Gmina Otwock",
+  "data_publikacji": "2026-09-15",
+  "termin_skladania": "2026-10-02T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "45200000",
+   "45223000",
+   "71000000",
+   "71220000",
+   "45200000",
+   "45223000",
+   "71000000",
+   "71220000"
+  ],
+  "score": 6,
+  "tagi": [
+   "cpv-71",
+   "roboty-budowlane",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-15",
+  "hash": "bbc4b17dbfa23f37f19c4df27412e8884230281efaef35d4d15406ce7a596026"
  },
  {
   "zrodlo": "ted",
@@ -7797,6 +7955,39 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Usługi projektowania architektonicznego – „Opracowanie dokumentacji projektowej zadania pn.: „Przebudowa zagospodarowania terenu, budowa budowli ochronnej, budowy budynku przyjęć i obsługi interesantów na działce o numerze ewidencyjnym nr 37, w Warszawie przy ul. Puławskiej 148/150 - w zakresie opracowania wielobranżowej dokumentacji projektowej budowy budynku przyjęć obsługi interesantów wraz z koniecznymi przyłączami, instalacjami (...)",
+  "url": "https://ted.europa.eu/en/notice/-/detail/635130-2026",
+  "zamawiajacy": "Komenda Główna Policji",
+  "data_publikacji": "2026-09-15",
+  "termin_skladania": "2026-10-16T09:30:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71220000",
+   "71221000",
+   "71240000",
+   "71242000",
+   "71244000",
+   "71248000",
+   "71320000",
+   "71220000",
+   "71221000",
+   "71240000",
+   "71242000",
+   "71244000",
+   "71248000",
+   "71320000"
+  ],
+  "score": 21,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-15",
+  "hash": "516cc4e16572fa9413e1f0142971f30aef7480e6bbe9ed6a34a95dd3ec30ff5b"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Chłodziarki i zamrażarki – Zakup zamrażarek głębokiego zamrażania -70oC do przechowywania tkanek ludzkich wraz z instalacją, uruchomieniem oraz niezbędnymi robotami budowlanymi związanymi z przygotowaniem miejsca instalacji urządzeń.",
   "url": "https://ted.europa.eu/en/notice/-/detail/627799-2026",
   "zamawiajacy": "Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie - Państwowy Instytut Badawczy",
@@ -7874,9 +8065,9 @@
  {
   "zrodlo": "ted",
   "tytul": "Polska – Nadzór nad robotami budowlanymi – Prowadzenie nadzoru inwestorskiego dla zadania z zakresu małej retencji w górach PGL LP Nadleśnictwa Ustroń w ramach projektu pn.: „Kompleksowy projekt adaptacji lasów i leśnictwa do zmian klimatu – mała retencja oraz przeciwdziałanie erozji wodnej na terenach górskich - kontynuacja (MRG3)”",
-  "url": "https://ted.europa.eu/en/notice/-/detail/624462-2026",
+  "url": "https://ted.europa.eu/en/notice/-/detail/634637-2026",
   "zamawiajacy": "Skarb Państwa państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Ustroń",
-  "data_publikacji": "2026-09-10",
+  "data_publikacji": "2026-09-15",
   "termin_skladania": "2026-10-19T09:00:00+02:00",
   "opis": null,
   "cpv": [
@@ -7917,7 +8108,7 @@
   ],
   "status_opisu": "brak",
   "dodano": "2026-09-10",
-  "hash": "a1f5fd9f341188ab299695e4a9438847dd1c0f9351009148e9ec6e4bd5a5e6b4"
+  "hash": "8b2b3a61baa975f255e0bf0b6b863cdd0ef43cd1bce8f1b54657f35748451b0e"
  },
  {
   "zrodlo": "ted",
@@ -8079,6 +8270,31 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Usługi projektowania architektonicznego – Opracowanie wielobranżowej dokumentacji projektowo-kosztorysowej na budowę budynku regionalnej placówki opiekuńczo-terapeutycznej w Ignatkach Osiedle wraz z pełnieniem nadzoru autorskiego II",
+  "url": "https://ted.europa.eu/en/notice/-/detail/634079-2026",
+  "zamawiajacy": "Województwo Podlaskie",
+  "data_publikacji": "2026-09-15",
+  "termin_skladania": "2026-10-20T09:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71220000",
+   "71320000",
+   "71248000",
+   "71220000",
+   "71320000",
+   "71248000"
+  ],
+  "score": 15,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-15",
+  "hash": "54bc5c4ab9ce27cb540c25d1eb642f33aa336dfdb611ebf727dd688b4dc1ac0d"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Roboty budowlane – Modernizacja stacji elektroenergetycznej 110/15 kV Łososina tryb zaprojektuj i wybuduj",
   "url": "https://ted.europa.eu/en/notice/-/detail/631172-2026",
   "zamawiajacy": "TAURON Dystrybucja S. A. Oddział w Krakowie",
@@ -8162,6 +8378,54 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – ,,Wykonanie dokumentacji projektowej wraz z pełnieniem nadzoru autorskiego dla zadania pn.: Zabezpieczenie przeciwerozyjne szlaków zrywkowych - wykonanie przegród drewnianych w leśnictwach Lasek i Czerniawa w ramach projektu „Kompleksowy projekt adaptacji lasów i leśnictwa do zmian klimatu – mała retencja oraz przeciwdziałanie erozji wodnej na terenach górskich –kontynuacja (MRG3)”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/632945-2026",
+  "zamawiajacy": "Skarb Państwa PGL LP Nadleśnictwo Świeradów",
+  "data_publikacji": "2026-09-15",
+  "termin_skladania": "2026-10-23T09:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71320000",
+   "71242000",
+   "71248000",
+   "71320000",
+   "71320000",
+   "71242000",
+   "71248000",
+   "71242000",
+   "71248000"
+  ],
+  "score": 9,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-15",
+  "hash": "26c826b46903382144378b8be0d1821db25f190da95be9abe68d73f46d65e35d"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Studia wykonalności, usługi doradcze, analizy – Realizacja usługi doradczej pn. „Wspólna Analiza Komercyjna Nordycko-Bałtyckiego Korytarza Wodorowego”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/633260-2026",
+  "zamawiajacy": "Operator Gazociągów Przesyłowych GAZ-SYSTEM S.A.",
+  "data_publikacji": "2026-09-15",
+  "termin_skladania": "2026-10-29T10:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71241000",
+   "71240000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-15",
+  "hash": "2e19edad726cdf1b795cca619ff499242c0f4c7a9364b3a957ee6a0dc343b0ff"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Urządzenia do obróbki osadów – Instalacja jako element ciągu technologicznego oczyszczalni umożliwiająca uzyskanie Produktu Końcowego",
   "url": "https://ted.europa.eu/en/notice/-/detail/627017-2026",
   "zamawiajacy": "Spółka Komunalna Wschowa Sp. z o.o.",
@@ -8223,7 +8487,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-14",
+  "dodano": "2026-09-15",
   "hash": "43bdd6dc8d3e34537761c8edeb21e1a54576493c9b7a9057f6f163465cd82fc7"
  }
 ]
