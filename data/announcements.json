@@ -5891,6 +5891,29 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowo-kosztorysowej na remont i przebudowę budynków mieszkalnych – Mińska 15 i Mińska 15 oficyna",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-a0693f07-580a-4410-9880-99ae344e1c18",
+  "zamawiajacy": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Praga-Południe m. st. Warszawy",
+  "data_publikacji": "2026-09-15",
+  "termin_skladania": "2026-09-24T10:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00439428 z dnia 2026-09-15 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowo-kosztorysowej na remont i przebudowę budynków mieszkalnych – Mińska 15 i Mińska 15 oficyna SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Zakład Gospodarowania Nieruchomościami w Dzielnicy Praga-Południe m. st. Warszawy 1.4) Krajowy Numer Identyfikacyjny: REGON 015259640 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Mińska 63A 1.5.2.) Miejscowość: Warszawa 1.5.3.) Kod pocztowy: 03-828 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL911 - Miasto Warszawa 1.5.9.) Adres poczty elektronicznej: zamowienia.publiczne@zgnpragapld.pl 1.5.10.) Adres strony internetowej zamawiającego: https://zamowienia.zgnpragapld.pl/menu_powyzej_130000.html 1.6.) Rodzaj zamawiającego: Zamawiając",
+  "cpv": [
+   "71000000-8",
+   "71220000-6",
+   "71320000-7",
+   "71315210-4"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-15",
+  "hash": "eaa73111c61edfdc204e099abe13ed82af03a03f4d13c6090238bb8789a26b19"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "„Wykonanie kompleksowej dokumentacji projektowej budowlanej wraz z uzyskaniem pozwolenia na budowę zespołu budynków mieszkalnych na działkach przy ul. Kuberskiego / ul. Cmentarnej w Opolu”",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-d78073a3-34cd-42f6-9168-9aeaaec0ae2f",
   "zamawiajacy": "Opolskie Towarzystwo Budownictwa Społecznego Sp. z o.o.",
@@ -6062,6 +6085,32 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-15",
   "hash": "ed4bea8281960c356d55166e02fd7664d6682e456c926c7dbdfb72fbe268cc8c"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "WIELOBRANŻOWA DOKUMENTACJA PROJEKTOWA PRZEBUDOWY ul. Wyszogrodzkiej na odcinku od ul. Kolejowej do ronda w Sochaczewie",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-53a43d00-464d-47e6-be6c-92e4ee80c399",
+  "zamawiajacy": "GMINA MIASTO SOCHACZEW",
+  "data_publikacji": "2026-09-15",
+  "termin_skladania": "2026-09-25T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00439425 z dnia 2026-09-15 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi WIELOBRANŻOWA DOKUMENTACJA PROJEKTOWA PRZEBUDOWY ul. Wyszogrodzkiej na odcinku od ul. Kolejowej do ronda w Sochaczewie SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: GMINA MIASTO SOCHACZEW 1.4) Krajowy Numer Identyfikacyjny: REGON 750148644 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. 1 Maja 16 1.5.2.) Miejscowość: Sochaczew 1.5.3.) Kod pocztowy: 96-500 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL926 - Żyrardowski 1.5.9.) Adres poczty elektronicznej: przetargi@sochaczew.pl 1.5.10.) Adres strony internetowej zamawiającego: www.sochaczew.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Przedmiot działalności zamaw",
+  "cpv": [
+   "71320000-7",
+   "71322000-1",
+   "71322500-6",
+   "71242000-6",
+   "71248000-8"
+  ],
+  "score": 22,
+  "tagi": [
+   "bonus-ue/strategiczny",
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-15",
+  "hash": "5c68142fadb4c4241582ef2e66804bfd69fa15b19073d053d662b7ae2793d0cb"
  },
  {
   "zrodlo": "ted",
