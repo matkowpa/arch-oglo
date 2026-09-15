@@ -5204,6 +5204,29 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej na termomodernizację budynku Zespołu Szkół Budowlanych w Tarnowie",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-7d350a3a-69b2-4ee9-b746-1c086049306f",
+  "zamawiajacy": "Gmina Miasta Tarnowa - Urząd Miasta Tarnowa",
+  "data_publikacji": "2026-09-15",
+  "termin_skladania": "2026-09-23T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00438654 z dnia 2026-09-15 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej na termomodernizację budynku Zespołu Szkół Budowlanych w Tarnowie SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Miasta Tarnowa - Urząd Miasta Tarnowa 1.4) Krajowy Numer Identyfikacyjny: REGON 851661323 1.5) Adres zamawiającego 1.5.1.) Ulica: Mickiewicza 2 1.5.2.) Miejscowość: Tarnów 1.5.3.) Kod pocztowy: 33-100 1.5.4.) Województwo: małopolskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL217 - Tarnowski 1.5.9.) Adres poczty elektronicznej: k.kalita@umt.tarnow.pl 1.5.10.) Adres strony internetowej zamawiającego: https://bip.malopolska.pl/umtarnow 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Przedmiot ",
+  "cpv": [
+   "71220000-6",
+   "71320000-7",
+   "71248000-8"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-15",
+  "hash": "9a5113c8349a9249037dd9fe851b7e7f33aaba0af172911c074e0d49b593b5c1"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Opracowanie dokumentacji projektowych i kosztorysowych na „Modernizację sieci strukturalnej w budynkach ZUS Oddziału w Chorzowie przy ul. gen. Henryka Dąbrowskiego 45 oraz przy ul. Lwowskiej 2 i 2a”.",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-1d489c9c-5974-428d-92aa-cbbf7163ee09",
   "zamawiajacy": "ZAKŁAD UBEZPIECZEŃ SPOŁECZNYCH ODDZIAŁ W CHORZOWIE",
@@ -5247,6 +5270,32 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-11",
   "hash": "c83ec82917d5cd4ea90e23a5cb7be0926d384247e4d437cca854b6c3466b5667"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowej dla zadania pn. ,,Przebudowa bazy magazynowej\"",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-8ba3ad29-efbf-4b34-82f4-e9665d554531",
+  "zamawiajacy": "Gmina Hrubieszów",
+  "data_publikacji": "2026-09-15",
+  "termin_skladania": "2026-09-23T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00438697 z dnia 2026-09-15 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowej dla zadania pn. ,,Przebudowa bazy magazynowej&#34; SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Hrubieszów 1.4) Krajowy Numer Identyfikacyjny: REGON 950368782 1.5) Adres zamawiającego 1.5.1.) Ulica: B. Prusa 8 1.5.2.) Miejscowość: Hrubieszów 1.5.3.) Kod pocztowy: 22-500 1.5.4.) Województwo: lubelskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL812 - Chełmsko-zamojski 1.5.7.) Numer telefonu: (84) 696-26-81 1.5.9.) Adres poczty elektronicznej: sekretariat@hrubieszow-gmina.pl 1.5.10.) Adres strony internetowej zamawiającego: http://ughrubieszow.bip.lubelskie.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7",
+  "cpv": [
+   "71000000-8",
+   "71220000-6",
+   "71240000-2",
+   "71242000-6",
+   "71248000-8",
+   "71320000-7"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-15",
+  "hash": "a8367849ee8051df652e4ac3c8b0068dc5e9e62204705796945ea909c94250eb"
  },
  {
   "zrodlo": "bzp",
@@ -5634,6 +5683,29 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej oraz pełnienie nadzoru autorskiego dla zadania pn. „Budowa ul. Wschodniej w Gródkowie”.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-b83906fe-7b14-49f5-aa36-05582832d7ee",
+  "zamawiajacy": "URZĄD GMINY W PSARACH",
+  "data_publikacji": "2026-09-15",
+  "termin_skladania": "2026-09-24T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00438615 z dnia 2026-09-15 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej oraz pełnienie nadzoru autorskiego dla zadania pn. „Budowa ul. Wschodniej w Gródkowie”. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: URZĄD GMINY W PSARACH 1.4) Krajowy Numer Identyfikacyjny: REGON 000537243 1.5) Adres zamawiającego 1.5.1.) Ulica: Malinowicka 4 1.5.2.) Miejscowość: Psary 1.5.3.) Kod pocztowy: 42-512 1.5.4.) Województwo: śląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL22B - Sosnowiecki 1.5.9.) Adres poczty elektronicznej: urzad@psary.pl 1.5.10.) Adres strony internetowej zamawiającego: www.psary.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Przedmiot działalności zamawiającego: Ogóln",
+  "cpv": [
+   "71320000-7",
+   "71248000-8",
+   "71247000-1"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-15",
+  "hash": "93522f60f6b468d467dfa6aed75efcf3f383f53f9843cda984d46c2a2d214e66"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Pełnienie funkcji inwestora zastępczego i inspektora nadzoru inwestorskiego nad realizacją robót budowlanych w zadaniu inwestycyjnym pn. „Młode Stare Miasto w Piotrkowie Trybunalskim – etap I”",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-d59e5689-1fee-43de-affe-959e37f9a606",
   "zamawiajacy": "Miasto Piotrków Trybunalski",
@@ -5678,6 +5750,32 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-15",
   "hash": "44d900fea5525116a9f5f8c3629a5109b2d302e6f5112c4692646c1afdc78dd8"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej dla dróg gminnych w Brodnicy",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-d74e0182-9e46-4b8b-9228-63f47efb1001",
+  "zamawiajacy": "Gmina Miasta Brodnicy",
+  "data_publikacji": "2026-09-15",
+  "termin_skladania": "2026-09-24T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00438454 z dnia 2026-09-15 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej dla dróg gminnych w Brodnicy SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Miasta Brodnicy 1.4) Krajowy Numer Identyfikacyjny: REGON 871118371 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Kamionka 23 1.5.2.) Miejscowość: Brodnica 1.5.3.) Kod pocztowy: 87-300 1.5.4.) Województwo: kujawsko-pomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL616 - Grudziądzki 1.5.9.) Adres poczty elektronicznej: umb@brodnica.pl 1.5.10.) Adres strony internetowej zamawiającego: http://bip.brodnica.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Przedmiot działalności zamawiającego: Ogólne usługi publiczne SEKCJA II – I",
+  "cpv": [
+   "71320000-7",
+   "71330000-0",
+   "71250000-5",
+   "71222000-0",
+   "71351910-5",
+   "71332000-4"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-15",
+  "hash": "5dfbf0a4d3465de2b4ddf6a5b166af3eb3b15ef422af5c5ddf5c8919fde2431a"
  },
  {
   "zrodlo": "bzp",
@@ -5900,7 +5998,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-14",
+  "dodano": "2026-09-15",
   "hash": "ef853998a7e8747962ffcdde8759c21f65f897b8032074ce4341009e5e4ac843"
  },
  {
@@ -6521,6 +6619,25 @@
   "hash": "eaff4d766d899a0101fe97ea660515768467216447399f995c3d4449c7c5e64a"
  },
  {
+  "zrodlo": "bip:tauron",
+  "tytul": "KPO Dostawa fabrycznie nowych kabli elektroenergetycznych i sterowniczych w wykonaniu opancerzonym, przygotowanych w dokładnie określonych, konfekcjonowanych odcinkach dla TAURON Dystrybucja S.A. Oddział w Wałbrzychu.",
+  "url": "https://swoz.tauron.pl/platform/demand/notice/public/current/list",
+  "zamawiajacy": "TAURON Dystrybucja S.A.",
+  "data_publikacji": "2026-09-15",
+  "termin_skladania": "2026-09-30 12:00",
+  "opis": null,
+  "cpv": [],
+  "score": 3,
+  "tagi": [
+   "bonus-ue/strategiczny",
+   "giełdowa",
+   "spolka-sp"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-15",
+  "hash": "804782ef6e0baed52cf7f6499c95920333378cbbc437b7d43e6ca851f82d5314"
+ },
+ {
   "zrodlo": "bzp",
   "tytul": "Opracowanie dokumentacji projektowo-kosztorysowej budynku siedziby Nadleśnictwa Chrzanów",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-50b590b3-e169-40b4-aafe-d8448890ea8c",
@@ -6749,7 +6866,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-08",
+  "dodano": "2026-09-15",
   "hash": "4173df87b2f79d25705e7a25b768b976cf756cbd94f3085a524d66a8a6d1c465"
  },
  {
@@ -6920,6 +7037,25 @@
   "status_opisu": "brak",
   "dodano": "2026-08-31",
   "hash": "efcd248f588fee6c28d146f41be07b166aa5961ce3549aeeb57233766d768e3c"
+ },
+ {
+  "zrodlo": "bip:tauron",
+  "tytul": "Zadanie 1 - Modernizacja stacji 110/15kV Borowe Pole\nZadanie 2 - Opracowanie dokumentacji projektowej oraz realizacja robót budowlano-montażowych dla zadania \"Wymiana TR2 na jednostkę 25 MVA w GPZ Borowe Pole dla zasilania farmy fotowoltaicznej wraz z magazynem energii elektrycznej w Zawierciu przy ul. Podmiejskiej\"",
+  "url": "https://swoz.tauron.pl/platform/demand/notice/public/current/list",
+  "zamawiajacy": "TAURON Dystrybucja S.A.",
+  "data_publikacji": "2026-09-15",
+  "termin_skladania": "2026-10-02 09:00",
+  "opis": null,
+  "cpv": [],
+  "score": 8,
+  "tagi": [
+   "giełdowa",
+   "spolka-sp",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-15",
+  "hash": "8ac208f43c5df22daa371a660c1f6aa8c05c02729bac3a7b7ef243cbbd48ad84"
  },
  {
   "zrodlo": "ted",
