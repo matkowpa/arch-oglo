@@ -5868,6 +5868,26 @@
   "hash": "df4525cbd3f45ae0b5368ba32b35a8124801b6c85d7b19927e16e82c35a2aa28"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "„Wykonanie kompleksowej dokumentacji projektowej budowlanej wraz z uzyskaniem pozwolenia na budowę zespołu budynków mieszkalnych na działkach przy ul. Kuberskiego / ul. Cmentarnej w Opolu”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-d78073a3-34cd-42f6-9168-9aeaaec0ae2f",
+  "zamawiajacy": "Opolskie Towarzystwo Budownictwa Społecznego Sp. z o.o.",
+  "data_publikacji": "2026-09-15",
+  "termin_skladania": "2026-09-24T10:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00439158 z dnia 2026-09-15 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi „Wykonanie kompleksowej dokumentacji projektowej budowlanej wraz z uzyskaniem pozwolenia na budowę zespołu budynków mieszkalnych na działkach przy ul. Kuberskiego / ul. Cmentarnej w Opolu” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Opolskie Towarzystwo Budownictwa Społecznego Sp. z o.o. 1.3.) Oddział zamawiającego: TBS Opole 1.4) Krajowy Numer Identyfikacyjny: REGON 531308741 1.5) Adres zamawiającego 1.5.1.) Ulica: Hallera 9A 1.5.2.) Miejscowość: Opole 1.5.3.) Kod pocztowy: 45-867 1.5.4.) Województwo: opolskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL524 - Opolski 1.5.9.) Adres poczty elektronicznej: sekretariat@otbs.opole.pl 1.5.10.) Adres strony internetowej zamawiającego: www.otbs.opole.pl 1.6.) Rodzaj zamawiającego: Za",
+  "cpv": [
+   "71220000-6"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-15",
+  "hash": "a39d0a165efd354beff0e087c275c9d2ff4a09fa5f52e7cf97ae716bf02a3424"
+ },
+ {
   "zrodlo": "bip:tauron",
   "tytul": "145/2026/RZ1 - Opracowanie dokumentacji projektowej i wykonanie robót budowlano-montażowych dla zadania pod nazwą: „Przebudowa sieci niskiego napięcia zasilanej z JGB 74501 obwód L-2 i z JGB 57001 obwód L-3 w m. Bożejowice - (KZ JG 001853/25)",
   "url": "https://swoz.tauron.pl/platform/demand/notice/public/current/list",
@@ -6636,6 +6656,32 @@
   "status_opisu": "brak",
   "dodano": "2026-09-15",
   "hash": "804782ef6e0baed52cf7f6499c95920333378cbbc437b7d43e6ca851f82d5314"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej wraz z rewitalizacją placu zabaw przy ul. Siedmiogrodzkiej 11 w Warszawie",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-dca3c5b9-ef93-4fe3-a551-15ea10ad5289",
+  "zamawiajacy": "\"ZAKŁAD GOSPODAROWANIA NIERUCHOMOŚCIAMI W DZIELNICY WOLA M.ST. WARSZAWY\"",
+  "data_publikacji": "2026-09-15",
+  "termin_skladania": "2026-09-30T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00438859 z dnia 2026-09-15 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Roboty budowlane Opracowanie dokumentacji projektowej wraz z rewitalizacją placu zabaw przy ul. Siedmiogrodzkiej 11 w Warszawie SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: &#34;ZAKŁAD GOSPODAROWANIA NIERUCHOMOŚCIAMI W DZIELNICY WOLA M.ST. WARSZAWY&#34; 1.4) Krajowy Numer Identyfikacyjny: REGON 000665840 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Józefa Bema 70 1.5.2.) Miejscowość: Warszawa 1.5.3.) Kod pocztowy: 01-225 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL911 - Miasto Warszawa 1.5.9.) Adres poczty elektronicznej: a.mazur@zgnwola.waw.pl 1.5.10.) Adres strony internetowej zamawiającego: https://wola.um.warszawa.pl/waw/zgn-wola 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora ",
+  "cpv": [
+   "71320000-7",
+   "71248000-8",
+   "45000000-7",
+   "37535200-9",
+   "43325000-7",
+   "45112723-9"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "roboty-budowlane",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-15",
+  "hash": "65e718881ab2c6608e0ea5cf796560d668bd07954b4f70676e576fcdedca7815"
  },
  {
   "zrodlo": "bzp",
@@ -7526,6 +7572,34 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "66b014e64c809f8913e5684c41c9bd037832dc294bfdda9682a05670c8b5b26e"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "„Opracowanie kompletnej wielobranżowej dokumentacji projektowej, niezbędnej do przeprowadzenia modernizacji strzelnicy kulowej Wariant III strzelnica 200m wersja rozbudowana”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-48976298-9962-45ac-8819-b118c0662b85",
+  "zamawiajacy": "Powiat Olsztyński",
+  "data_publikacji": "2026-09-15",
+  "termin_skladania": "2026-10-08T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00438927 z dnia 2026-09-15 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi „Opracowanie kompletnej wielobranżowej dokumentacji projektowej, niezbędnej do przeprowadzenia modernizacji strzelnicy kulowej Wariant III strzelnica 200m wersja rozbudowana” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Powiat Olsztyński 1.4) Krajowy Numer Identyfikacyjny: REGON 510742669 1.5) Adres zamawiającego 1.5.1.) Ulica: Plac Bema 5 1.5.2.) Miejscowość: Olsztyn 1.5.3.) Kod pocztowy: 10-516 1.5.4.) Województwo: warmińsko-mazurskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL622 - Olsztyński 1.5.9.) Adres poczty elektronicznej: zamowienia@powiat-olsztynski.pl 1.5.10.) Adres strony internetowej zamawiającego: https://www.powiat-olsztynski.pl/ 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów pub",
+  "cpv": [
+   "71220000-6",
+   "71240000-2",
+   "71400000-2",
+   "71320000-7",
+   "71221000-3",
+   "71248000-8",
+   "71242000-6",
+   "71317000-3"
+  ],
+  "score": 20,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-15",
+  "hash": "49354f15ea98b4fea4ee6a2a3b317a2c2c7f4ad54768494e95ec03dd4bc3c128"
  },
  {
   "zrodlo": "ted",
