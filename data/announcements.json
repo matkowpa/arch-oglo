@@ -3499,66 +3499,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Nadzór nad robotami budowlanymi – Pełnienie nadzoru inwestorskiego nad realizacją robót budowlanych w ramach zadania inwestycyjnego pn. „Przebudowa w celu poprawy efektywności energetycznej budynku Urzędu Skarbowego w Lubaczowie przy ul. Jana III Sobieskiego 6”.",
-  "url": "https://ted.europa.eu/en/notice/-/detail/571081-2026",
-  "zamawiajacy": "Izba Administracji Skarbowej w Rzeszowie",
-  "data_publikacji": "2026-08-18",
-  "termin_skladania": "2026-09-17T10:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71247000",
-   "71540000",
-   "71520000",
-   "71248000",
-   "71244000",
-   "71700000",
-   "71247000",
-   "71540000",
-   "71520000",
-   "71248000",
-   "71244000",
-   "71700000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": null,
-  "hash": "0d3d7dccd565b17e1edf002be58d6f70926e7b53ca71f3a11ec68699afdd7fa3"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Nadzór nad robotami budowlanymi – Pełnienie nadzoru inwestorskiego nad realizacją robót budowlanych w ramach zadania inwestycyjnego pn. „Przebudowa w celu poprawy efektywności energetycznej budynku Urzędu Skarbowego w Tarnobrzegu przy ul. Wyspiańskiego 12\"",
-  "url": "https://ted.europa.eu/en/notice/-/detail/570168-2026",
-  "zamawiajacy": "Izba Administracji Skarbowej w Rzeszowie",
-  "data_publikacji": "2026-08-18",
-  "termin_skladania": "2026-09-17T10:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71247000",
-   "71540000",
-   "71520000",
-   "71248000",
-   "71244000",
-   "71700000",
-   "71247000",
-   "71540000",
-   "71520000",
-   "71248000",
-   "71244000",
-   "71700000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": null,
-  "hash": "7d1d53849c57165e1dd813aec1114f035db1707e200d6b814e84d12665010ec0"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Urządzenia do tomografii – Zakup tomografu komputerowego z oprogramowaniem kardiologicznym wraz z dostosowaniem infrastruktury",
   "url": "https://ted.europa.eu/en/notice/-/detail/626854-2026",
   "zamawiajacy": "Samodzielny Publiczny ZOZ Wojewódzki Szpital Zespolony im. Jędrzeja Śniadeckiego w Białymstoku",
@@ -3887,71 +3827,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Roboty budowlane – Zaprojektowanie (w zakresie branży srk) i kompleksowe wykonanie robót budowlanych na linii kolejowej nr 623 i nr 628 na odcinku I+K podg. Fornale – Szczyrzyc i podg. Porąbka – podg. Stróża w ramach Projektu pn. „Budowa nowej linii kolejowej Podłęże – Szczyrzyc – Tymbark / Mszana Dolna oraz modernizacja istniejącej linii kolejowej nr 104 Chabówka – Nowy Sącz – Etap II”",
-  "url": "https://ted.europa.eu/en/notice/-/detail/596809-2026",
-  "zamawiajacy": "PKP Polskie Linie Kolejowe S.A.",
-  "data_publikacji": "2026-08-31",
-  "termin_skladania": "2026-09-18T10:00:00+01:00",
-  "opis": null,
-  "cpv": [
-   "45000000",
-   "71322000",
-   "30000000",
-   "32000000",
-   "48000000",
-   "45233100",
-   "45200000",
-   "30200000",
-   "32500000",
-   "48200000",
-   "48600000",
-   "48800000",
-   "45100000",
-   "45230000",
-   "30210000",
-   "30230000",
-   "32410000",
-   "32420000",
-   "32430000",
-   "34000000",
-   "34600000",
-   "34630000",
-   "34632000",
-   "48810000",
-   "48820000",
-   "45220000",
-   "45240000",
-   "45110000",
-   "45234000",
-   "45234100",
-   "45234113",
-   "45234116",
-   "45234115",
-   "45310000",
-   "45311000",
-   "45314300",
-   "45314310",
-   "71000000",
-   "71300000",
-   "71320000",
-   "32400000",
-   "45300000",
-   "45232300",
-   "45231400",
-   "45000000"
-  ],
-  "score": 4,
-  "tagi": [
-   "bonus-ue/strategiczny",
-   "cpv-71",
-   "roboty-budowlane"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-02",
-  "hash": "7efaed440e718afa009d7ff22c3310f8a9537604b351de2d71b782c1600d8fca"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Przygotowanie przedsięwzięcia i projektu, oszacowanie kosztów – „Umowa ramowa na opracowanie dokumentacji projektowych”",
   "url": "https://ted.europa.eu/en/notice/-/detail/621854-2026",
   "zamawiajacy": "Operator Gazociągów Przesyłowych GAZ-SYSTEM S.A.",
@@ -4011,70 +3886,6 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "df051ace388539e96af367c5446b5861d38ab294775a4a84cbd87cb895086bc8"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Urządzenia audiowizualne – Aranżacja i wykonanie tras turystycznych w podziemiach Sztolni Królowa Luiza.",
-  "url": "https://ted.europa.eu/en/notice/-/detail/625170-2026",
-  "zamawiajacy": "Muzeum Górnictwa Węglowego w Zabrzu",
-  "data_publikacji": "2026-09-10",
-  "termin_skladania": "2026-09-18T10:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "32321200",
-   "32322000",
-   "39154000",
-   "39290000",
-   "30200000",
-   "31000000",
-   "32321300",
-   "32342410",
-   "32353000",
-   "32573000",
-   "42961000",
-   "48000000",
-   "45311000",
-   "45314000",
-   "51000000",
-   "51110000",
-   "71321000",
-   "71320000",
-   "72212520",
-   "79930000",
-   "79950000",
-   "92110000",
-   "92312000",
-   "32321200",
-   "32322000",
-   "39154000",
-   "39290000",
-   "30200000",
-   "31000000",
-   "32321300",
-   "32342410",
-   "32353000",
-   "32573000",
-   "42961000",
-   "48000000",
-   "45311000",
-   "45314000",
-   "51000000",
-   "51110000",
-   "71321000",
-   "71320000",
-   "72212520",
-   "79930000",
-   "79950000",
-   "92110000",
-   "92312000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-13",
-  "hash": "3a551b3f151081fd896867e4d711a154934cc779a3f63a201d000ab431bb66be"
  },
  {
   "zrodlo": "ted",
@@ -4181,28 +3992,6 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "4283cabcfc7dd011c755c1892f36e03b24662de65dfb30b32616ee5c0e255414"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Usługi projektowania architektonicznego – Konkurs studialno-realizacyjny na koncepcję \"Gliwickiego Kwartału Kultury\" w Gliwicach",
-  "url": "https://ted.europa.eu/en/notice/-/detail/592209-2026",
-  "zamawiajacy": "Miasto Gliwice",
-  "data_publikacji": "2026-08-27",
-  "termin_skladania": "2026-09-18T13:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71220000",
-   "71322000",
-   "71420000",
-   "71220000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": null,
-  "hash": "e0ff08373d39c58aded120a387c91fef27df862877f0f11e35d27cf9c98a4be0"
  },
  {
   "zrodlo": "bzp",
@@ -4676,7 +4465,7 @@
    "bonus-ue/strategiczny"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-15",
+  "dodano": "2026-09-16",
   "hash": "9265f7748bfc965268a4f297e92e356e78e6218d7c6938734677ed2d36aa5fe0"
  },
  {
@@ -4994,36 +4783,6 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-09",
   "hash": "6ee151069d7902d48d7bcd1ddc78e67205e5a9988b346d4fc72f17cf957fa5e2"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Nadzór nad robotami budowlanymi – Pełnienie nadzoru inwestorskiego nad realizacją robót budowlanych w ramach zadania inwestycyjnego pn. „Przebudowa w celu poprawy efektywności energetycznej budynku Urzędu Skarbowego w Krośnie”.",
-  "url": "https://ted.europa.eu/en/notice/-/detail/570009-2026",
-  "zamawiajacy": "Izba Administracji Skarbowej w Rzeszowie",
-  "data_publikacji": "2026-08-18",
-  "termin_skladania": "2026-09-22T10:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71247000",
-   "71540000",
-   "71520000",
-   "71248000",
-   "71244000",
-   "71700000",
-   "71247000",
-   "71540000",
-   "71520000",
-   "71248000",
-   "71244000",
-   "71700000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": null,
-  "hash": "cb7a0dc9262e1ed06b0e3712c38cbc76b28cc2920a3f67e2e7e211993d726396"
  },
  {
   "zrodlo": "ted",
@@ -5732,6 +5491,25 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Sprawowanie nadzoru inwestorskiego nad realizacją zadań w zakresie projektu „Adaptacja do zmian klimatu na terenie miasta Bielska-Białej” FENX.01.02-IW.01-0014/23",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-df251f39-50bd-4886-b23c-5e45f0f734e3",
+  "zamawiajacy": "Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej",
+  "data_publikacji": "2026-09-16",
+  "termin_skladania": "2026-09-24T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00440114 z dnia 2026-09-16 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Sprawowanie nadzoru inwestorskiego nad realizacją zadań w zakresie projektu „Adaptacja do zmian klimatu na terenie miasta Bielska-Białej” FENX.01.02-IW.01-0014/23 SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej 1.4) Krajowy Numer Identyfikacyjny: REGON 072181741 1.5) Adres zamawiającego 1.5.1.) Ulica: pl. Ratuszowy 1 1.5.2.) Miejscowość: Bielsko-Biała 1.5.3.) Kod pocztowy: 43-300 1.5.4.) Województwo: śląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL225 - Bielski 1.5.9.) Adres poczty elektronicznej: zp@um.bielsko-biala.pl 1.5.10.) Adres strony internetowej zamawiającego: www.um.bielsko.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych",
+  "cpv": [
+   "71248000-8"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-16",
+  "hash": "3dcdff1ae3e6ee08651a7b7f7814591407f035e51cada630c047bf65851a30e2"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Dostawa i montaż bateryjnych magazynów energii elektrycznej",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-00bfcf1f-478d-4d31-a1bc-9059630a673e",
   "zamawiajacy": "SAMODZIELNY ZESPÓŁ PUBLICZNYCH ZAKŁADÓW LECZNICTWA OTWARTEGO WARSZAWA BIAŁOŁĘKA-TARGÓWEK",
@@ -6063,7 +5841,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-15",
+  "dodano": "2026-09-16",
   "hash": "ef853998a7e8747962ffcdde8759c21f65f897b8032074ce4341009e5e4ac843"
  },
  {
@@ -6085,6 +5863,30 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-15",
   "hash": "ed4bea8281960c356d55166e02fd7664d6682e456c926c7dbdfb72fbe268cc8c"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowo - kosztorysowej dla zadania inwestycyjnego pn.: „Rozbudowa drogi powiatowej Nr 3250L Topornica – stacja kolejowa Zwierzyniec (opracowanie dokumentacji projektowej)”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-6e6bf23a-8107-4140-8c8b-a85238dfbb0c",
+  "zamawiajacy": "Zarząd Dróg Powiatowych w Zamościu",
+  "data_publikacji": "2026-09-16",
+  "termin_skladania": "2026-09-25T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00440333 z dnia 2026-09-16 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowo - kosztorysowej dla zadania inwestycyjnego pn.: „Rozbudowa drogi powiatowej Nr 3250L Topornica – stacja kolejowa Zwierzyniec (opracowanie dokumentacji projektowej)” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Zarząd Dróg Powiatowych w Zamościu 1.4) Krajowy Numer Identyfikacyjny: REGON 950371749 1.5) Adres zamawiającego 1.5.1.) Ulica: Szczebrzeska 69 1.5.2.) Miejscowość: Zamość 1.5.3.) Kod pocztowy: 22-400 1.5.4.) Województwo: lubelskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL812 - Chełmsko-zamojski 1.5.7.) Numer telefonu: 84 6396332 1.5.9.) Adres poczty elektronicznej: biuro@zdp.zamosc.pl 1.5.10.) Adres strony internetowej zamawiającego: www.bip.zdp.zamosc.pl 1.6.) Rodzaj zamawiającego: ",
+  "cpv": [
+   "71220000-6",
+   "71320000-7",
+   "71322000-1"
+  ],
+  "score": 4,
+  "tagi": [
+   "bonus-ue/strategiczny",
+   "cpv-71",
+   "drogi",
+   "samorząd"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-16",
+  "hash": "36fd52f3ffbfba3144a789f2414d125be78e45385d952690ee1cb2a048b0ddcd"
  },
  {
   "zrodlo": "bzp",
@@ -6163,8 +5965,68 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-15",
+  "dodano": "2026-09-16",
   "hash": "8f3f925b4e7d4241c622865b67d4754c0442b70317dfb0c1aaa4966ac35f1379"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Nadzór nad robotami budowlanymi – Pełnienie nadzoru inwestorskiego nad realizacją robót budowlanych w ramach zadania inwestycyjnego pn. „Przebudowa w celu poprawy efektywności energetycznej budynku Urzędu Skarbowego w Lubaczowie przy ul. Jana III Sobieskiego 6”.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/636475-2026",
+  "zamawiajacy": "Izba Administracji Skarbowej w Rzeszowie",
+  "data_publikacji": "2026-09-16",
+  "termin_skladania": "2026-09-25T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71247000",
+   "71540000",
+   "71520000",
+   "71248000",
+   "71244000",
+   "71700000",
+   "71247000",
+   "71540000",
+   "71520000",
+   "71248000",
+   "71244000",
+   "71700000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-16",
+  "hash": "b4f8641d8e83c293e1c532481770fb0d6fb153d04ae6a83fa5aaf24fd861f49b"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Nadzór nad robotami budowlanymi – Pełnienie nadzoru inwestorskiego nad realizacją robót budowlanych w ramach zadania inwestycyjnego pn. „Przebudowa w celu poprawy efektywności energetycznej budynku Urzędu Skarbowego w Tarnobrzegu przy ul. Wyspiańskiego 12\"",
+  "url": "https://ted.europa.eu/en/notice/-/detail/638584-2026",
+  "zamawiajacy": "Izba Administracji Skarbowej w Rzeszowie",
+  "data_publikacji": "2026-09-16",
+  "termin_skladania": "2026-09-25T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71247000",
+   "71540000",
+   "71520000",
+   "71248000",
+   "71244000",
+   "71700000",
+   "71247000",
+   "71540000",
+   "71520000",
+   "71248000",
+   "71244000",
+   "71700000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-16",
+  "hash": "3a56cb3e6b4b9b6800ef889501c6d67cc51318872926436c23754ee540e4a45e"
  },
  {
   "zrodlo": "ted",
@@ -6286,6 +6148,70 @@
   "hash": "d160c1cd14cab3cadda992ea801d58c2907d201ef80e9d2790edb8c7a520ad8f"
  },
  {
+  "zrodlo": "ted",
+  "tytul": "Polska – Urządzenia audiowizualne – Aranżacja i wykonanie tras turystycznych w podziemiach Sztolni Królowa Luiza.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/639066-2026",
+  "zamawiajacy": "Muzeum Górnictwa Węglowego w Zabrzu",
+  "data_publikacji": "2026-09-16",
+  "termin_skladania": "2026-09-25T17:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "32321200",
+   "32322000",
+   "39154000",
+   "39290000",
+   "30200000",
+   "31000000",
+   "32321300",
+   "32342410",
+   "32353000",
+   "32573000",
+   "42961000",
+   "48000000",
+   "45311000",
+   "45314000",
+   "51000000",
+   "51110000",
+   "71321000",
+   "71320000",
+   "72212520",
+   "79930000",
+   "79950000",
+   "92110000",
+   "92312000",
+   "32321200",
+   "32322000",
+   "39154000",
+   "39290000",
+   "30200000",
+   "31000000",
+   "32321300",
+   "32342410",
+   "32353000",
+   "32573000",
+   "42961000",
+   "48000000",
+   "45311000",
+   "45314000",
+   "51000000",
+   "51110000",
+   "71321000",
+   "71320000",
+   "72212520",
+   "79930000",
+   "79950000",
+   "92110000",
+   "92312000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-13",
+  "hash": "766ad592e5915ec8dbc763d7320ebfe6a57095ac938e5943d5a10f1a3306e607"
+ },
+ {
   "zrodlo": "bip:tauron",
   "tytul": "150/2026/RZ1 - Opracowanie dokumentacji projektowej i wykonanie robót budowlano-montażowych dla zadania pod nazwą: Przebudowa linii napowietrznych nN w miejscowości Nielestno stacja JGB10802 obwód L-2, L-5 - (KZ JG/000144/26)",
   "url": "https://swoz.tauron.pl/platform/demand/notice/public/current/list",
@@ -6324,6 +6250,32 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-11",
   "hash": "c37ac109d2403ba457b5bdf5f87695ede8af8688cbc831e02d2d716e53e04a0d"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "138/Cir/26/KK/PMP_Opracowanie dokumentacji projektowej zadania inwestycyjnego pn.:”Obiekt ul. Iwicka - Przebudowa pomieszczeń na potrzeby hali technik i taktyk interwencji policyjnych.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-2ef38ad1-764b-4b53-9ff6-c59e6c776229",
+  "zamawiajacy": "Komenda Główna Policji",
+  "data_publikacji": "2026-09-16",
+  "termin_skladania": "2026-09-28T07:45:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00440286 z dnia 2026-09-16 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi 138/Cir/26/KK/PMP_Opracowanie dokumentacji projektowej zadania inwestycyjnego pn.:”Obiekt ul. Iwicka - Przebudowa pomieszczeń na potrzeby hali technik i taktyk interwencji policyjnych. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Komenda Główna Policji 1.4) Krajowy Numer Identyfikacyjny: REGON 012137497 1.5) Adres zamawiającego 1.5.1.) Ulica: Puławska 148/150 1.5.2.) Miejscowość: Warszawa 1.5.3.) Kod pocztowy: 02-624 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL911 - Miasto Warszawa 1.5.9.) Adres poczty elektronicznej: zamowieniakgp@policja.gov.pl 1.5.10.) Adres strony internetowej zamawiającego: www.policja.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicz",
+  "cpv": [
+   "71220000-6",
+   "71221000-3",
+   "71240000-2",
+   "71242000-6",
+   "71244000-0",
+   "71248000-8",
+   "71320000-7"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-16",
+  "hash": "f0cb8a45202a6508dbc6ab58178ca9d5e7dc469af26fd1df80d1d012c6459cbf"
  },
  {
   "zrodlo": "bzp",
@@ -6392,6 +6344,36 @@
   "status_opisu": "brak",
   "dodano": "2026-09-10",
   "hash": "f6f7922a3c1f0fcb6e793dd94275bb07f19ef303aee6764cf6d1aa08d3ae0a0a"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Nadzór nad robotami budowlanymi – Pełnienie nadzoru inwestorskiego nad realizacją robót budowlanych w ramach zadania inwestycyjnego pn. „Przebudowa w celu poprawy efektywności energetycznej budynku Urzędu Skarbowego w Krośnie”.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/639109-2026",
+  "zamawiajacy": "Izba Administracji Skarbowej w Rzeszowie",
+  "data_publikacji": "2026-09-16",
+  "termin_skladania": "2026-09-28T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71247000",
+   "71540000",
+   "71520000",
+   "71248000",
+   "71244000",
+   "71700000",
+   "71247000",
+   "71540000",
+   "71520000",
+   "71248000",
+   "71244000",
+   "71700000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-16",
+  "hash": "7d3028aca4c15111a28e1c3225662d7b36fadbcf090a6c3a5c0f1f4c150c2685"
  },
  {
   "zrodlo": "ted",
@@ -6513,6 +6495,28 @@
   "hash": "4c04f324ceaede2e35d59036c6891bcbb0bd4bc2813e10ef5ed5e26784b05905"
  },
  {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi projektowania architektonicznego – Konkurs studialno-realizacyjny na koncepcję \"Gliwickiego Kwartału Kultury\" w Gliwicach",
+  "url": "https://ted.europa.eu/en/notice/-/detail/638820-2026",
+  "zamawiajacy": "Miasto Gliwice",
+  "data_publikacji": "2026-09-16",
+  "termin_skladania": "2026-09-28T13:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71220000",
+   "71322000",
+   "71420000",
+   "71220000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-16",
+  "hash": "6f37057b2e63f5476d60e371da3788b559123bfcbc7ef5c62251acfcfca23d08"
+ },
+ {
   "zrodlo": "bzp",
   "tytul": "Prace projektowe dla zadania pn.: \"Budowa Dolnośląskiej Cyklostrady - Trasa Kolej na rowery na terenie gminy Gromadka\"",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-9992efe0-e807-43e2-ac9a-b01c543478ba",
@@ -6532,6 +6536,26 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-11",
   "hash": "3ce340c894a93695601423d0b3d31a36f41b0314a2814a7b95872cf7162de398"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Usługa opracowania dokumentacji projektowo-kosztorysowej dla zadania „Przebudowa lokali mieszkalnych z likwidacją źródeł niskiej emisji - IV etap\"",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-d258dda2-6cb8-4983-ab9d-14ad351c64e9",
+  "zamawiajacy": "MIEJSKI ZESPÓŁ GOSPODARKI LOKALOWEJ I ADMINISTRACJI",
+  "data_publikacji": "2026-09-16",
+  "termin_skladania": "2026-09-29T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00440596 z dnia 2026-09-16 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Usługa opracowania dokumentacji projektowo-kosztorysowej dla zadania „Przebudowa lokali mieszkalnych z likwidacją źródeł niskiej emisji - IV etap&#34; SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: MIEJSKI ZESPÓŁ GOSPODARKI LOKALOWEJ I ADMINISTRACJI 1.4) Krajowy Numer Identyfikacyjny: REGON 271216856 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Floriana 4 1.5.2.) Miejscowość: Knurów 1.5.3.) Kod pocztowy: 44-190 1.5.4.) Województwo: śląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL229 - Gliwicki 1.5.9.) Adres poczty elektronicznej: k.posmyk@mzglia.pl 1.5.10.) Adres strony internetowej zamawiającego: www.mzglia.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - samorządowy zakład budże",
+  "cpv": [
+   "71220000-6"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-16",
+  "hash": "2064b6239961fad1191d9deb8800e80cc7936cd341855574351723a4e9304231"
  },
  {
   "zrodlo": "bzp",
@@ -6603,7 +6627,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-15",
+  "dodano": "2026-09-16",
   "hash": "cc7c5bfea86a44a12d01bedd29d4dad99861ecd9869986058731c9bcf51b4280"
  },
  {
@@ -6687,7 +6711,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-15",
+  "dodano": "2026-09-16",
   "hash": "99699c127fced244cf022a3270771060394774fcd9fc84531d3ed6acc5c45394"
  },
  {
@@ -6856,7 +6880,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-15",
+  "dodano": "2026-09-16",
   "hash": "8e4e6c9382f46f7daf0763055a15b31486a604e85dc3a40cec906e75fdfb57ff"
  },
  {
@@ -6913,7 +6937,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-15",
+  "dodano": "2026-09-16",
   "hash": "951c7a757ca7b49025db54225adb4f73c81adf4894848056379ba13a89d36934"
  },
  {
@@ -6934,7 +6958,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-15",
+  "dodano": "2026-09-16",
   "hash": "c201c5302f63573a01ec79afc74e54ee644291a9cfc2d87419f0738e7b29e26e"
  },
  {
@@ -6983,7 +7007,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-15",
+  "dodano": "2026-09-16",
   "hash": "4173df87b2f79d25705e7a25b768b976cf756cbd94f3085a524d66a8a6d1c465"
  },
  {
@@ -7065,6 +7089,33 @@
   "status_opisu": "brak",
   "dodano": "2026-09-14",
   "hash": "fb858bd55fdebea096e12df7232c50ea719a6f48ab71e4c3666dbcea0ab921fc"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Usługa pełnienia nadzoru inwestorskiego dla zadania: Kompleksowa modernizacja dachu tzw. \"Szpitalika Rogera\" - budynku biurowego Oddziału Biura ZPKWŚ w Rudach.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-30feb79e-6dd4-438a-92c0-2abe80e049c0",
+  "zamawiajacy": "Zespół Parków Krajobrazowych Województwa Śląskiego",
+  "data_publikacji": "2026-09-16",
+  "termin_skladania": "2026-10-01T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00440398 z dnia 2026-09-16 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Usługa pełnienia nadzoru inwestorskiego dla zadania: Kompleksowa modernizacja dachu tzw. &#34;Szpitalika Rogera&#34; - budynku biurowego Oddziału Biura ZPKWŚ w Rudach. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Zespół Parków Krajobrazowych Województwa Śląskiego 1.4) Krajowy Numer Identyfikacyjny: REGON 276711980 1.5) Adres zamawiającego 1.5.1.) Ulica: Ignacego Krasickiego 25 1.5.2.) Miejscowość: Będzin 1.5.3.) Kod pocztowy: 42-500 1.5.4.) Województwo: śląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL22B - Sosnowiecki 1.5.7.) Numer telefonu: 32 267 44 82 1.5.9.) Adres poczty elektronicznej: biurozpk@zpk.com.pl 1.5.10.) Adres strony internetowej zamawiającego: www.zpk.com.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny ",
+  "cpv": [
+   "71247000-1",
+   "71000000-8",
+   "71248000-8",
+   "71310000-4",
+   "71500000-3",
+   "71520000-9",
+   "71521000-6",
+   "71530000-2",
+   "71541000-2"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-16",
+  "hash": "525243b55f06083a44eaa5ef8787567f7f67c958b9c80704612a1e323d607769"
  },
  {
   "zrodlo": "ted",
@@ -7260,7 +7311,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-15",
+  "dodano": "2026-09-16",
   "hash": "bbc4b17dbfa23f37f19c4df27412e8884230281efaef35d4d15406ce7a596026"
  },
  {
@@ -8269,6 +8320,71 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Roboty budowlane – Zaprojektowanie (w zakresie branży srk) i kompleksowe wykonanie robót budowlanych na linii kolejowej nr 623 i nr 628 na odcinku I+K podg. Fornale – Szczyrzyc i podg. Porąbka – podg. Stróża w ramach Projektu pn. „Budowa nowej linii kolejowej Podłęże – Szczyrzyc – Tymbark / Mszana Dolna oraz modernizacja istniejącej linii kolejowej nr 104 Chabówka – Nowy Sącz – Etap II”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/638934-2026",
+  "zamawiajacy": "PKP Polskie Linie Kolejowe S.A.",
+  "data_publikacji": "2026-09-16",
+  "termin_skladania": "2026-10-16T10:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "45000000",
+   "71322000",
+   "30000000",
+   "32000000",
+   "48000000",
+   "45233100",
+   "45200000",
+   "30200000",
+   "32500000",
+   "48200000",
+   "48600000",
+   "48800000",
+   "45100000",
+   "45230000",
+   "30210000",
+   "30230000",
+   "32410000",
+   "32420000",
+   "32430000",
+   "34000000",
+   "34600000",
+   "34630000",
+   "34632000",
+   "48810000",
+   "48820000",
+   "45220000",
+   "45240000",
+   "45110000",
+   "45234000",
+   "45234100",
+   "45234113",
+   "45234116",
+   "45234115",
+   "45310000",
+   "45311000",
+   "45314300",
+   "45314310",
+   "71000000",
+   "71300000",
+   "71320000",
+   "32400000",
+   "45300000",
+   "45232300",
+   "45231400",
+   "45000000"
+  ],
+  "score": 4,
+  "tagi": [
+   "bonus-ue/strategiczny",
+   "cpv-71",
+   "roboty-budowlane"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-02",
+  "hash": "781667c7211ca0729081879f9714fbeb6d9a497900c17d38e4873d885e5c6286"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Chłodziarki i zamrażarki – Zakup zamrażarek głębokiego zamrażania -70oC do przechowywania tkanek ludzkich wraz z instalacją, uruchomieniem oraz niezbędnymi robotami budowlanymi związanymi z przygotowaniem miejsca instalacji urządzeń.",
   "url": "https://ted.europa.eu/en/notice/-/detail/627799-2026",
   "zamawiajacy": "Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie - Państwowy Instytut Badawczy",
@@ -8342,6 +8458,35 @@
   "status_opisu": "brak",
   "dodano": "2026-09-11",
   "hash": "3cf37e919bb895c72cb6dc0a80b92d7495b87288643d42be412fe891d251e046"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi architektoniczne, budowlane, inżynieryjne i kontrolne – Wykonanie aktualizacji dokumentacji projektowej termomodernizacji budynku Szkoły Podstawowej nr 27 przy ul. Sielskiej 34 w Bydgoszczy.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/636893-2026",
+  "zamawiajacy": "Miasto Bydgoszcz",
+  "data_publikacji": "2026-09-16",
+  "termin_skladania": "2026-10-16T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71000000",
+   "71220000",
+   "71250000",
+   "71320000",
+   "71242000",
+   "71000000",
+   "71220000",
+   "71250000",
+   "71320000",
+   "71242000"
+  ],
+  "score": 9,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-16",
+  "hash": "116a9f3e520428654c1917a2ce8407d4d26f7d43ce048f42fbbb526747270dae"
  },
  {
   "zrodlo": "ted",
@@ -8503,6 +8648,28 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Wentylatory – Modernizacja wentylacji wyciągowej i nawiewnej Reaktora MARIA",
+  "url": "https://ted.europa.eu/en/notice/-/detail/636441-2026",
+  "zamawiajacy": "NARODOWE CENTRUM BADAŃ JĄDROWYCH",
+  "data_publikacji": "2026-09-16",
+  "termin_skladania": "2026-10-19T12:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "39717100",
+   "71300000",
+   "39717100",
+   "71300000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-16",
+  "hash": "9b3986a5cbb8bf3da01b7117ecf33ff748cbbc49a3f3b75588d73471cf8b92b1"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Urządzenia do radioterapii, mechanoterapii, elektroterapii i fizykoterapii – Akcelerator do tomoterapii wraz z modernizacją bunkra.",
   "url": "https://ted.europa.eu/en/notice/-/detail/629835-2026",
   "zamawiajacy": "Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie - Państwowy Instytut Badawczy",
@@ -8659,6 +8826,99 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Opracowanie dokumentacji dla zadania pn.: „Maleszów - budowa zbiornika retencyjnego gm. Kondratowice”.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/636370-2026",
+  "zamawiajacy": "Państwowe Gospodarstwo Wodne Wody Polskie",
+  "data_publikacji": "2026-09-16",
+  "termin_skladania": "2026-10-21T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71320000",
+   "71248000",
+   "71320000",
+   "71248000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-16",
+  "hash": "2dd363b73d153f2f2aa20e912a6e51e9891e6d12189e62536845287ca1a76abb"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi architektoniczne, budowlane, inżynieryjne i kontrolne – Opracowanie dokumentacji projektowej dla zadania pn.: „Budowa drogi dla pieszych i rowerów w ciągu DK70 na odc. Arkadia - Nieborów”.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/636397-2026",
+  "zamawiajacy": "Generalna Dyrekcja Dróg Krajowych i Autostrad",
+  "data_publikacji": "2026-09-16",
+  "termin_skladania": "2026-10-21T11:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71000000",
+   "71242000",
+   "71250000",
+   "71320000",
+   "71332000",
+   "71354000",
+   "71248000",
+   "71000000",
+   "71242000",
+   "71250000",
+   "71320000",
+   "71332000",
+   "71354000",
+   "71248000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71",
+   "drogi"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-16",
+  "hash": "c784b9cdee1f7e85162015a9f8d4760dd60e414b679e87094eae80d5cfe63d26"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Instalacje słoneczne – Zakup instalacji fotowoltaicznej wraz z magazynem energii (baza MZK) w Ostrołęce",
+  "url": "https://ted.europa.eu/en/notice/-/detail/636369-2026",
+  "zamawiajacy": "Miasto Ostrołęka",
+  "data_publikacji": "2026-09-16",
+  "termin_skladania": "2026-10-22T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "09332000",
+   "09331200",
+   "31155000",
+   "71320000",
+   "45311100",
+   "45311200",
+   "45317300",
+   "31422000",
+   "31440000",
+   "31430000",
+   "09332000",
+   "09331200",
+   "31155000",
+   "71320000",
+   "45311100",
+   "45317300",
+   "45311200",
+   "31422000",
+   "31440000",
+   "31430000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-16",
+  "hash": "c7286f2ce6f8495a5b58223b308ea33998d908891c58b70636875ab2db0af951"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – ,,Wykonanie dokumentacji projektowej wraz z pełnieniem nadzoru autorskiego dla zadania pn.: Zabezpieczenie przeciwerozyjne szlaków zrywkowych - wykonanie przegród drewnianych w leśnictwach Lasek i Czerniawa w ramach projektu „Kompleksowy projekt adaptacji lasów i leśnictwa do zmian klimatu – mała retencja oraz przeciwdziałanie erozji wodnej na terenach górskich –kontynuacja (MRG3)”",
   "url": "https://ted.europa.eu/en/notice/-/detail/632945-2026",
   "zamawiajacy": "Skarb Państwa PGL LP Nadleśnictwo Świeradów",
@@ -8684,6 +8944,36 @@
   "status_opisu": "brak",
   "dodano": "2026-09-15",
   "hash": "26c826b46903382144378b8be0d1821db25f190da95be9abe68d73f46d65e35d"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Opracowanie projektu budowlanego i projektów wykonawczych oraz uzyskanie decyzji administracyjnych niezbędnych do wykonania robót budowlanych w ramach realizacji zadania pn. „Budowa ul. Zdziarskiej na odcinku od ul. Ostródzkiej do ul. Płochocińskiej wraz z mostem nad Kanałem Żerańskim – prace przygotowawcze”.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/638166-2026",
+  "zamawiajacy": "Miasto Stołeczne Warszawa - Stołeczny Zarząd Rozbudowy Miasta",
+  "data_publikacji": "2026-09-16",
+  "termin_skladania": "2026-10-26T09:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71320000",
+   "71322000",
+   "71322500",
+   "71322300",
+   "71323100",
+   "71322200",
+   "71320000",
+   "71322000",
+   "71322500",
+   "71322300",
+   "71323100",
+   "71322200"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-16",
+  "hash": "2cc4af384f6eed1035a03f3f7399abfd9141e1d38640c73856ab5abff5cd6fac"
  },
  {
   "zrodlo": "ted",
@@ -8768,7 +9058,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-15",
+  "dodano": "2026-09-16",
   "hash": "43bdd6dc8d3e34537761c8edeb21e1a54576493c9b7a9057f6f163465cd82fc7"
  }
 ]
