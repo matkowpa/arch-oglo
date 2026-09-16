@@ -5510,6 +5510,27 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Dokumentacja projektowo-kosztorysowa dla potrzeb zmiany sposobu użytkowania budynku położonego przy ul. Kryształowej 31 w Jarotach – Część II",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-05875c9a-96c2-41be-bb98-21abb1da7930",
+  "zamawiajacy": "Gmina Stawiguda",
+  "data_publikacji": "2026-09-16",
+  "termin_skladania": "2026-09-24T07:30:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00441095 z dnia 2026-09-16 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Dokumentacja projektowo-kosztorysowa dla potrzeb zmiany sposobu użytkowania budynku położonego przy ul. Kryształowej 31 w Jarotach – Część II SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Stawiguda 1.4) Krajowy Numer Identyfikacyjny: REGON 510743195 1.5) Adres zamawiającego 1.5.1.) Ulica: Olsztyńska 10 1.5.2.) Miejscowość: Stawiguda 1.5.3.) Kod pocztowy: 11-034 1.5.4.) Województwo: warmińsko-mazurskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL622 - Olsztyński 1.5.7.) Numer telefonu: +48 726353835 +48 895126202 1.5.9.) Adres poczty elektronicznej: grudnowski@stawiguda.pl 1.5.10.) Adres strony internetowej zamawiającego: http://bip.stawiguda.pl/ 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów",
+  "cpv": [
+   "71320000-7"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-16",
+  "hash": "b0bdb7ef01d0f0ffb92070275c85b77172ce3998d3d9435a814149d3f0bc16a6"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Dostawa i montaż bateryjnych magazynów energii elektrycznej",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-00bfcf1f-478d-4d31-a1bc-9059630a673e",
   "zamawiajacy": "SAMODZIELNY ZESPÓŁ PUBLICZNYCH ZAKŁADÓW LECZNICTWA OTWARTEGO WARSZAWA BIAŁOŁĘKA-TARGÓWEK",
@@ -5863,6 +5884,27 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-15",
   "hash": "ed4bea8281960c356d55166e02fd7664d6682e456c926c7dbdfb72fbe268cc8c"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej remontu podwórka przy ul. Jaktorowskiej 4 w Żyrardowie",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-a614e929-5cac-4f15-96ca-46b5c1496b31",
+  "zamawiajacy": "Przedsiębiorstwo Gospodarki Mieszkaniowej Żyrardów Sp. z o.o.",
+  "data_publikacji": "2026-09-16",
+  "termin_skladania": "2026-09-25T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00441459 z dnia 2026-09-16 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej remontu podwórka przy ul. Jaktorowskiej 4 w Żyrardowie SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Przedsiębiorstwo Gospodarki Mieszkaniowej Żyrardów Sp. z o.o. 1.4) Krajowy Numer Identyfikacyjny: REGON 750087960 1.5) Adres zamawiającego 1.5.1.) Ulica: Armii Krajowej 5 1.5.2.) Miejscowość: Żyrardów 1.5.3.) Kod pocztowy: 96-300 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL926 - Żyrardowski 1.5.9.) Adres poczty elektronicznej: dzp@pgm.zyrardow.pl 1.5.10.) Adres strony internetowej zamawiającego: www.pgm.zyrardow.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - osoba prawna, o której mowa w art. 4 pkt 3 ustawy (podmiot prawa publicznego) 1.7.) Przedmiot dz",
+  "cpv": [
+   "71320000-7",
+   "71220000-6"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-16",
+  "hash": "036d4cbcf2ae41eda5690ebb4b143f6017bf76c7a14c826f7b4b54b7d4e06766"
  },
  {
   "zrodlo": "bzp",
@@ -6325,6 +6367,35 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-11",
   "hash": "77dfcd2dbe76adcc049aee0d9514396bed9976143bbe0ebcdcf5196e8808a53c"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Dostawa, montaż i uruchomienie systemu sygnalizacji włamania i napadu (SSWIN) wraz z integracją z systemem Zamawiającego (kompatybilność wsteczna)",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-f3dcc87e-cf6c-4acc-bf3e-9ecbb02836e5",
+  "zamawiajacy": "SIEĆ BADAWCZA ŁUKASIEWICZ - INSTYTUT ELEKTROTECHNIKI",
+  "data_publikacji": "2026-09-16",
+  "termin_skladania": "2026-09-28T09:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00441163 z dnia 2026-09-16 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Dostawy Dostawa, montaż i uruchomienie systemu sygnalizacji włamania i napadu (SSWIN) wraz z integracją z systemem Zamawiającego (kompatybilność wsteczna) SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: SIEĆ BADAWCZA ŁUKASIEWICZ - INSTYTUT ELEKTROTECHNIKI 1.4) Krajowy Numer Identyfikacyjny: REGON 387388984 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Mieczysława Pożaryskiego 28 1.5.2.) Miejscowość: Warszawa 1.5.3.) Kod pocztowy: 04-703 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL911 - Miasto Warszawa 1.5.9.) Adres poczty elektronicznej: zamowienia@iel.lukasiewicz.gov.pl 1.5.10.) Adres strony internetowej zamawiającego: https://platformazakupowa.pl/pn/iel-lukasiewicz 1.6.) Rodzaj zamawiającego: Zamawiający ",
+  "cpv": [
+   "31625300-6",
+   "35121700-5",
+   "45312200-9",
+   "45312000-7",
+   "45314000-1",
+   "71300000-1",
+   "71321000-4",
+   "45310000-3",
+   "71630000-3",
+   "71355000-1",
+   "71320000-7"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-16",
+  "hash": "2cf5dc726c90ac1c6720ea7bb6ebbf0ed75d676bec19b878d049c0b63f7b5a5d"
  },
  {
   "zrodlo": "bip:kghm",
