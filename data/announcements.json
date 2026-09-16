@@ -1362,29 +1362,6 @@
  },
  {
   "zrodlo": "bzp",
-  "tytul": "Opracowanie dokumentacji projektowej oraz pełnienie nadzoru autorskiego dla zadania pn. „Budowa ul. Bukowej w Malinowicach”.",
-  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-8f1a7c35-79fd-4a71-8d2f-c69cc02bd873",
-  "zamawiajacy": "URZĄD GMINY W PSARACH",
-  "data_publikacji": "2026-09-03",
-  "termin_skladania": "2026-09-11T07:00:00Z",
-  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00420602 z dnia 2026-09-03 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej oraz pełnienie nadzoru autorskiego dla zadania pn. „Budowa ul. Bukowej w Malinowicach”. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: URZĄD GMINY W PSARACH 1.4) Krajowy Numer Identyfikacyjny: REGON 000537243 1.5) Adres zamawiającego 1.5.1.) Ulica: Malinowicka 4 1.5.2.) Miejscowość: Psary 1.5.3.) Kod pocztowy: 42-512 1.5.4.) Województwo: śląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL22B - Sosnowiecki 1.5.9.) Adres poczty elektronicznej: urzad@psary.pl 1.5.10.) Adres strony internetowej zamawiającego: www.psary.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Przedmiot działalności zamawiającego: Ogóln",
-  "cpv": [
-   "71320000-7",
-   "71248000-8",
-   "71247000-1"
-  ],
-  "score": 11,
-  "tagi": [
-   "cpv-71",
-   "samorząd",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "pobrany",
-  "dodano": "2026-09-03",
-  "hash": "95e21201d2e9411253f658b306b90bc8d84af0039ec4ffc9f242e9dca028a0f6"
- },
- {
-  "zrodlo": "bzp",
   "tytul": "Opracowanie dokumentacji projektowo-kosztorysowej termomodernizacji oraz budowy mikroinstalacji fotowoltaicznych wraz z magazynami energii (budynek Filii nr 18 PiMBP i budynek Składnicy Akt CUW)",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-b7abdbb6-cd34-4097-a208-5f7eb195d836",
   "zamawiajacy": "MIASTO RYBNIK",
@@ -5690,6 +5667,26 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "„Opracowanie dokumentacji projektowo-kosztorysowej na budowę dojazdów do terenów inwestycyjnych w Koninie”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-1b20bf47-ad79-40e4-93f2-fe410d697a8f",
+  "zamawiajacy": "ZARZĄD DRÓG MIEJSKICH W KONINIE",
+  "data_publikacji": "2026-09-16",
+  "termin_skladania": "2026-09-24T09:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00441627 z dnia 2026-09-16 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi „Opracowanie dokumentacji projektowo-kosztorysowej na budowę dojazdów do terenów inwestycyjnych w Koninie” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: ZARZĄD DRÓG MIEJSKICH W KONINIE 1.4) Krajowy Numer Identyfikacyjny: REGON 363118861 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Zakładowa 4 1.5.2.) Miejscowość: Konin 1.5.3.) Kod pocztowy: 62-510 1.5.4.) Województwo: wielkopolskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL414 - Koniński 1.5.7.) Numer telefonu: awrzesinska@zdm-konin.pl 1.5.8.) Numer faksu: awrzesinska@zdm-konin.pl 1.5.9.) Adres poczty elektronicznej: zamowienia@zdm-konin.pl 1.5.10.) Adres strony internetowej zamawiającego: www.zdm-konin.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora fi",
+  "cpv": [
+   "71320000-7"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-16",
+  "hash": "a1b5c3b3609eb3fcf040715507a02f6da24b83b196b053d429bde59ea3b5df45"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Wykonanie dokumentacji projektowo-kosztorysowej na remont i przebudowę budynków mieszkalnych – Mińska 15 i Mińska 15 oficyna",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-a0693f07-580a-4410-9880-99ae344e1c18",
   "zamawiajacy": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Praga-Południe m. st. Warszawy",
@@ -5749,6 +5746,29 @@
   "status_opisu": "brak",
   "dodano": "2026-09-11",
   "hash": "721613de629f2dd8757ab2f4a4044e1d40cd19b22f61a172d9cbbab1f2d21700"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej oraz pełnienie nadzoru autorskiego dla zadania pn. „Budowa ul. Bukowej w Malinowicach”.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-e2ddaaa2-80f1-4796-b574-89291302c019",
+  "zamawiajacy": "URZĄD GMINY W PSARACH",
+  "data_publikacji": "2026-09-16",
+  "termin_skladania": "2026-09-25T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00441608 z dnia 2026-09-16 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej oraz pełnienie nadzoru autorskiego dla zadania pn. „Budowa ul. Bukowej w Malinowicach”. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: URZĄD GMINY W PSARACH 1.4) Krajowy Numer Identyfikacyjny: REGON 000537243 1.5) Adres zamawiającego 1.5.1.) Ulica: Malinowicka 4 1.5.2.) Miejscowość: Psary 1.5.3.) Kod pocztowy: 42-512 1.5.4.) Województwo: śląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL22B - Sosnowiecki 1.5.9.) Adres poczty elektronicznej: urzad@psary.pl 1.5.10.) Adres strony internetowej zamawiającego: www.psary.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Przedmiot działalności zamawiającego: Ogóln",
+  "cpv": [
+   "71320000-7",
+   "71248000-8",
+   "71247000-1"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-03",
+  "hash": "69b3e015b350ff9226db9f0232cb8441236ca8ca27a0b753ad82d80347685695"
  },
  {
   "zrodlo": "bzp",
