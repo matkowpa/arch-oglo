@@ -5684,6 +5684,27 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej oraz kosztorysowej rozbudowy i nadbudowy budynku przy ul. Globusowej 11 w Warszawie",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-05828276-23bf-4d58-b6f7-e42d34dfe14a",
+  "zamawiajacy": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Włochy m.st. Warszawy",
+  "data_publikacji": "2026-09-17",
+  "termin_skladania": "2026-09-25T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00443270 z dnia 2026-09-17 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej oraz kosztorysowej rozbudowy i nadbudowy budynku przy ul. Globusowej 11 w Warszawie SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Zakład Gospodarowania Nieruchomościami w Dzielnicy Włochy m.st. Warszawy 1.4) Krajowy Numer Identyfikacyjny: REGON 015259640 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Bolesława Chrobrego 7 1.5.2.) Miejscowość: Warszawa 1.5.3.) Kod pocztowy: 02-479 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL911 - Miasto Warszawa 1.5.7.) Numer telefonu: 22 8623 55 24 1.5.9.) Adres poczty elektronicznej: wlochy.zgn@um.warszawa.pl 1.5.10.) Adres strony internetowej zamawiającego: wlochy.um.warszawa.pl/waw/zgn-wlochy 1.6.) Rodzaj zamawiającego: Zamawi",
+  "cpv": [
+   "71000000-8",
+   "71221000-3"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-17",
+  "hash": "daa08a02a5e6beadd5ffe85be0124b5823a5395c43076c5a52917d7b8415a6bc"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Opracowanie dokumentacji projektowej oraz pełnienie nadzoru autorskiego dla zadania pn. „Budowa ul. Bukowej w Malinowicach”.",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-e2ddaaa2-80f1-4796-b574-89291302c019",
   "zamawiajacy": "URZĄD GMINY W PSARACH",
@@ -5931,6 +5952,30 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-15",
   "hash": "5c68142fadb4c4241582ef2e66804bfd69fa15b19073d053d662b7ae2793d0cb"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Sprawowanie funkcji weryfikatora dokumentacji projektowej oraz inspektora nadzoru inwestorskiego.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-574e3021-8ed0-41f3-bafe-6b063b4e1782",
+  "zamawiajacy": "Powiat Olkuski",
+  "data_publikacji": "2026-09-17",
+  "termin_skladania": "2026-09-25T09:30:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00443175 z dnia 2026-09-17 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Sprawowanie funkcji weryfikatora dokumentacji projektowej oraz inspektora nadzoru inwestorskiego. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Powiat Olkuski 1.4) Krajowy Numer Identyfikacyjny: REGON 276255045 1.5) Adres zamawiającego 1.5.1.) Ulica: Mickiewicza 2 1.5.2.) Miejscowość: Olkusz 1.5.3.) Kod pocztowy: 32-300 1.5.4.) Województwo: małopolskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL21A - Oświęcimski 1.5.9.) Adres poczty elektronicznej: przetargi@sp.olkusz.pl 1.5.10.) Adres strony internetowej zamawiającego: www.sp.olkusz.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Przedmiot działalności zamawiającego: Ogólne usługi publiczn",
+  "cpv": [
+   "71540000-5",
+   "71000000-8",
+   "71242000-6",
+   "71300000-1"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-17",
+  "hash": "7c5229b857fc12fb6981990768deec91fa8d072534edc1b4b54dcb690b94bb4d"
  },
  {
   "zrodlo": "ted",
@@ -7337,6 +7382,30 @@
   "hash": "8ac208f43c5df22daa371a660c1f6aa8c05c02729bac3a7b7ef243cbbd48ad84"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "ROZBUDOWA SKRZYŻOWANIA DW 901 I DW 907 Z UL. GŁÓWNĄ W MIEJSCOWOŚCI WIELOWIEŚ - DOKUMENTACJA PROJEKTOWA WRAZ Z PEŁNIENIEM NADZORU AUTORSKIEGO.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-58acc68a-3486-4e73-995b-3fb1ec46623d",
+  "zamawiajacy": "Zarząd Dróg Wojewódzkich w Katowicach",
+  "data_publikacji": "2026-09-17",
+  "termin_skladania": "2026-10-02T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00443381 z dnia 2026-09-17 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi ROZBUDOWA SKRZYŻOWANIA DW 901 I DW 907 Z UL. GŁÓWNĄ W MIEJSCOWOŚCI WIELOWIEŚ - DOKUMENTACJA PROJEKTOWA WRAZ Z PEŁNIENIEM NADZORU AUTORSKIEGO. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Zarząd Dróg Wojewódzkich w Katowicach 1.4) Krajowy Numer Identyfikacyjny: REGON 276303005 1.5) Adres zamawiającego 1.5.1.) Ulica: Lechicka 24 1.5.2.) Miejscowość: Katowice 1.5.3.) Kod pocztowy: 40-609 1.5.4.) Województwo: śląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL22A - Katowicki 1.5.9.) Adres poczty elektronicznej: marciniak@zdw.katowice.pl 1.5.10.) Adres strony internetowej zamawiającego: zdw.katowice.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka budżetowa 1.7.) Przedmiot dz",
+  "cpv": [
+   "71320000-7",
+   "71220000-6",
+   "71322000-1",
+   "71242000-6",
+   "71248000-8"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-17",
+  "hash": "ed5c3fe1ddc1dc53fceed4b4da02c7b1f48f1e34f48403fb11b424b5db85dca0"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Usługi projektowania architektonicznego – Opracowanie kompletnej dokumentacji projektowo-kosztorysowej dla zadania inwestycyjnego pn. „Poprawa efektywności energetycznej budynków” w ramach programu FENiKS w zakresie budynków ul. Skalbmierska 5 i 6",
   "url": "https://ted.europa.eu/en/notice/-/detail/593649-2026",
@@ -7472,7 +7541,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-15",
+  "dodano": "2026-09-17",
   "hash": "04c665937ae4c9c02c315c241642afc8de4b770378b14360991b5f8ec9e992ea"
  },
  {
@@ -8886,7 +8955,7 @@
    "roboty-budowlane"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-03",
+  "dodano": "2026-09-17",
   "hash": "bd6fff378715dfe9c0d2dc5a82dcfeeda0e874d793aad56a83ae1a573ab23fc6"
  },
  {
