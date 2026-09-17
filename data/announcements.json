@@ -6167,6 +6167,29 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowo-kosztorysowej wzmocnienia więźby dachowej oraz stropu na poddaszu w budynku przy ul. Koziorożca 11 w Warszawie",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-2c657d94-467b-449d-8e5e-158deb3c3756",
+  "zamawiajacy": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Włochy m.st. Warszawy",
+  "data_publikacji": "2026-09-17",
+  "termin_skladania": "2026-09-28T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00443002 z dnia 2026-09-17 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowo-kosztorysowej wzmocnienia więźby dachowej oraz stropu na poddaszu w budynku przy ul. Koziorożca 11 w Warszawie SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Zakład Gospodarowania Nieruchomościami w Dzielnicy Włochy m.st. Warszawy 1.4) Krajowy Numer Identyfikacyjny: REGON 015259640 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Bolesława Chrobrego 7 1.5.2.) Miejscowość: Warszawa 1.5.3.) Kod pocztowy: 02-479 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL911 - Miasto Warszawa 1.5.7.) Numer telefonu: 22 8623 55 24 1.5.9.) Adres poczty elektronicznej: wlochy.zgn@um.warszawa.pl 1.5.10.) Adres strony internetowej zamawiającego: wlochy.um.warszawa.pl/waw/zgn-wlochy 1.6.) Ro",
+  "cpv": [
+   "71000000-8",
+   "71220000-6",
+   "71320000-7",
+   "71242000-6"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-17",
+  "hash": "2790f037a407fe54f5bb06985ba926eabf5dbe1e46533ade318ddb20127959f4"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "138/Cir/26/KK/PMP_Opracowanie dokumentacji projektowej zadania inwestycyjnego pn.:”Obiekt ul. Iwicka - Przebudowa pomieszczeń na potrzeby hali technik i taktyk interwencji policyjnych.",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-2ef38ad1-764b-4b53-9ff6-c59e6c776229",
   "zamawiajacy": "Komenda Główna Policji",
@@ -8053,6 +8076,29 @@
   "status_opisu": "brak",
   "dodano": "2026-09-04",
   "hash": "6c9457d881b883fd532f5043ea59c6d2db14ea95a05f98a702548b081ad4f8a5"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Realizacja usługi doradczo-projektowej, obejmującej swoim zakresem opracowanie kompleksowego Systemu Identyfikacji Wielozmysłowej oraz spójnego systemu wayfinding i nośników reklamowych dla BWAWrocław",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-c713b574-378b-4114-a9ac-ee4b8b26c468",
+  "zamawiajacy": "BWA Wrocław Galerie Sztuki Współczesnej",
+  "data_publikacji": "2026-09-17",
+  "termin_skladania": "2026-10-12T05:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00442994 z dnia 2026-09-17 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Realizacja usługi doradczo-projektowej, obejmującej swoim zakresem opracowanie kompleksowego Systemu Identyfikacji Wielozmysłowej oraz spójnego systemu wayfinding i nośników reklamowych dla BWAWrocław SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: BWA Wrocław Galerie Sztuki Współczesnej 1.4) Krajowy Numer Identyfikacyjny: REGON 000278391 1.5) Adres zamawiającego 1.5.1.) Ulica: Ruska 46 a, segment B, lokal 103 1.5.2.) Miejscowość: Wrocław 1.5.3.) Kod pocztowy: 50-079 1.5.4.) Województwo: dolnośląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL514 - Miasto Wrocław 1.5.7.) Numer telefonu: +48 539 218 444 1.5.9.) Adres poczty elektronicznej: sekretariat@bwa.wroc.pl 1.5.10.) Adres strony internetowej zamawiającego: www.bwa.wroc.pl 1.",
+  "cpv": [
+   "71240000-2",
+   "71222000-0",
+   "79415200-8",
+   "79822500-7",
+   "71311200-3"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-17",
+  "hash": "ee41ec2158105c9b616c5b26e628c2d5d6add3c7774f664319870f5f96d59864"
  },
  {
   "zrodlo": "ted",
