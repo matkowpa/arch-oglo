@@ -4305,71 +4305,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Roboty budowlane – Zaprojektowanie (w zakresie branży srk) i kompleksowe wykonanie robót budowlanych na linii kolejowej nr 622 na odcinku G Gdów – Szczyrzyc w ramach Projektu pn. „Budowa nowej linii kolejowej Podłęże – Szczyrzyc – Tymbark / Mszana Dolna oraz modernizacja istniejącej linii kolejowej nr 104 Chabówka – Nowy Sącz – Etap II”",
-  "url": "https://ted.europa.eu/en/notice/-/detail/597005-2026",
-  "zamawiajacy": "PKP Polskie Linie Kolejowe S.A.",
-  "data_publikacji": "2026-08-31",
-  "termin_skladania": "2026-09-21T10:00:00+01:00",
-  "opis": null,
-  "cpv": [
-   "45000000",
-   "71322000",
-   "30000000",
-   "32000000",
-   "48000000",
-   "45233100",
-   "45200000",
-   "30200000",
-   "32500000",
-   "48200000",
-   "48600000",
-   "48800000",
-   "45100000",
-   "45230000",
-   "30210000",
-   "30230000",
-   "32410000",
-   "32420000",
-   "32430000",
-   "34000000",
-   "34600000",
-   "34630000",
-   "34632000",
-   "48810000",
-   "48820000",
-   "45220000",
-   "45240000",
-   "45110000",
-   "45234000",
-   "45234100",
-   "45234113",
-   "45234116",
-   "45234115",
-   "45310000",
-   "45311000",
-   "45314300",
-   "45314310",
-   "71000000",
-   "71300000",
-   "71320000",
-   "32400000",
-   "45300000",
-   "45232300",
-   "45231400",
-   "45000000"
-  ],
-  "score": 4,
-  "tagi": [
-   "bonus-ue/strategiczny",
-   "cpv-71",
-   "roboty-budowlane"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-03",
-  "hash": "04aca70fa8f675fc7c12ed401f028509dc9a3074ed644ddcf874d5c1f386215e"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Nadzór nad robotami budowlanymi – Pełnienie funkcji inspektora nadzoru nad budową obiektów małej retencji na terenie Nadleśnictwa Herby",
   "url": "https://ted.europa.eu/en/notice/-/detail/624747-2026",
   "zamawiajacy": "Skarb Państwa Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Herby",
@@ -4442,7 +4377,7 @@
    "bonus-ue/strategiczny"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-16",
+  "dodano": "2026-09-17",
   "hash": "9265f7748bfc965268a4f297e92e356e78e6218d7c6938734677ed2d36aa5fe0"
  },
  {
@@ -5832,6 +5767,27 @@
   "hash": "a509c04936d12f47915c707bcf6549d45ff626460f88d055fda2ba53f8d14811"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "„Opracowanie dokumentacji projektowej budowy sali gimnastycznej przy szkole w Janowicach”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-386ba001-43b7-4f7f-9093-60717c28b717",
+  "zamawiajacy": "Gmina Pleśna",
+  "data_publikacji": "2026-09-17",
+  "termin_skladania": "2026-09-25T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00442409 z dnia 2026-09-17 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi „Opracowanie dokumentacji projektowej budowy sali gimnastycznej przy szkole w Janowicach” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Pleśna 1.4) Krajowy Numer Identyfikacyjny: REGON 851660921 1.5) Adres zamawiającego 1.5.1.) Ulica: Plesna 240 1.5.2.) Miejscowość: Pleśna 1.5.3.) Kod pocztowy: 33-171 1.5.4.) Województwo: małopolskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL217 - Tarnowski 1.5.9.) Adres poczty elektronicznej: gmina@plesna.pl 1.5.10.) Adres strony internetowej zamawiającego: www.plesna.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Przedmiot działalności zamawiającego: Ogólne usługi publiczne SEKCJA II – INFORMACJE ",
+  "cpv": [
+   "71220000-6"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-17",
+  "hash": "508575e0db0bb17e0db25156d2a7af3a7489488238ff4686d81b101c96fbaeb5"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Słoneczne moduły fotoelektryczne – Zaprojektowanie, dostawa, montaż, uruchomienie oraz przekazanie do eksploatacji kompletnej instalacji fotowoltaicznej wraz z towarzyszącymi robotami budowlanymi - zamówienie udzielane w 5 częściach",
   "url": "https://ted.europa.eu/en/notice/-/detail/633751-2026",
@@ -5882,7 +5838,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-16",
+  "dodano": "2026-09-17",
   "hash": "ef853998a7e8747962ffcdde8759c21f65f897b8032074ce4341009e5e4ac843"
  },
  {
@@ -5975,60 +5931,6 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-15",
   "hash": "5c68142fadb4c4241582ef2e66804bfd69fa15b19073d053d662b7ae2793d0cb"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Jednostki rezonansu magnetycznego – Dostawa wysokospecjalistycznej aparatury medycznej wraz z wyposażeniem i wykonaniem robót budowlanych w Szpitalu Morskim im. PCK w Gdyni w ramach projektu pn.: „Poprawa dostępności i jakości w świadczeniu usług onkologicznych poprzez przebudowę oraz rozbudowę Zakładu Diagnostyki Obrazowej w Szpitalu Morskim im. PCK w Gdyni”...",
-  "url": "https://ted.europa.eu/en/notice/-/detail/626688-2026",
-  "zamawiajacy": "Szpitale Pomorskie Sp. z o.o.",
-  "data_publikacji": "2026-09-11",
-  "termin_skladania": "2026-09-25T09:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "33111610",
-   "71220000",
-   "45000000",
-   "45100000",
-   "45215140",
-   "45262700",
-   "45262800",
-   "45300000",
-   "45310000",
-   "45350000",
-   "45330000",
-   "45343000",
-   "45400000",
-   "39000000",
-   "71321000",
-   "33115000",
-   "33111610",
-   "39000000",
-   "45400000",
-   "71220000",
-   "71321000",
-   "45000000",
-   "45100000",
-   "45215140",
-   "45262700",
-   "45262800",
-   "45350000",
-   "45350000",
-   "45330000",
-   "45343000",
-   "39000000",
-   "33115000",
-   "45400000",
-   "45300000",
-   "45310000",
-   "45330000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-16",
-  "hash": "8f3f925b4e7d4241c622865b67d4754c0442b70317dfb0c1aaa4966ac35f1379"
  },
  {
   "zrodlo": "ted",
@@ -6161,56 +6063,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Usługi opracowywania oprogramowania informatycznego – Usługa wytworzenia, dostawy oraz utrzymania systemu informatycznego propagującego dynamiczną i statyczną informację pasażerską wraz z zarządzaniem nośnikami elektronicznymi ją prezentującymi.",
-  "url": "https://ted.europa.eu/en/notice/-/detail/622420-2026",
-  "zamawiajacy": "Zarząd Transportu Miejskiego w Warszawie, działający na podstawie udzielonych pełnomocnictw w imieniu i na rzecz Miasta Stołecznego Warszawa",
-  "data_publikacji": "2026-09-09",
-  "termin_skladania": "2026-09-25T11:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "72212517",
-   "72265000",
-   "72263000",
-   "72268000",
-   "72267000",
-   "48000000",
-   "48460000",
-   "48219700",
-   "48600000",
-   "48800000",
-   "64212500",
-   "71248000",
-   "72220000",
-   "72212610",
-   "72000000",
-   "30200000",
-   "72212517",
-   "72268000",
-   "72265000",
-   "72263000",
-   "72267000",
-   "48000000",
-   "48460000",
-   "48219700",
-   "48600000",
-   "48800000",
-   "64212500",
-   "71248000",
-   "72220000",
-   "72212610",
-   "72000000",
-   "30200000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-15",
-  "hash": "d160c1cd14cab3cadda992ea801d58c2907d201ef80e9d2790edb8c7a520ad8f"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Urządzenia audiowizualne – Aranżacja i wykonanie tras turystycznych w podziemiach Sztolni Królowa Luiza.",
   "url": "https://ted.europa.eu/en/notice/-/detail/639066-2026",
   "zamawiajacy": "Muzeum Górnictwa Węglowego w Zabrzu",
@@ -6270,7 +6122,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-16",
+  "dodano": "2026-09-17",
   "hash": "766ad592e5915ec8dbc763d7320ebfe6a57095ac938e5943d5a10f1a3306e607"
  },
  {
@@ -6463,7 +6315,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-16",
+  "dodano": "2026-09-17",
   "hash": "7d3028aca4c15111a28e1c3225662d7b36fadbcf090a6c3a5c0f1f4c150c2685"
  },
  {
@@ -6604,8 +6456,36 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-16",
+  "dodano": "2026-09-17",
   "hash": "6f37057b2e63f5476d60e371da3788b559123bfcbc7ef5c62251acfcfca23d08"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej dla zadania: Budowa 4 budynków mieszkalnych wielorodzinnych z częścią usługową i infrastrukturą na dz. nr 96/4 obręb 0022 przy ul. Szlacheckiej w Zielonej Górze",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-20fafe57-597a-4f9f-9ddb-fb573529b227",
+  "zamawiajacy": "KOMUNALNE TOWARZYSTWO BUDOWNICTWA SPOŁECZNEGO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+  "data_publikacji": "2026-09-17",
+  "termin_skladania": "2026-09-29T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00442000 z dnia 2026-09-17 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej dla zadania: Budowa 4 budynków mieszkalnych wielorodzinnych z częścią usługową i infrastrukturą na dz. nr 96/4 obręb 0022 przy ul. Szlacheckiej w Zielonej Górze SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: KOMUNALNE TOWARZYSTWO BUDOWNICTWA SPOŁECZNEGO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ 1.4) Krajowy Numer Identyfikacyjny: REGON 970630773 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Bohaterów Westerplatte 11 1.5.2.) Miejscowość: Zielona Góra 1.5.3.) Kod pocztowy: 65-034 1.5.4.) Województwo: lubuskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL432 - Zielonogórski 1.5.9.) Adres poczty elektronicznej: sekretariat@ktbs.zgora.pl 1.5.10.) Adres strony internetowej zamawiającego: www.ktbs.zgora.p",
+  "cpv": [
+   "71220000-6",
+   "71320000-7",
+   "71000000-8",
+   "71322000-1",
+   "71240000-2",
+   "71332000-4",
+   "71314100-3",
+   "71323200-0",
+   "71242000-6"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-17",
+  "hash": "45e14f44539aa95afd124398210c34b8b05c85ef07c6c9b6a2496c55b186a66d"
  },
  {
   "zrodlo": "bzp",
@@ -6698,6 +6578,60 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Jednostki rezonansu magnetycznego – Dostawa wysokospecjalistycznej aparatury medycznej wraz z wyposażeniem i wykonaniem robót budowlanych w Szpitalu Morskim im. PCK w Gdyni w ramach projektu pn.: „Poprawa dostępności i jakości w świadczeniu usług onkologicznych poprzez przebudowę oraz rozbudowę Zakładu Diagnostyki Obrazowej w Szpitalu Morskim im. PCK w Gdyni”...",
+  "url": "https://ted.europa.eu/en/notice/-/detail/642442-2026",
+  "zamawiajacy": "Szpitale Pomorskie Sp. z o.o.",
+  "data_publikacji": "2026-09-17",
+  "termin_skladania": "2026-09-29T09:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "33111610",
+   "71220000",
+   "45000000",
+   "45100000",
+   "45215140",
+   "45262700",
+   "45262800",
+   "45300000",
+   "45310000",
+   "45350000",
+   "45330000",
+   "45343000",
+   "45400000",
+   "39000000",
+   "71321000",
+   "33115000",
+   "33111610",
+   "39000000",
+   "45400000",
+   "71220000",
+   "71321000",
+   "45000000",
+   "45100000",
+   "45215140",
+   "45262700",
+   "45262800",
+   "45350000",
+   "45350000",
+   "45330000",
+   "45343000",
+   "39000000",
+   "33115000",
+   "45400000",
+   "45300000",
+   "45310000",
+   "45330000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-17",
+  "hash": "17fd0ef46eb54c4330337b2252800d8d8a6ff2d7d550c35fcfe4f4e649807f8e"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Przygotowanie przedsięwzięcia i projektu, oszacowanie kosztów – Opracowanie dokumentacji projektowej dla zadania pn.: Gaz. Ołtaszyn Kudowa Jeleniów: likwidacja i wybudowanie nowych ZZU Dolina i ZZU Jordanów Śląski oraz likwidacja zwarcia galwanicznego w m. Jordanów Śląski.",
   "url": "https://ted.europa.eu/en/notice/-/detail/595757-2026",
   "zamawiajacy": "Operator Gazociągów Przesyłowych GAZ-SYSTEM S.A.",
@@ -6743,7 +6677,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-16",
+  "dodano": "2026-09-17",
   "hash": "cc7c5bfea86a44a12d01bedd29d4dad99861ecd9869986058731c9bcf51b4280"
  },
  {
@@ -6827,7 +6761,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-16",
+  "dodano": "2026-09-17",
   "hash": "99699c127fced244cf022a3270771060394774fcd9fc84531d3ed6acc5c45394"
  },
  {
@@ -6996,7 +6930,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-16",
+  "dodano": "2026-09-17",
   "hash": "8e4e6c9382f46f7daf0763055a15b31486a604e85dc3a40cec906e75fdfb57ff"
  },
  {
@@ -7074,7 +7008,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-16",
+  "dodano": "2026-09-17",
   "hash": "c201c5302f63573a01ec79afc74e54ee644291a9cfc2d87419f0738e7b29e26e"
  },
  {
@@ -7123,7 +7057,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-16",
+  "dodano": "2026-09-17",
   "hash": "4173df87b2f79d25705e7a25b768b976cf756cbd94f3085a524d66a8a6d1c465"
  },
  {
@@ -7205,6 +7139,44 @@
   "status_opisu": "brak",
   "dodano": "2026-09-14",
   "hash": "fb858bd55fdebea096e12df7232c50ea719a6f48ab71e4c3666dbcea0ab921fc"
+ },
+ {
+  "zrodlo": "bip:tauron",
+  "tytul": "166/2026/RZ1 - Opracowanie dokumentacji projektowej dla zadania: Mysłakowice - przebudowa linii napowietrznej SN L-126/0 i L282/5 od słupa JGJ068898 do słupa JGJ071377- (KZ JG/001401/25)",
+  "url": "https://swoz.tauron.pl/platform/demand/notice/public/current/list",
+  "zamawiajacy": "TAURON Dystrybucja S.A.",
+  "data_publikacji": "2026-09-17",
+  "termin_skladania": "2026-10-01 11:00",
+  "opis": null,
+  "cpv": [],
+  "score": 8,
+  "tagi": [
+   "giełdowa",
+   "spolka-sp",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-17",
+  "hash": "df6fd772520bd819e469df4cf4ce938f1e1998b604c475a5b4b4f507ed943408"
+ },
+ {
+  "zrodlo": "bip:tauron",
+  "tytul": "RZ4/173/26 Opracowanie dokumentacji projektowej na budowę Jednostki Terenowej w Nowej Rudzie ul. Świdnicka działka nr 428 wraz z uzyskaniem pozwolenia na budowę.",
+  "url": "https://swoz.tauron.pl/platform/demand/notice/public/current/list",
+  "zamawiajacy": "TAURON Dystrybucja S.A.",
+  "data_publikacji": "2026-09-17",
+  "termin_skladania": "2026-10-01 12:00",
+  "opis": null,
+  "cpv": [],
+  "score": 8,
+  "tagi": [
+   "giełdowa",
+   "spolka-sp",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-17",
+  "hash": "30d864613a13908c70a65946904904827b535ca32400881534aa576b3d81ba05"
  },
  {
   "zrodlo": "bzp",
@@ -7427,8 +7399,58 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-16",
+  "dodano": "2026-09-17",
   "hash": "bbc4b17dbfa23f37f19c4df27412e8884230281efaef35d4d15406ce7a596026"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi opracowywania oprogramowania informatycznego – Usługa wytworzenia, dostawy oraz utrzymania systemu informatycznego propagującego dynamiczną i statyczną informację pasażerską wraz z zarządzaniem nośnikami elektronicznymi ją prezentującymi.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/640582-2026",
+  "zamawiajacy": "Zarząd Transportu Miejskiego w Warszawie, działający na podstawie udzielonych pełnomocnictw w imieniu i na rzecz Miasta Stołecznego Warszawa",
+  "data_publikacji": "2026-09-17",
+  "termin_skladania": "2026-10-02T11:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "72212517",
+   "72265000",
+   "72263000",
+   "72268000",
+   "72267000",
+   "48000000",
+   "48460000",
+   "48219700",
+   "48600000",
+   "48800000",
+   "64212500",
+   "71248000",
+   "72220000",
+   "72212610",
+   "72000000",
+   "30200000",
+   "72212517",
+   "72268000",
+   "72265000",
+   "72263000",
+   "72267000",
+   "48000000",
+   "48460000",
+   "48219700",
+   "48600000",
+   "48800000",
+   "64212500",
+   "71248000",
+   "72220000",
+   "72212610",
+   "72000000",
+   "30200000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-15",
+  "hash": "04c665937ae4c9c02c315c241642afc8de4b770378b14360991b5f8ec9e992ea"
  },
  {
   "zrodlo": "ted",
@@ -7493,6 +7515,25 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "434107e2a44e45bed568575530ee7d3b90e5c44768af202e00f3d74d7640cbaa"
+ },
+ {
+  "zrodlo": "bip:tauron",
+  "tytul": "163/2026/RZ1 - Opracowanie dokumentacji projektowej i wykonanie robót budowlano-montażowych dla zadania pod nazwą: Leszczyniec dz. nr 146/12 - przebudowa linii kablowej SN L-414 od stacji transformatorowej nr JGJ41409 do słupa JGJ073053 - (KZ JG/000635/19)",
+  "url": "https://swoz.tauron.pl/platform/demand/notice/public/current/list",
+  "zamawiajacy": "TAURON Dystrybucja S.A.",
+  "data_publikacji": "2026-09-17",
+  "termin_skladania": "2026-10-05 11:00",
+  "opis": null,
+  "cpv": [],
+  "score": 8,
+  "tagi": [
+   "giełdowa",
+   "spolka-sp",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-17",
+  "hash": "51281bf0b5ddb83001edf339c6c979a93e57bba1699813a35dcd202fa93b15c7"
  },
  {
   "zrodlo": "ted",
@@ -8496,7 +8537,7 @@
    "roboty-budowlane"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-16",
+  "dodano": "2026-09-17",
   "hash": "781667c7211ca0729081879f9714fbeb6d9a497900c17d38e4873d885e5c6286"
  },
  {
@@ -8739,6 +8780,71 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Roboty budowlane – Zaprojektowanie (w zakresie branży srk) i kompleksowe wykonanie robót budowlanych na linii kolejowej nr 622 na odcinku G Gdów – Szczyrzyc w ramach Projektu pn. „Budowa nowej linii kolejowej Podłęże – Szczyrzyc – Tymbark / Mszana Dolna oraz modernizacja istniejącej linii kolejowej nr 104 Chabówka – Nowy Sącz – Etap II”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/642406-2026",
+  "zamawiajacy": "PKP Polskie Linie Kolejowe S.A.",
+  "data_publikacji": "2026-09-17",
+  "termin_skladania": "2026-10-19T10:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "45000000",
+   "71322000",
+   "30000000",
+   "32000000",
+   "48000000",
+   "45233100",
+   "45200000",
+   "30200000",
+   "32500000",
+   "48200000",
+   "48600000",
+   "48800000",
+   "45100000",
+   "45230000",
+   "30210000",
+   "30230000",
+   "32410000",
+   "32420000",
+   "32430000",
+   "34000000",
+   "34600000",
+   "34630000",
+   "34632000",
+   "48810000",
+   "48820000",
+   "45220000",
+   "45240000",
+   "45110000",
+   "45234000",
+   "45234100",
+   "45234113",
+   "45234116",
+   "45234115",
+   "45310000",
+   "45311000",
+   "45314300",
+   "45314310",
+   "71000000",
+   "71300000",
+   "71320000",
+   "32400000",
+   "45300000",
+   "45232300",
+   "45231400",
+   "45000000"
+  ],
+  "score": 4,
+  "tagi": [
+   "bonus-ue/strategiczny",
+   "cpv-71",
+   "roboty-budowlane"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-03",
+  "hash": "bd6fff378715dfe9c0d2dc5a82dcfeeda0e874d793aad56a83ae1a573ab23fc6"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi projektowania architektonicznego – Opracowanie dokumentacji projektowo-kosztorysowej dla zadania „Rozbudowa Sądu Rejonowego w Lidzbarku Warmińskim przy ul. Bartoszyckiej 4A”",
   "url": "https://ted.europa.eu/en/notice/-/detail/488234-2026",
   "zamawiajacy": "Sąd Okręgowy w Olsztynie",
@@ -8831,6 +8937,26 @@
   "status_opisu": "brak",
   "dodano": "2026-09-14",
   "hash": "86a43318254325333b6383fede11359d2d5edb18a72ac4dcbd030359e59fef0a"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynierii projektowej w zakresie inżynierii lądowej i wodnej – Opracowanie kompletnej dokumentacji projektowej i uzyskanie decyzji administracyjnych dla zadania pn. „Polder Oława-Lipki - prace przygotowawcze”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/642589-2026",
+  "zamawiajacy": "Państwowe Gospodarstwo Wodne Wody Polskie",
+  "data_publikacji": "2026-09-17",
+  "termin_skladania": "2026-10-20T09:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71322000",
+   "71322000"
+  ],
+  "score": 6,
+  "tagi": [
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-17",
+  "hash": "8307a26a7315ff50b4ab6610b304afff4a87e6729604c2eca616cb335ee9bfe7"
  },
  {
   "zrodlo": "ted",
@@ -9174,7 +9300,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-16",
+  "dodano": "2026-09-17",
   "hash": "43bdd6dc8d3e34537761c8edeb21e1a54576493c9b7a9057f6f163465cd82fc7"
  }
 ]
