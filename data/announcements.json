@@ -8250,6 +8250,25 @@
   "hash": "1616159a31a7472d82f4454135791d2515b85355a918e27b9c5dfd7f616b5644"
  },
  {
+  "zrodlo": "bip:tauron",
+  "tytul": "168/2026/RZ1 - Opracowanie dokumentacji projektowej i wykonanie robót budowlano-montażowych dla zadania pod nazwą: Przebudowa linii kablowych SN 20kV L-587 - relacje - stacja transformatorowa SN/nN JGB58703 - JGB58702 - JGB58701 - JGB58704\n- (KZ JG/001537/26)",
+  "url": "https://swoz.tauron.pl/platform/demand/notice/public/current/list",
+  "zamawiajacy": "TAURON Dystrybucja S.A.",
+  "data_publikacji": "2026-09-21",
+  "termin_skladania": "2026-10-06 11:00",
+  "opis": null,
+  "cpv": [],
+  "score": 8,
+  "tagi": [
+   "giełdowa",
+   "spolka-sp",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-21",
+  "hash": "36549a23f9eadde1b08e3349f0dabf0df95405844402635e65533ab7d48d54e6"
+ },
+ {
   "zrodlo": "bzp",
   "tytul": "Opracowanie dokumentacji projektowej obejmującej termomodernizację budynku mieszkalnego przy ul. E. Tyszkiewicza 36A w Warszawie.",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-122acda8-a23c-4ff1-9824-334f7e34ee7d",
@@ -8366,6 +8385,26 @@
   "status_opisu": "brak",
   "dodano": "2026-09-21",
   "hash": "4758017770c1164c51a6bd8b861cbfe0fe73db7c7b0b8fd2f10aab7f10d082b7"
+ },
+ {
+  "zrodlo": "bip:tauron",
+  "tytul": "171/2026/RZ1 - Opracowanie dokumentacji projektowej i wykonanie robót budowlano-montażowych dla zadania pod nazwą: Gryfów Śląski ul. Akacjowa - Kolejowa oraz Polna -przebudowa linii kablowej 20kV L-835 od SN/nN JGL83510 do JGL83511 oraz JGL83520 do JGL835Z1 - (KZ JG/001530/26)",
+  "url": "https://swoz.tauron.pl/platform/demand/notice/public/current/list",
+  "zamawiajacy": "TAURON Dystrybucja S.A.",
+  "data_publikacji": "2026-09-21",
+  "termin_skladania": "2026-10-07 11:00",
+  "opis": null,
+  "cpv": [],
+  "score": 9,
+  "tagi": [
+   "bonus-ue/strategiczny",
+   "giełdowa",
+   "spolka-sp",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-21",
+  "hash": "caad8e1ce361699079a21ead24347fb3045b489e577118d25e7de9df6c021e12"
  },
  {
   "zrodlo": "bzp",
