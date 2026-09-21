@@ -2188,9 +2188,9 @@
  {
   "zrodlo": "ted",
   "tytul": "Polska – Roboty budowlane w zakresie wznoszenia kompletnych obiektów budowlanych lub ich części oraz roboty w zakresie inżynierii lądowej i wodnej – Wykonanie dokumentacji projektowej i robót budowlanych w budynku Administracji nr 1",
-  "url": "https://ted.europa.eu/en/notice/-/detail/591780-2026",
+  "url": "https://ted.europa.eu/en/notice/-/detail/649711-2026",
   "zamawiajacy": "Górnośląskie Centrum Medyczne im. prof. Leszka Gieca Śląskiego Uniwersytetu Medycznego w Katowicach",
-  "data_publikacji": "2026-08-27",
+  "data_publikacji": "2026-09-21",
   "termin_skladania": "2026-09-14T23:59:00+02:00",
   "opis": null,
   "cpv": [
@@ -2300,8 +2300,8 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": null,
-  "hash": "4753205c8ae49a0346928271e9f27c446e1c6876ef54c2c2aaaae0b99ee80049"
+  "dodano": "2026-09-21",
+  "hash": "f78f6c650c3d9630c5be962e1d9c1cda11df87e94366c143f13d4fe7d71f4c1c"
  },
  {
   "zrodlo": "pz-search",
@@ -5479,28 +5479,6 @@
   "hash": "a503db41fb5186c671f45f43cb66d48397f1d3b0e1ebfc9ccb55b9fa07a24dcf"
  },
  {
-  "zrodlo": "ted",
-  "tytul": "Polska – Maszyny i aparatura badawcza i pomiarowa – Dwukomorowe stanowisko do wysokotemperaturowych badań właściwości ciekłych metali i stopów",
-  "url": "https://ted.europa.eu/en/notice/-/detail/575394-2026",
-  "zamawiajacy": "Sieć Badawcza Łukasiewicz – Krakowski Instytut Technologiczny",
-  "data_publikacji": "2026-08-19",
-  "termin_skladania": "2026-09-24T09:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "38540000",
-   "71320000",
-   "38540000",
-   "71320000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": null,
-  "hash": "df4525cbd3f45ae0b5368ba32b35a8124801b6c85d7b19927e16e82c35a2aa28"
- },
- {
   "zrodlo": "bzp",
   "tytul": "„Opracowanie dokumentacji projektowo-kosztorysowej na budowę dojazdów do terenów inwestycyjnych w Koninie”",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-1b20bf47-ad79-40e4-93f2-fe410d697a8f",
@@ -5785,7 +5763,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-20",
+  "dodano": "2026-09-21",
   "hash": "ef853998a7e8747962ffcdde8759c21f65f897b8032074ce4341009e5e4ac843"
  },
  {
@@ -5962,28 +5940,6 @@
   "status_opisu": "brak",
   "dodano": "2026-09-16",
   "hash": "3a56cb3e6b4b9b6800ef889501c6d67cc51318872926436c23754ee540e4a45e"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Usługi architektoniczne, inżynieryjne i planowania – Opracowanie wielowariantowej i wielobranżowej koncepcji budowy linii tramwajowej Cichy Kącik - Azory wraz z niezbędną infrastrukturą techniczną oraz uzyskaniem decyzji o środowiskowych uwarunkowaniach",
-  "url": "https://ted.europa.eu/en/notice/-/detail/576581-2026",
-  "zamawiajacy": "Zarząd Inwestycji Miejskich w Krakowie",
-  "data_publikacji": "2026-08-20",
-  "termin_skladania": "2026-09-25T10:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71240000",
-   "71320000",
-   "71240000",
-   "71320000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": null,
-  "hash": "b13aeb275ec5c7f2e2f0517a28a5198a0b7e8225b54d6d17ecdf267ce801aeb2"
  },
  {
   "zrodlo": "ted",
@@ -6454,7 +6410,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-20",
+  "dodano": "2026-09-21",
   "hash": "7d3028aca4c15111a28e1c3225662d7b36fadbcf090a6c3a5c0f1f4c150c2685"
  },
  {
@@ -6651,6 +6607,26 @@
   "status_opisu": "brak",
   "dodano": "2026-09-17",
   "hash": "6f37057b2e63f5476d60e371da3788b559123bfcbc7ef5c62251acfcfca23d08"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowo-kosztorysowej termomodernizacji budynku wraz ze zmianą sposobu ogrzewania przy ul. Szyb Marcin 6 w Rybniku",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-2bf0eb32-2767-4f3f-ad9f-6713e51ccf99",
+  "zamawiajacy": "ZAKŁAD GOSPODARKI MIESZKANIOWEJ",
+  "data_publikacji": "2026-09-21",
+  "termin_skladania": "2026-09-29T06:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00447575 z dnia 2026-09-21 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowo-kosztorysowej termomodernizacji budynku wraz ze zmianą sposobu ogrzewania przy ul. Szyb Marcin 6 w Rybniku SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: ZAKŁAD GOSPODARKI MIESZKANIOWEJ 1.4) Krajowy Numer Identyfikacyjny: REGON 271505550 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Tadeusza Kościuszki 17 1.5.2.) Miejscowość: Rybnik 1.5.3.) Kod pocztowy: 44-200 1.5.4.) Województwo: śląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL227 - Rybnicki 1.5.7.) Numer telefonu: 32 42 94 865 1.5.9.) Adres poczty elektronicznej: dzp@zgm.rybnik.pl 1.5.10.) Adres strony internetowej zamawiającego: https://www.zgm.rybnik.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publiczn",
+  "cpv": [
+   "71221000-3"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-21",
+  "hash": "d663422a9b94ca6f502fc087f68dbb9565941679a1fca6962ef146f5bb028dab"
  },
  {
   "zrodlo": "bzp",
@@ -6865,7 +6841,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-20",
+  "dodano": "2026-09-21",
   "hash": "17fd0ef46eb54c4330337b2252800d8d8a6ff2d7d550c35fcfe4f4e649807f8e"
  },
  {
@@ -6915,7 +6891,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-20",
+  "dodano": "2026-09-21",
   "hash": "cc7c5bfea86a44a12d01bedd29d4dad99861ecd9869986058731c9bcf51b4280"
  },
  {
@@ -7020,7 +6996,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-20",
+  "dodano": "2026-09-21",
   "hash": "99699c127fced244cf022a3270771060394774fcd9fc84531d3ed6acc5c45394"
  },
  {
@@ -7042,7 +7018,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-20",
+  "dodano": "2026-09-21",
   "hash": "769d0d7b039eea804028b15a8aed46609163d40779baf347fa7ee1ecf409c4be"
  },
  {
@@ -7154,6 +7130,26 @@
   "status_opisu": "pobrany",
   "dodano": null,
   "hash": "3c129e13b386e8ce7f3b3b86c211cb04313f4103e045ec5592ba3cb9f07fe5e0"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej dla zadania „Naprawa uszkodzeń muru attyki budynku Śląskiego Urzędu Wojewódzkiego w Katowicach”.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-263c34e9-bb26-4cf0-9309-fd3841155db4",
+  "zamawiajacy": "Śląski Urząd Wojewódzki",
+  "data_publikacji": "2026-09-21",
+  "termin_skladania": "2026-09-30T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00447175 z dnia 2026-09-21 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej dla zadania „Naprawa uszkodzeń muru attyki budynku Śląskiego Urzędu Wojewódzkiego w Katowicach”. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Śląski Urząd Wojewódzki 1.4) Krajowy Numer Identyfikacyjny: REGON 000514259 1.5) Adres zamawiającego 1.5.1.) Ulica: Jagiellońska 25 1.5.2.) Miejscowość: Katowice 1.5.3.) Kod pocztowy: 40-032 1.5.4.) Województwo: śląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL22A - Katowicki 1.5.9.) Adres poczty elektronicznej: zamowieniauw@katowice.uw.gov.pl 1.5.10.) Adres strony internetowej zamawiającego: https://www.katowice.uw.gov.pl/ 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - organ władzy publicznej - organ ad",
+  "cpv": [
+   "71221000-3"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-21",
+  "hash": "bff6d1f522519676c5f4e103034424a469db139a84c05e17c89bf50cbfe65ce9"
  },
  {
   "zrodlo": "bzp",
@@ -7277,7 +7273,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-20",
+  "dodano": "2026-09-21",
   "hash": "8e4e6c9382f46f7daf0763055a15b31486a604e85dc3a40cec906e75fdfb57ff"
  },
  {
@@ -7308,6 +7304,28 @@
   "status_opisu": "brak",
   "dodano": "2026-09-14",
   "hash": "f81addb3a97e667a87cd374a9a9135580a17eb673f554108df39a079e4ef4a2f"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi architektoniczne, inżynieryjne i planowania – Opracowanie wielowariantowej i wielobranżowej koncepcji budowy linii tramwajowej Cichy Kącik - Azory wraz z niezbędną infrastrukturą techniczną oraz uzyskaniem decyzji o środowiskowych uwarunkowaniach",
+  "url": "https://ted.europa.eu/en/notice/-/detail/649907-2026",
+  "zamawiajacy": "Zarząd Inwestycji Miejskich w Krakowie",
+  "data_publikacji": "2026-09-21",
+  "termin_skladania": "2026-09-30T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71240000",
+   "71320000",
+   "71240000",
+   "71320000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-21",
+  "hash": "2ff8f923ca9040d6082ed03384f0eed063c04be10cc81b71a8fba285f3ea9b3f"
  },
  {
   "zrodlo": "ted",
@@ -7355,7 +7373,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-20",
+  "dodano": "2026-09-21",
   "hash": "c201c5302f63573a01ec79afc74e54ee644291a9cfc2d87419f0738e7b29e26e"
  },
  {
@@ -7424,7 +7442,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-20",
+  "dodano": "2026-09-21",
   "hash": "4173df87b2f79d25705e7a25b768b976cf756cbd94f3085a524d66a8a6d1c465"
  },
  {
@@ -7581,6 +7599,31 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-18",
   "hash": "22012d0f733458f52b3c8ad1cfbb86004fadddfc4d98cc721356985c9e5e85f4"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie wielobranżowej dokumentacji projektowej i technicznej dla zadania pn. „Budowa Jednostki Ratowniczo - Gaśniczej Nr 3 w Ustce KM PSP w Słupsku”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-1cff1fc2-80a2-4895-95a6-d5820cddb741",
+  "zamawiajacy": "KOMENDA MIEJSKA PAŃSTWOWEJ STRAŻY POŻARNEJ W SŁUPSKU",
+  "data_publikacji": "2026-09-21",
+  "termin_skladania": "2026-10-01T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00446651 z dnia 2026-09-21 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie wielobranżowej dokumentacji projektowej i technicznej dla zadania pn. „Budowa Jednostki Ratowniczo - Gaśniczej Nr 3 w Ustce KM PSP w Słupsku” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: KOMENDA MIEJSKA PAŃSTWOWEJ STRAŻY POŻARNEJ W SŁUPSKU 1.4) Krajowy Numer Identyfikacyjny: REGON 770983182 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Młyńska 2 1.5.2.) Miejscowość: Słupsk 1.5.3.) Kod pocztowy: 76-200 1.5.4.) Województwo: pomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL636 - Słupski 1.5.9.) Adres poczty elektronicznej: ekretariat.slupsk@straz.gda.pl 1.5.10.) Adres strony internetowej zamawiającego: https://www.gov.pl/web/kmpsp-slupsk 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów pu",
+  "cpv": [
+   "71000000-8",
+   "71221000-3",
+   "71320000-7",
+   "71354000-4",
+   "71242000-6",
+   "71247000-1"
+  ],
+  "score": 21,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-21",
+  "hash": "4ce67bf04e03cb3e0e0cafb6224a6b2055014f52c7970087d236ae5a11550c97"
  },
  {
   "zrodlo": "ted",
@@ -7868,7 +7911,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-20",
+  "dodano": "2026-09-21",
   "hash": "bbc4b17dbfa23f37f19c4df27412e8884230281efaef35d4d15406ce7a596026"
  },
  {
@@ -7918,7 +7961,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-20",
+  "dodano": "2026-09-21",
   "hash": "04c665937ae4c9c02c315c241642afc8de4b770378b14360991b5f8ec9e992ea"
  },
  {
@@ -8278,6 +8321,28 @@
   "hash": "0e25983b723e2222bb22c967f9e780f5e3badd3847550b740d9aec47dfe636cd"
  },
  {
+  "zrodlo": "ted",
+  "tytul": "Polska – Maszyny i aparatura badawcza i pomiarowa – Dwukomorowe stanowisko do wysokotemperaturowych badań właściwości ciekłych metali i stopów",
+  "url": "https://ted.europa.eu/en/notice/-/detail/648467-2026",
+  "zamawiajacy": "Sieć Badawcza Łukasiewicz – Krakowski Instytut Technologiczny",
+  "data_publikacji": "2026-09-21",
+  "termin_skladania": "2026-10-06T09:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "38540000",
+   "71320000",
+   "38540000",
+   "71320000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-21",
+  "hash": "4758017770c1164c51a6bd8b861cbfe0fe73db7c7b0b8fd2f10aab7f10d082b7"
+ },
+ {
   "zrodlo": "bzp",
   "tytul": "Sporządzenie masterplanu dla części dzielnicy Oksywie w rejonie ul. Dickmana w Gdyni",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-c4e35a4c-a1a0-4a33-88ac-7184baab8747",
@@ -8485,7 +8550,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-20",
+  "dodano": "2026-09-21",
   "hash": "32e40010660bf6a0d3e65f05437eeaab64a8ec14b157fe0103af4a90974f8cb0"
  },
  {
@@ -8598,7 +8663,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-20",
+  "dodano": "2026-09-21",
   "hash": "886d5920e4c0ea841fff739c00e230a6c8ff0705adf4b301c0433a2591c416aa"
  },
  {
@@ -9009,7 +9074,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-20",
+  "dodano": "2026-09-21",
   "hash": "9ff7b24d88888e5cf5f02ee32d5a2091a553d432458191e03e9f6bbe8cd46e53"
  },
  {
@@ -9766,6 +9831,27 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Opracowanie kompletnej dokumentacji projektowej i uzyskanie decyzji administracyjnych dla zadania pn. „Modernizacja wału P-1 rz. Odry gm. Głogów, Kotla, Szlichtyngowa, Siedlisko - prace przygotowawcze”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/647003-2026",
+  "zamawiajacy": "Państwowe Gospodarstwo Wodne Wody Polskie",
+  "data_publikacji": "2026-09-21",
+  "termin_skladania": "2026-10-22T09:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71320000",
+   "71320000"
+  ],
+  "score": 9,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-21",
+  "hash": "8ab26ad14fc42c0ca0674364a7e189b4edf9ed5c36f9a102655ad628423f75bb"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Instalacje słoneczne – Zakup instalacji fotowoltaicznej wraz z magazynem energii (baza MZK) w Ostrołęce",
   "url": "https://ted.europa.eu/en/notice/-/detail/636369-2026",
   "zamawiajacy": "Miasto Ostrołęka",
@@ -9829,6 +9915,27 @@
   "status_opisu": "brak",
   "dodano": "2026-09-15",
   "hash": "26c826b46903382144378b8be0d1821db25f190da95be9abe68d73f46d65e35d"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Opracowanie dokumentacji projektowej dla zadania pn.:„Przywrócenie właściwego stanu technicznego obwałowaniom przeciwpowodziowym rzeki Ślęzy na terenie Zarządu Zlewni we Wrocławiu wraz z elementami renaturyzacji rzeki”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/647739-2026",
+  "zamawiajacy": "Państwowe Gospodarstwo Wodne Wody Polskie",
+  "data_publikacji": "2026-09-21",
+  "termin_skladania": "2026-10-26T09:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71320000",
+   "71320000"
+  ],
+  "score": 9,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-21",
+  "hash": "9e2b783e1344f07e867529c1eb5fd73ed385aad0e232f73e25bb37f7ddc821d9"
  },
  {
   "zrodlo": "ted",
@@ -9943,7 +10050,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-20",
+  "dodano": "2026-09-21",
   "hash": "43bdd6dc8d3e34537761c8edeb21e1a54576493c9b7a9057f6f163465cd82fc7"
  }
 ]
