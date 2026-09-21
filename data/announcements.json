@@ -7086,6 +7086,29 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Pełnienie kompleksowego nadzoru inwestorskiego nad realizacją Inwestycji pt. Budowa nowej kwatery składowiska odpadów innych niż niebezpieczne i obojętne „Dąbie” w Suchej Beskidzkiej",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-d576a2b0-8b00-4dc3-9187-bf6ebb28c1a4",
+  "zamawiajacy": "ZWIĄZEK GMIN DORZECZA GÓRNEJ SKAWY ŚWINNA PORĘBA",
+  "data_publikacji": "2026-09-21",
+  "termin_skladania": "2026-09-30T06:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00448672 z dnia 2026-09-21 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Pełnienie kompleksowego nadzoru inwestorskiego nad realizacją Inwestycji pt. Budowa nowej kwatery składowiska odpadów innych niż niebezpieczne i obojętne „Dąbie” w Suchej Beskidzkiej SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: ZWIĄZEK GMIN DORZECZA GÓRNEJ SKAWY ŚWINNA PORĘBA 1.4) Krajowy Numer Identyfikacyjny: REGON 357009384 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Wadowicka 4A 1.5.2.) Miejscowość: Sucha Beskidzka 1.5.3.) Kod pocztowy: 34-200 1.5.4.) Województwo: małopolskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL219 - Nowotarski 1.5.7.) Numer telefonu: 33 874 37 09 1.5.8.) Numer faksu: 33 445 21 17 1.5.9.) Adres poczty elektronicznej: biuro@zgdgs.pl 1.5.10.) Adres strony internetowej zamawiającego: zgdgs.pl 1.6.) Rod",
+  "cpv": [
+   "71247000-1",
+   "71248000-8",
+   "71520000-9",
+   "71541000-2",
+   "71530000-2"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-21",
+  "hash": "35374177725ab12ff0a37f6b6edf080f054e13b3183ff409276de2febd5f6536"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Opracowanie dok projektowej i przetargowej wraz z pełnieniem nadzoru autorskiego w ramach zad. pn.: „Modernizacja budynku Zespołu Szkół Specjalnych nr 89 przy ul. Skaryszewskiej 8 wraz z nadbudową”.",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-215d729c-f6a3-4844-a739-af957f6101fb",
   "zamawiajacy": "Stołeczny Zarząd Rozbudowy Miasta",
