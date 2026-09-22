@@ -6724,6 +6724,27 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "OPRACOWANIE DOKUMENTACJI PROJEKTOWEJ DRÓG",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-cb7cb5d3-32fa-498b-bd49-be4c45c84cfd",
+  "zamawiajacy": "Gmina Zakrzew",
+  "data_publikacji": "2026-09-21",
+  "termin_skladania": "2026-09-29T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00448710 z dnia 2026-09-21 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi OPRACOWANIE DOKUMENTACJI PROJEKTOWEJ DRÓG SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Zakrzew 1.4) Krajowy Numer Identyfikacyjny: REGON 670224077 1.5) Adres zamawiającego 1.5.1.) Ulica: Zakrzew 51 1.5.2.) Miejscowość: Zakrzew 1.5.3.) Kod pocztowy: 26-652 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL921 - Radomski 1.5.9.) Adres poczty elektronicznej: gmina@zakrzew.pl 1.5.10.) Adres strony internetowej zamawiającego: https://zakrzew.biuletyn.net/ 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Przedmiot działalności zamawiającego: Ogólne usługi publiczne SEKCJA II – INFORMACJE PODSTAWOWE 2.1.) Ogłoszenie do",
+  "cpv": [
+   "71320000-7"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-22",
+  "hash": "55baba48037e0123a62191ce09899224bafc257306e72768ac2f268d301eefcd"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Usługa opracowania dokumentacji projektowo-kosztorysowej dla zadania „Przebudowa lokali mieszkalnych z likwidacją źródeł niskiej emisji - IV etap\"",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-d258dda2-6cb8-4983-ab9d-14ad351c64e9",
   "zamawiajacy": "MIEJSKI ZESPÓŁ GOSPODARKI LOKALOWEJ I ADMINISTRACJI",
@@ -6841,7 +6862,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-21",
+  "dodano": "2026-09-22",
   "hash": "17fd0ef46eb54c4330337b2252800d8d8a6ff2d7d550c35fcfe4f4e649807f8e"
  },
  {
@@ -6891,7 +6912,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-21",
+  "dodano": "2026-09-22",
   "hash": "cc7c5bfea86a44a12d01bedd29d4dad99861ecd9869986058731c9bcf51b4280"
  },
  {
@@ -6996,7 +7017,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-21",
+  "dodano": "2026-09-22",
   "hash": "99699c127fced244cf022a3270771060394774fcd9fc84531d3ed6acc5c45394"
  },
  {
@@ -7018,7 +7039,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-21",
+  "dodano": "2026-09-22",
   "hash": "769d0d7b039eea804028b15a8aed46609163d40779baf347fa7ee1ecf409c4be"
  },
  {
@@ -7321,7 +7342,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-21",
+  "dodano": "2026-09-22",
   "hash": "8e4e6c9382f46f7daf0763055a15b31486a604e85dc3a40cec906e75fdfb57ff"
  },
  {
@@ -7372,7 +7393,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-21",
+  "dodano": "2026-09-22",
   "hash": "2ff8f923ca9040d6082ed03384f0eed063c04be10cc81b71a8fba285f3ea9b3f"
  },
  {
@@ -7421,7 +7442,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-21",
+  "dodano": "2026-09-22",
   "hash": "c201c5302f63573a01ec79afc74e54ee644291a9cfc2d87419f0738e7b29e26e"
  },
  {
@@ -7490,7 +7511,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-21",
+  "dodano": "2026-09-22",
   "hash": "4173df87b2f79d25705e7a25b768b976cf756cbd94f3085a524d66a8a6d1c465"
  },
  {
@@ -7959,8 +7980,27 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-21",
+  "dodano": "2026-09-22",
   "hash": "bbc4b17dbfa23f37f19c4df27412e8884230281efaef35d4d15406ce7a596026"
+ },
+ {
+  "zrodlo": "bip:kghm",
+  "tytul": "Zabudowa podestu roboczego przy gazowym podgrzewaczu powietrza wg dokumentacji projektowej - RFP",
+  "url": "https://kghm.com/pl/zabudowa-podestu-roboczego-przy-gazowym-podgrzewaczu-powietrza-wg-dokumentacji-projektowej-rfp-0",
+  "zamawiajacy": "KGHM Polska Miedź S.A.",
+  "data_publikacji": "2026-09-14",
+  "termin_skladania": "2026-10-02T10:00:00Z",
+  "opis": null,
+  "cpv": [],
+  "score": 8,
+  "tagi": [
+   "giełdowa",
+   "spolka-sp",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-22",
+  "hash": "aaa9b54e6dcef76cd2bd696cb46b9f18dc97b977bd9f46f36a995314c772a1b3"
  },
  {
   "zrodlo": "ted",
@@ -8009,7 +8049,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-21",
+  "dodano": "2026-09-22",
   "hash": "04c665937ae4c9c02c315c241642afc8de4b770378b14360991b5f8ec9e992ea"
  },
  {
@@ -8097,51 +8137,31 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Przygotowanie przedsięwzięcia i projektu, oszacowanie kosztów – Opracowanie koncepcji programowych budowy tras rowerowych wraz z opracowaniem programów funkcjonalno – użytkowych w podziale na 3 części",
-  "url": "https://ted.europa.eu/en/notice/-/detail/593368-2026",
-  "zamawiajacy": "Województwo Łódzkie - Zarząd Dróg Wojewódzkich w Łodzi",
-  "data_publikacji": "2026-08-27",
+  "tytul": "Polska – Nadzór nad projektem i dokumentacją – Opracowanie projektu modernizacji instalacji grzewczej w budynkach użyteczności publicznej w Katowicach przy ul. Powstańców nr 28 oraz nr 30 (budynek główny i budynek B) w celu poprawy sprawności cieplnej systemu grzewczego oraz ciepła wykorzystywanego do przygotowania ciepłej wody użytkowej – przedsięwzięcie termomodernizacyjne",
+  "url": "https://ted.europa.eu/en/notice/-/detail/651124-2026",
+  "zamawiajacy": "Ministerstwo Energii",
+  "data_publikacji": "2026-09-22",
   "termin_skladania": "2026-10-05T10:00:00+02:00",
   "opis": null,
   "cpv": [
-   "71242000",
-   "71245000",
    "71248000",
-   "71313400",
-   "71320000",
-   "71332000",
-   "71354000",
-   "71241000",
-   "71242000",
-   "71242000",
-   "71242000",
-   "71245000",
+   "71220000",
+   "71000000",
+   "71520000",
+   "71630000",
    "71248000",
-   "71313400",
-   "71320000",
-   "71332000",
-   "71354000",
-   "71241000",
-   "71245000",
-   "71248000",
-   "71313400",
-   "71320000",
-   "71354000",
-   "71241000",
-   "71245000",
-   "71248000",
-   "71313400",
-   "71320000",
-   "71354000",
-   "71241000"
+   "71220000",
+   "71000000",
+   "71520000",
+   "71630000"
   ],
   "score": 3,
   "tagi": [
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": null,
-  "hash": "c53db9b8f564d164727e7f7c9fcf493bf47c9cce2034dd3f78cf4f3c49c41dbc"
+  "dodano": "2026-09-22",
+  "hash": "d41ee07c890422c81055208666f8cbc5ed781596724a7a2454cb5aa45cc58f91"
  },
  {
   "zrodlo": "ted",
@@ -8292,6 +8312,25 @@
   "hash": "36549a23f9eadde1b08e3349f0dabf0df95405844402635e65533ab7d48d54e6"
  },
  {
+  "zrodlo": "bip:tauron",
+  "tytul": "RZ4/157/26 Wilków - opracowanie dokumentacji projektowej i na jej podstawie budowa słupowej stacji transformatorowej 20/0,4 kV zasilanej z linii L-472 (ciąg ZRW456) wraz z dowiązaniami SN i nN (PSP 2601973).",
+  "url": "https://swoz.tauron.pl/platform/demand/notice/public/current/list",
+  "zamawiajacy": "TAURON Dystrybucja S.A.",
+  "data_publikacji": "2026-09-22",
+  "termin_skladania": "2026-10-06 12:00",
+  "opis": null,
+  "cpv": [],
+  "score": 8,
+  "tagi": [
+   "giełdowa",
+   "spolka-sp",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-22",
+  "hash": "b011b9aa0f98356e8e57177be331027c3f1196163d00294bb551039cccfe9c41"
+ },
+ {
   "zrodlo": "bzp",
   "tytul": "Opracowanie dokumentacji projektowej obejmującej termomodernizację budynku mieszkalnego przy ul. E. Tyszkiewicza 36A w Warszawie.",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-122acda8-a23c-4ff1-9824-334f7e34ee7d",
@@ -8406,7 +8445,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-21",
+  "dodano": "2026-09-22",
   "hash": "4758017770c1164c51a6bd8b861cbfe0fe73db7c7b0b8fd2f10aab7f10d082b7"
  },
  {
@@ -8637,7 +8676,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-21",
+  "dodano": "2026-09-22",
   "hash": "32e40010660bf6a0d3e65f05437eeaab64a8ec14b157fe0103af4a90974f8cb0"
  },
  {
@@ -8673,6 +8712,54 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-10",
   "hash": "d81b0116aed660a96496a96a464df736eba28648d1bb0e906bafdff2e3612a5b"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Przygotowanie przedsięwzięcia i projektu, oszacowanie kosztów – Opracowanie koncepcji programowych budowy tras rowerowych wraz z opracowaniem programów funkcjonalno – użytkowych w podziale na 3 części",
+  "url": "https://ted.europa.eu/en/notice/-/detail/653487-2026",
+  "zamawiajacy": "Województwo Łódzkie - Zarząd Dróg Wojewódzkich w Łodzi",
+  "data_publikacji": "2026-09-22",
+  "termin_skladania": "2026-10-09T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71242000",
+   "71245000",
+   "71248000",
+   "71313400",
+   "71320000",
+   "71332000",
+   "71354000",
+   "71241000",
+   "71242000",
+   "71242000",
+   "71242000",
+   "71245000",
+   "71248000",
+   "71313400",
+   "71320000",
+   "71332000",
+   "71354000",
+   "71241000",
+   "71245000",
+   "71248000",
+   "71313400",
+   "71320000",
+   "71354000",
+   "71241000",
+   "71245000",
+   "71248000",
+   "71313400",
+   "71320000",
+   "71354000",
+   "71241000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-22",
+  "hash": "e71747b344b225d098d2fa56350d367045483e19981439ded4bad1ae5ccfc545"
  },
  {
   "zrodlo": "ted",
@@ -8750,7 +8837,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-21",
+  "dodano": "2026-09-22",
   "hash": "886d5920e4c0ea841fff739c00e230a6c8ff0705adf4b301c0433a2591c416aa"
  },
  {
@@ -9161,7 +9248,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-21",
+  "dodano": "2026-09-22",
   "hash": "9ff7b24d88888e5cf5f02ee32d5a2091a553d432458191e03e9f6bbe8cd46e53"
  },
  {
@@ -9523,6 +9610,36 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Usługi projektowania architektonicznego – BP-DZP.2612.1.2026",
+  "url": "https://ted.europa.eu/en/notice/-/detail/652857-2026",
+  "zamawiajacy": "Agencja Mienia Wojskowego",
+  "data_publikacji": "2026-09-22",
+  "termin_skladania": "2026-10-19T09:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71220000",
+   "71240000",
+   "71242000",
+   "71245000",
+   "71244000",
+   "71248000",
+   "71220000",
+   "71240000",
+   "71240000",
+   "71245000",
+   "71244000",
+   "71248000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-22",
+  "hash": "f88cc5f6c472cd2699e9e4b7926e73578598a6240e21e19a940b779784bae626"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Roboty budowlane – Zaprojektowanie (w zakresie branży srk) i kompleksowe wykonanie robót budowlanych na linii kolejowej nr 622 na odcinku G Gdów – Szczyrzyc w ramach Projektu pn. „Budowa nowej linii kolejowej Podłęże – Szczyrzyc – Tymbark / Mszana Dolna oraz modernizacja istniejącej linii kolejowej nr 104 Chabówka – Nowy Sącz – Etap II”",
   "url": "https://ted.europa.eu/en/notice/-/detail/642406-2026",
   "zamawiajacy": "PKP Polskie Linie Kolejowe S.A.",
@@ -9728,58 +9845,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Słoneczne moduły fotoelektryczne – Dostawa i montaż wraz z zaprojektowaniem i uruchomieniem instalacji fotowoltaicznej o mocy 450 kWp w ramach wniosku o dofinansowanie pn.: Rozwój energetyki rozproszonej opartej o OZE dla budynków użyteczności publicznej w Gminie Zawiercie 6",
-  "url": "https://ted.europa.eu/en/notice/-/detail/643703-2026",
-  "zamawiajacy": "Gmina Zawiercie",
-  "data_publikacji": "2026-09-18",
-  "termin_skladania": "2026-10-20T10:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "09331200",
-   "71000000",
-   "71300000",
-   "71242000",
-   "71320000",
-   "45000000",
-   "45200000",
-   "45230000",
-   "45300000",
-   "45400000",
-   "45111291",
-   "45310000",
-   "45315700",
-   "42961000",
-   "72212100",
-   "72265000",
-   "09331200",
-   "71000000",
-   "71300000",
-   "71242000",
-   "71320000",
-   "45000000",
-   "45200000",
-   "45230000",
-   "45300000",
-   "45400000",
-   "45111291",
-   "45310000",
-   "45315700",
-   "42961000",
-   "72212100",
-   "72265000"
-  ],
-  "score": 3,
-  "tagi": [
-   "bonus-ue/strategiczny",
-   "cpv-71",
-   "samorząd"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-18",
-  "hash": "69d33151c26eba2ba9c561b01cb30c4614129b5c614043686667260d9e9d8ddd"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Roboty budowlane – Modernizacja stacji elektroenergetycznej 110/15 kV Łososina tryb zaprojektuj i wybuduj",
   "url": "https://ted.europa.eu/en/notice/-/detail/631172-2026",
   "zamawiajacy": "TAURON Dystrybucja S. A. Oddział w Krakowie",
@@ -9977,6 +10042,117 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Słoneczne moduły fotoelektryczne – Dostawa i montaż wraz z zaprojektowaniem i uruchomieniem instalacji fotowoltaicznej o mocy 450 kWp w ramach wniosku o dofinansowanie pn.: Rozwój energetyki rozproszonej opartej o OZE dla budynków użyteczności publicznej w Gminie Zawiercie 6",
+  "url": "https://ted.europa.eu/en/notice/-/detail/651192-2026",
+  "zamawiajacy": "Gmina Zawiercie",
+  "data_publikacji": "2026-09-22",
+  "termin_skladania": "2026-10-22T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "09331200",
+   "71000000",
+   "71300000",
+   "71242000",
+   "71320000",
+   "45000000",
+   "45200000",
+   "45230000",
+   "45300000",
+   "45400000",
+   "45111291",
+   "45310000",
+   "45315700",
+   "42961000",
+   "72212100",
+   "72265000",
+   "09331200",
+   "71000000",
+   "71300000",
+   "71242000",
+   "71320000",
+   "45000000",
+   "45200000",
+   "45230000",
+   "45300000",
+   "45400000",
+   "45111291",
+   "45310000",
+   "45315700",
+   "42961000",
+   "72212100",
+   "72265000"
+  ],
+  "score": 3,
+  "tagi": [
+   "bonus-ue/strategiczny",
+   "cpv-71",
+   "samorząd"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-18",
+  "hash": "4210d16903fe82289765e99e28035cb57095e24dded7a6e8e851a22386c288c3"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi architektoniczne, budowlane, inżynieryjne i kontrolne – Wykonanie aktualizacji dokumentacji projektowej termomodernizacji budynku Zespołu Szkolno-Przedszkolnego nr 2 przy ul. Kaliskiej 10 w Bydgoszczy",
+  "url": "https://ted.europa.eu/en/notice/-/detail/653522-2026",
+  "zamawiajacy": "Miasto Bydgoszcz",
+  "data_publikacji": "2026-09-22",
+  "termin_skladania": "2026-10-22T11:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71000000",
+   "71220000",
+   "71250000",
+   "71320000",
+   "71242000",
+   "71000000",
+   "71220000",
+   "71250000",
+   "71320000",
+   "71242000"
+  ],
+  "score": 9,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-22",
+  "hash": "9ea5590e84a5db32f4793595a173633f04b2f84fcd23f1988fd410ce477f3dfd"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi projektowania architektonicznego – „Sporządzenie dokumentacji projektowej dla przebudowy Zespołu Szkolno-Przedszkolnego Nr 5 w Dąbrowie Górniczej wraz z obiektem sportowym i zagospodarowaniem terenu” w ramach zadania „Poprawa infrastruktury budynków komunalnych w zakresie działalności oświatowej, pomocy społecznej, kulturalnej i sportowej”.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/652219-2026",
+  "zamawiajacy": "DĄBROWA GÓRNICZA - MIASTO NA PRAWACH POWIATU",
+  "data_publikacji": "2026-09-22",
+  "termin_skladania": "2026-10-22T12:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71220000",
+   "71222000",
+   "71322000",
+   "71248000",
+   "71247000",
+   "71220000",
+   "71222000",
+   "71322000",
+   "71248000",
+   "71247000"
+  ],
+  "score": 14,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-22",
+  "hash": "e9c555caa5700cace4f9e41019e64a6f85650962e493b04aa2b0dc38d30ee398"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – ,,Wykonanie dokumentacji projektowej wraz z pełnieniem nadzoru autorskiego dla zadania pn.: Zabezpieczenie przeciwerozyjne szlaków zrywkowych - wykonanie przegród drewnianych w leśnictwach Lasek i Czerniawa w ramach projektu „Kompleksowy projekt adaptacji lasów i leśnictwa do zmian klimatu – mała retencja oraz przeciwdziałanie erozji wodnej na terenach górskich –kontynuacja (MRG3)”",
   "url": "https://ted.europa.eu/en/notice/-/detail/632945-2026",
   "zamawiajacy": "Skarb Państwa PGL LP Nadleśnictwo Świeradów",
@@ -10002,6 +10178,34 @@
   "status_opisu": "brak",
   "dodano": "2026-09-15",
   "hash": "26c826b46903382144378b8be0d1821db25f190da95be9abe68d73f46d65e35d"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Opracowanie dokumentacji projektowej dla zadania pn. „Budowa Centrum Przesiadkowego w Wilkszynie”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/652660-2026",
+  "zamawiajacy": "Gmina Miękinia",
+  "data_publikacji": "2026-09-22",
+  "termin_skladania": "2026-10-23T09:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71320000",
+   "71242000",
+   "71310000",
+   "71248000",
+   "71320000",
+   "71242000",
+   "71310000",
+   "71248000"
+  ],
+  "score": 8,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-22",
+  "hash": "d6f77e10ba190cd2d60c86517e51e60993e3cd245d17c410efa4ee1af1060080"
  },
  {
   "zrodlo": "ted",
@@ -10053,6 +10257,64 @@
   "status_opisu": "brak",
   "dodano": "2026-09-16",
   "hash": "2cc4af384f6eed1035a03f3f7399abfd9141e1d38640c73856ab5abff5cd6fac"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi projektowania architektonicznego – Opracowanie wielobranżowej dokumentacji projektowej dotyczącej modernizacji i adaptacji I piętra części wysokiej budynku Urzędu Marszałkowskiego Województwa Podlaskiego w Białymstoku przy ul. kard. S. Wyszyńskiego 1",
+  "url": "https://ted.europa.eu/en/notice/-/detail/651214-2026",
+  "zamawiajacy": "Województwo Podlaskie",
+  "data_publikacji": "2026-09-22",
+  "termin_skladania": "2026-10-26T09:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71220000",
+   "71221000",
+   "71320000",
+   "79932000",
+   "71248000",
+   "71247000",
+   "71327000",
+   "71220000",
+   "71221000",
+   "71320000",
+   "79932000",
+   "71248000",
+   "71247000",
+   "71327000"
+  ],
+  "score": 15,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-22",
+  "hash": "18c4362f1ec0b66586c9c2f6d530180967ee23337ddaa37ce2fd23569d09b2b9"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi projektowania architektonicznego – Wykonanie dokumentacji projektowej wraz z kosztorysami inwestorskimi, w tym przedmiarami robót, STWiOR i innymi niezbędnymi opracowaniami dla zadania pn. \"Budowa Centrum Specjalistycznego z zespołem ambulatoryjnych poradni przyszpitalnych w Miejskim Centrum Medycznym im. dr Karola Jonschera w Łodzi”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/650445-2026",
+  "zamawiajacy": "Miejskie Centrum Medyczne im. dr. Karola Jonschera w Łodzi",
+  "data_publikacji": "2026-09-22",
+  "termin_skladania": "2026-10-27T11:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71220000",
+   "71242000",
+   "71320000",
+   "71220000",
+   "71242000",
+   "71320000"
+  ],
+  "score": 9,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-22",
+  "hash": "53acdad1a2c2d30b760088108ac457f1774f1c26eda49a8540e2b894fc38c534"
  },
  {
   "zrodlo": "ted",
@@ -10137,7 +10399,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-21",
+  "dodano": "2026-09-22",
   "hash": "43bdd6dc8d3e34537761c8edeb21e1a54576493c9b7a9057f6f163465cd82fc7"
  }
 ]
