@@ -7043,6 +7043,24 @@
   "hash": "769d0d7b039eea804028b15a8aed46609163d40779baf347fa7ee1ecf409c4be"
  },
  {
+  "zrodlo": "pz-search",
+  "tytul": "RZI-ZP.271.22.2026 „Remont świetlicy wiejskiej w miejscowości Szczerbin (dokumentacja projektowa)”",
+  "url": "https://platformazakupowa.pl/transakcja/1378636",
+  "zamawiajacy": "Gmina Łobżenica",
+  "data_publikacji": null,
+  "termin_skladania": "2026-09-30 10:00:00",
+  "opis": null,
+  "cpv": [],
+  "score": 5,
+  "tagi": [
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-22",
+  "hash": "f973a6e9ad3ac4640d2e6911c7639f51a7ce583d9b7376a175f2f00fbc6cdf5e"
+ },
+ {
   "zrodlo": "bip:tauron",
   "tytul": "140/2026 - Opracowanie dokumentacji projektowej i wykonanie robót budowlano-montażowych dla zadań pod nazwą: \n- R-304 Bolesławiec ul. Matejki – skablowanie linii SN wraz z termomodernizacją budynku stacyjnego - (KZ JG/000262/25);\n- R-304 Bolesławiec ul. Matejki - budowa Systemu Sygnalizacji Włamania i Napadu (SSWiN) oraz Systemu Dozoru Wizyjnego (SDW) - (KZ JG/000314/25)",
   "url": "https://swoz.tauron.pl/platform/demand/notice/public/current/list",
@@ -7149,6 +7167,28 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-21",
   "hash": "35374177725ab12ff0a37f6b6edf080f054e13b3183ff409276de2febd5f6536"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie kompletnej dokumentacji projektowej dla zadania polegającego na budowie/remoncie/przebudowie dróg na terenie Gminy Kraśnik",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-85c2efeb-310d-4d3a-b161-9e4c30872d2b",
+  "zamawiajacy": "GMINA KRAŚNIK",
+  "data_publikacji": "2026-09-22",
+  "termin_skladania": "2026-09-30T06:30:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00450640 z dnia 2026-09-22 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie kompletnej dokumentacji projektowej dla zadania polegającego na budowie/remoncie/przebudowie dróg na terenie Gminy Kraśnik SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: GMINA KRAŚNIK 1.3.) Oddział zamawiającego: Gmina Kraśnik 1.4) Krajowy Numer Identyfikacyjny: REGON 431019997 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Tadeusza Kościuszki 24 1.5.2.) Miejscowość: Kraśnik 1.5.3.) Kod pocztowy: 23-200 1.5.4.) Województwo: lubelskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL815 - Puławski 1.5.9.) Adres poczty elektronicznej: sekretariat@gminakrasnik.pl 1.5.10.) Adres strony internetowej zamawiającego: https://krasnik.e-bip.eu/ 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych -",
+  "cpv": [
+   "71220000-6",
+   "71221000-3"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-22",
+  "hash": "3ccb902fef589018a3b62e6f5f0a67d51eecb197a9217f20f49504f77bd4fb41"
  },
  {
   "zrodlo": "bzp",
