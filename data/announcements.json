@@ -1833,33 +1833,6 @@
  },
  {
   "zrodlo": "bzp",
-  "tytul": "Opracowanie dokumentacji projektowej przebudowy budynku usługowo-handlowego na potrzeby działalności kulturalnej i edukacyjnej w m. Nowy Wiśnicz.",
-  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-7203dadf-9334-470e-84ba-8c43e3969bfc",
-  "zamawiajacy": "GMINA NOWY WIŚNICZ",
-  "data_publikacji": "2026-09-02",
-  "termin_skladania": "2026-09-14T07:00:00Z",
-  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00419331 z dnia 2026-09-02 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej przebudowy budynku usługowo-handlowego na potrzeby działalności kulturalnej i edukacyjnej w m. Nowy Wiśnicz. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: GMINA NOWY WIŚNICZ 1.4) Krajowy Numer Identyfikacyjny: REGON 851661122 1.5) Adres zamawiającego 1.5.1.) Ulica: Rynek 38 1.5.2.) Miejscowość: Nowy Wiśnicz 1.5.3.) Kod pocztowy: 32-720 1.5.4.) Województwo: małopolskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL214 - Krakowski 1.5.7.) Numer telefonu: 14 68 509 12 1.5.9.) Adres poczty elektronicznej: przetargi@nowywisnicz.pl 1.5.10.) Adres strony internetowej zamawiającego: www.nowywisnicz.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka",
-  "cpv": [
-   "71000000-8",
-   "71220000-6",
-   "71221000-3",
-   "71240000-2",
-   "71242000-6",
-   "71245000-7",
-   "71248000-8"
-  ],
-  "score": 11,
-  "tagi": [
-   "cpv-71",
-   "samorząd",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "pobrany",
-  "dodano": "2026-09-03",
-  "hash": "b9599aee218412f703a4904e1d448f2302a234d4b67aba0100f25cc244c26bba"
- },
- {
-  "zrodlo": "bzp",
   "tytul": "Opracowanie dokumentacji przedmiarowo-kosztorysowej oraz specyfikacji technicznych na remonty 20 pustostanów lokali mieszkalnych administrowanych przez ZGN w Dzielnicy Włochy m.st. Warszawy",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-eaa6f7b3-8e2f-4b1a-b9d0-e1982116e805",
   "zamawiajacy": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Włochy m.st. Warszawy",
@@ -7717,6 +7690,33 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej przebudowy budynku usługowo-handlowego na potrzeby działalności kulturalnej i edukacyjnej w m. Nowy Wiśnicz.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-aba4d232-c21a-443e-8709-a5cb366068b5",
+  "zamawiajacy": "GMINA NOWY WIŚNICZ",
+  "data_publikacji": "2026-09-23",
+  "termin_skladania": "2026-10-01T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00452142 z dnia 2026-09-23 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej przebudowy budynku usługowo-handlowego na potrzeby działalności kulturalnej i edukacyjnej w m. Nowy Wiśnicz. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: GMINA NOWY WIŚNICZ 1.4) Krajowy Numer Identyfikacyjny: REGON 851661122 1.5) Adres zamawiającego 1.5.1.) Ulica: Rynek 38 1.5.2.) Miejscowość: Nowy Wiśnicz 1.5.3.) Kod pocztowy: 32-720 1.5.4.) Województwo: małopolskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL214 - Krakowski 1.5.7.) Numer telefonu: 14 68 509 12 1.5.9.) Adres poczty elektronicznej: przetargi@nowywisnicz.pl 1.5.10.) Adres strony internetowej zamawiającego: www.nowywisnicz.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka",
+  "cpv": [
+   "71000000-8",
+   "71220000-6",
+   "71221000-3",
+   "71240000-2",
+   "71242000-6",
+   "71245000-7",
+   "71248000-8"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-03",
+  "hash": "854e9a1bc6da48c9138623d8139ea984fe40f3fa87d8e7ea1b5b05dff5a1e80c"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Wykonanie ekspertyzy określającej stan techniczny dla zadania „Przebudowa zapory czołowej Zbiornika Wodnego Włodzienin stanowiącego ochronę przeciwpowodziową doliny rzeki Troi”",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-c1b0a2d0-81c2-4339-b5e0-487eb75df851",
   "zamawiajacy": "Państwowe Gospodarstwo Wodne Wody Polskie",
@@ -8120,6 +8120,27 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-23",
   "hash": "b32488696591d98fbf2318566ba7977f4a11284f149b9027b07332132c1aca94"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowej dla zadania pn: „Przebudowa Domu Studenckiego nr 3 UWM przy ul. M.Oczapowskiego 9” wraz ze sprawowaniem nadzoru autorskiego.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-b4e2d541-036a-418e-88ee-b537dff5a5c2",
+  "zamawiajacy": "UNIWERSYTET WARMIŃSKO – MAZURSKI W OLSZTYNIE",
+  "data_publikacji": "2026-09-23",
+  "termin_skladania": "2026-10-02T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00452177 z dnia 2026-09-23 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowej dla zadania pn: „Przebudowa Domu Studenckiego nr 3 UWM przy ul. M.Oczapowskiego 9” wraz ze sprawowaniem nadzoru autorskiego. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: UNIWERSYTET WARMIŃSKO – MAZURSKI W OLSZTYNIE 1.4) Krajowy Numer Identyfikacyjny: REGON 510884205 1.5) Adres zamawiającego 1.5.1.) Ulica: Oczapowskiego 2 1.5.2.) Miejscowość: Olsztyn 1.5.3.) Kod pocztowy: 10-719 1.5.4.) Województwo: warmińsko-mazurskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL622 - Olsztyński 1.5.9.) Adres poczty elektronicznej: dorota.borkowska@uwm.edu.pl 1.5.10.) Adres strony internetowej zamawiającego: http://www.uwm.edu.pl/ 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów pu",
+  "cpv": [
+   "71320000-7",
+   "71222000-0"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-23",
+  "hash": "aae50f403f38e883acd2f51baeef7c73640322dfebd2d76d12f8a5faad90619e"
  },
  {
   "zrodlo": "bzp",
@@ -8677,6 +8698,28 @@
   "hash": "80063dfb37782b8e8af0371e450f0e5540184ed394f5048b5597346cfe02a811"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowej wraz z pełnieniem nadzoru autorskiego w ramach zadania„Wykonanie ekspertyzy i dokumentacji technicznej wraz z pełnieniem nadzoru autor.na dost. do funk.ukrycia(...)\"",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-51728716-114b-428a-86bd-9792b6f4d2ff",
+  "zamawiajacy": "GMINA - MIASTO GRUDZIĄDZ",
+  "data_publikacji": "2026-09-23",
+  "termin_skladania": "2026-10-06T07:30:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00452144 z dnia 2026-09-23 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowej wraz z pełnieniem nadzoru autorskiego w ramach zadania„Wykonanie ekspertyzy i dokumentacji technicznej wraz z pełnieniem nadzoru autor.na dost. do funk.ukrycia(...)&#34; SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: GMINA - MIASTO GRUDZIĄDZ 1.4) Krajowy Numer Identyfikacyjny: REGON 871118833 1.5) Adres zamawiającego 1.5.1.) Ulica: Ratuszowa 1 1.5.2.) Miejscowość: Grudziądz 1.5.3.) Kod pocztowy: 86-300 1.5.4.) Województwo: kujawsko-pomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL616 - Grudziądzki 1.5.7.) Numer telefonu: 564510233 1.5.9.) Adres poczty elektronicznej: bzp@um.grudziadz.pl 1.5.10.) Adres strony internetowej zamawiającego: www.bip.grudziadz.pl 1.6.) Rodzaj zamawiającego: Zamawi",
+  "cpv": [
+   "71320000-7",
+   "71220000-6"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-23",
+  "hash": "b48769e0b5aae38a0173d3bcb8e71c37a9491c6d643ce58bd09070a323fb2525"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Usługi projektowania architektonicznego – Wykonanie dokumentacji projektowo-kosztorysowej wraz z ekspertyzą dla zadania pn.: Przebudowa pomieszczeń piwnicznych w budynku nr 6 wraz z autonomicznym wyjściem w celu dostosowania ich do wymagań dla Miejsca Doraźnego Schronienia (MDS)",
   "url": "https://ted.europa.eu/en/notice/-/detail/618210-2026",
@@ -8865,6 +8908,25 @@
   "status_opisu": "brak",
   "dodano": "2026-09-02",
   "hash": "33eb34a36c1716017af88ace9464730c98c5767491faabdccfbe361da55a8790"
+ },
+ {
+  "zrodlo": "bip:tauron",
+  "tytul": "RZ4/167/26 R-Biały Kamień - opracowanie dokumentacji projektowej i na jej podstawie przystosowanie pola liniowego nr 25 i 44 w rozdzielni 20 kV do współpracy ze źródłami wytwórczymi (PSP 2502721)",
+  "url": "https://swoz.tauron.pl/platform/demand/notice/public/current/list",
+  "zamawiajacy": "TAURON Dystrybucja S.A.",
+  "data_publikacji": "2026-09-23",
+  "termin_skladania": "2026-10-08 12:00",
+  "opis": null,
+  "cpv": [],
+  "score": 8,
+  "tagi": [
+   "giełdowa",
+   "spolka-sp",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-23",
+  "hash": "38ed8414a61c57d89d2b7a6d0253718de6a491ff0f2aec2e09ccaba57e9840c3"
  },
  {
   "zrodlo": "bzp",
@@ -9897,7 +9959,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-17",
+  "dodano": "2026-09-23",
   "hash": "e75f6f34faa3057357b97ecc9e2cc2cc5a782ad0cf64223a0c942a835d6e4eb7"
  },
  {
