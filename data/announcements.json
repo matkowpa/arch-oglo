@@ -6011,70 +6011,6 @@
   "hash": "15763794c01ab3da0d05e55cfd742d8ebf6512cdeb0f0d3426aa538cb6b53fe1"
  },
  {
-  "zrodlo": "ted",
-  "tytul": "Polska – Urządzenia audiowizualne – Aranżacja i wykonanie tras turystycznych w podziemiach Sztolni Królowa Luiza.",
-  "url": "https://ted.europa.eu/en/notice/-/detail/639066-2026",
-  "zamawiajacy": "Muzeum Górnictwa Węglowego w Zabrzu",
-  "data_publikacji": "2026-09-16",
-  "termin_skladania": "2026-09-25T17:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "32321200",
-   "32322000",
-   "39154000",
-   "39290000",
-   "30200000",
-   "31000000",
-   "32321300",
-   "32342410",
-   "32353000",
-   "32573000",
-   "42961000",
-   "48000000",
-   "45311000",
-   "45314000",
-   "51000000",
-   "51110000",
-   "71321000",
-   "71320000",
-   "72212520",
-   "79930000",
-   "79950000",
-   "92110000",
-   "92312000",
-   "32321200",
-   "32322000",
-   "39154000",
-   "39290000",
-   "30200000",
-   "31000000",
-   "32321300",
-   "32342410",
-   "32353000",
-   "32573000",
-   "42961000",
-   "48000000",
-   "45311000",
-   "45314000",
-   "51000000",
-   "51110000",
-   "71321000",
-   "71320000",
-   "72212520",
-   "79930000",
-   "79950000",
-   "92110000",
-   "92312000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-17",
-  "hash": "766ad592e5915ec8dbc763d7320ebfe6a57095ac938e5943d5a10f1a3306e607"
- },
- {
   "zrodlo": "bip:tauron",
   "tytul": "150/2026/RZ1 - Opracowanie dokumentacji projektowej i wykonanie robót budowlano-montażowych dla zadania pod nazwą: Przebudowa linii napowietrznych nN w miejscowości Nielestno stacja JGB10802 obwód L-2, L-5 - (KZ JG/000144/26)",
   "url": "https://swoz.tauron.pl/platform/demand/notice/public/current/list",
@@ -6862,7 +6798,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-22",
+  "dodano": "2026-09-23",
   "hash": "17fd0ef46eb54c4330337b2252800d8d8a6ff2d7d550c35fcfe4f4e649807f8e"
  },
  {
@@ -6912,7 +6848,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-22",
+  "dodano": "2026-09-23",
   "hash": "cc7c5bfea86a44a12d01bedd29d4dad99861ecd9869986058731c9bcf51b4280"
  },
  {
@@ -7017,7 +6953,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-22",
+  "dodano": "2026-09-23",
   "hash": "99699c127fced244cf022a3270771060394774fcd9fc84531d3ed6acc5c45394"
  },
  {
@@ -7500,7 +7436,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-22",
+  "dodano": "2026-09-23",
   "hash": "2ff8f923ca9040d6082ed03384f0eed063c04be10cc81b71a8fba285f3ea9b3f"
  },
  {
@@ -7671,6 +7607,35 @@
   "hash": "c592fef1f920ffff35bf34bb260bbb8c1a81744e8cc8287ce448ea37103e1a5c"
  },
  {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi architektoniczne, budowlane, inżynieryjne i kontrolne – Wykonanie kompleksowej wielobranżowej dokumentacji projektowo-kosztorysowej dotyczącej Remontu budynku Sądu Okręgowego w Przemyślu – przygotowanie dokumentacji projektowej wraz z pełnieniem nadzoru autorskiego",
+  "url": "https://ted.europa.eu/en/notice/-/detail/656106-2026",
+  "zamawiajacy": "Sąd Okręgowy w Przemyślu",
+  "data_publikacji": "2026-09-23",
+  "termin_skladania": "2026-09-30T12:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71000000",
+   "71220000",
+   "71242000",
+   "71248000",
+   "71320000",
+   "71000000",
+   "71220000",
+   "71242000",
+   "71248000",
+   "71320000"
+  ],
+  "score": 21,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-23",
+  "hash": "8c4e63ac043e6f9cb0514a657298e4e50bc0618e43509194943df51af6313cb6"
+ },
+ {
   "zrodlo": "bip:tauron",
   "tytul": "166/2026/RZ1 - Opracowanie dokumentacji projektowej dla zadania: Mysłakowice - przebudowa linii napowietrznej SN L-126/0 i L282/5 od słupa JGJ068898 do słupa JGJ071377- (KZ JG/001401/25)",
   "url": "https://swoz.tauron.pl/platform/demand/notice/public/current/list",
@@ -7710,6 +7675,29 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "08370 - Opracowanie dokumentacji projektowej ciągu pieszo-rowerowego łączącego ul. Tarnogajską z ul. Ząbkowicką",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-63a060ca-d29f-4f24-b83c-249ec014e4af",
+  "zamawiajacy": "Gmina Wrocław, w imieniu i na rzecz której działają Wrocławskie Inwestycje Sp. z o. o. z siedzibą przy ul. Ofiar Oświęcimskich 36, 50-059 Wrocław na podstawie pełnomocnictwa Prezydenta Wrocławia",
+  "data_publikacji": "2026-09-23",
+  "termin_skladania": "2026-10-01T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00451820 z dnia 2026-09-23 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi 08370 - Opracowanie dokumentacji projektowej ciągu pieszo-rowerowego łączącego ul. Tarnogajską z ul. Ząbkowicką SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzi podmiot, któremu powierzono przeprowadzenie postępowania 1.2.) Nazwa zamawiającego: Gmina Wrocław, w imieniu i na rzecz której działają Wrocławskie Inwestycje Sp. z o. o. z siedzibą przy ul. Ofiar Oświęcimskich 36, 50-059 Wrocław na podstawie pełnomocnictwa Prezydenta Wrocławia 1.4) Krajowy Numer Identyfikacyjny: REGON 020568529 1.5) Adres zamawiającego 1.5.1.) Ulica: Ofiar Oświęcimskich 36 1.5.2.) Miejscowość: Wrocław 1.5.3.) Kod pocztowy: 50-059 1.5.4.) Województwo: dolnośląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL514 - Miasto Wrocław 1.5.9.) Adres poczty elektronicznej: przetargi@wi.wroc.pl 1.5.10.) Adres strony internetowej zam",
+  "cpv": [
+   "71322000-1",
+   "71248000-8",
+   "71220000-6"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-23",
+  "hash": "be6a08d5646438d8ad5670d21fec51ca2fc8e8efd42bb706888859b54c7c4229"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "OPRACOWANIE PROJEKTÓW SYGNALIZACJI ŚWIETLNYCH NA DROGACH WOJEWÓDZKICH – Z PODZIAŁEM NA DWA ZADANIA: ZADANIE 1: (...) DW 933 W M. GÓRA. ZADANIE 2: (...) DW 937 W M. ZEBRZYDOWICE.",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-f3e73ac9-d0c7-4bc0-9506-dab1f7909412",
   "zamawiajacy": "Zarząd Dróg Wojewódzkich w Katowicach",
@@ -7726,6 +7714,33 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-17",
   "hash": "241f3e0a1aa01a164aeb92279ec10cbebebb1507cd2c61d8504377d7328f707a"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie ekspertyzy określającej stan techniczny dla zadania „Przebudowa zapory czołowej Zbiornika Wodnego Włodzienin stanowiącego ochronę przeciwpowodziową doliny rzeki Troi”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-c1b0a2d0-81c2-4339-b5e0-487eb75df851",
+  "zamawiajacy": "Państwowe Gospodarstwo Wodne Wody Polskie",
+  "data_publikacji": "2026-09-23",
+  "termin_skladania": "2026-10-01T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00451165 z dnia 2026-09-23 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie ekspertyzy określającej stan techniczny dla zadania „Przebudowa zapory czołowej Zbiornika Wodnego Włodzienin stanowiącego ochronę przeciwpowodziową doliny rzeki Troi” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Państwowe Gospodarstwo Wodne Wody Polskie 1.4) Krajowy Numer Identyfikacyjny: REGON 368302575 1.5) Adres zamawiającego 1.5.1.) Ulica: Chałubińskiego 8 1.5.2.) Miejscowość: Warszawa 1.5.3.) Kod pocztowy: 00-613 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL911 - Miasto Warszawa 1.5.7.) Numer telefonu: 48 32 231 64 31 wew.16 1.5.9.) Adres poczty elektronicznej: gliwice@wody.gov.pl 1.5.10.) Adres strony internetowej zamawiającego: https://www.gov.pl/web/wody-polskie 1.6.) Rodzaj zam",
+  "cpv": [
+   "71242000-6",
+   "71250000-5",
+   "71320000-7",
+   "71322000-1",
+   "71332000-4",
+   "71336000-2",
+   "72242000-3",
+   "71356100-9",
+   "71335000-5"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-23",
+  "hash": "9634307710715dc4ab9858a13c6aba3d10853cb899d487e1f791321098367557"
  },
  {
   "zrodlo": "bzp",
@@ -7753,6 +7768,29 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowo-kosztorysowej modernizacji instalacji elektrycznej w podziale na części",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-c8f9c23a-fa96-4824-aa82-912d7be0d030",
+  "zamawiajacy": "Przedsiębiorstwo Gospodarki Mieszkaniowej Żyrardów Sp. z o.o.",
+  "data_publikacji": "2026-09-23",
+  "termin_skladania": "2026-10-01T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00451699 z dnia 2026-09-23 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowo-kosztorysowej modernizacji instalacji elektrycznej w podziale na części SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Przedsiębiorstwo Gospodarki Mieszkaniowej Żyrardów Sp. z o.o. 1.4) Krajowy Numer Identyfikacyjny: REGON 750087960 1.5) Adres zamawiającego 1.5.1.) Ulica: Armii Krajowej 5 1.5.2.) Miejscowość: Żyrardów 1.5.3.) Kod pocztowy: 96-300 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL926 - Żyrardowski 1.5.9.) Adres poczty elektronicznej: dzp@pgm.zyrardow.pl 1.5.10.) Adres strony internetowej zamawiającego: www.pgm.zyrardow.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - osoba prawna, o której mowa w art. 4 pkt 3 ustawy (podmiot prawa publicznego) 1.",
+  "cpv": [
+   "71320000-7",
+   "71323100-9",
+   "71248000-8",
+   "71354000-4"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-23",
+  "hash": "537791140be0ed3e1dfc425257c1dae593b60b717c90882bc11f26c3480258de"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Usługa pełnienia nadzoru inwestorskiego dla zadania: Kompleksowa modernizacja dachu tzw. \"Szpitalika Rogera\" - budynku biurowego Oddziału Biura ZPKWŚ w Rudach.",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-30feb79e-6dd4-438a-92c0-2abe80e049c0",
   "zamawiajacy": "Zespół Parków Krajobrazowych Województwa Śląskiego",
@@ -7777,6 +7815,27 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-16",
   "hash": "525243b55f06083a44eaa5ef8787567f7f67c958b9c80704612a1e323d607769"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowej i technicznej dla budowy obiektu zbiorowej ochrony – ukrycie U-1",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-00958290-215c-4f9e-9fb3-37da0e5fcfec",
+  "zamawiajacy": "POWIAT MŁAWSKI",
+  "data_publikacji": "2026-09-23",
+  "termin_skladania": "2026-10-01T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00451666 z dnia 2026-09-23 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowej i technicznej dla budowy obiektu zbiorowej ochrony – ukrycie U-1 SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: POWIAT MŁAWSKI 1.4) Krajowy Numer Identyfikacyjny: REGON 130377735 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Władysława Stanisława Reymonta 6 1.5.2.) Miejscowość: Mława 1.5.3.) Kod pocztowy: 06-500 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL922 - Ciechanowski 1.5.9.) Adres poczty elektronicznej: zamowienia@powiatmlawski.pl 1.5.10.) Adres strony internetowej zamawiającego: www.powiatmlawski.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Przedmiot działalności zam",
+  "cpv": [
+   "71220000-6"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-23",
+  "hash": "a6c1320f3976ad5403d178e2fb9573e9ce85ad75aec6051207380b6a4a3b3f53"
  },
  {
   "zrodlo": "bzp",
@@ -7976,6 +8035,94 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "WYKONANIE DOKUMENTACJI PROJEKTOWEJ I KOSZTORYSOWEJ DO ZADANIA P.N. REMONT POMIESZCZEŃ II PIĘTRA BUDYNKU NR 136 NA POTRZEBY IOE",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-37734043-0ee1-4742-bda7-b054a4376ac0",
+  "zamawiajacy": "Wojskowa Akademia Techniczna",
+  "data_publikacji": "2026-09-23",
+  "termin_skladania": "2026-10-02T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00451645 z dnia 2026-09-23 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi WYKONANIE DOKUMENTACJI PROJEKTOWEJ I KOSZTORYSOWEJ DO ZADANIA P.N. REMONT POMIESZCZEŃ II PIĘTRA BUDYNKU NR 136 NA POTRZEBY IOE SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Wojskowa Akademia Techniczna 1.4) Krajowy Numer Identyfikacyjny: REGON 012122900 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. gen. Sylwestra Kaliskiego 2 1.5.2.) Miejscowość: Warszawa 1.5.3.) Kod pocztowy: 00-908 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL911 - Miasto Warszawa 1.5.9.) Adres poczty elektronicznej: dzp@wat.edu.pl 1.5.10.) Adres strony internetowej zamawiającego: www.wat.edu.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - uczelnia publiczna 1.7.) Przedmiot działalno",
+  "cpv": [
+   "71220000-6",
+   "71320000-7",
+   "71242000-6"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-23",
+  "hash": "8fadcccd33983f8638bc66fb31d21753f1b207aa3e839cb5a0969b5bd0d7dcc6"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "\"Rozbudowa ul. Sarzyńskiej w Koszalinie - opracowanie wielobranżowej dokumentacji projektowej\".",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-0bb24484-c079-4aa7-8150-cefc432a72b6",
+  "zamawiajacy": "Zarząd Dróg i Transportu w Koszalinie",
+  "data_publikacji": "2026-09-23",
+  "termin_skladania": "2026-10-02T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00451844 z dnia 2026-09-23 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi &#34;Rozbudowa ul. Sarzyńskiej w Koszalinie - opracowanie wielobranżowej dokumentacji projektowej&#34;. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Zarząd Dróg i Transportu w Koszalinie 1.4) Krajowy Numer Identyfikacyjny: REGON 330002466 1.5) Adres zamawiającego 1.5.1.) Ulica: Połczyńska 1.5.2.) Miejscowość: Koszalin 1.5.3.) Kod pocztowy: 75-815 1.5.4.) Województwo: zachodniopomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL426 - Koszaliński 1.5.9.) Adres poczty elektronicznej: sekretariat@zdit-koszalin.pl 1.5.10.) Adres strony internetowej zamawiającego: www.zdit-koszalin.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Przedmiot dział",
+  "cpv": [
+   "71320000-7"
+  ],
+  "score": 21,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-23",
+  "hash": "b68e2961976ada1955e52186d5aca836bbc8e1174d8fc02ed8c26b0c163d9cf6"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej na budowę hali sportowo – widowiskowej w Zalewie",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-25b7caeb-5352-4ab2-99f0-e917d6082eee",
+  "zamawiajacy": "GMINA ZALEWO",
+  "data_publikacji": "2026-09-23",
+  "termin_skladania": "2026-10-02T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00451814 z dnia 2026-09-23 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej na budowę hali sportowo – widowiskowej w Zalewie SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: GMINA ZALEWO 1.4) Krajowy Numer Identyfikacyjny: REGON 510743634 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Częstochowska 8 1.5.2.) Miejscowość: Zalewo 1.5.3.) Kod pocztowy: 14-230 1.5.4.) Województwo: warmińsko-mazurskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL621 - Elbląski 1.5.7.) Numer telefonu: 897588377 1.5.8.) Numer faksu: 897588272 1.5.9.) Adres poczty elektronicznej: przetargi@zalewo.pl 1.5.10.) Adres strony internetowej zamawiającego: www.bip.zalewo.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) ",
+  "cpv": [
+   "71220000-6",
+   "71320000-7",
+   "71242000-6",
+   "71248000-8"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-23",
+  "hash": "a19cf6b707a608bcb58d9b81ea5797ca74092d009be6bc97dfa5a156e8fac3de"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Remont budynku polegający na kotwieniu warstwy fakturowej ścian zewnętrznych w budynku przy ul. Prusa 5A-B oraz wymiana balustrad w budynku przy ul. Prusa 5A-B oraz 5C-F- Etap I projekt",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-90baf4e6-c41f-4b83-a262-3f8c2adc666b",
+  "zamawiajacy": "Zakład Gospodarki Lokalowej w Mikołowie",
+  "data_publikacji": "2026-09-23",
+  "termin_skladania": "2026-10-02T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00451057 z dnia 2026-09-23 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Remont budynku polegający na kotwieniu warstwy fakturowej ścian zewnętrznych w budynku przy ul. Prusa 5A-B oraz wymiana balustrad w budynku przy ul. Prusa 5A-B oraz 5C-F- Etap I projekt SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Zakład Gospodarki Lokalowej w Mikołowie 1.4) Krajowy Numer Identyfikacyjny: REGON 270547060 1.5) Adres zamawiającego 1.5.1.) Ulica: Kolejowa 2 1.5.2.) Miejscowość: Mikołów 1.5.3.) Kod pocztowy: 43-190 1.5.4.) Województwo: śląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL22C - Tyski 1.5.9.) Adres poczty elektronicznej: zamowieniapubliczne@zgl.mikolow.eu 1.5.10.) Adres strony internetowej zamawiającego: www.zgl.mikolow.eu 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów ",
+  "cpv": [
+   "71000000-8",
+   "71250000-5",
+   "71320000-7"
+  ],
+  "score": 4,
+  "tagi": [
+   "bonus-ue/strategiczny",
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-23",
+  "hash": "b32488696591d98fbf2318566ba7977f4a11284f149b9027b07332132c1aca94"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Wykonanie pełnobranżowej dokumentacji projektowej dla robót budowlanych polegających na przebudowie segmentów mieszkalnych w Domu Studenta nr 3 ,,Gamma”ZK-DZP.262.36.2026",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-7cce661c-ada3-43d9-a530-20bfc8431e5e",
   "zamawiajacy": "Politechnika Białostocka",
@@ -8111,7 +8258,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-22",
+  "dodano": "2026-09-23",
   "hash": "bbc4b17dbfa23f37f19c4df27412e8884230281efaef35d4d15406ce7a596026"
  },
  {
@@ -8180,7 +8327,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-22",
+  "dodano": "2026-09-23",
   "hash": "04c665937ae4c9c02c315c241642afc8de4b770378b14360991b5f8ec9e992ea"
  },
  {
@@ -8510,6 +8657,26 @@
   "hash": "3b3590b6440a2296b768d3e98a9ebc93a199dd7747b4d92d2516f535a513325e"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowej dla zadania pn.: „Rozbudowa skrzyżowania ulicy Zamkowej z ulicą Bohaterów Warszawy w Bielsku-Białej”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-f0066320-16a6-49bc-a335-b26e7b9e15e7",
+  "zamawiajacy": "Miasto Bielsko-Biała - Miejski Zarząd Dróg w Bielsku-Białej",
+  "data_publikacji": "2026-09-23",
+  "termin_skladania": "2026-10-06T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00451388 z dnia 2026-09-23 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowej dla zadania pn.: „Rozbudowa skrzyżowania ulicy Zamkowej z ulicą Bohaterów Warszawy w Bielsku-Białej” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Miasto Bielsko-Biała - Miejski Zarząd Dróg w Bielsku-Białej 1.4) Krajowy Numer Identyfikacyjny: REGON 070493318 1.5) Adres zamawiającego 1.5.1.) Ulica: Michała Grażyńskiego 10 1.5.2.) Miejscowość: Bielsko-Biała 1.5.3.) Kod pocztowy: 43-300 1.5.4.) Województwo: śląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL225 - Bielski 1.5.9.) Adres poczty elektronicznej: przetargi@mzd.bielsko.pl 1.5.10.) Adres strony internetowej zamawiającego: www.mzd.bielsko.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jedno",
+  "cpv": [
+   "71320000-7"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-23",
+  "hash": "80063dfb37782b8e8af0371e450f0e5540184ed394f5048b5597346cfe02a811"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Usługi projektowania architektonicznego – Wykonanie dokumentacji projektowo-kosztorysowej wraz z ekspertyzą dla zadania pn.: Przebudowa pomieszczeń piwnicznych w budynku nr 6 wraz z autonomicznym wyjściem w celu dostosowania ich do wymagań dla Miejsca Doraźnego Schronienia (MDS)",
   "url": "https://ted.europa.eu/en/notice/-/detail/618210-2026",
@@ -8598,7 +8765,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-22",
+  "dodano": "2026-09-23",
   "hash": "4758017770c1164c51a6bd8b861cbfe0fe73db7c7b0b8fd2f10aab7f10d082b7"
  },
  {
@@ -8848,7 +9015,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-22",
+  "dodano": "2026-09-23",
   "hash": "32e40010660bf6a0d3e65f05437eeaab64a8ec14b157fe0103af4a90974f8cb0"
  },
  {
@@ -8930,7 +9097,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-22",
+  "dodano": "2026-09-23",
   "hash": "e71747b344b225d098d2fa56350d367045483e19981439ded4bad1ae5ccfc545"
  },
  {
@@ -9009,7 +9176,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-22",
+  "dodano": "2026-09-23",
   "hash": "886d5920e4c0ea841fff739c00e230a6c8ff0705adf4b301c0433a2591c416aa"
  },
  {
@@ -9463,7 +9630,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-22",
+  "dodano": "2026-09-23",
   "hash": "9ff7b24d88888e5cf5f02ee32d5a2091a553d432458191e03e9f6bbe8cd46e53"
  },
  {
@@ -9668,6 +9835,70 @@
   "status_opisu": "brak",
   "dodano": "2026-09-16",
   "hash": "116a9f3e520428654c1917a2ce8407d4d26f7d43ce048f42fbbb526747270dae"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Urządzenia audiowizualne – Aranżacja i wykonanie tras turystycznych w podziemiach Sztolni Królowa Luiza.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/654099-2026",
+  "zamawiajacy": "Muzeum Górnictwa Węglowego w Zabrzu",
+  "data_publikacji": "2026-09-23",
+  "termin_skladania": "2026-10-16T17:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "32321200",
+   "32322000",
+   "39154000",
+   "39290000",
+   "30200000",
+   "31000000",
+   "32321300",
+   "32342410",
+   "32353000",
+   "32573000",
+   "42961000",
+   "48000000",
+   "45311000",
+   "45314000",
+   "51000000",
+   "51110000",
+   "71321000",
+   "71320000",
+   "72212520",
+   "79930000",
+   "79950000",
+   "92110000",
+   "92312000",
+   "32321200",
+   "32322000",
+   "39154000",
+   "39290000",
+   "30200000",
+   "31000000",
+   "32321300",
+   "32342410",
+   "32353000",
+   "32573000",
+   "42961000",
+   "48000000",
+   "45311000",
+   "45314000",
+   "51000000",
+   "51110000",
+   "71321000",
+   "71320000",
+   "72212520",
+   "79930000",
+   "79950000",
+   "92110000",
+   "92312000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-17",
+  "hash": "e75f6f34faa3057357b97ecc9e2cc2cc5a782ad0cf64223a0c942a835d6e4eb7"
  },
  {
   "zrodlo": "ted",
@@ -10304,7 +10535,7 @@
    "samorząd"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-22",
+  "dodano": "2026-09-23",
   "hash": "4210d16903fe82289765e99e28035cb57095e24dded7a6e8e851a22386c288c3"
  },
  {
@@ -10508,6 +10739,30 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Usługi projektowania architektonicznego – Usługa wykonania niezbędnej dokumentacji technicznej wraz z niezbędnymi opiniami, uzgodnieniami - wykonanie dokumentacji technicznej i kosztorysów dla prac objętych projektem – zadanie nr 20",
+  "url": "https://ted.europa.eu/en/notice/-/detail/654016-2026",
+  "zamawiajacy": "Komenda Wojewódzka Państwowej Straży Pożarnej w Rzeszowie",
+  "data_publikacji": "2026-09-23",
+  "termin_skladania": "2026-10-27T10:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71220000",
+   "71248000",
+   "71320000",
+   "71220000",
+   "71248000",
+   "71320000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-23",
+  "hash": "81b8c7e6a9438c9102b7d024405cc4b18e9d5d14e2582a9449e1b23fbe149ee3"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi projektowania architektonicznego – Wykonanie dokumentacji projektowej wraz z kosztorysami inwestorskimi, w tym przedmiarami robót, STWiOR i innymi niezbędnymi opracowaniami dla zadania pn. \"Budowa Centrum Specjalistycznego z zespołem ambulatoryjnych poradni przyszpitalnych w Miejskim Centrum Medycznym im. dr Karola Jonschera w Łodzi”",
   "url": "https://ted.europa.eu/en/notice/-/detail/650445-2026",
   "zamawiajacy": "Miejskie Centrum Medyczne im. dr. Karola Jonschera w Łodzi",
@@ -10614,7 +10869,85 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-22",
+  "dodano": "2026-09-23",
   "hash": "43bdd6dc8d3e34537761c8edeb21e1a54576493c9b7a9057f6f163465cd82fc7"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Roboty budowlane – Budowa GPZ Ostrowiec 4",
+  "url": "https://ted.europa.eu/en/notice/-/detail/655853-2026",
+  "zamawiajacy": "PGE DYSTRYBUCJA S.A.",
+  "data_publikacji": "2026-09-23",
+  "termin_skladania": "2026-11-03T09:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "45000000",
+   "45232220",
+   "45232210",
+   "45231400",
+   "71221000",
+   "71320000",
+   "45200000",
+   "45210000",
+   "45310000",
+   "45000000",
+   "45232220",
+   "45232210",
+   "45231400",
+   "71221000",
+   "71320000",
+   "45200000",
+   "45210000",
+   "45310000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71",
+   "giełdowa",
+   "roboty-budowlane",
+   "spolka-sp"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-23",
+  "hash": "fa266066eb06ddf5511a2f0719277339c6c6476a4f2bb9b324a96c8c6b8b61be"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Roboty budowlane – Przebudowa GPZ Ostrowiec 1",
+  "url": "https://ted.europa.eu/en/notice/-/detail/654462-2026",
+  "zamawiajacy": "PGE DYSTRYBUCJA S.A.",
+  "data_publikacji": "2026-09-23",
+  "termin_skladania": "2026-11-03T09:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "45000000",
+   "45232220",
+   "45232210",
+   "45231400",
+   "71221000",
+   "71320000",
+   "45200000",
+   "45210000",
+   "45310000",
+   "45000000",
+   "45232220",
+   "45232210",
+   "45231400",
+   "71221000",
+   "71320000",
+   "45200000",
+   "45210000",
+   "45310000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71",
+   "giełdowa",
+   "roboty-budowlane",
+   "spolka-sp"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-23",
+  "hash": "3d851ef95684705d2350a649085cdd2e30e054513cff71a0b0b49dcf39a085ba"
  }
 ]
