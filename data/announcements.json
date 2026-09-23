@@ -8478,6 +8478,30 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Pełnienie wielobranżowego nadzoru inwestorskiego w zakresie budowlanym i projektowym nad robotami budowlanymi obejmującymi kontynuację budowy zadaszonego toru lodowego w COS-OPO w Zakopanem",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-d424a325-9a86-4a4b-8fcf-2a8714eb318b",
+  "zamawiajacy": "CENTRALNY OŚRODEK SPORTU - OŚRODEK PRZYGOTOWAŃ OLIMPIJSKICH W ZAKOPANEM",
+  "data_publikacji": "2026-09-23",
+  "termin_skladania": "2026-10-05T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00453255 z dnia 2026-09-23 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Pełnienie wielobranżowego nadzoru inwestorskiego w zakresie budowlanym i projektowym nad robotami budowlanymi obejmującymi kontynuację budowy zadaszonego toru lodowego w COS-OPO w Zakopanem SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: CENTRALNY OŚRODEK SPORTU - OŚRODEK PRZYGOTOWAŃ OLIMPIJSKICH W ZAKOPANEM 1.4) Krajowy Numer Identyfikacyjny: REGON 14273335600042 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Bronisława Czecha 1 1.5.2.) Miejscowość: Zakopane 1.5.3.) Kod pocztowy: 34-500 1.5.4.) Województwo: małopolskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL219 - Nowotarski 1.5.9.) Adres poczty elektronicznej: szczyrk.magdalena@cos.pl 1.5.10.) Adres strony internetowej zamawiającego: www.bip.cos.pl 1.6.) Rodzaj zamawiającego: Z",
+  "cpv": [
+   "71520000-9",
+   "71000000-8",
+   "71200000-0",
+   "71247000-1",
+   "71248000-8",
+   "71521000-6"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-23",
+  "hash": "f2c8d3df29f82cd52138133d2245ae08bb34d418ea6f1149b2b70167fb89faf0"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "\"Adaptacja piwnic w budynku Szkoły Podstawowej na miejsce doraźnego schronienia ludności cywilnej\" - dokumentacja projektowa",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-50f6b923-d99f-4306-9a33-c360386863a4",
   "zamawiajacy": "Gmina Chodów",
@@ -8557,6 +8581,36 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "dabef291fd8f17ee85579cab1bbceb015c81d2c30daae51ad2a6828d662fb39a"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Dostawa, montaż i uruchomienie cyfrowego aparatu RTG wraz z systemem PACS/RIS.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-76b8a69b-1ca6-4e17-ae9f-106b65b6876a",
+  "zamawiajacy": "CENTRUM MEDYCZNE \"KOL-MED\" SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W TARNOWIE",
+  "data_publikacji": "2026-09-23",
+  "termin_skladania": "2026-10-05T10:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00453262 z dnia 2026-09-23 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Dostawy Dostawa, montaż i uruchomienie cyfrowego aparatu RTG wraz z systemem PACS/RIS. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: CENTRUM MEDYCZNE &#34;KOL-MED&#34; SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W TARNOWIE 1.3.) Oddział zamawiającego: KOL-MED 1.4) Krajowy Numer Identyfikacyjny: REGON 010649508 1.5) Adres zamawiającego 1.5.1.) Ulica: Plac Dworcowy, 6 1.5.2.) Miejscowość: Tarnów 1.5.3.) Kod pocztowy: 33-100 1.5.4.) Województwo: małopolskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL217 - Tarnowski 1.5.7.) Numer telefonu: 14 688 60 26 1.5.8.) Numer faksu: 14 688 60 11 1.5.9.) Adres poczty elektronicznej: dyrekcja@kolmed.tarnow.pl 1.5.10.) Adres strony internetowej zamawiającego: www.kolmed.tarnow.pl 1.6.) Rodzaj zamaw",
+  "cpv": [
+   "33111800-9",
+   "48814000-7",
+   "48180000-3",
+   "72263000-6",
+   "51411000-6",
+   "30214000-2",
+   "45310000-3",
+   "45432111-5",
+   "71320000-7",
+   "71630000-3",
+   "90721600-3",
+   "90510000-5"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-23",
+  "hash": "7ee44ced5338765f2d80634044bda42c8def6ab1acefcc0fba1c786a339e09cb"
  },
  {
   "zrodlo": "ted",
