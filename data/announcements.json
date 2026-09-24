@@ -8168,6 +8168,31 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "OPRACOWANIE DOKUMENTACJI PROJEKTOWEJ",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-fe4caf50-baef-421b-aac0-64b0e4779de5",
+  "zamawiajacy": "Szpital Specjalistyczny w Pile im. Stanisława Staszica",
+  "data_publikacji": "2026-09-24",
+  "termin_skladania": "2026-10-02T09:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00455343 z dnia 2026-09-24 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi OPRACOWANIE DOKUMENTACJI PROJEKTOWEJ SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Szpital Specjalistyczny w Pile im. Stanisława Staszica 1.3.) Oddział zamawiającego: Dział Zamówień Publicznych 1.4) Krajowy Numer Identyfikacyjny: REGON 001261820 1.5) Adres zamawiającego 1.5.1.) Ulica: Rydygiera Ludwika 1 1.5.2.) Miejscowość: Piła 1.5.3.) Kod pocztowy: 64-920 1.5.4.) Województwo: wielkopolskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL411 - Pilski 1.5.9.) Adres poczty elektronicznej: klaudia.klejc@szpital.pila.pl 1.5.10.) Adres strony internetowej zamawiającego: www.szpitalpila.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - samodzielny publiczny zakład opieki zdrowotnej 1.7.) Prz",
+  "cpv": [
+   "71221000-3",
+   "71000000-8",
+   "71220000-6",
+   "71320000-7",
+   "71248000-8",
+   "71242000-6"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-24",
+  "hash": "a27a1de5939b9da032c977224ec91f4be598bf5b72c43d23d39e81de3cabd032"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Opracowanie dokumentacji projektowej przebudowy i remontu budynku Liceum Ogólnokształcącego nr IV przy ul. Świstackiego 12-14 i 12a we Wrocławiu wraz z pełnieniem nadzoru autorskiego",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-c9af6c88-59c3-4908-9918-1c91ae09cd6c",
   "zamawiajacy": "GMINA WROCŁAW - ZARZĄD INWESTYCJI MIEJSKICH",
@@ -8568,6 +8593,29 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-24",
   "hash": "c34e7a97e420ed83290272e7b8b4f0d81602c69a1c35566c80a7e1e2a73957ad"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie kompletnej dokumentacji projektowej parków kieszonkowych i skwerów w Warszawie wraz z pełnieniem nadzorów autorskich w ramach realizacji projektów z budżetu obywatelskiego na 2026",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-8704ba2a-528c-4974-ba69-c3959620a460",
+  "zamawiajacy": "Miasto Stołeczne Warszawa",
+  "data_publikacji": "2026-09-24",
+  "termin_skladania": "2026-10-05T09:30:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00455355 z dnia 2026-09-24 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie kompletnej dokumentacji projektowej parków kieszonkowych i skwerów w Warszawie wraz z pełnieniem nadzorów autorskich w ramach realizacji projektów z budżetu obywatelskiego na 2026 SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Miasto Stołeczne Warszawa 1.3.) Oddział zamawiającego: Zarząd Zieleni m.st. Warszawy 1.4) Krajowy Numer Identyfikacyjny: REGON 365421948 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Hożej 13A 1.5.2.) Miejscowość: Warszawa 1.5.3.) Kod pocztowy: 00-528 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL911 - Miasto Warszawa 1.5.9.) Adres poczty elektronicznej: zamowienia@zzw.waw.pl 1.5.10.) Adres strony internetowej zamawiającego: http://zzw.waw.pl/ 1.6.) Rodzaj zamawiając",
+  "cpv": [
+   "71000000-8",
+   "71200000-0",
+   "71222000-0",
+   "71220000-6"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-24",
+  "hash": "97c6a255dd5812342bf87eb5ee1e4871ab4688c375ba33612c99367d1f8eae84"
  },
  {
   "zrodlo": "ted",
