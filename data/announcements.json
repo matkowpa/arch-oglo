@@ -7776,7 +7776,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-16",
+  "dodano": "2026-09-24",
   "hash": "9544e4fd4629c0f4a496c2d14852d734f6bd4e600d82a98f77f0684c735505f6"
  },
  {
@@ -7806,7 +7806,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-16",
+  "dodano": "2026-09-24",
   "hash": "a319f87ddc80355a5544c92be6ed2fa379b42c1dbbb1d7f6639d3bbff6bf5b4a"
  },
  {
@@ -8522,6 +8522,29 @@
   "hash": "22cc6192ebc1f902bf8476d1144b135e0a61e612c597727f651bb19e9d167aaf"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "Usługa nadzoru inwestorskiego nad robotami budowlanymi dla inwestycji pn. Rozbudowa budynku Pawilonu Diagnostyczno-Zabiegowego Szpitala Wojewódzkiego w Opolu",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-a51015b1-04bf-4a97-b487-9c259f47d56f",
+  "zamawiajacy": "SZPITAL WOJEWÓDZKI W OPOLU SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+  "data_publikacji": "2026-09-24",
+  "termin_skladania": "2026-10-05T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00454794 z dnia 2026-09-24 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Usługa nadzoru inwestorskiego nad robotami budowlanymi dla inwestycji pn. Rozbudowa budynku Pawilonu Diagnostyczno-Zabiegowego Szpitala Wojewódzkiego w Opolu SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: SZPITAL WOJEWÓDZKI W OPOLU SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ 1.4) Krajowy Numer Identyfikacyjny: REGON 531418151 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Augustyna Kośnego 53 1.5.2.) Miejscowość: Opole 1.5.3.) Kod pocztowy: 45-372 1.5.4.) Województwo: opolskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL524 - Opolski 1.5.9.) Adres poczty elektronicznej: przetargidlg@szpital.opole.pl 1.5.10.) Adres strony internetowej zamawiającego: www.szpital.opole.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - inny zamawiający",
+  "cpv": [
+   "71520000-9",
+   "71247000-1",
+   "71700000-5",
+   "71521000-6",
+   "71248000-8"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-24",
+  "hash": "c7119b25573bd646e321764f1af4f69eb1b5accbb53b10c31258bfe5b93a8090"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Nadzór nad projektem i dokumentacją – Opracowanie projektu modernizacji instalacji grzewczej w budynkach użyteczności publicznej w Katowicach przy ul. Powstańców nr 28 oraz nr 30 (budynek główny i budynek B) w celu poprawy sprawności cieplnej systemu grzewczego oraz ciepła wykorzystywanego do przygotowania ciepłej wody użytkowej – przedsięwzięcie termomodernizacyjne",
   "url": "https://ted.europa.eu/en/notice/-/detail/651124-2026",
@@ -8568,7 +8591,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-20",
+  "dodano": "2026-09-24",
   "hash": "622bf5e905818bc81ad6eba7b722c887ede6102baf38f5ce306e63674c61020b"
  },
  {
@@ -8709,7 +8732,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-22",
+  "dodano": "2026-09-24",
   "hash": "55030fcf509cd9a3406bf8f8029a6a6fc053a5f448261bb03a9e101b3fb24934"
  },
  {
@@ -9093,6 +9116,29 @@
   "status_opisu": "brak",
   "dodano": "2026-09-23",
   "hash": "38ed8414a61c57d89d2b7a6d0253718de6a491ff0f2aec2e09ccaba57e9840c3"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie programów funkcjonalno-użytkowych (PFU) dla zamówień realizowanych w formule „zaprojektuj i wybuduj”, w podziale na cztery części.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-ae729a27-262c-4dac-b20e-d022ef05a279",
+  "zamawiajacy": "WOJEWÓDZKI PODKARPACKI SZPITAL PSYCHIATRYCZNY IM.PROF.EUGENIUSZA BRZEZICKIEGO W ŻURAWICY",
+  "data_publikacji": "2026-09-24",
+  "termin_skladania": "2026-10-08T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00454609 z dnia 2026-09-24 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie programów funkcjonalno-użytkowych (PFU) dla zamówień realizowanych w formule „zaprojektuj i wybuduj”, w podziale na cztery części. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: WOJEWÓDZKI PODKARPACKI SZPITAL PSYCHIATRYCZNY IM.PROF.EUGENIUSZA BRZEZICKIEGO W ŻURAWICY 1.4) Krajowy Numer Identyfikacyjny: REGON 000667655 1.5) Adres zamawiającego 1.5.1.) Ulica: Różana 9 1.5.2.) Miejscowość: Żurawica 1.5.3.) Kod pocztowy: 37-710 1.5.4.) Województwo: podkarpackie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL822 - Przemyski 1.5.7.) Numer telefonu: 166723740 1.5.9.) Adres poczty elektronicznej: zamowienia@wpsp.pl 1.5.10.) Adres strony internetowej zamawiającego: www.wpsp.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - je",
+  "cpv": [
+   "71242000-6",
+   "71220000-6",
+   "71320000-7",
+   "71321000-4",
+   "71355000-1"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-24",
+  "hash": "56fc5c09c8369d47a95142381b1086877c6d37a7a26b7d9269b3db75bf99e217"
  },
  {
   "zrodlo": "bzp",
@@ -10852,6 +10898,29 @@
   "hash": "e9c555caa5700cace4f9e41019e64a6f85650962e493b04aa2b0dc38d30ee398"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie projektu budowlanego i uzyskanie pozwolenia na budowę dla inwestycji: „Budowa budynków wielorodzinnych z infrastrukturą techniczną i zagospodarowaniem terenu przy ul. Zielonej w Strumieniu”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-a7e2f4c6-1f7e-43af-82cd-756883be7b72",
+  "zamawiajacy": "SIM Śląsk Południe sp. z o.o.",
+  "data_publikacji": "2026-09-24",
+  "termin_skladania": "2026-10-23T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00454432 z dnia 2026-09-24 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie projektu budowlanego i uzyskanie pozwolenia na budowę dla inwestycji: „Budowa budynków wielorodzinnych z infrastrukturą techniczną i zagospodarowaniem terenu przy ul. Zielonej w Strumieniu” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: SIM Śląsk Południe sp. z o.o. 1.4) Krajowy Numer Identyfikacyjny: REGON 520527532 1.5) Adres zamawiającego 1.5.1.) Ulica: Armii Krajowej 1.5.2.) Miejscowość: Bielsko-Biała 1.5.3.) Kod pocztowy: 43-316 1.5.4.) Województwo: śląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL225 - Bielski 1.5.9.) Adres poczty elektronicznej: sekretariat@sim-slask-poludnie.pl 1.5.10.) Adres strony internetowej zamawiającego: www.sim-slask-poludnie.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - osoba",
+  "cpv": [
+   "71220000-6",
+   "71222000-0",
+   "71221000-3",
+   "71248000-8",
+   "71000000-8"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-24",
+  "hash": "48b728dddac985dede9efb8cbe4e30df9709f31762e012956d67d6fc15c7d0dd"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – ,,Wykonanie dokumentacji projektowej wraz z pełnieniem nadzoru autorskiego dla zadania pn.: Zabezpieczenie przeciwerozyjne szlaków zrywkowych - wykonanie przegród drewnianych w leśnictwach Lasek i Czerniawa w ramach projektu „Kompleksowy projekt adaptacji lasów i leśnictwa do zmian klimatu – mała retencja oraz przeciwdziałanie erozji wodnej na terenach górskich –kontynuacja (MRG3)”",
   "url": "https://ted.europa.eu/en/notice/-/detail/632945-2026",
@@ -10904,7 +10973,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-22",
+  "dodano": "2026-09-24",
   "hash": "c902dc7004560dcf2716e656ae9eef051ae0987faf9e608b1ce1f884a2b1eee9"
  },
  {
