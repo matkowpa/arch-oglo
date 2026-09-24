@@ -9027,6 +9027,30 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowo-kosztorysowej dla zadania: „Przebudowa stadionu miejskiego 70-lecia Odzyskania Niepodległości przy ul. Sportowej”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-dc4086cb-6c6f-4ba2-b56f-bd7781996832",
+  "zamawiajacy": "Gmina Miasta Dębica",
+  "data_publikacji": "2026-09-24",
+  "termin_skladania": "2026-10-06T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00455541 z dnia 2026-09-24 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowo-kosztorysowej dla zadania: „Przebudowa stadionu miejskiego 70-lecia Odzyskania Niepodległości przy ul. Sportowej” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Miasta Dębica 1.4) Krajowy Numer Identyfikacyjny: REGON 000524648 1.5) Adres zamawiającego 1.5.1.) Ulica: Ratuszowa 2 1.5.2.) Miejscowość: Dębica 1.5.3.) Kod pocztowy: 39-200 1.5.4.) Województwo: podkarpackie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL824 - Tarnobrzeski 1.5.9.) Adres poczty elektronicznej: przetargi@umdebica.pl 1.5.10.) Adres strony internetowej zamawiającego: https://debica.pl/ 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Pr",
+  "cpv": [
+   "71000000-8",
+   "71223000-7",
+   "71242000-6",
+   "71248000-8"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-24",
+  "hash": "1736a4a3748379acdd95aac44c8a414ea6b05c6222df7cd02e663511a9b22339"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Opracowanie dokumentacji projektowo-kosztorysowej przebudowy kompleksu Ośrodka Szkoleniowo-Wypoczynkowego w Porażynie",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-5cadff6f-283f-4912-bc08-a8c3d3ed000c",
   "zamawiajacy": "PGL Lasy Państwowe Nadleśnictwo Grodzisk",
