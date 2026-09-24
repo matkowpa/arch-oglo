@@ -8545,6 +8545,31 @@
   "hash": "c7119b25573bd646e321764f1af4f69eb1b5accbb53b10c31258bfe5b93a8090"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "Modernizacja oświetlenia jarzeniowego na LED w pomieszczeniach segmentu E1 oraz Oddziale Anestezjologii i Intensywnej Terapii w segmencie E",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-f95b94db-4b59-48a5-924b-f666ac7a4fbf",
+  "zamawiajacy": "Wojewódzki Szpital Specjalistyczny im. św. Rafała w Czerwonej Górze",
+  "data_publikacji": "2026-09-24",
+  "termin_skladania": "2026-10-05T09:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00455119 z dnia 2026-09-24 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Modernizacja oświetlenia jarzeniowego na LED w pomieszczeniach segmentu E1 oraz Oddziale Anestezjologii i Intensywnej Terapii w segmencie E SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Wojewódzki Szpital Specjalistyczny im. św. Rafała w Czerwonej Górze 1.4) Krajowy Numer Identyfikacyjny: REGON 000296213 1.5) Adres zamawiającego 1.5.1.) Ulica: Czerwona Góra 10 1.5.2.) Miejscowość: Chęciny 1.5.3.) Kod pocztowy: 26-060 1.5.4.) Województwo: świętokrzyskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL721 - Kielecki 1.5.9.) Adres poczty elektronicznej: przetargi@czerwonagora.pl 1.5.10.) Adres strony internetowej zamawiającego: www.czerwonagora.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznyc",
+  "cpv": [
+   "45316000-5",
+   "45311200-2",
+   "71320000-7",
+   "45310000-3",
+   "45300000-0",
+   "45311000-0",
+   "45311100-1"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-24",
+  "hash": "c34e7a97e420ed83290272e7b8b4f0d81602c69a1c35566c80a7e1e2a73957ad"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Nadzór nad projektem i dokumentacją – Opracowanie projektu modernizacji instalacji grzewczej w budynkach użyteczności publicznej w Katowicach przy ul. Powstańców nr 28 oraz nr 30 (budynek główny i budynek B) w celu poprawy sprawności cieplnej systemu grzewczego oraz ciepła wykorzystywanego do przygotowania ciepłej wody użytkowej – przedsięwzięcie termomodernizacyjne",
   "url": "https://ted.europa.eu/en/notice/-/detail/651124-2026",
