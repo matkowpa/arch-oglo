@@ -9935,6 +9935,25 @@
   "hash": "e9348458f1856f6a3978f34abb01551224d74af0a2766b9a21481ae27c66174d"
  },
  {
+  "zrodlo": "bip:tauron",
+  "tytul": "RZ4/168/26 R-Zawiszów - opracowanie dokumentacji projektowej i na jej podstawie przystosowanie pól liniowych nr 23 i 16 w rozdzielni 20 kV do współpracy z źródłami wytwórczymi (PSP 2503067).",
+  "url": "https://swoz.tauron.pl/platform/demand/notice/public/current/list",
+  "zamawiajacy": "TAURON Dystrybucja S.A.",
+  "data_publikacji": "2026-09-25",
+  "termin_skladania": "2026-10-13 12:00",
+  "opis": null,
+  "cpv": [],
+  "score": 8,
+  "tagi": [
+   "giełdowa",
+   "spolka-sp",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-25",
+  "hash": "77d22d5db34acad52214b0e3ed78ecb5fc6fb0807aa2299ece11ebdf5adc43db"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Wykonanie dokumentacji projektowo-kosztorysowej dotyczącej obiektów małej retencji na terenie Nadleśnictwa Durowo wraz z pełnieniem nadzoru autorskiego – II postępowanie",
   "url": "https://ted.europa.eu/en/notice/-/detail/613854-2026",
@@ -10023,6 +10042,25 @@
   "status_opisu": "brak",
   "dodano": "2026-09-09",
   "hash": "f116678b3da663b574e5869ce6fa5062f6b7d7e5d29082971a353289b8ab4e21"
+ },
+ {
+  "zrodlo": "bip:tauron",
+  "tytul": "RZ4/182/26 R-Piaskowa - opracowanie dokumentacji projektowej i na jej podstawie przystosowanie pola nr 31 w rozdzielni 20 kV do współpracy z elektrownią fotowoltaiczną (PSP 2502801)",
+  "url": "https://swoz.tauron.pl/platform/demand/notice/public/current/list",
+  "zamawiajacy": "TAURON Dystrybucja S.A.",
+  "data_publikacji": "2026-09-25",
+  "termin_skladania": "2026-10-14 12:00",
+  "opis": null,
+  "cpv": [],
+  "score": 8,
+  "tagi": [
+   "giełdowa",
+   "spolka-sp",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-25",
+  "hash": "a9104c609e0f4aa7d01932ada5af367e57db9b4e9dfc46eb41ea83a17a36ac34"
  },
  {
   "zrodlo": "ted",
