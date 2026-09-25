@@ -520,32 +520,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Usługi architektoniczne, budowlane, inżynieryjne i kontrolne – Opracowanie wariantowej koncepcji remontu, przebudowy konstrukcji oporowych oraz dokumentacji technicznej remontu/przebudowy konstrukcji oporowych zlokalizowanych wzdłuż ulicy Polnej i Zahańcze w Suwałkach",
-  "url": "https://ted.europa.eu/en/notice/-/detail/529314-2026",
-  "zamawiajacy": "Miasto Suwałki",
-  "data_publikacji": "2026-07-30",
-  "termin_skladania": "2026-09-07T09:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71000000",
-   "71220000",
-   "71300000",
-   "71320000",
-   "71000000",
-   "71220000",
-   "71300000",
-   "71320000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": null,
-  "hash": "2da93cbe5717a98df5c4c99507356c9cb32a03a13deb1d3e01a69f4e7ba3db0b"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Windą przez tory do lekarza – likwidacja barier – pomocnie dla wszystkich łączymy dzielnice Zaodrze i Szczepanowice” w zakresie opracowania dokumentacji projektowej”",
   "url": "https://ted.europa.eu/en/notice/-/detail/546133-2026",
   "zamawiajacy": "Miejski Zarząd Dróg w Opolu",
@@ -5833,30 +5807,6 @@
   "hash": "7c5229b857fc12fb6981990768deec91fa8d072534edc1b4b54dcb690b94bb4d"
  },
  {
-  "zrodlo": "ted",
-  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – „Opracowanie kompletnej dokumentacji projektowej dla zadania pn. „Budowa zbiornika wodnego wraz z niezbędną infrastrukturą towarzyszącą w m. Hrubieszów, woj. lubelskie”",
-  "url": "https://ted.europa.eu/en/notice/-/detail/577542-2026",
-  "zamawiajacy": "Gmina Miejska Hrubieszów",
-  "data_publikacji": "2026-08-20",
-  "termin_skladania": "2026-09-25T10:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71320000",
-   "71248000",
-   "71250000",
-   "71320000"
-  ],
-  "score": 8,
-  "tagi": [
-   "cpv-71",
-   "samorząd",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": null,
-  "hash": "996b4d05c8ec97c6bf5bf6e679d8f26e4eed4c274e4fb67894f4c801864719e4"
- },
- {
   "zrodlo": "bzp",
   "tytul": "Opracowanie kompletnej wielobranżowej dokumentacji projektowej niezbędnych do realizacji inwestycji: „Modernizacja kotłowni SPZOZ w Lubartowie .....”",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-0abe117b-817e-479b-9218-c9be7ec626fb",
@@ -6212,36 +6162,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Nadzór nad robotami budowlanymi – Pełnienie nadzoru inwestorskiego nad realizacją robót budowlanych w ramach zadania inwestycyjnego pn. „Przebudowa w celu poprawy efektywności energetycznej budynku Urzędu Skarbowego w Krośnie”.",
-  "url": "https://ted.europa.eu/en/notice/-/detail/639109-2026",
-  "zamawiajacy": "Izba Administracji Skarbowej w Rzeszowie",
-  "data_publikacji": "2026-09-16",
-  "termin_skladania": "2026-09-28T10:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71247000",
-   "71540000",
-   "71520000",
-   "71248000",
-   "71244000",
-   "71700000",
-   "71247000",
-   "71540000",
-   "71520000",
-   "71248000",
-   "71244000",
-   "71700000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-21",
-  "hash": "7d3028aca4c15111a28e1c3225662d7b36fadbcf090a6c3a5c0f1f4c150c2685"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Usługi inżynierii projektowej w zakresie inżynierii lądowej i wodnej – Opracowanie operatów wodnoprawnych dla wybranych obiektów na terenie Zarządu Zlewni w Lesznie Część nr 1 – Jaz Bartodzieje Część nr 2 – Jaz Wróbliniec Część nr 3 – Jaz Gądkowice Część nr 4 – Jaz Wydawy",
   "url": "https://ted.europa.eu/en/notice/-/detail/579609-2026",
   "zamawiajacy": "Państwowe Gospodarstwo Wodne Wody Polskie",
@@ -6329,38 +6249,6 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "651387783078eeab883f47ee40f02f4338cf3748597440c0828f2dbc76f40823"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Usługi architektoniczne, budowlane, inżynieryjne i kontrolne – Opracowanie dokumentacji projektowej wraz z pełnieniem nadzoru autorskiego dla zadania pn. „Budowa ul. Nowej Wyzwolenia w Gdańsku”",
-  "url": "https://ted.europa.eu/en/notice/-/detail/645482-2026",
-  "zamawiajacy": "Dyrekcja Rozbudowy Miasta Gdańska działająca w imieniu i na rzecz Gminy Miasta Gdańska",
-  "data_publikacji": "2026-09-18",
-  "termin_skladania": "2026-09-28T11:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71000000",
-   "71300000",
-   "71220000",
-   "71240000",
-   "71332000",
-   "71320000",
-   "71000000",
-   "71300000",
-   "71220000",
-   "71240000",
-   "71332000",
-   "71320000"
-  ],
-  "score": 8,
-  "tagi": [
-   "cpv-71",
-   "samorząd",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-20",
-  "hash": "86e1c9b4a47e69274e1dfe6fa4a2f35915c72a600e50c145de4ef1fd99ffe3b0"
  },
  {
   "zrodlo": "ted",
@@ -6768,7 +6656,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-24",
+  "dodano": "2026-09-25",
   "hash": "99699c127fced244cf022a3270771060394774fcd9fc84531d3ed6acc5c45394"
  },
  {
@@ -7205,35 +7093,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Usługi architektoniczne, budowlane, inżynieryjne i kontrolne – Wykonanie aktualizacji dokumentacji projektowej termomodernizacji budynku Szkoły Podstawowej nr 46 przy ul. Kombatantów 2 w Bydgoszczy.",
-  "url": "https://ted.europa.eu/en/notice/-/detail/630648-2026",
-  "zamawiajacy": "Miasto Bydgoszcz",
-  "data_publikacji": "2026-09-14",
-  "termin_skladania": "2026-09-30T10:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71000000",
-   "71220000",
-   "71250000",
-   "71320000",
-   "71242000",
-   "71000000",
-   "71220000",
-   "71250000",
-   "71320000",
-   "71242000"
-  ],
-  "score": 9,
-  "tagi": [
-   "cpv-71",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-14",
-  "hash": "f81addb3a97e667a87cd374a9a9135580a17eb673f554108df39a079e4ef4a2f"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Usługi architektoniczne, inżynieryjne i planowania – Opracowanie wielowariantowej i wielobranżowej koncepcji budowy linii tramwajowej Cichy Kącik - Azory wraz z niezbędną infrastrukturą techniczną oraz uzyskaniem decyzji o środowiskowych uwarunkowaniach",
   "url": "https://ted.europa.eu/en/notice/-/detail/649907-2026",
   "zamawiajacy": "Zarząd Inwestycji Miejskich w Krakowie",
@@ -7253,34 +7112,6 @@
   "status_opisu": "brak",
   "dodano": "2026-09-24",
   "hash": "2ff8f923ca9040d6082ed03384f0eed063c04be10cc81b71a8fba285f3ea9b3f"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Usługi nadzoru budowlanego – Pełnienie nadzoru dla zaprojektowania i wykonania robót na linii kolejowej nr 68 na odcinku Stalowa Wola Rozwadów – Przeworsk wraz z pełnieniem nadzoru autorskiego w ramach projektu pn.: Prace na linii kolejowej nr 68 na odcinku Stalowa Wola Rozwadów – Przeworsk - etap I",
-  "url": "https://ted.europa.eu/en/notice/-/detail/624399-2026",
-  "zamawiajacy": "PKP Polskie Linie Kolejowe S.A.",
-  "data_publikacji": "2026-09-10",
-  "termin_skladania": "2026-09-30T10:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71520000",
-   "71247000",
-   "71521000",
-   "71248000",
-   "71520000",
-   "71247000",
-   "71521000",
-   "71248000"
-  ],
-  "score": 5,
-  "tagi": [
-   "bonus-ue/strategiczny",
-   "cpv-71",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-16",
-  "hash": "951c7a757ca7b49025db54225adb4f73c81adf4894848056379ba13a89d36934"
  },
  {
   "zrodlo": "ted",
@@ -8137,7 +7968,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-24",
+  "dodano": "2026-09-25",
   "hash": "c6d826d720b2382169f1071a2858d5d5ed5037f2492b0ab18c5e2b5153697f73"
  },
  {
@@ -8298,8 +8129,32 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-24",
+  "dodano": "2026-09-25",
   "hash": "bbc4b17dbfa23f37f19c4df27412e8884230281efaef35d4d15406ce7a596026"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – „Opracowanie kompletnej dokumentacji projektowej dla zadania pn. „Budowa zbiornika wodnego wraz z niezbędną infrastrukturą towarzyszącą w m. Hrubieszów, woj. lubelskie”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/663388-2026",
+  "zamawiajacy": "Gmina Miejska Hrubieszów",
+  "data_publikacji": "2026-09-25",
+  "termin_skladania": "2026-10-02T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71320000",
+   "71248000",
+   "71250000",
+   "71320000"
+  ],
+  "score": 8,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-25",
+  "hash": "ddfb8ec72f287dd4459a448773c52302c583fb799c0225ca1be6fff8ae5011c3"
  },
  {
   "zrodlo": "bip:kghm",
@@ -8548,6 +8403,29 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Opracowanie wielobranżowej dokumentacji projektowej dla przedsięwzięcia polegającego na budowie obiektu wielofunkcyjnego wraz z miejscami ukrycia w Mircu",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-a9d05225-da60-492a-b927-3264c1fa0979",
+  "zamawiajacy": "GMINA MIRZEC",
+  "data_publikacji": "2026-09-25",
+  "termin_skladania": "2026-10-05T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00456520 z dnia 2026-09-25 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie wielobranżowej dokumentacji projektowej dla przedsięwzięcia polegającego na budowie obiektu wielofunkcyjnego wraz z miejscami ukrycia w Mircu SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: GMINA MIRZEC 1.4) Krajowy Numer Identyfikacyjny: REGON 291010330 1.5) Adres zamawiającego 1.5.1.) Ulica: Mirzec Stary 9 1.5.2.) Miejscowość: Mirzec 1.5.3.) Kod pocztowy: 27-220 1.5.4.) Województwo: świętokrzyskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL721 - Kielecki 1.5.7.) Numer telefonu: 041 27 67 170 1.5.9.) Adres poczty elektronicznej: sekretariat@mirzec.pl 1.5.10.) Adres strony internetowej zamawiającego: www.mirzec.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka sa",
+  "cpv": [
+   "71000000-8",
+   "71300000-1",
+   "71420000-8"
+  ],
+  "score": 20,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-25",
+  "hash": "08b7dce734fe1fe997e8333dfb903bc650136f1c4e63163f389a6818ae56e6e4"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Usługa nadzoru inwestorskiego nad robotami budowlanymi dla inwestycji pn. Rozbudowa budynku Pawilonu Diagnostyczno-Zabiegowego Szpitala Wojewódzkiego w Opolu",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-a51015b1-04bf-4a97-b487-9c259f47d56f",
   "zamawiajacy": "SZPITAL WOJEWÓDZKI W OPOLU SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
@@ -8664,8 +8542,37 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-24",
+  "dodano": "2026-09-25",
   "hash": "622bf5e905818bc81ad6eba7b722c887ede6102baf38f5ce306e63674c61020b"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi architektoniczne, budowlane, inżynieryjne i kontrolne – Wykonanie aktualizacji dokumentacji projektowej termomodernizacji budynku Szkoły Podstawowej nr 46 przy ul. Kombatantów 2 w Bydgoszczy.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/663199-2026",
+  "zamawiajacy": "Miasto Bydgoszcz",
+  "data_publikacji": "2026-09-25",
+  "termin_skladania": "2026-10-05T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71000000",
+   "71220000",
+   "71250000",
+   "71320000",
+   "71242000",
+   "71000000",
+   "71220000",
+   "71250000",
+   "71320000",
+   "71242000"
+  ],
+  "score": 9,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-14",
+  "hash": "8ec71fae85bc338e3c72eca9fd56f0867013283677e7d56c077e61a37ab86b2c"
  },
  {
   "zrodlo": "ted",
@@ -8828,7 +8735,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-24",
+  "dodano": "2026-09-25",
   "hash": "55030fcf509cd9a3406bf8f8029a6a6fc053a5f448261bb03a9e101b3fb24934"
  },
  {
@@ -8874,6 +8781,38 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "07306f6c00087b39258ab0abe43a40f8741060900d93d194a45453c0b2ba0a93"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi architektoniczne, budowlane, inżynieryjne i kontrolne – Opracowanie dokumentacji projektowej wraz z pełnieniem nadzoru autorskiego dla zadania pn. „Budowa ul. Nowej Wyzwolenia w Gdańsku”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/660953-2026",
+  "zamawiajacy": "Dyrekcja Rozbudowy Miasta Gdańska działająca w imieniu i na rzecz Gminy Miasta Gdańska",
+  "data_publikacji": "2026-09-25",
+  "termin_skladania": "2026-10-05T11:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71000000",
+   "71300000",
+   "71220000",
+   "71240000",
+   "71332000",
+   "71320000",
+   "71000000",
+   "71300000",
+   "71220000",
+   "71240000",
+   "71332000",
+   "71320000"
+  ],
+  "score": 8,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-20",
+  "hash": "b4846d9fcb1b30c23913a59d70ee4c61abbc98b560781334020dc3d939775247"
  },
  {
   "zrodlo": "ted",
@@ -9119,6 +9058,59 @@
   "status_opisu": "brak",
   "dodano": "2026-09-23",
   "hash": "4758017770c1164c51a6bd8b861cbfe0fe73db7c7b0b8fd2f10aab7f10d082b7"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie kompletnej, wielobranżowej dokumentacji projektowej niezbędnej do przygotowania i realizacji inwestycji pn. ,,Budowa obiektu użyteczności publicznej wraz z ukryciem\".",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-7fa7a765-4a36-490e-9757-bc1734270b87",
+  "zamawiajacy": "Gmina Kuźnica",
+  "data_publikacji": "2026-09-25",
+  "termin_skladania": "2026-10-06T09:30:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00455638 z dnia 2026-09-25 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie kompletnej, wielobranżowej dokumentacji projektowej niezbędnej do przygotowania i realizacji inwestycji pn. ,,Budowa obiektu użyteczności publicznej wraz z ukryciem&#34;. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Kuźnica 1.4) Krajowy Numer Identyfikacyjny: REGON 050659421 1.5) Adres zamawiającego 1.5.1.) Ulica: pl. 1000-lecia Państwa Polskiego 1 1.5.2.) Miejscowość: Kuźnica 1.5.3.) Kod pocztowy: 16-123 1.5.4.) Województwo: podlaskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL841 - Białostocki 1.5.7.) Numer telefonu: 857229281 1.5.9.) Adres poczty elektronicznej: sekretariat@kuznica.ug.gov.pl 1.5.10.) Adres strony internetowej zamawiającego: http://bip.kuznica.ug.gov.pl/ 1.6.) Rodzaj zamawiającego: Zamawiaj",
+  "cpv": [
+   "71221000-3",
+   "71240000-2",
+   "71320000-7"
+  ],
+  "score": 20,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-25",
+  "hash": "2d62f32fc584eb0780681d548eb1bfad67eb6c1aadd99da343ca8ec5e857ffff"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Nadzór nad robotami budowlanymi – Pełnienie nadzoru inwestorskiego nad realizacją robót budowlanych w ramach zadania inwestycyjnego pn. „Przebudowa w celu poprawy efektywności energetycznej budynku Urzędu Skarbowego w Krośnie”.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/661405-2026",
+  "zamawiajacy": "Izba Administracji Skarbowej w Rzeszowie",
+  "data_publikacji": "2026-09-25",
+  "termin_skladania": "2026-10-06T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71247000",
+   "71540000",
+   "71520000",
+   "71248000",
+   "71244000",
+   "71700000",
+   "71247000",
+   "71540000",
+   "71520000",
+   "71248000",
+   "71244000",
+   "71700000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-21",
+  "hash": "f3a099a4bac0fad4f43c5a62ea8c12ba9a73ae0d3bd3cd2cb9e6412ac6012c70"
  },
  {
   "zrodlo": "bip:tauron",
@@ -9409,8 +9401,46 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-24",
+  "dodano": "2026-09-25",
   "hash": "32e40010660bf6a0d3e65f05437eeaab64a8ec14b157fe0103af4a90974f8cb0"
+ },
+ {
+  "zrodlo": "bip:tauron",
+  "tytul": "RZ4/176/26 Jaszkowa Górna - opracowanie dokumentacji projektowej i na jej podstawie modernizacja linii napowietrznej SN Ciąg L-813 (od stacji WBK81329 do stacji WBK81343) oraz likwidacja stacji WBK81331 (PSP 2602243).",
+  "url": "https://swoz.tauron.pl/platform/demand/notice/public/current/list",
+  "zamawiajacy": "TAURON Dystrybucja S.A.",
+  "data_publikacji": "2026-09-25",
+  "termin_skladania": "2026-10-09 12:00",
+  "opis": null,
+  "cpv": [],
+  "score": 8,
+  "tagi": [
+   "giełdowa",
+   "spolka-sp",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-25",
+  "hash": "f7318f6e9ad9e87a9a9b584d17791fd9f27751291c829e3cc160f996517eb5a8"
+ },
+ {
+  "zrodlo": "bip:tauron",
+  "tytul": "RZ4/179/26 R-Dzierżoniów - opracowanie dokumentacji projektowej i na jej podstawie wymiana zespołów kompensacyjnych prądów ziemnozwarciowych na terenie stacji 110/20 kV (PSP 2602145)",
+  "url": "https://swoz.tauron.pl/platform/demand/notice/public/current/list",
+  "zamawiajacy": "TAURON Dystrybucja S.A.",
+  "data_publikacji": "2026-09-25",
+  "termin_skladania": "2026-10-09 14:00",
+  "opis": null,
+  "cpv": [],
+  "score": 8,
+  "tagi": [
+   "giełdowa",
+   "spolka-sp",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-25",
+  "hash": "7f8ebfb950e03c5e1d4bd66e6e0143150b37b558f8618565603d6ab8946df627"
  },
  {
   "zrodlo": "bzp",
@@ -9517,7 +9547,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-24",
+  "dodano": "2026-09-25",
   "hash": "e71747b344b225d098d2fa56350d367045483e19981439ded4bad1ae5ccfc545"
  },
  {
@@ -9596,7 +9626,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-24",
+  "dodano": "2026-09-25",
   "hash": "886d5920e4c0ea841fff739c00e230a6c8ff0705adf4b301c0433a2591c416aa"
  },
  {
@@ -9933,6 +9963,64 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Usługi nadzoru budowlanego – Pełnienie nadzoru dla zaprojektowania i wykonania robót na linii kolejowej nr 68 na odcinku Stalowa Wola Rozwadów – Przeworsk wraz z pełnieniem nadzoru autorskiego w ramach projektu pn.: Prace na linii kolejowej nr 68 na odcinku Stalowa Wola Rozwadów – Przeworsk - etap I",
+  "url": "https://ted.europa.eu/en/notice/-/detail/660605-2026",
+  "zamawiajacy": "PKP Polskie Linie Kolejowe S.A.",
+  "data_publikacji": "2026-09-25",
+  "termin_skladania": "2026-10-14T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71520000",
+   "71247000",
+   "71521000",
+   "71248000",
+   "71520000",
+   "71247000",
+   "71521000",
+   "71248000"
+  ],
+  "score": 5,
+  "tagi": [
+   "bonus-ue/strategiczny",
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-16",
+  "hash": "4b9ed1790c8e3bb997318d481ff34b75ab50104decfd19931332f10a76d2b364"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Wyposażenie placów zabaw – Modernizacja placów zabaw na terenach nieruchomości stanowiących własność TBS Wrocław Sp. z o.o.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/663009-2026",
+  "zamawiajacy": "Towarzystwo Budownictwa Społecznego Wrocław Sp. z o.o.",
+  "data_publikacji": "2026-09-25",
+  "termin_skladania": "2026-10-14T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "37535200",
+   "45112723",
+   "71221000",
+   "37535200",
+   "37535200",
+   "37535200",
+   "45112723",
+   "71221000",
+   "45112723",
+   "71221000",
+   "45112723",
+   "71221000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-25",
+  "hash": "fa82d077d61232cd5d51698234900c62945a5a1c2de52a102ae70622feb3177d"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi architektoniczne, inżynieryjne i planowania – Wykonanie dokumentacji projektowo-kosztorysowej na zmianę systemu ogrzewania na elektryczne w lokalach gminnych.",
   "url": "https://ted.europa.eu/en/notice/-/detail/601808-2026",
   "zamawiajacy": "Zarząd Zasobu Komunalnego Jednostka Budżetowa Gminy Wrocław",
@@ -10050,7 +10138,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-24",
+  "dodano": "2026-09-25",
   "hash": "9ff7b24d88888e5cf5f02ee32d5a2091a553d432458191e03e9f6bbe8cd46e53"
  },
  {
@@ -10955,7 +11043,7 @@
    "samorząd"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-24",
+  "dodano": "2026-09-25",
   "hash": "4210d16903fe82289765e99e28035cb57095e24dded7a6e8e851a22386c288c3"
  },
  {
@@ -11093,7 +11181,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-24",
+  "dodano": "2026-09-25",
   "hash": "c902dc7004560dcf2716e656ae9eef051ae0987faf9e608b1ce1f884a2b1eee9"
  },
  {
@@ -11272,10 +11360,70 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Wiercenie studni wodnych – Rekonstrukcja dolnokredowej studni głębinowej nr 5 na ujęciu Zbiorniki Stoki",
+  "url": "https://ted.europa.eu/en/notice/-/detail/662924-2026",
+  "zamawiajacy": "„Zakład Wodociągów i Kanalizacji\" sp. z o.o. w imieniu i na rzecz którego działają Łódzkie Inwestycje sp. z o.o.",
+  "data_publikacji": "2026-09-25",
+  "termin_skladania": "2026-10-29T11:30:00+01:00",
+  "opis": null,
+  "cpv": [
+   "45262220",
+   "71351900",
+   "71300000",
+   "71220000",
+   "71248000",
+   "71247000",
+   "71520000",
+   "45100000",
+   "45200000",
+   "45230000",
+   "45231000",
+   "45232000",
+   "45231100",
+   "45232150",
+   "45314300",
+   "45315100",
+   "45314000",
+   "45314310",
+   "45316200",
+   "45255110",
+   "71900000",
+   "45262220",
+   "71351900",
+   "71300000",
+   "71220000",
+   "71248000",
+   "71247000",
+   "71520000",
+   "45100000",
+   "45200000",
+   "45230000",
+   "45231000",
+   "45232000",
+   "45231100",
+   "45232150",
+   "45314300",
+   "45315100",
+   "45314000",
+   "45314310",
+   "45316200",
+   "45255110",
+   "71900000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-25",
+  "hash": "b59759fbd664fa36cb9d4d37b3b436ebff504e49626182609fd09bb108372392"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Opracowanie kompleksowej dokumentacji projektowo – kosztorysowej wraz z pełnieniem nadzoru autorskiego dla zadania inwestycyjnego w budynku Wielkopolskiego Urzędu Celno-Skarbowego w Poznaniu, 60-449 Poznań, ul. Wichrowa 20 oraz w budynku Urzędu Skarbowego w Kępnie, 63-600 Kępno, ul. Rynek 4.",
-  "url": "https://ted.europa.eu/en/notice/-/detail/658309-2026",
+  "url": "https://ted.europa.eu/en/notice/-/detail/662818-2026",
   "zamawiajacy": "Izba Administracji Skarbowej w Poznaniu",
-  "data_publikacji": "2026-09-24",
+  "data_publikacji": "2026-09-25",
   "termin_skladania": "2026-10-29T12:00:00+01:00",
   "opis": null,
   "cpv": [
@@ -11298,7 +11446,7 @@
   ],
   "status_opisu": "brak",
   "dodano": "2026-09-24",
-  "hash": "71639fd77ec0e5d4ce12f7f6f2880cbe8c4f9afdd71183eb4fa1581aff70a9c3"
+  "hash": "14f25a75ac79033681b3c2b149b60ad709d8eb6618371084fb07f24c6e9ffb03"
  },
  {
   "zrodlo": "ted",
@@ -11362,6 +11510,32 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Usługi architektoniczne, budowlane, inżynieryjne i kontrolne – Opracowanie wariantowej koncepcji remontu, przebudowy konstrukcji oporowych oraz dokumentacji technicznej remontu/przebudowy konstrukcji oporowych zlokalizowanych wzdłuż ulicy Polnej i Zahańcze w Suwałkach",
+  "url": "https://ted.europa.eu/en/notice/-/detail/661725-2026",
+  "zamawiajacy": "Miasto Suwałki",
+  "data_publikacji": "2026-09-25",
+  "termin_skladania": "2026-10-30T09:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71000000",
+   "71220000",
+   "71300000",
+   "71320000",
+   "71000000",
+   "71220000",
+   "71300000",
+   "71320000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-25",
+  "hash": "fd740007c37e2ab152623958047628011c692ced81c62a3377027c827bb26d38"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi zarządzania budową – Pełnienie funkcji Inżyniera Kontraktu dotyczącej inwestycji pn. „Poszerzenie odcinka toru wodnego na podejściu do portu morskiego w Świnoujściu”",
   "url": "https://ted.europa.eu/en/notice/-/detail/609239-2026",
   "zamawiajacy": "Dyrektor Urzędu Morskiego w Szczecinie",
@@ -11393,7 +11567,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-24",
+  "dodano": "2026-09-25",
   "hash": "43bdd6dc8d3e34537761c8edeb21e1a54576493c9b7a9057f6f163465cd82fc7"
  },
  {
