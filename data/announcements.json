@@ -8571,7 +8571,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-14",
+  "dodano": "2026-09-25",
   "hash": "8ec71fae85bc338e3c72eca9fd56f0867013283677e7d56c077e61a37ab86b2c"
  },
  {
@@ -8811,7 +8811,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-20",
+  "dodano": "2026-09-25",
   "hash": "b4846d9fcb1b30c23913a59d70ee4c61abbc98b560781334020dc3d939775247"
  },
  {
@@ -8920,6 +8920,27 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-23",
   "hash": "80063dfb37782b8e8af0371e450f0e5540184ed394f5048b5597346cfe02a811"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej modernizacji oddziałów",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-4e6e1ab9-6256-47a7-a324-a710dad3cf3f",
+  "zamawiajacy": "Wojewódzki Szpital Wielospecjalistyczny im. dr. Jana Jonstona w Lesznie",
+  "data_publikacji": "2026-09-25",
+  "termin_skladania": "2026-10-06T07:30:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00456877 z dnia 2026-09-25 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej modernizacji oddziałów SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Wojewódzki Szpital Wielospecjalistyczny im. dr. Jana Jonstona w Lesznie 1.4) Krajowy Numer Identyfikacyjny: REGON 000310232 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Jana Kiepury 45 1.5.2.) Miejscowość: Leszno 1.5.3.) Kod pocztowy: 64-100 1.5.4.) Województwo: wielkopolskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL417 - Leszczyński 1.5.9.) Adres poczty elektronicznej: hanna.mietka@wsw.leszno.pl 1.5.10.) Adres strony internetowej zamawiającego: www.wsz.leszno.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - samodzielny publiczny zakład opieki zdrowotnej 1.7.) Przedmiot działa",
+  "cpv": [
+   "71320000-7",
+   "71321000-4"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-25",
+  "hash": "8b5cce6c473612230584a4e1f4b62d08c06197b19c595f986a6a01b0ce6f43c7"
  },
  {
   "zrodlo": "bzp",
@@ -9109,7 +9130,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-21",
+  "dodano": "2026-09-25",
   "hash": "f3a099a4bac0fad4f43c5a62ea8c12ba9a73ae0d3bd3cd2cb9e6412ac6012c70"
  },
  {
@@ -9209,6 +9230,25 @@
   "status_opisu": "brak",
   "dodano": "2026-09-02",
   "hash": "33eb34a36c1716017af88ace9464730c98c5767491faabdccfbe361da55a8790"
+ },
+ {
+  "zrodlo": "bip:kghm",
+  "tytul": "Etap_I_ Wykonanie dokumentacji projektowej modernizacji wentylacji i ogrzewania dla Zakładu Hydrometalurgii w Głogowie_3 zadania",
+  "url": "https://kghm.com/pl/etapi-wykonanie-dokumentacji-projektowej-modernizacji-wentylacji-i-ogrzewania-dla-zakladu-0",
+  "zamawiajacy": "KGHM Polska Miedź S.A.",
+  "data_publikacji": "2026-09-25",
+  "termin_skladania": "2026-10-07T10:00:00Z",
+  "opis": null,
+  "cpv": [],
+  "score": 8,
+  "tagi": [
+   "giełdowa",
+   "spolka-sp",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-25",
+  "hash": "89c16c6b1485b495da9af39eafe7e0224595a290fb02fb0a6868cf13b5ec1f58"
  },
  {
   "zrodlo": "bip:tauron",
@@ -9478,6 +9518,32 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej dla zadania pn.: \"Budowa ekranów akustycznych na al. Jana Nowaka-Jeziorańskiego\"",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-c69401c6-e5fb-4218-85ef-1b6a51415349",
+  "zamawiajacy": "Zarząd Dróg Miejskich w Gliwicach",
+  "data_publikacji": "2026-09-25",
+  "termin_skladania": "2026-10-09T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00456828 z dnia 2026-09-25 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej dla zadania pn.: &#34;Budowa ekranów akustycznych na al. Jana Nowaka-Jeziorańskiego&#34; SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Zarząd Dróg Miejskich w Gliwicach 1.4) Krajowy Numer Identyfikacyjny: REGON 240009251 1.5) Adres zamawiającego 1.5.1.) Ulica: Płowiecka 31 1.5.2.) Miejscowość: Gliwice 1.5.3.) Kod pocztowy: 44-100 1.5.4.) Województwo: śląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL229 - Gliwicki 1.5.7.) Numer telefonu: 323008636 1.5.8.) Numer faksu: latta_j@zdm.gliwice.eu 1.5.9.) Adres poczty elektronicznej: zachara_m@zdm.gliwice.eu 1.5.10.) Adres strony internetowej zamawiającego: www.zdm.gliwice.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora fi",
+  "cpv": [
+   "71320000-7",
+   "71322000-1",
+   "71322100-2",
+   "71248000-8",
+   "71242000-6",
+   "71240000-2",
+   "71222000-0"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-25",
+  "hash": "299e07dc5ae21f05d529560fb33025f00f20b6d020ea79c75d400e97e1caaa83"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "„Wykonanie dokumentacji projektowej instalacji co, cwu i gazowej oraz wykonanie przyłącza gazu wraz z kotłownią w budynku przy ul. Grochowskiej 171A w formule „zaprojektuj i wybuduj”.",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-9d3d8cb0-c7d2-4361-a977-b30403cfe0ab",
   "zamawiajacy": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Praga-Południe m. st. Warszawy",
@@ -9628,6 +9694,25 @@
   "status_opisu": "brak",
   "dodano": "2026-09-25",
   "hash": "886d5920e4c0ea841fff739c00e230a6c8ff0705adf4b301c0433a2591c416aa"
+ },
+ {
+  "zrodlo": "bip:tauron",
+  "tytul": "RZ4/185/26 R-Dzierżoniów - opracowanie dokumentacji projektowej i na jej podstawie przystosowanie pola nr 11 w rozdzielni 20 kV do współpracy z magazynem energii (PSP 2502202).",
+  "url": "https://swoz.tauron.pl/platform/demand/notice/public/current/list",
+  "zamawiajacy": "TAURON Dystrybucja S.A.",
+  "data_publikacji": "2026-09-25",
+  "termin_skladania": "2026-10-12 12:00",
+  "opis": null,
+  "cpv": [],
+  "score": 8,
+  "tagi": [
+   "giełdowa",
+   "spolka-sp",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-25",
+  "hash": "138722d67097d5e7931f6bc445ec73d890b28df88ff584cad564ea5a4c7ebdf4"
  },
  {
   "zrodlo": "bzp",
@@ -9986,7 +10071,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-16",
+  "dodano": "2026-09-25",
   "hash": "4b9ed1790c8e3bb997318d481ff34b75ab50104decfd19931332f10a76d2b364"
  },
  {
