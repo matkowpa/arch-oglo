@@ -9,7 +9,7 @@
  },
  "bip:tauron": {
   "ok": true,
-  "count": 25
+  "count": 0
  },
  "bip:kghm": {
   "ok": true,
@@ -21,10 +21,10 @@
  },
  "pz-search": {
   "ok": true,
-  "count": 3
+  "count": 0
  },
  "bzp": {
   "ok": true,
-  "count": 21
+  "count": 26
  }
 }
