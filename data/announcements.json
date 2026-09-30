@@ -8201,7 +8201,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-29",
+  "dodano": "2026-09-30",
   "hash": "80ad6edb298a1b6c5422284968c014ce717c57702f60ff27d8adb6cf7d9f59ea"
  },
  {
@@ -9273,7 +9273,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-24",
+  "dodano": "2026-09-30",
   "hash": "12a40e72f09cc853aa4934d095576d7174070afda4fb7c64c8e20e57a1eeb3a9"
  },
  {
@@ -9303,7 +9303,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-24",
+  "dodano": "2026-09-30",
   "hash": "cddf4bf1470aaf2d03de5982e6390a8787a21e46caa800d41f7fb470a52e1e8f"
  },
  {
@@ -10116,7 +10116,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-27",
+  "dodano": "2026-09-30",
   "hash": "db2315da914c38f899ddd787de3418cd7ef82199d437afbd34b49ddcc5fdca92"
  },
  {
@@ -10543,7 +10543,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-09",
+  "dodano": "2026-09-30",
   "hash": "f44d6a0560baae93616ee3e6d98ff8fe2b7d9a43fdd6eb46aaf34b30731f327b"
  },
  {
@@ -10589,6 +10589,63 @@
   "status_opisu": "brak",
   "dodano": "2026-09-08",
   "hash": "2ae46fe0789f497bc6fc51fc0826d3a363845491f9556b14ff4f3218257aa1c8"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Sporządzenie dokumentacji projektowej oraz wykonanie remontu łazienek na poziomie 0 w budynku B Centrali NIK",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-6f275e4a-ae4b-4fae-b919-8024194aaa25",
+  "zamawiajacy": "Najwyższa Izba Kontroli",
+  "data_publikacji": "2026-09-30",
+  "termin_skladania": "2026-10-16T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00463921 z dnia 2026-09-30 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Roboty budowlane Sporządzenie dokumentacji projektowej oraz wykonanie remontu łazienek na poziomie 0 w budynku B Centrali NIK SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Najwyższa Izba Kontroli 1.4) Krajowy Numer Identyfikacyjny: REGON 000000052 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Filtrowa 57 1.5.2.) Miejscowość: Warszawa 1.5.3.) Kod pocztowy: 02-056 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL911 - Miasto Warszawa 1.5.9.) Adres poczty elektronicznej: nik.zp@nik.gov.pl 1.5.10.) Adres strony internetowej zamawiającego: http://bip.nik.gov.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - organ władzy publicznej - organ kontroli państwowej i ochrony p",
+  "cpv": [
+   "45210000-2",
+   "71220000-6",
+   "71000000-8",
+   "79932000-6",
+   "45400000-1",
+   "45332000-3",
+   "45332400-7",
+   "45331210-1",
+   "71248000-8"
+  ],
+  "score": 20,
+  "tagi": [
+   "cpv-71",
+   "roboty-budowlane",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-30",
+  "hash": "611f2c70d8fb7341c46f6198fc79be28835193cfb60497f4e8ba11749cae1c43"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Adaptacja i dostosowanie pomieszczeń do standardów Data Center w budynkach IŁ – PIB w Warszawie i Gdańsku",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-8bc1a791-2445-4d70-9529-ee7c59925b9d",
+  "zamawiajacy": "Instytut Łączności - Państwowy Instytut Badawczy",
+  "data_publikacji": "2026-09-30",
+  "termin_skladania": "2026-10-16T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00463819 z dnia 2026-09-30 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Roboty budowlane Adaptacja i dostosowanie pomieszczeń do standardów Data Center w budynkach IŁ – PIB w Warszawie i Gdańsku SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Instytut Łączności - Państwowy Instytut Badawczy 1.4) Krajowy Numer Identyfikacyjny: REGON 000132629 1.5) Adres zamawiającego 1.5.1.) Ulica: Szachowa 1 1.5.2.) Miejscowość: Warszawa 1.5.3.) Kod pocztowy: 04-894 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL911 - Miasto Warszawa 1.5.9.) Adres poczty elektronicznej: dz@il-pib.pl 1.5.10.) Adres strony internetowej zamawiającego: www.il-pib.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - osoba prawna, o której mowa w art. 4 pkt 3 ustawy (podmiot prawa publicznego) 1.7.) Przedmiot działa",
+  "cpv": [
+   "45213250-0",
+   "45453000-7",
+   "45310000-3",
+   "45314320-0",
+   "45312100-8",
+   "42961100-1",
+   "71320000-7",
+   "71630000-3"
+  ],
+  "score": 4,
+  "tagi": [
+   "bonus-ue/strategiczny",
+   "cpv-71",
+   "roboty-budowlane"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-30",
+  "hash": "fe7c83488fd182b1cd3bb0029be573997d61b6771bbc5389f3c41a08f60b4d29"
  },
  {
   "zrodlo": "ted",
@@ -12288,7 +12345,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-07",
+  "dodano": "2026-09-30",
   "hash": "4dbf09c1f4480bc624953d08139f2dd3b5698916f686a11eb5ae37e68620eae0"
  },
  {
@@ -12588,7 +12645,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-22",
+  "dodano": "2026-09-30",
   "hash": "15f08b35a004afbfb79b77da575340fc1c155ec60ed374ffa7b167271c36313a"
  },
  {
