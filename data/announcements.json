@@ -7320,37 +7320,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Akumulatory elektryczne – Wyposażenie w systemy magazynowania energii elektrycznej żłobków na terenie m.st. Warszawy – II procedura",
-  "url": "https://ted.europa.eu/en/notice/-/detail/665166-2026",
-  "zamawiajacy": "Zespół Żłobków m.st W-wy",
-  "data_publikacji": "2026-09-28",
-  "termin_skladania": "2026-10-01T09:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "31430000",
-   "31200000",
-   "45300000",
-   "45310000",
-   "45450000",
-   "51000000",
-   "71200000",
-   "31122000",
-   "31430000",
-   "31430000",
-   "31430000",
-   "31430000",
-   "31430000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-29",
-  "hash": "6a5d51695d4b4e6f1af194914c772e8a246a117c0be18e34fe7322ebd47fc7f0"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Usługi projektowania architektonicznego – Opracowanie dokumentacji projektowej zagospodarowania terenu rekreacyjnego w zakresie urządzenia terenów zielonych i placu zabaw na działce geodezyjnej o nr ewid. 11816/19 na Osiedlu II w Suwałkach.",
   "url": "https://ted.europa.eu/en/notice/-/detail/605731-2026",
   "zamawiajacy": "Gmina Miasto Suwałki",
@@ -7397,66 +7366,6 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-04",
   "hash": "30d3ab6a98114f691d8c2948bd83e9d990e8d2d5195abc18ad660404dc2e01df"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Nadzór nad robotami budowlanymi – Pełnienie nadzoru inwestorskiego nad realizacją robót budowlanych w ramach zadania inwestycyjnego pn. „Przebudowa w celu poprawy efektywności energetycznej budynku Urzędu Skarbowego w Lubaczowie przy ul. Jana III Sobieskiego 6”.",
-  "url": "https://ted.europa.eu/en/notice/-/detail/657595-2026",
-  "zamawiajacy": "Izba Administracji Skarbowej w Rzeszowie",
-  "data_publikacji": "2026-09-24",
-  "termin_skladania": "2026-10-01T10:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71247000",
-   "71540000",
-   "71520000",
-   "71248000",
-   "71244000",
-   "71700000",
-   "71247000",
-   "71540000",
-   "71520000",
-   "71248000",
-   "71244000",
-   "71700000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-24",
-  "hash": "9544e4fd4629c0f4a496c2d14852d734f6bd4e600d82a98f77f0684c735505f6"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Nadzór nad robotami budowlanymi – Pełnienie nadzoru inwestorskiego nad realizacją robót budowlanych w ramach zadania inwestycyjnego pn. „Przebudowa w celu poprawy efektywności energetycznej budynku Urzędu Skarbowego w Tarnobrzegu przy ul. Wyspiańskiego 12\"",
-  "url": "https://ted.europa.eu/en/notice/-/detail/658955-2026",
-  "zamawiajacy": "Izba Administracji Skarbowej w Rzeszowie",
-  "data_publikacji": "2026-09-24",
-  "termin_skladania": "2026-10-01T10:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71247000",
-   "71540000",
-   "71520000",
-   "71248000",
-   "71244000",
-   "71700000",
-   "71247000",
-   "71540000",
-   "71520000",
-   "71248000",
-   "71244000",
-   "71700000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-24",
-  "hash": "a319f87ddc80355a5544c92be6ed2fa379b42c1dbbb1d7f6639d3bbff6bf5b4a"
  },
  {
   "zrodlo": "ted",
@@ -7912,7 +7821,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-29",
+  "dodano": "2026-09-30",
   "hash": "bbc4b17dbfa23f37f19c4df27412e8884230281efaef35d4d15406ce7a596026"
  },
  {
@@ -8265,6 +8174,37 @@
   "hash": "c7119b25573bd646e321764f1af4f69eb1b5accbb53b10c31258bfe5b93a8090"
  },
  {
+  "zrodlo": "ted",
+  "tytul": "Polska – Akumulatory elektryczne – Wyposażenie w systemy magazynowania energii elektrycznej żłobków na terenie m.st. Warszawy – II procedura",
+  "url": "https://ted.europa.eu/en/notice/-/detail/672289-2026",
+  "zamawiajacy": "Zespół Żłobków m.st W-wy",
+  "data_publikacji": "2026-09-30",
+  "termin_skladania": "2026-10-05T09:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "31430000",
+   "31200000",
+   "45300000",
+   "45310000",
+   "45450000",
+   "51000000",
+   "71200000",
+   "31122000",
+   "31430000",
+   "31430000",
+   "31430000",
+   "31430000",
+   "31430000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-29",
+  "hash": "80ad6edb298a1b6c5422284968c014ce717c57702f60ff27d8adb6cf7d9f59ea"
+ },
+ {
   "zrodlo": "bzp",
   "tytul": "Modernizacja oświetlenia jarzeniowego na LED w pomieszczeniach segmentu E1 oraz Oddziale Anestezjologii i Intensywnej Terapii w segmencie E",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-f95b94db-4b59-48a5-924b-f666ac7a4fbf",
@@ -8339,28 +8279,6 @@
   "status_opisu": "brak",
   "dodano": "2026-09-22",
   "hash": "d41ee07c890422c81055208666f8cbc5ed781596724a7a2454cb5aa45cc58f91"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Usługi architektoniczne w zakresie obiektów budowlanych – KWP Katowice – modernizacja budynków A, B, C, etap I z przystosowaniem do przepisów przeciwpożarowych budynków KWP w Katowicach przy ul. Lompy 19",
-  "url": "https://ted.europa.eu/en/notice/-/detail/658327-2026",
-  "zamawiajacy": "Komenda Wojewódzka Policji w Katowicach",
-  "data_publikacji": "2026-09-24",
-  "termin_skladania": "2026-10-05T10:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71221000",
-   "71320000",
-   "71221000",
-   "71320000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-27",
-  "hash": "622bf5e905818bc81ad6eba7b722c887ede6102baf38f5ce306e63674c61020b"
  },
  {
   "zrodlo": "ted",
@@ -9329,6 +9247,66 @@
   "hash": "fc4f57c768b2a7644413b8464b099927eb7db18d556555d289def2140d4a967e"
  },
  {
+  "zrodlo": "ted",
+  "tytul": "Polska – Nadzór nad robotami budowlanymi – Pełnienie nadzoru inwestorskiego nad realizacją robót budowlanych w ramach zadania inwestycyjnego pn. „Przebudowa w celu poprawy efektywności energetycznej budynku Urzędu Skarbowego w Lubaczowie przy ul. Jana III Sobieskiego 6”.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/670768-2026",
+  "zamawiajacy": "Izba Administracji Skarbowej w Rzeszowie",
+  "data_publikacji": "2026-09-30",
+  "termin_skladania": "2026-10-07T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71247000",
+   "71540000",
+   "71520000",
+   "71248000",
+   "71244000",
+   "71700000",
+   "71247000",
+   "71540000",
+   "71520000",
+   "71248000",
+   "71244000",
+   "71700000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-24",
+  "hash": "12a40e72f09cc853aa4934d095576d7174070afda4fb7c64c8e20e57a1eeb3a9"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Nadzór nad robotami budowlanymi – Pełnienie nadzoru inwestorskiego nad realizacją robót budowlanych w ramach zadania inwestycyjnego pn. „Przebudowa w celu poprawy efektywności energetycznej budynku Urzędu Skarbowego w Tarnobrzegu przy ul. Wyspiańskiego 12\"",
+  "url": "https://ted.europa.eu/en/notice/-/detail/672359-2026",
+  "zamawiajacy": "Izba Administracji Skarbowej w Rzeszowie",
+  "data_publikacji": "2026-09-30",
+  "termin_skladania": "2026-10-07T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71247000",
+   "71540000",
+   "71520000",
+   "71248000",
+   "71244000",
+   "71700000",
+   "71247000",
+   "71540000",
+   "71520000",
+   "71248000",
+   "71244000",
+   "71700000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-24",
+  "hash": "cddf4bf1470aaf2d03de5982e6390a8787a21e46caa800d41f7fb470a52e1e8f"
+ },
+ {
   "zrodlo": "bip:kghm",
   "tytul": "Etap_I_ Wykonanie dokumentacji projektowej modernizacji wentylacji i ogrzewania dla Zakładu Hydrometalurgii w Głogowie_3 zadania",
   "url": "https://kghm.com/pl/etapi-wykonanie-dokumentacji-projektowej-modernizacji-wentylacji-i-ogrzewania-dla-zakladu-0",
@@ -9441,6 +9419,30 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Wykonanie wielobranżowej, kompletnej dokumentacji projektowej dla zadania „Modernizacja bazy dydaktycznej (...) – utworzenie zintegrowanej pracowni edukacji zawodowej w tym pomieszczeń internatu (...)",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-7cc9d41e-ffa8-4aed-b963-34ac5e25b05a",
+  "zamawiajacy": "Zespół Jednostek Edukacyjnych Województwa Małopolskiego w Krakowie",
+  "data_publikacji": "2026-09-29",
+  "termin_skladania": "2026-10-08T07:30:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00462282 z dnia 2026-09-29 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie wielobranżowej, kompletnej dokumentacji projektowej dla zadania „Modernizacja bazy dydaktycznej (...) – utworzenie zintegrowanej pracowni edukacji zawodowej w tym pomieszczeń internatu (...) SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzi podmiot, któremu powierzono przeprowadzenie postępowania 1.2.) Nazwa zamawiającego: Zespół Jednostek Edukacyjnych Województwa Małopolskiego w Krakowie 1.4) Krajowy Numer Identyfikacyjny: REGON 121464310 1.5) Adres zamawiającego 1.5.1.) Ulica: os. Teatralne 4a 1.5.2.) Miejscowość: Kraków 1.5.3.) Kod pocztowy: 31-945 1.5.4.) Województwo: małopolskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL213 - Miasto Kraków 1.5.9.) Adres poczty elektronicznej: zjewm@kancelariaasds.pl 1.5.10.) Adres strony internetowej zamawiającego: www.zjewm.krakow.pl 1.6.) Rodzaj ",
+  "cpv": [
+   "71240000-2",
+   "71250000-5",
+   "71320000-7",
+   "79933000-3",
+   "71220000-6"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-30",
+  "hash": "0174a53a542300a8ed90f88fe69bc1b85421ac70036cfe2e626b9ec4b3552952"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Przygotowanie wielobranż .dok.projekt. dla inwestycji pn. „Modernizacja Oddziału ZOL Szpitala im. M. Kopernika w Gdańsku w celu zwiększenia efektywności energ. i standardów opieki długoterminowej”.",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-9e8dc43f-7146-47ae-a7ba-0dfa6b2e8e59",
   "zamawiajacy": "Copernicus Podmiot Leczniczy Sp. z o.o.",
@@ -9536,45 +9538,6 @@
   "status_opisu": "brak",
   "dodano": "2026-09-01",
   "hash": "12b6305d4a1714be650762efa92015e4d197f33f5fa15853803f4c8181d8e82b"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Roboty budowlane – \"Przebudowa dostrzegalni przeciwpożarowej Ponik w Leśnictwie Dziadówki oraz Choroń w leśnictwie Dębowiec” – opracowanie kompletnej dokumentacji projektowej oraz wykonanie na jej podstawie robót budowlanych",
-  "url": "https://ted.europa.eu/en/notice/-/detail/597406-2026",
-  "zamawiajacy": "Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Złoty Potok",
-  "data_publikacji": "2026-08-31",
-  "termin_skladania": "2026-10-08T10:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "45000000",
-   "45110000",
-   "71320000",
-   "71000000",
-   "71221000",
-   "71242000",
-   "71248000",
-   "45000000",
-   "45000000",
-   "71320000",
-   "71000000",
-   "71221000",
-   "71242000",
-   "71248000",
-   "71320000",
-   "71000000",
-   "71221000",
-   "71242000",
-   "71248000"
-  ],
-  "score": 7,
-  "tagi": [
-   "cpv-71",
-   "roboty-budowlane",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": null,
-  "hash": "ef5b4aabbb63c0460230b2d4bc5848f92514be78f5702885825630cae16dc3bd"
  },
  {
   "zrodlo": "ted",
@@ -9772,6 +9735,30 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Opracowanie kompletnej, wielobranżowej dokumentacji projektowo-kosztorysowej dla realizacji zadania inwestycyjnego pn.: „Budowa Centrum Bezpieczeństwa Zdrowotnego i Odporności Społecznej w Gościnie”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-ef7645f7-ee62-4e83-b4a6-242c1a8137da",
+  "zamawiajacy": "GMINA GOŚCINO",
+  "data_publikacji": "2026-09-30",
+  "termin_skladania": "2026-10-09T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00463526 z dnia 2026-09-30 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie kompletnej, wielobranżowej dokumentacji projektowo-kosztorysowej dla realizacji zadania inwestycyjnego pn.: „Budowa Centrum Bezpieczeństwa Zdrowotnego i Odporności Społecznej w Gościnie” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: GMINA GOŚCINO 1.4) Krajowy Numer Identyfikacyjny: REGON 330920676 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. IV Dywizji Wojska Polskiego 58 1.5.2.) Miejscowość: Gościno 1.5.3.) Kod pocztowy: 78-120 1.5.4.) Województwo: zachodniopomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL426 - Koszaliński 1.5.9.) Adres poczty elektronicznej: sekretariat@goscino.pl 1.5.10.) Adres strony internetowej zamawiającego: www.goscino.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sekto",
+  "cpv": [
+   "71320000-7",
+   "71220000-6",
+   "71221000-3",
+   "71321000-4"
+  ],
+  "score": 20,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-30",
+  "hash": "35052dee5e94706d0d1825dcf69a62d47defb86ff2051933a3e9554b306eaab1"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Opracowanie wielobranżowej kompleksowej dok. projektowo – kosztorysowej w zakresie budowy dwóch budynków mieszkalnych wielorodzinnych z garażami podz., miejscami post. w Radomiu przy ul. Olsztyńskiej",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-0108f7e9-5df6-4920-ac55-944d56786991",
   "zamawiajacy": "RADOMSKIE TOWARZYSTWO BUDOWNICTWA SPOŁECZNEGO \"ADMINISTRATOR\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
@@ -9889,7 +9876,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-29",
+  "dodano": "2026-09-30",
   "hash": "e71747b344b225d098d2fa56350d367045483e19981439ded4bad1ae5ccfc545"
  },
  {
@@ -9923,7 +9910,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-29",
+  "dodano": "2026-09-30",
   "hash": "8923c3d988b37eda050da8011715cda25945fb010638b2700ae38cfdd636df87"
  },
  {
@@ -10002,7 +9989,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-29",
+  "dodano": "2026-09-30",
   "hash": "886d5920e4c0ea841fff739c00e230a6c8ff0705adf4b301c0433a2591c416aa"
  },
  {
@@ -10109,6 +10096,28 @@
   "status_opisu": "brak",
   "dodano": "2026-09-09",
   "hash": "140a78fba7a10a8f9ed83a064df333d4413eaa8cffe2b02d9312e396247426b0"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi architektoniczne w zakresie obiektów budowlanych – KWP Katowice – modernizacja budynków A, B, C, etap I z przystosowaniem do przepisów przeciwpożarowych budynków KWP w Katowicach przy ul. Lompy 19",
+  "url": "https://ted.europa.eu/en/notice/-/detail/673350-2026",
+  "zamawiajacy": "Komenda Wojewódzka Policji w Katowicach",
+  "data_publikacji": "2026-09-30",
+  "termin_skladania": "2026-10-12T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71221000",
+   "71320000",
+   "71221000",
+   "71320000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-27",
+  "hash": "db2315da914c38f899ddd787de3418cd7ef82199d437afbd34b49ddcc5fdca92"
  },
  {
   "zrodlo": "ted",
@@ -10234,96 +10243,6 @@
   "hash": "77d22d5db34acad52214b0e3ed78ecb5fc6fb0807aa2299ece11ebdf5adc43db"
  },
  {
-  "zrodlo": "ted",
-  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Wykonanie dokumentacji projektowo-kosztorysowej dotyczącej obiektów małej retencji na terenie Nadleśnictwa Durowo wraz z pełnieniem nadzoru autorskiego – II postępowanie",
-  "url": "https://ted.europa.eu/en/notice/-/detail/613854-2026",
-  "zamawiajacy": "Skarb Państwa PGL LP Nadleśnictwo Durowo",
-  "data_publikacji": "2026-09-07",
-  "termin_skladania": "2026-10-13T09:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71320000",
-   "71330000",
-   "71520000",
-   "71320000",
-   "71320000",
-   "71320000",
-   "71320000",
-   "71320000",
-   "71320000",
-   "71330000",
-   "71520000",
-   "71330000",
-   "71520000",
-   "71330000",
-   "71520000",
-   "71330000",
-   "71520000",
-   "71330000",
-   "71520000",
-   "71330000",
-   "71520000"
-  ],
-  "score": 9,
-  "tagi": [
-   "cpv-71",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-07",
-  "hash": "615016c30846cab53c0431aa7ef5d2a00db5c1f05be508ee60755352b003efdd"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Sprzęt wystawowy – Zagospodarowanie budynku pokopalnianego Łaźni Moszczenica w Jastrzębiu-Zdroju – Etap III – Porozumienie Jastrzębskie",
-  "url": "https://ted.europa.eu/en/notice/-/detail/619326-2026",
-  "zamawiajacy": "Miasto Jastrzębie-Zdrój",
-  "data_publikacji": "2026-09-09",
-  "termin_skladania": "2026-10-13T10:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "39154000",
-   "39133000",
-   "39171000",
-   "39154100",
-   "45311100",
-   "30236000",
-   "32322000",
-   "92521100",
-   "71320000",
-   "45000000",
-   "45300000",
-   "45311200",
-   "45315300",
-   "45400000",
-   "45316000",
-   "45421153",
-   "39154000",
-   "39133000",
-   "39171000",
-   "39154100",
-   "45311100",
-   "30236000",
-   "32322000",
-   "92521100",
-   "71320000",
-   "45000000",
-   "45300000",
-   "45311200",
-   "45315300",
-   "45400000",
-   "45316000",
-   "45421153"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-09",
-  "hash": "f116678b3da663b574e5869ce6fa5062f6b7d7e5d29082971a353289b8ab4e21"
- },
- {
   "zrodlo": "bzp",
   "tytul": "Wykonanie dokumentacji projektowo kosztorysowej wraz z pełnieniem nadzoru autorskiego dla zadania pod nazwą: \"Wykonanie instalacji klimatyzacji – I/Rawicz”",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-786ef5e2-3537-4f41-ba93-171adeaff69a",
@@ -10363,6 +10282,25 @@
   "status_opisu": "brak",
   "dodano": "2026-09-25",
   "hash": "a9104c609e0f4aa7d01932ada5af367e57db9b4e9dfc46eb41ea83a17a36ac34"
+ },
+ {
+  "zrodlo": "bip:tauron",
+  "tytul": "RZ4/188/26 R-Skałeczno - opracowanie dokumentacji projektowej i na jej podstawie przystosowanie pól nr 4, 14 i 29 w rozdzielni 20 kV do współpracy ze źródłami wytwórczymi (PSP 2503217, 2503069, 2503065)",
+  "url": "https://swoz.tauron.pl/platform/demand/notice/public/current/list",
+  "zamawiajacy": "TAURON Dystrybucja S.A.",
+  "data_publikacji": "2026-09-30",
+  "termin_skladania": "2026-10-14 12:00",
+  "opis": null,
+  "cpv": [],
+  "score": 8,
+  "tagi": [
+   "giełdowa",
+   "spolka-sp",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-30",
+  "hash": "7c06e049f51d674dda2bfaa4d01e54687f5d7f264dfa65226b023d3514ab1cf5"
  },
  {
   "zrodlo": "bzp",
@@ -10560,6 +10498,76 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Sprzęt wystawowy – Zagospodarowanie budynku pokopalnianego Łaźni Moszczenica w Jastrzębiu-Zdroju – Etap III – Porozumienie Jastrzębskie",
+  "url": "https://ted.europa.eu/en/notice/-/detail/673788-2026",
+  "zamawiajacy": "Miasto Jastrzębie-Zdrój",
+  "data_publikacji": "2026-09-30",
+  "termin_skladania": "2026-10-15T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "39154000",
+   "39133000",
+   "39171000",
+   "39154100",
+   "45311100",
+   "30236000",
+   "32322000",
+   "92521100",
+   "71320000",
+   "45000000",
+   "45300000",
+   "45311200",
+   "45315300",
+   "45400000",
+   "45316000",
+   "45421153",
+   "39154000",
+   "39133000",
+   "39171000",
+   "39154100",
+   "45311100",
+   "30236000",
+   "32322000",
+   "92521100",
+   "71320000",
+   "45000000",
+   "45300000",
+   "45311200",
+   "45315300",
+   "45400000",
+   "45316000",
+   "45421153"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-09",
+  "hash": "f44d6a0560baae93616ee3e6d98ff8fe2b7d9a43fdd6eb46aaf34b30731f327b"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowej przebudowy Amfiteatru \"Kadzielnia\" w ramach zadania \"Wzmocnienie potencjału turystycznego Amfiteatru Kadzielnia\"",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-c29a2d55-e870-4741-832c-d5ae959f3280",
+  "zamawiajacy": "Geonatura Kielce",
+  "data_publikacji": "2026-09-30",
+  "termin_skladania": "2026-10-15T10:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00463491 z dnia 2026-09-30 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowej przebudowy Amfiteatru &#34;Kadzielnia&#34; w ramach zadania &#34;Wzmocnienie potencjału turystycznego Amfiteatru Kadzielnia&#34; SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Geonatura Kielce 1.4) Krajowy Numer Identyfikacyjny: REGON 29283845500000 1.5) Adres zamawiającego 1.5.1.) Ulica: Daleszycka 21 1.5.2.) Miejscowość: Kielce 1.5.3.) Kod pocztowy: 25-202 1.5.4.) Województwo: świętokrzyskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL721 - Kielecki 1.5.7.) Numer telefonu: 41 36 876 800 1.5.9.) Adres poczty elektronicznej: sekretariat@geonatura-kielce.pl 1.5.10.) Adres strony internetowej zamawiającego: https://geonatura-kielce.pl/ 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka ",
+  "cpv": [
+   "71220000-6"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-30",
+  "hash": "a7d8b894ba90030aa59c8d989fe24c347000fbaa369f162690238c7e98476db1"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi projektowania rurociągów – Opracowanie projektu dla budowy zlewni ogólnospławnej – odciążenie sieci ogólnospławnej w rejonie ul. Dolna Wilda w Poznaniu.",
   "url": "https://ted.europa.eu/en/notice/-/detail/619106-2026",
   "zamawiajacy": "Aquanet S.A.",
@@ -10613,8 +10621,31 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-29",
+  "dodano": "2026-09-30",
   "hash": "9ff7b24d88888e5cf5f02ee32d5a2091a553d432458191e03e9f6bbe8cd46e53"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowej wraz z pełnieniem nadzoru autorskiego dla zadania inwestycyjnego pn.: \"Remont i przebudowa poddasza Gmachu Głównego Politechniki Gdańskiej\"",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-508e4c6f-fef8-4973-86ae-e14c98c5c960",
+  "zamawiajacy": "Politechnika Gdańska",
+  "data_publikacji": "2026-09-30",
+  "termin_skladania": "2026-10-16T09:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00462366 z dnia 2026-09-30 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowej wraz z pełnieniem nadzoru autorskiego dla zadania inwestycyjnego pn.: &#34;Remont i przebudowa poddasza Gmachu Głównego Politechniki Gdańskiej&#34; SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Politechnika Gdańska 1.3.) Oddział zamawiającego: Wydział Inżynierii Lądowej i Środowiska 1.4) Krajowy Numer Identyfikacyjny: REGON 000001620 1.5) Adres zamawiającego 1.5.1.) Ulica: G. Narutowicza 11/12 1.5.2.) Miejscowość: Gdańsk 1.5.3.) Kod pocztowy: 80-233 1.5.4.) Województwo: pomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL633 - Trójmiejski 1.5.9.) Adres poczty elektronicznej: szp.wilis@pg.edu.pl 1.5.10.) Adres strony internetowej zamawiającego: https://pg.edu.pl/ 1.6.) Rodzaj zamawiającego: Za",
+  "cpv": [
+   "71220000-6",
+   "71320000-7",
+   "71242000-6",
+   "71248000-8"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-30",
+  "hash": "a6ecd5dfcc2e31a9b78072741d2aa20e0feb9b7ec969a3e4e0198491bfa5a556"
  },
  {
   "zrodlo": "ted",
@@ -11134,6 +11165,45 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Roboty budowlane – \"Przebudowa dostrzegalni przeciwpożarowej Ponik w Leśnictwie Dziadówki oraz Choroń w leśnictwie Dębowiec” – opracowanie kompletnej dokumentacji projektowej oraz wykonanie na jej podstawie robót budowlanych",
+  "url": "https://ted.europa.eu/en/notice/-/detail/670883-2026",
+  "zamawiajacy": "Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Złoty Potok",
+  "data_publikacji": "2026-09-30",
+  "termin_skladania": "2026-10-19T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "45000000",
+   "45110000",
+   "71320000",
+   "71000000",
+   "71221000",
+   "71242000",
+   "71248000",
+   "45000000",
+   "45000000",
+   "71320000",
+   "71000000",
+   "71221000",
+   "71242000",
+   "71248000",
+   "71320000",
+   "71000000",
+   "71221000",
+   "71242000",
+   "71248000"
+  ],
+  "score": 7,
+  "tagi": [
+   "cpv-71",
+   "roboty-budowlane",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-30",
+  "hash": "765be93a9ace8e1a0c8689664251d04fbf2cfb2b08189caefe3c23e67b31742e"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi projektowania architektonicznego – Opracowanie dokumentacji projektowo-kosztorysowej dla zadania „Rozbudowa Sądu Rejonowego w Lidzbarku Warmińskim przy ul. Bartoszyckiej 4A”",
   "url": "https://ted.europa.eu/en/notice/-/detail/488234-2026",
   "zamawiajacy": "Sąd Okręgowy w Olsztynie",
@@ -11518,7 +11588,7 @@
    "samorząd"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-29",
+  "dodano": "2026-09-30",
   "hash": "4210d16903fe82289765e99e28035cb57095e24dded7a6e8e851a22386c288c3"
  },
  {
@@ -11658,7 +11728,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-29",
+  "dodano": "2026-09-30",
   "hash": "1417754ce4def456061f642b6f971a5f7b8f7151b577b2fa553dd0288e133d22"
  },
  {
@@ -11686,7 +11756,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-29",
+  "dodano": "2026-09-30",
   "hash": "c902dc7004560dcf2716e656ae9eef051ae0987faf9e608b1ce1f884a2b1eee9"
  },
  {
@@ -11854,31 +11924,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Usługi projektowania architektonicznego – Wykonanie dokumentacji projektowej wraz z kosztorysami inwestorskimi, w tym przedmiarami robót, STWiOR i innymi niezbędnymi opracowaniami dla zadania pn. \"Budowa Centrum Specjalistycznego z zespołem ambulatoryjnych poradni przyszpitalnych w Miejskim Centrum Medycznym im. dr Karola Jonschera w Łodzi”",
-  "url": "https://ted.europa.eu/en/notice/-/detail/650445-2026",
-  "zamawiajacy": "Miejskie Centrum Medyczne im. dr. Karola Jonschera w Łodzi",
-  "data_publikacji": "2026-09-22",
-  "termin_skladania": "2026-10-27T11:00:00+01:00",
-  "opis": null,
-  "cpv": [
-   "71220000",
-   "71242000",
-   "71320000",
-   "71220000",
-   "71242000",
-   "71320000"
-  ],
-  "score": 9,
-  "tagi": [
-   "cpv-71",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-22",
-  "hash": "53acdad1a2c2d30b760088108ac457f1774f1c26eda49a8540e2b894fc38c534"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Usługi projektowania architektonicznego – Opracowanie kompletnej dokumentacji projektowo-kosztorysowej dla zadania inwestycyjnego pn. „Poprawa efektywności energetycznej budynków” w ramach programu FENiKS w zakresie budynków ul. Skalbmierska 5 i 6",
   "url": "https://ted.europa.eu/en/notice/-/detail/666416-2026",
   "zamawiajacy": "Izba Administracji Skarbowej w Warszawie",
@@ -11900,7 +11945,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-29",
+  "dodano": "2026-09-30",
   "hash": "73ec9e06d2c99fb001cd9da028ca1bd97112838404df2deede1d5d4503a4eb06"
  },
  {
@@ -12028,6 +12073,33 @@
   "status_opisu": "brak",
   "dodano": "2026-09-15",
   "hash": "2e19edad726cdf1b795cca619ff499242c0f4c7a9364b3a957ee6a0dc343b0ff"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Wykonanie kompletnej dokumentacji projektowej wraz z uzyskaniem wszystkich decyzji administracyjnych niezbędnych do przeprowadzania robót budowlanych realizowanych w Nadleśnictwie Chocianów na zadanie odbudowy wałów oraz zastawek na dwóch zbiornikach wodnych zlokalizowanych w oddziałach 392 h oraz 403 h w Leśnictwie Krzyżowa – II postępowanie.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/672890-2026",
+  "zamawiajacy": "Skarb Państwa - Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Chocianów",
+  "data_publikacji": "2026-09-30",
+  "termin_skladania": "2026-10-29T10:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71320000",
+   "71322000",
+   "71242000",
+   "71248000",
+   "71320000",
+   "71322000",
+   "71242000",
+   "71248000"
+  ],
+  "score": 9,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-30",
+  "hash": "b3379d020d149b4cf538b399281dd0b20aa260ba66d56ff91c19aefc37c7f251"
  },
  {
   "zrodlo": "ted",
@@ -12181,6 +12253,46 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Wykonanie dokumentacji projektowo-kosztorysowej dotyczącej obiektów małej retencji na terenie Nadleśnictwa Durowo wraz z pełnieniem nadzoru autorskiego – II postępowanie",
+  "url": "https://ted.europa.eu/en/notice/-/detail/670799-2026",
+  "zamawiajacy": "Skarb Państwa PGL LP Nadleśnictwo Durowo",
+  "data_publikacji": "2026-09-30",
+  "termin_skladania": "2026-10-30T09:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71320000",
+   "71330000",
+   "71520000",
+   "71320000",
+   "71320000",
+   "71320000",
+   "71320000",
+   "71320000",
+   "71320000",
+   "71330000",
+   "71520000",
+   "71330000",
+   "71520000",
+   "71330000",
+   "71520000",
+   "71330000",
+   "71520000",
+   "71330000",
+   "71520000",
+   "71330000",
+   "71520000"
+  ],
+  "score": 9,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-07",
+  "hash": "4dbf09c1f4480bc624953d08139f2dd3b5698916f686a11eb5ae37e68620eae0"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi projektowania architektonicznego – Opracowanie kompletnej dokumentacji projektowo-kosztorysowej dla zadania inwestycyjnego pn. ”Poprawa efektywności energetycznej budynku Trzeciego Urzędu Skarbowego Warszawa-Śródmieście, ul. Lindleya 14”",
   "url": "https://ted.europa.eu/en/notice/-/detail/663870-2026",
   "zamawiajacy": "Izba Administracji Skarbowej w Warszawie",
@@ -12199,7 +12311,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-29",
+  "dodano": "2026-09-30",
   "hash": "8f8bd814e9e43a3d475d5cd1edf72554fac5d7cf1d5d0a9e1cc08c19fca24a60"
  },
  {
@@ -12227,6 +12339,57 @@
   "status_opisu": "brak",
   "dodano": "2026-09-25",
   "hash": "fd740007c37e2ab152623958047628011c692ced81c62a3377027c827bb26d38"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi nadzoru budowlanego – Świadczenie usługi nadzoru nad przygotowaniem dokumentacji projektowej oraz usługi nadzoru inwestorskiego nad prowadzonymi robotami budowlanymi realizowanymi w Nadleśnictwie Brzeg w ramach projektu MRN3",
+  "url": "https://ted.europa.eu/en/notice/-/detail/672724-2026",
+  "zamawiajacy": "Skarb Państwa Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Brzeg",
+  "data_publikacji": "2026-09-30",
+  "termin_skladania": "2026-10-30T10:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71520000",
+   "71248000",
+   "71247000",
+   "71520000",
+   "71520000",
+   "71248000",
+   "71247000",
+   "71248000",
+   "71247000"
+  ],
+  "score": 9,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-30",
+  "hash": "1a99c4574b8904b972e914a47baef5c728ef60bbd162da8243d052c964bd4750"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi projektowania architektonicznego – Opracowanie wielobranżowej dokumentacji projektowo-kosztorysowej osiedla mieszkaniowego na terenie działki nr 38/7 obręb 050 przy ul. Nowej Wołkowyskiej w Gdańsku.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/673717-2026",
+  "zamawiajacy": "Gdańskie Towarzystwo Budownictwa Społecznego sp. z o.o.",
+  "data_publikacji": "2026-09-30",
+  "termin_skladania": "2026-10-30T10:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71220000",
+   "71248000",
+   "71220000",
+   "71248000"
+  ],
+  "score": 15,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-30",
+  "hash": "8e51708ff4fb0487fe4135ebeec937e9a5ed2e0e41f709183d9e06bbb1a45a44"
  },
  {
   "zrodlo": "ted",
@@ -12368,6 +12531,65 @@
   "status_opisu": "brak",
   "dodano": "2026-09-23",
   "hash": "3d851ef95684705d2350a649085cdd2e30e054513cff71a0b0b49dcf39a085ba"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Budynki modułowe i przenośne – Dostawa wraz z montażem i dostosowaniem transportowalnych modułów kontenerowych w ramach PROGRAMU OCHRONY LUDNOŚCI I OBRONY CYWILNEJ NA LATA 2025-2026’’",
+  "url": "https://ted.europa.eu/en/notice/-/detail/673340-2026",
+  "zamawiajacy": "Śląski Oddział Okręgowy PCK w Katowicach",
+  "data_publikacji": "2026-09-30",
+  "termin_skladania": "2026-11-03T11:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "44211100",
+   "71320000",
+   "45000000",
+   "45311200",
+   "45315300",
+   "45223810",
+   "45330000",
+   "45111300",
+   "44211100",
+   "71320000",
+   "45000000",
+   "45311200",
+   "45315300",
+   "45223810",
+   "45330000",
+   "45111300"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-30",
+  "hash": "3685af21559fc14fdb0ca62bf41f460f4bb6713777a02468ad633bf8dd0be06c"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi projektowania architektonicznego – Wykonanie dokumentacji projektowej wraz z kosztorysami inwestorskimi, w tym przedmiarami robót, STWiOR i innymi niezbędnymi opracowaniami dla zadania pn. \"Budowa Centrum Specjalistycznego z zespołem ambulatoryjnych poradni przyszpitalnych w Miejskim Centrum Medycznym im. dr Karola Jonschera w Łodzi”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/670875-2026",
+  "zamawiajacy": "Miejskie Centrum Medyczne im. dr. Karola Jonschera w Łodzi",
+  "data_publikacji": "2026-09-30",
+  "termin_skladania": "2026-11-03T11:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71220000",
+   "71242000",
+   "71320000",
+   "71220000",
+   "71242000",
+   "71320000"
+  ],
+  "score": 9,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-22",
+  "hash": "15f08b35a004afbfb79b77da575340fc1c155ec60ed374ffa7b167271c36313a"
  },
  {
   "zrodlo": "ted",
