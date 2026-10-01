@@ -10147,6 +10147,30 @@
   "hash": "140a78fba7a10a8f9ed83a064df333d4413eaa8cffe2b02d9312e396247426b0"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "OPRACOWANIE DOKUMENTACJI PROJEKTOWO-KOSZTORYSOWEJ DLA ZADANIA INWESTYCYJNEGO POD NAZWĄ: „KOMENDA WOJEWÓDZKA POLICJI W BIAŁYMSTOKU - BUDOWA BUDYNKU STRZELNICY PRZY UL. 42 PUŁKU PIECHOTY 44”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-72dbecd7-919e-4829-94c4-262cb2d8d668",
+  "zamawiajacy": "Komenda Wojewódzka Policji w Białymstoku",
+  "data_publikacji": "2026-10-01",
+  "termin_skladania": "2026-10-12T09:30:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00466979 z dnia 2026-10-01 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi OPRACOWANIE DOKUMENTACJI PROJEKTOWO-KOSZTORYSOWEJ DLA ZADANIA INWESTYCYJNEGO POD NAZWĄ: „KOMENDA WOJEWÓDZKA POLICJI W BIAŁYMSTOKU - BUDOWA BUDYNKU STRZELNICY PRZY UL. 42 PUŁKU PIECHOTY 44” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Komenda Wojewódzka Policji w Białymstoku 1.4) Krajowy Numer Identyfikacyjny: REGON 050252820 1.5) Adres zamawiającego 1.5.1.) Ulica: Sienkiewicza 65 1.5.2.) Miejscowość: Białystok 1.5.3.) Kod pocztowy: 15-003 1.5.4.) Województwo: podlaskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL841 - Białostocki 1.5.9.) Adres poczty elektronicznej: zamowienia.kwp@bk.policja.gov.pl 1.5.10.) Adres strony internetowej zamawiającego: www.podlaska.policja.gov.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - j",
+  "cpv": [
+   "71000000-8",
+   "71320000-7",
+   "71220000-6",
+   "71242000-6",
+   "71322000-1"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-01",
+  "hash": "f71de6ebb4ff420628f7cd126827a8573f9a55d0a585fa7c9233d5b29aca498f"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Usługi architektoniczne w zakresie obiektów budowlanych – KWP Katowice – modernizacja budynków A, B, C, etap I z przystosowaniem do przepisów przeciwpożarowych budynków KWP w Katowicach przy ul. Lompy 19",
   "url": "https://ted.europa.eu/en/notice/-/detail/673350-2026",
@@ -10667,6 +10691,34 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-29",
   "hash": "710839175c7fe2c37da910acda685982f4a7e3ac542c3d684ba484278c0a9990"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "„Opracowanie dokumentacji projektowej rozbudowy i modernizacji OŚ w Wadowicach w zakresie cz. mech. i biol. ciągu oczyszczania ścieków oraz ciągu przeróbki osadów ściekowych i cz. biogazowej\"",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-b31e2e87-5efe-43e0-b5bc-c0e055cbc314",
+  "zamawiajacy": "WADOWICKIE PRZEDSIĘBIORSTWO WODOCIĄGÓW I KANALIZACJI SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+  "data_publikacji": "2026-10-01",
+  "termin_skladania": "2026-10-15T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00466902 z dnia 2026-10-01 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi „Opracowanie dokumentacji projektowej rozbudowy i modernizacji OŚ w Wadowicach w zakresie cz. mech. i biol. ciągu oczyszczania ścieków oraz ciągu przeróbki osadów ściekowych i cz. biogazowej&#34; SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: WADOWICKIE PRZEDSIĘBIORSTWO WODOCIĄGÓW I KANALIZACJI SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ 1.4) Krajowy Numer Identyfikacyjny: REGON 357017001 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Młyńska 110 1.5.2.) Miejscowość: Wadowice 1.5.3.) Kod pocztowy: 34-100 1.5.4.) Województwo: małopolskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL21A - Oświęcimski 1.5.9.) Adres poczty elektronicznej: przetargi@wpwik.com 1.5.10.) Adres strony internetowej zamawiającego: www.wpwik.com 1.6.) Rodzaj zamawia",
+  "cpv": [
+   "71320000-7",
+   "71242000-6",
+   "71248000-8",
+   "71310000-4",
+   "71322200-3",
+   "71321000-4",
+   "71323100-9",
+   "71323200-0",
+   "79421200-3"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71",
+   "infrastruktura"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-01",
+  "hash": "15fa43cf94f1ad0c761c7623d9300a079e49a4af6caa1b297a610329df9d8ef8"
  },
  {
   "zrodlo": "ted",
