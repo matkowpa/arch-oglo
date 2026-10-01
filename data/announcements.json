@@ -1309,29 +1309,6 @@
  },
  {
   "zrodlo": "bzp",
-  "tytul": "Opracowanie dokumentacji projektowo-kosztorysowej termomodernizacji oraz budowy mikroinstalacji fotowoltaicznych wraz z magazynami energii (budynek Filii nr 18 PiMBP i budynek Składnicy Akt CUW)",
-  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-b7abdbb6-cd34-4097-a208-5f7eb195d836",
-  "zamawiajacy": "MIASTO RYBNIK",
-  "data_publikacji": "2026-09-03",
-  "termin_skladania": "2026-09-11T07:00:00Z",
-  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00421765 z dnia 2026-09-03 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowo-kosztorysowej termomodernizacji oraz budowy mikroinstalacji fotowoltaicznych wraz z magazynami energii (budynek Filii nr 18 PiMBP i budynek Składnicy Akt CUW) SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: MIASTO RYBNIK 1.4) Krajowy Numer Identyfikacyjny: REGON 276255430 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Bolesława Chrobrego 2 1.5.2.) Miejscowość: Rybnik 1.5.3.) Kod pocztowy: 44-200 1.5.4.) Województwo: śląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL227 - Rybnicki 1.5.7.) Numer telefonu: 324392302 1.5.9.) Adres poczty elektronicznej: zam_pub@um.rybnik.pl 1.5.10.) Adres strony internetowej zamawiającego: www.rybnik.eu 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka se",
-  "cpv": [
-   "71221000-3",
-   "71220000-6",
-   "71320000-7",
-   "71321200-6"
-  ],
-  "score": 12,
-  "tagi": [
-   "cpv-71",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "pobrany",
-  "dodano": "2026-09-03",
-  "hash": "eb2f12172153eefa0d4d25af4d4a1525b74eca4b6a39ff05dfced83f81cfc18a"
- },
- {
-  "zrodlo": "bzp",
   "tytul": "„Rozbudowa drogi wojewódzkiej nr 238 z drogą wojewódzką nr 244 w m. Osówiec\" - opracowanie dokumentacji projektowej",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-dc7e195b-3a32-4cc7-8cff-4aaa92613b81",
   "zamawiajacy": "Województwo Kujawsko - Pomorskie, Pl. Teatralny 2, 87-100 Toruń",
@@ -9366,7 +9343,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-28",
+  "dodano": "2026-10-01",
   "hash": "fb608876debd62706b77908c4640bf89ded4215389fa0c0bb2ab62b25da229d3"
  },
  {
@@ -9985,7 +9962,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-14",
+  "dodano": "2026-10-01",
   "hash": "127ed113281d2dd720299d45c8c9e19d10ee7ea9210808b144a18b54175d4719"
  },
  {
@@ -10061,6 +10038,50 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-17",
   "hash": "ee41ec2158105c9b616c5b26e628c2d5d6add3c7774f664319870f5f96d59864"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "4WOG.1200.2712.77.2026 Sporządzenie dokumentacji projektowych, specjalistycznych, technicznych dla SOI Bielsko- Biała w podziale na 2 części",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-ce96621b-f334-4721-8dfe-9739dd21aeb9",
+  "zamawiajacy": "4 WOJSKOWY ODDZIAŁ GOSPODARCZY",
+  "data_publikacji": "2026-10-01",
+  "termin_skladania": "2026-10-12T06:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00466702 z dnia 2026-10-01 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi 4WOG.1200.2712.77.2026 Sporządzenie dokumentacji projektowych, specjalistycznych, technicznych dla SOI Bielsko- Biała w podziale na 2 części SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: 4 WOJSKOWY ODDZIAŁ GOSPODARCZY 1.4) Krajowy Numer Identyfikacyjny: REGON 240763798 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Generała Władysława Andersa 47 1.5.2.) Miejscowość: Gliwice 1.5.3.) Kod pocztowy: 44-121 1.5.4.) Województwo: śląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL229 - Gliwicki 1.5.9.) Adres poczty elektronicznej: 4wog.kancelaria@ron.mil.pl 1.5.10.) Adres strony internetowej zamawiającego: https://4wog.wp.mil.pl/pl/bip/ 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - inny zamawiający Jednostka Wojskowa 1.7.) Przedmio",
+  "cpv": [
+   "71320000-7"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-01",
+  "hash": "7471ac12c3ec6c904a7f31e5179385e9fe83d161e7733f82a477f37465bf7bd7"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowej dla zadania inwestycyjnego pn. „Budowa,przebudowa, rozbudowa wraz z modernizacją PSZOK w Chodzieży",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-b450a935-15ed-4771-98e1-763482a4bb2b",
+  "zamawiajacy": "GMINA MIEJSKA W CHODZIEŻY",
+  "data_publikacji": "2026-10-01",
+  "termin_skladania": "2026-10-12T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00466815 z dnia 2026-10-01 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowej dla zadania inwestycyjnego pn. „Budowa,przebudowa, rozbudowa wraz z modernizacją PSZOK w Chodzieży SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: GMINA MIEJSKA W CHODZIEŻY 1.4) Krajowy Numer Identyfikacyjny: REGON 570790992 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Ignacego Jana Paderewskiego 2 1.5.2.) Miejscowość: Chodzież 1.5.3.) Kod pocztowy: 64-800 1.5.4.) Województwo: wielkopolskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL411 - Pilski 1.5.9.) Adres poczty elektronicznej: urzadmiejski@chodziez.pl 1.5.10.) Adres strony internetowej zamawiającego: www.chodziez.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego",
+  "cpv": [
+   "71320000-7",
+   "71222000-0",
+   "71242000-6",
+   "71322000-1"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-01",
+  "hash": "2cf4e6af0003a7af2c340072466e98e6f5b1266589ae57f094e39c1afdbf456d"
  },
  {
   "zrodlo": "bzp",
@@ -10298,7 +10319,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-24",
+  "dodano": "2026-10-01",
   "hash": "f2da1521162692d9c9f636c5f006aaaa7b723a4fdd000ae79a7a2aa1ef478d28"
  },
  {
@@ -10319,6 +10340,29 @@
   "status_opisu": "brak",
   "dodano": "2026-09-25",
   "hash": "77d22d5db34acad52214b0e3ed78ecb5fc6fb0807aa2299ece11ebdf5adc43db"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowo-kosztorysowej termomodernizacji oraz budowy mikroinstalacji fotowoltaicznych wraz z magazynami energii (budynek Filii nr 18 PiMBP i budynek Składnicy Akt CUW)",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-b742417f-a2dc-4b13-a6d3-eb8cc9314dd0",
+  "zamawiajacy": "MIASTO RYBNIK",
+  "data_publikacji": "2026-10-01",
+  "termin_skladania": "2026-10-13T09:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00466824 z dnia 2026-10-01 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowo-kosztorysowej termomodernizacji oraz budowy mikroinstalacji fotowoltaicznych wraz z magazynami energii (budynek Filii nr 18 PiMBP i budynek Składnicy Akt CUW) SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: MIASTO RYBNIK 1.4) Krajowy Numer Identyfikacyjny: REGON 276255430 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Bolesława Chrobrego 2 1.5.2.) Miejscowość: Rybnik 1.5.3.) Kod pocztowy: 44-200 1.5.4.) Województwo: śląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL227 - Rybnicki 1.5.7.) Numer telefonu: 324392302 1.5.9.) Adres poczty elektronicznej: zam_pub@um.rybnik.pl 1.5.10.) Adres strony internetowej zamawiającego: www.rybnik.eu 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka se",
+  "cpv": [
+   "71221000-3",
+   "71220000-6",
+   "71320000-7",
+   "71321200-6"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-03",
+  "hash": "5d5f40ee01fe18d52dcf32eb432db3f7b38b25f1f160ca06697f3728609d7a4a"
  },
  {
   "zrodlo": "bzp",
@@ -11117,7 +11161,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-30",
+  "dodano": "2026-10-01",
   "hash": "fc3d1848f9aec44a059fa0f068102adc1e8724a49b563d7a11367407cabcc316"
  },
  {
