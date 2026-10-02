@@ -7967,37 +7967,6 @@
   "hash": "c7119b25573bd646e321764f1af4f69eb1b5accbb53b10c31258bfe5b93a8090"
  },
  {
-  "zrodlo": "ted",
-  "tytul": "Polska – Akumulatory elektryczne – Wyposażenie w systemy magazynowania energii elektrycznej żłobków na terenie m.st. Warszawy – II procedura",
-  "url": "https://ted.europa.eu/en/notice/-/detail/676379-2026",
-  "zamawiajacy": "Zespół Żłobków m.st W-wy",
-  "data_publikacji": "2026-10-01",
-  "termin_skladania": "2026-10-05T09:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "31430000",
-   "31200000",
-   "45300000",
-   "45310000",
-   "45450000",
-   "51000000",
-   "71200000",
-   "31122000",
-   "31430000",
-   "31430000",
-   "31430000",
-   "31430000",
-   "31430000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-30",
-  "hash": "595c05529f18e41a65b0cf7d35597cf871505882a9a20737f78844a430033a8f"
- },
- {
   "zrodlo": "bzp",
   "tytul": "Modernizacja oświetlenia jarzeniowego na LED w pomieszczeniach segmentu E1 oraz Oddziale Anestezjologii i Intensywnej Terapii w segmencie E",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-f95b94db-4b59-48a5-924b-f666ac7a4fbf",
@@ -8101,34 +8070,6 @@
   "status_opisu": "brak",
   "dodano": "2026-09-29",
   "hash": "8ec71fae85bc338e3c72eca9fd56f0867013283677e7d56c077e61a37ab86b2c"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Usługa projektowa – kompletna dokumentacja wielobranżowa wraz z opracowaniami kosztorysowymi i STWiORB dla zadania inwestycyjnego: „Rozbudowa i przebudowa budynku zakwaterowania osadzonych OPC w Areszcie Śledczym w Łodzi”",
-  "url": "https://ted.europa.eu/en/notice/-/detail/587743-2026",
-  "zamawiajacy": "ARESZT ŚLEDCZY W ŁODZI",
-  "data_publikacji": "2026-08-26",
-  "termin_skladania": "2026-10-05T10:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71320000",
-   "71322000",
-   "71248000",
-   "71200000",
-   "71420000",
-   "71320000",
-   "71242000",
-   "71248000",
-   "71322000"
-  ],
-  "score": 9,
-  "tagi": [
-   "cpv-71",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": null,
-  "hash": "dabef291fd8f17ee85579cab1bbceb015c81d2c30daae51ad2a6828d662fb39a"
  },
  {
   "zrodlo": "bzp",
@@ -8309,38 +8250,6 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "07306f6c00087b39258ab0abe43a40f8741060900d93d194a45453c0b2ba0a93"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Usługi architektoniczne, budowlane, inżynieryjne i kontrolne – Opracowanie dokumentacji projektowej wraz z pełnieniem nadzoru autorskiego dla zadania pn. „Budowa ul. Nowej Wyzwolenia w Gdańsku”",
-  "url": "https://ted.europa.eu/en/notice/-/detail/660953-2026",
-  "zamawiajacy": "Dyrekcja Rozbudowy Miasta Gdańska działająca w imieniu i na rzecz Gminy Miasta Gdańska",
-  "data_publikacji": "2026-09-25",
-  "termin_skladania": "2026-10-05T11:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71000000",
-   "71300000",
-   "71220000",
-   "71240000",
-   "71332000",
-   "71320000",
-   "71000000",
-   "71300000",
-   "71220000",
-   "71240000",
-   "71332000",
-   "71320000"
-  ],
-  "score": 8,
-  "tagi": [
-   "cpv-71",
-   "samorząd",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-27",
-  "hash": "b4846d9fcb1b30c23913a59d70ee4c61abbc98b560781334020dc3d939775247"
  },
  {
   "zrodlo": "ted",
@@ -8780,62 +8689,6 @@
   "hash": "e4cd5228a82f8237c9788d8651b1dd1943109c82aa7ff05a53197da146c26d39"
  },
  {
-  "zrodlo": "ted",
-  "tytul": "Polska – Usługi inżynierii projektowej w zakresie inżynierii lądowej i wodnej – Opracowanie dokumentacji projektowej wraz z pełnieniem nadzoru autorskiego dla zadania inwestycyjnego pn.: „Przebudowa odcinka linii kolejowej nr 285 w zakresie wyniesienia toru na obiekt inżynieryjny nad ul. Bardzką we Wrocławiu\" w ramach projektu pn.: „Projekty przygotowawcze”",
-  "url": "https://ted.europa.eu/en/notice/-/detail/664525-2026",
-  "zamawiajacy": "PKP Polskie Linie Kolejowe S.A.",
-  "data_publikacji": "2026-09-28",
-  "termin_skladania": "2026-10-06T10:00:00+01:00",
-  "opis": null,
-  "cpv": [
-   "71322000",
-   "71248000",
-   "71247000",
-   "71322000",
-   "71248000",
-   "71247000"
-  ],
-  "score": 10,
-  "tagi": [
-   "bonus-ue/strategiczny",
-   "cpv-71",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-29",
-  "hash": "91f1eec9e372f0aceffcdc19425c1b89f013f08b8b4e075c823fb0be902feb9c"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Nadzór nad robotami budowlanymi – Pełnienie nadzoru inwestorskiego nad realizacją robót budowlanych w ramach zadania inwestycyjnego pn. „Przebudowa w celu poprawy efektywności energetycznej budynku Urzędu Skarbowego w Krośnie”.",
-  "url": "https://ted.europa.eu/en/notice/-/detail/661405-2026",
-  "zamawiajacy": "Izba Administracji Skarbowej w Rzeszowie",
-  "data_publikacji": "2026-09-25",
-  "termin_skladania": "2026-10-06T10:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71247000",
-   "71540000",
-   "71520000",
-   "71248000",
-   "71244000",
-   "71700000",
-   "71247000",
-   "71540000",
-   "71520000",
-   "71248000",
-   "71244000",
-   "71700000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-27",
-  "hash": "f3a099a4bac0fad4f43c5a62ea8c12ba9a73ae0d3bd3cd2cb9e6412ac6012c70"
- },
- {
   "zrodlo": "bip:tauron",
   "tytul": "171/2026/RZ1 - Opracowanie dokumentacji projektowej i wykonanie robót budowlano-montażowych dla zadania pod nazwą: Gryfów Śląski ul. Akacjowa - Kolejowa oraz Polna -przebudowa linii kablowej 20kV L-835 od SN/nN JGL83510 do JGL83511 oraz JGL83520 do JGL835Z1 - (KZ JG/001530/26)",
   "url": "https://swoz.tauron.pl/platform/demand/notice/public/current/list",
@@ -9068,36 +8921,6 @@
   "status_opisu": "brak",
   "dodano": "2026-09-30",
   "hash": "12a40e72f09cc853aa4934d095576d7174070afda4fb7c64c8e20e57a1eeb3a9"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Nadzór nad robotami budowlanymi – Pełnienie nadzoru inwestorskiego nad realizacją robót budowlanych w ramach zadania inwestycyjnego pn. „Przebudowa w celu poprawy efektywności energetycznej budynku Urzędu Skarbowego w Tarnobrzegu przy ul. Wyspiańskiego 12\"",
-  "url": "https://ted.europa.eu/en/notice/-/detail/672359-2026",
-  "zamawiajacy": "Izba Administracji Skarbowej w Rzeszowie",
-  "data_publikacji": "2026-09-30",
-  "termin_skladania": "2026-10-07T10:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71247000",
-   "71540000",
-   "71520000",
-   "71248000",
-   "71244000",
-   "71700000",
-   "71247000",
-   "71540000",
-   "71520000",
-   "71248000",
-   "71244000",
-   "71700000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-30",
-  "hash": "cddf4bf1470aaf2d03de5982e6390a8787a21e46caa800d41f7fb470a52e1e8f"
  },
  {
   "zrodlo": "bip:kghm",
@@ -9430,6 +9253,24 @@
   "status_opisu": "brak",
   "dodano": "2026-09-29",
   "hash": "32e40010660bf6a0d3e65f05437eeaab64a8ec14b157fe0103af4a90974f8cb0"
+ },
+ {
+  "zrodlo": "pz-search",
+  "tytul": "WI.7011.5.2026 Przebudowa instalacji c.o. w Zespole Szkół Ponadpodstawowych w Zelowie - dokumentacja projektowa",
+  "url": "https://platformazakupowa.pl/transakcja/1384722",
+  "zamawiajacy": "Powiat Bełchatowski",
+  "data_publikacji": null,
+  "termin_skladania": "2026-10-09 10:00:00",
+  "opis": null,
+  "cpv": [],
+  "score": 5,
+  "tagi": [
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-02",
+  "hash": "77f48a51b71a2d4a1e9a4105eff0480a0e8bb73af2bd76b4395e8ec86e143714"
  },
  {
   "zrodlo": "bip:tauron",
@@ -9847,7 +9688,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-01",
+  "dodano": "2026-10-02",
   "hash": "e71747b344b225d098d2fa56350d367045483e19981439ded4bad1ae5ccfc545"
  },
  {
@@ -9994,7 +9835,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-01",
+  "dodano": "2026-10-02",
   "hash": "886d5920e4c0ea841fff739c00e230a6c8ff0705adf4b301c0433a2591c416aa"
  },
  {
@@ -10058,6 +9899,29 @@
   "status_opisu": "pobrany",
   "dodano": "2026-10-01",
   "hash": "7471ac12c3ec6c904a7f31e5179385e9fe83d161e7733f82a477f37465bf7bd7"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej i kosztorysowej remontu budynku użytkowego przy ul. 1 Sierpnia 36A w Warszawie",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-bebb828a-93da-4bae-beee-13e1f67fd610",
+  "zamawiajacy": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Włochy m.st. Warszawy",
+  "data_publikacji": "2026-10-02",
+  "termin_skladania": "2026-10-12T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00467991 z dnia 2026-10-02 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej i kosztorysowej remontu budynku użytkowego przy ul. 1 Sierpnia 36A w Warszawie SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Zakład Gospodarowania Nieruchomościami w Dzielnicy Włochy m.st. Warszawy 1.4) Krajowy Numer Identyfikacyjny: REGON 015259640 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Bolesława Chrobrego 7 1.5.2.) Miejscowość: Warszawa 1.5.3.) Kod pocztowy: 02-479 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL911 - Miasto Warszawa 1.5.7.) Numer telefonu: 22 8623 55 24 1.5.9.) Adres poczty elektronicznej: wlochy.zgn@um.warszawa.pl 1.5.10.) Adres strony internetowej zamawiającego: wlochy.um.warszawa.pl/waw/zgn-wlochy 1.6.) Rodzaj zamawiającego: Zamawiający",
+  "cpv": [
+   "71000000-8",
+   "71220000-6",
+   "71320000-7",
+   "71242000-6"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-02",
+  "hash": "3c867692604bb36eeafaf0d5c137955988a0fa90060afd7d75ac376ae388dd26"
  },
  {
   "zrodlo": "bzp",
@@ -10172,6 +10036,32 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynierii projektowej w zakresie inżynierii lądowej i wodnej – Opracowanie dokumentacji projektowej wraz z pełnieniem nadzoru autorskiego dla zadania inwestycyjnego pn.: „Przebudowa odcinka linii kolejowej nr 285 w zakresie wyniesienia toru na obiekt inżynieryjny nad ul. Bardzką we Wrocławiu\" w ramach projektu pn.: „Projekty przygotowawcze”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/678414-2026",
+  "zamawiajacy": "PKP Polskie Linie Kolejowe S.A.",
+  "data_publikacji": "2026-10-02",
+  "termin_skladania": "2026-10-12T10:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71322000",
+   "71248000",
+   "71247000",
+   "71322000",
+   "71248000",
+   "71247000"
+  ],
+  "score": 10,
+  "tagi": [
+   "bonus-ue/strategiczny",
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-29",
+  "hash": "c70001b752ea2d4edff96a0e4c2f639f1e9a78c6c3d8c9ebe469a29f273230e1"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi architektoniczne w zakresie obiektów budowlanych – KWP Katowice – modernizacja budynków A, B, C, etap I z przystosowaniem do przepisów przeciwpożarowych budynków KWP w Katowicach przy ul. Lompy 19",
   "url": "https://ted.europa.eu/en/notice/-/detail/673350-2026",
   "zamawiajacy": "Komenda Wojewódzka Policji w Katowicach",
@@ -10189,7 +10079,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-01",
+  "dodano": "2026-10-02",
   "hash": "db2315da914c38f899ddd787de3418cd7ef82199d437afbd34b49ddcc5fdca92"
  },
  {
@@ -10255,6 +10145,34 @@
   "hash": "4ec7d41a43b07c785bed46e931bc8e0cbda8b791ac94d002f44b76ad42f1586a"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie kompleksowej dokumentacji projektowo-kosztorysowej dotyczącej wykonania budowli ochronnych wraz z uzyskaniem wymaganych opinii, uzgodnień, warunków, decyzji administracyjnych (...)",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-b1561719-9f29-4760-abeb-e3e9e5e80efa",
+  "zamawiajacy": "POWIAT PŁOŃSKI",
+  "data_publikacji": "2026-10-02",
+  "termin_skladania": "2026-10-12T10:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00467922 z dnia 2026-10-02 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie kompleksowej dokumentacji projektowo-kosztorysowej dotyczącej wykonania budowli ochronnych wraz z uzyskaniem wymaganych opinii, uzgodnień, warunków, decyzji administracyjnych (...) SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzi podmiot, któremu powierzono przeprowadzenie postępowania 1.2.) Nazwa zamawiającego: POWIAT PŁOŃSKI 1.4) Krajowy Numer Identyfikacyjny: REGON 130377712 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Płocka 39 1.5.2.) Miejscowość: Płońsk 1.5.3.) Kod pocztowy: 09-100 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL922 - Ciechanowski 1.5.9.) Adres poczty elektronicznej: urzad@powiat-plonski.pl 1.5.10.) Adres strony internetowej zamawiającego: www.powiat-plonski.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finan",
+  "cpv": [
+   "71000000-8",
+   "71244000-0",
+   "71248000-8",
+   "71220000-6",
+   "71221000-3",
+   "71320000-7",
+   "71314300-5",
+   "71420000-8"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-02",
+  "hash": "ef971accde1c7fd67c24fbbcf0648fb859c3fc07dd8611c5f349c5e3512f3a62"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Nadzór nad robotami budowlanymi – Pełnienie funkcji Inżyniera Kontraktu dla strategicznej inwestycji budowlanej pn. Przebudowa i rozbudowa wraz z doposażeniem Pabianickiego Centrum Psychiatrycznego dla projektu strategicznego wskazanego do finansowania ze środków Funduszu Medycznego w konkursie nr FM-SIS.03.PSYCH.2024",
   "url": "https://ted.europa.eu/en/notice/-/detail/664849-2026",
@@ -10295,6 +10213,38 @@
   "status_opisu": "brak",
   "dodano": "2026-09-10",
   "hash": "5659e31951dae638bc491409c29f79ab6d9cdff02badec7c4e8f144dedf3c1e8"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi architektoniczne, budowlane, inżynieryjne i kontrolne – Opracowanie dokumentacji projektowej wraz z pełnieniem nadzoru autorskiego dla zadania pn. „Budowa ul. Nowej Wyzwolenia w Gdańsku”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/679979-2026",
+  "zamawiajacy": "Dyrekcja Rozbudowy Miasta Gdańska działająca w imieniu i na rzecz Gminy Miasta Gdańska",
+  "data_publikacji": "2026-10-02",
+  "termin_skladania": "2026-10-12T11:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71000000",
+   "71300000",
+   "71220000",
+   "71240000",
+   "71332000",
+   "71320000",
+   "71000000",
+   "71300000",
+   "71220000",
+   "71240000",
+   "71332000",
+   "71320000"
+  ],
+  "score": 8,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-27",
+  "hash": "f5e4dadfe4187f2923d4172c8df996c2621cd83b0ceba5eea26685d1a399c71c"
  },
  {
   "zrodlo": "ted",
@@ -10364,6 +10314,58 @@
   "status_opisu": "brak",
   "dodano": "2026-09-25",
   "hash": "77d22d5db34acad52214b0e3ed78ecb5fc6fb0807aa2299ece11ebdf5adc43db"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej dla rozbudowy dw nr 615 w zakresie budowy drogi dla pieszych i rowerów na odc. od km 19+980 do km 20+585 w m. Pniewo - Czeruchy, gm. Regimin - nr post. 187/26",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-bebc18b2-4145-46c7-8b0e-cb51e9f268cf",
+  "zamawiajacy": "MAZOWIECKI ZARZĄD DRÓG WOJEWÓDZKICH W WARSZAWIE",
+  "data_publikacji": "2026-10-02",
+  "termin_skladania": "2026-10-13T06:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00468531 z dnia 2026-10-02 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej dla rozbudowy dw nr 615 w zakresie budowy drogi dla pieszych i rowerów na odc. od km 19+980 do km 20+585 w m. Pniewo - Czeruchy, gm. Regimin - nr post. 187/26 SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: MAZOWIECKI ZARZĄD DRÓG WOJEWÓDZKICH W WARSZAWIE 1.4) Krajowy Numer Identyfikacyjny: REGON 013305749 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Kolejowa 5/7 1.5.2.) Miejscowość: Warszawa 1.5.3.) Kod pocztowy: 01-217 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL911 - Miasto Warszawa 1.5.9.) Adres poczty elektronicznej: przetargi@mzdw.pl 1.5.10.) Adres strony internetowej zamawiającego: www.mzdw.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - inna państwo",
+  "cpv": [
+   "71220000-6"
+  ],
+  "score": 4,
+  "tagi": [
+   "bonus-ue/strategiczny",
+   "cpv-71",
+   "drogi"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-02",
+  "hash": "1c9c15ee183ab8e170a235b370770d1978d901b6e9cf39f16d485f7d072c22f0"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Akumulatory elektryczne – Wyposażenie w systemy magazynowania energii elektrycznej żłobków na terenie m.st. Warszawy – II procedura",
+  "url": "https://ted.europa.eu/en/notice/-/detail/680730-2026",
+  "zamawiajacy": "Zespół Żłobków m.st W-wy",
+  "data_publikacji": "2026-10-02",
+  "termin_skladania": "2026-10-13T09:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "31430000",
+   "31200000",
+   "45300000",
+   "45310000",
+   "45450000",
+   "51000000",
+   "71200000",
+   "31122000",
+   "31430000",
+   "31430000",
+   "31430000",
+   "31430000",
+   "31430000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-30",
+  "hash": "417b23978170029b580127c02880e5cdcc0454d4bf2e43794193653dc5d287e9"
  },
  {
   "zrodlo": "bzp",
@@ -10549,6 +10551,56 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-30",
   "hash": "388d69b85b7815c0508b4772f0830b7315296186b638b1af3947a8e618c7bf3f"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowo-kosztorysowej dla zadania pn.: „Modernizacja 27 przejść dla pieszych na aktywne” (II)",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-e1016243-e116-4ba8-8fb0-680df5ac21d5",
+  "zamawiajacy": "Gmina Wałbrzych",
+  "data_publikacji": "2026-10-02",
+  "termin_skladania": "2026-10-14T09:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00467995 z dnia 2026-10-02 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowo-kosztorysowej dla zadania pn.: „Modernizacja 27 przejść dla pieszych na aktywne” (II) SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Wałbrzych 1.3.) Oddział zamawiającego: Urząd Miejski w Wałbrzychu 1.4) Krajowy Numer Identyfikacyjny: REGON 890718490 1.5) Adres zamawiającego 1.5.1.) Ulica: plac Magistracki 1 1.5.2.) Miejscowość: Wałbrzych 1.5.3.) Kod pocztowy: 58-300 1.5.4.) Województwo: dolnośląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL517 - Wałbrzyski 1.5.9.) Adres poczty elektronicznej: bzp@um.walbrzych.pl 1.5.10.) Adres strony internetowej zamawiającego: www.bip.um.walbrzych.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka ",
+  "cpv": [
+   "71320000-7",
+   "71248000-8"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-02",
+  "hash": "136a0f92e719446f692fa3b694d667cb2a87cff30501926652419685a71a2684"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Usługa projektowa – kompletna dokumentacja wielobranżowa wraz z opracowaniami kosztorysowymi i STWiORB dla zadania inwestycyjnego: „Rozbudowa i przebudowa budynku zakwaterowania osadzonych OPC w Areszcie Śledczym w Łodzi”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/678317-2026",
+  "zamawiajacy": "ARESZT ŚLEDCZY W ŁODZI",
+  "data_publikacji": "2026-10-02",
+  "termin_skladania": "2026-10-14T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71320000",
+   "71322000",
+   "71248000",
+   "71200000",
+   "71320000",
+   "71320000",
+   "71242000",
+   "71248000",
+   "71322000"
+  ],
+  "score": 9,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-02",
+  "hash": "b82279c8e69f824a0ba1c401e18b79083b7b929d5b67e0d7ca35515b2c23fc6d"
  },
  {
   "zrodlo": "ted",
@@ -10764,6 +10816,66 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Nadzór nad robotami budowlanymi – Pełnienie nadzoru inwestorskiego nad realizacją robót budowlanych w ramach zadania inwestycyjnego pn. „Przebudowa w celu poprawy efektywności energetycznej budynku Urzędu Skarbowego w Krośnie”.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/679946-2026",
+  "zamawiajacy": "Izba Administracji Skarbowej w Rzeszowie",
+  "data_publikacji": "2026-10-02",
+  "termin_skladania": "2026-10-15T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71247000",
+   "71540000",
+   "71520000",
+   "71248000",
+   "71244000",
+   "71700000",
+   "71247000",
+   "71540000",
+   "71520000",
+   "71248000",
+   "71244000",
+   "71700000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-27",
+  "hash": "0ae5adaf7377fac65482b860f3156085c5a1d387410cc0fd4b8097292c9d506b"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Nadzór nad robotami budowlanymi – Pełnienie nadzoru inwestorskiego nad realizacją robót budowlanych w ramach zadania inwestycyjnego pn. „Przebudowa w celu poprawy efektywności energetycznej budynku Urzędu Skarbowego w Tarnobrzegu przy ul. Wyspiańskiego 12\"",
+  "url": "https://ted.europa.eu/en/notice/-/detail/677880-2026",
+  "zamawiajacy": "Izba Administracji Skarbowej w Rzeszowie",
+  "data_publikacji": "2026-10-02",
+  "termin_skladania": "2026-10-15T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71247000",
+   "71540000",
+   "71520000",
+   "71248000",
+   "71244000",
+   "71700000",
+   "71247000",
+   "71540000",
+   "71520000",
+   "71248000",
+   "71244000",
+   "71700000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-30",
+  "hash": "3d20f252bb2a163ee3a9a1eddd33bed690151ac07ddec5d828909f6e2d023c29"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Sprzęt wystawowy – Zagospodarowanie budynku pokopalnianego Łaźni Moszczenica w Jastrzębiu-Zdroju – Etap III – Porozumienie Jastrzębskie",
   "url": "https://ted.europa.eu/en/notice/-/detail/673788-2026",
   "zamawiajacy": "Miasto Jastrzębie-Zdrój",
@@ -10809,7 +10921,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-01",
+  "dodano": "2026-10-02",
   "hash": "f44d6a0560baae93616ee3e6d98ff8fe2b7d9a43fdd6eb46aaf34b30731f327b"
  },
  {
@@ -10855,6 +10967,25 @@
   "status_opisu": "brak",
   "dodano": "2026-09-08",
   "hash": "2ae46fe0789f497bc6fc51fc0826d3a363845491f9556b14ff4f3218257aa1c8"
+ },
+ {
+  "zrodlo": "bip:tauron",
+  "tytul": "132/2026/RZ1 - Opracowanie dokumentacji projektowej i wykonanie robót budowlano-montażowych w zakresie infrastruktury sieciowej oraz infrastruktury oświetleniowej dla zadania pn.: Przebudowa sieci nN obwód L-3 zasilanej ze stacji JGL10320 w m. Chmieleń - (KZ JG/001708/25)",
+  "url": "https://swoz.tauron.pl/platform/demand/notice/public/current/list",
+  "zamawiajacy": "TAURON Dystrybucja S.A.",
+  "data_publikacji": "2026-10-02",
+  "termin_skladania": "2026-10-16 11:00",
+  "opis": null,
+  "cpv": [],
+  "score": 8,
+  "tagi": [
+   "giełdowa",
+   "spolka-sp",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-02",
+  "hash": "a505575adba82b1357d32ef21a78b21cfe4d112eb1d0d0591616891dc3efe0c6"
  },
  {
   "zrodlo": "bzp",
@@ -10966,7 +11097,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-01",
+  "dodano": "2026-10-02",
   "hash": "9ff7b24d88888e5cf5f02ee32d5a2091a553d432458191e03e9f6bbe8cd46e53"
  },
  {
@@ -11244,6 +11375,26 @@
   "status_opisu": "brak",
   "dodano": "2026-09-16",
   "hash": "116a9f3e520428654c1917a2ce8407d4d26f7d43ce048f42fbbb526747270dae"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie wielobranżowej dokumentacji projektowo-kosztorysowej wraz z uzyskaniem decyzji o pozwoleniu na budowę na Przebudowę budynku WCK przy ul. Obozowej 85 w Warszawie",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-288df26d-6794-49b6-ad58-b0837a55e927",
+  "zamawiajacy": "Wolskie Centrum Kultury",
+  "data_publikacji": "2026-10-02",
+  "termin_skladania": "2026-10-16T10:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00468307 z dnia 2026-10-02 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie wielobranżowej dokumentacji projektowo-kosztorysowej wraz z uzyskaniem decyzji o pozwoleniu na budowę na Przebudowę budynku WCK przy ul. Obozowej 85 w Warszawie SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Wolskie Centrum Kultury 1.3.) Oddział zamawiającego: WCK_Wola 1.4) Krajowy Numer Identyfikacyjny: REGON 362359692 1.5) Adres zamawiającego 1.5.1.) Ulica: Obozowa 85 1.5.2.) Miejscowość: Warszawa 1.5.3.) Kod pocztowy: 01-425 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL911 - Miasto Warszawa 1.5.9.) Adres poczty elektronicznej: sekretariat@wck-wola.pl 1.5.10.) Adres strony internetowej zamawiającego: www.wck-wola.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora",
+  "cpv": [
+   "71220000-6"
+  ],
+  "score": 21,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-02",
+  "hash": "79ade038d1c179ebab289ead29639c8ba2ea9d5c1acd2b8f261f59eb744b96ff"
  },
  {
   "zrodlo": "bzp",
@@ -11615,7 +11766,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-01",
+  "dodano": "2026-10-02",
   "hash": "3111386a8c5a2c71173996df924f354231ee1ae72236ded9ac85b5aa67ec48e6"
  },
  {
@@ -12042,7 +12193,7 @@
    "samorząd"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-01",
+  "dodano": "2026-10-02",
   "hash": "4210d16903fe82289765e99e28035cb57095e24dded7a6e8e851a22386c288c3"
  },
  {
@@ -12182,7 +12333,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-01",
+  "dodano": "2026-10-02",
   "hash": "1417754ce4def456061f642b6f971a5f7b8f7151b577b2fa553dd0288e133d22"
  },
  {
@@ -12210,7 +12361,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-01",
+  "dodano": "2026-10-02",
   "hash": "c902dc7004560dcf2716e656ae9eef051ae0987faf9e608b1ce1f884a2b1eee9"
  },
  {
@@ -12742,7 +12893,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-01",
+  "dodano": "2026-10-02",
   "hash": "4dbf09c1f4480bc624953d08139f2dd3b5698916f686a11eb5ae37e68620eae0"
  },
  {
@@ -13065,8 +13216,56 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-01",
+  "dodano": "2026-10-02",
   "hash": "15f08b35a004afbfb79b77da575340fc1c155ec60ed374ffa7b167271c36313a"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynieryjne – Pełnienie przez 24 miesiące usług konsultanta ds. utrzymania monitoringu i rozwoju systemu dla zadania: Katowicki Inteligentny System Monitoringu i Analizy",
+  "url": "https://ted.europa.eu/en/notice/-/detail/678916-2026",
+  "zamawiajacy": "Miasto Katowice",
+  "data_publikacji": "2026-10-02",
+  "termin_skladania": "2026-11-04T09:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71300000",
+   "72000000",
+   "72224000",
+   "71300000",
+   "72000000",
+   "72224000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-02",
+  "hash": "e906d31a1227cb149928b760bd51cf7d1b9ed499bcb960033db687ffc9a678c7"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Wykonanie dokumentacji projektowo-kosztorysowej stanowiącej podstawę opisu oraz wykonania przedmiotu zamówienia publicznego dotyczącego realizacji robót budowlanych, dla zadania inwestycyjnego pn. „Przebudowa ul. Wieniawskiego (w okolicach kościoła Św. Anny) w Wałbrzychu”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/677930-2026",
+  "zamawiajacy": "Gmina Wałbrzych - Miasto na prawach Powiatu",
+  "data_publikacji": "2026-10-02",
+  "termin_skladania": "2026-11-04T10:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71320000",
+   "71248000",
+   "71320000",
+   "71248000"
+  ],
+  "score": 8,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-02",
+  "hash": "748716aa13e1c4b20029f2e4ac15993fb173add279a98902d950ed559958ecb0"
  },
  {
   "zrodlo": "ted",
@@ -13125,6 +13324,37 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Opracowanie dokumentacji projektowej STEŚ dla zadania pn.: „Rozbudowa drogi krajowej nr 44 na odcinku Oświęcim - Zaborze - Oświęcim (proces przygotowawczy)\"",
+  "url": "https://ted.europa.eu/en/notice/-/detail/680329-2026",
+  "zamawiajacy": "Generalna Dyrekcja Dróg Krajowych i Autostrad",
+  "data_publikacji": "2026-10-02",
+  "termin_skladania": "2026-11-05T11:15:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71320000",
+   "71330000",
+   "71250000",
+   "71222000",
+   "71351910",
+   "71332000",
+   "71320000",
+   "71330000",
+   "71250000",
+   "71222000",
+   "71351910",
+   "71332000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71",
+   "drogi"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-02",
+  "hash": "aadfb46c0aa5968365e4d9f274cd479a7a491dfcd33bf4457f023bc5dd1a482d"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Urządzenia do radioterapii, mechanoterapii, elektroterapii i fizykoterapii – Dostawa systemu do hipertermii głębokiej wraz z modernizacją bunkra.",
   "url": "https://ted.europa.eu/en/notice/-/detail/677472-2026",
   "zamawiajacy": "Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie - Państwowy Instytut Badawczy",
@@ -13170,5 +13400,76 @@
   "status_opisu": "brak",
   "dodano": "2026-10-01",
   "hash": "534e77f8f3e6b135d1f9d8ba68ad5614fa206eb2db7dd9339fbeced12617704c"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Słoneczne moduły fotoelektryczne – Budowa elektrowni fotowoltaicznej wraz z magazynem energii na terenie zajezdni autobusowej w Sosnowcu przy ulicy Lenartowicza 73",
+  "url": "https://ted.europa.eu/en/notice/-/detail/680988-2026",
+  "zamawiajacy": "PRZEDSIĘBIORSTWO KOMUNIKACJI MIEJSKIEJ SP. Z O. O.",
+  "data_publikacji": "2026-10-02",
+  "termin_skladania": "2026-11-06T11:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "09331200",
+   "31430000",
+   "71220000",
+   "71323100",
+   "71320000",
+   "45000000",
+   "45231400",
+   "45220000",
+   "45311000",
+   "45315700",
+   "31211000",
+   "45310000",
+   "45223100",
+   "09332000",
+   "09331200",
+   "09332000",
+   "31430000",
+   "71323100",
+   "71320000",
+   "45000000",
+   "45231400",
+   "45311000",
+   "45315700",
+   "45310000",
+   "71220000",
+   "45220000",
+   "31211000",
+   "45223100"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-02",
+  "hash": "c1d5ba8098d1f46a355e09cd1ee4305784ac89ed46317f1664826f7105e51864"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi projektowania rurociągów – Opracowanie dokumentacji projektowej dla budowy: Kompletu urządzeń podczyszczających na sieci kanalizacji deszczowej w Poznaniu w ramach zadań inwestycyjnych: 0-05-25-145-1 Uzbrojenie wylotów - etap 7 0-05-25-146-1 Uzbrojenie wylotów - etap 8 oraz pełnienie nadzoru autorskiego.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/679377-2026",
+  "zamawiajacy": "Aquanet S.A.",
+  "data_publikacji": "2026-10-02",
+  "termin_skladania": "2026-11-12T10:30:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71322200",
+   "71320000",
+   "71248000",
+   "71322200",
+   "71320000",
+   "71248000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71",
+   "infrastruktura"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-02",
+  "hash": "7e40ecbfa21aac0ebe550a4ff4c3dbe7774e5ce150ebdec74dfd141eab3d4e5e"
  }
 ]
