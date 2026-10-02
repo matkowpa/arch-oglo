@@ -9991,6 +9991,29 @@
   "hash": "1303b38fae92ff1371d8cda8b0d0719b8cb34cf218205f18f053283c0d647fd1"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowej dla budowy magazynu na potrzeby ochrony ludności i obrony cywilnej",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-457e2c37-1dbd-48b3-a322-f146970e1a93",
+  "zamawiajacy": "GMINA MIASTA SOPOTU",
+  "data_publikacji": "2026-10-02",
+  "termin_skladania": "2026-10-12T07:30:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00468872 z dnia 2026-10-02 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowej dla budowy magazynu na potrzeby ochrony ludności i obrony cywilnej SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzi podmiot, któremu powierzono przeprowadzenie postępowania 1.2.) Nazwa zamawiającego: GMINA MIASTA SOPOTU 1.4) Krajowy Numer Identyfikacyjny: REGON 191675563 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Tadeusza Kościuszki 25/27 1.5.2.) Miejscowość: Sopot 1.5.3.) Kod pocztowy: 81-704 1.5.4.) Województwo: pomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL633 - Trójmiejski 1.5.9.) Adres poczty elektronicznej: przetargi@um.sopot.pl 1.5.10.) Adres strony internetowej zamawiającego: https://www.sopot.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Przedmiot działaln",
+  "cpv": [
+   "71320000-7",
+   "71220000-6",
+   "71221000-3"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-02",
+  "hash": "ee845e47e9fdcca50e28f1d9640bf71fddcb1855cd4036d3adf48faf6cf865b1"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Usługi inżynieryjne – Opracowanie operatów wodnoprawnych wraz z instrukcjami gospodarowania wodą na usługę wodną polegającą na piętrzeniu i retencjonowaniu wód rzeki Czapelka na jazach w km 3+000, 11+180, 14+200 i 16+140",
   "url": "https://ted.europa.eu/en/notice/-/detail/620442-2026",
@@ -10057,7 +10080,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-29",
+  "dodano": "2026-10-02",
   "hash": "c70001b752ea2d4edff96a0e4c2f639f1e9a78c6c3d8c9ebe469a29f273230e1"
  },
  {
@@ -10143,6 +10166,32 @@
   "status_opisu": "brak",
   "dodano": "2026-09-10",
   "hash": "4ec7d41a43b07c785bed46e931bc8e0cbda8b791ac94d002f44b76ad42f1586a"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowo-kosztorysowej w zakresie wymiany stolarki okiennej.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-686dcbc9-e002-47d7-9725-4cb3745fb4d8",
+  "zamawiajacy": "Gdańskie Nieruchomości",
+  "data_publikacji": "2026-10-02",
+  "termin_skladania": "2026-10-12T10:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00468760 z dnia 2026-10-02 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Roboty budowlane Opracowanie dokumentacji projektowo-kosztorysowej w zakresie wymiany stolarki okiennej. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gdańskie Nieruchomości 1.4) Krajowy Numer Identyfikacyjny: REGON 192817769 1.5) Adres zamawiającego 1.5.1.) Ulica: Partyzantów 74 1.5.2.) Miejscowość: Gdańsk 1.5.3.) Kod pocztowy: 80-254 1.5.4.) Województwo: pomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL633 - Trójmiejski 1.5.9.) Adres poczty elektronicznej: nz@nieruchomoscigda.pl 1.5.10.) Adres strony internetowej zamawiającego: www.nieruchomoscigda.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - samorządowy zakład budżetowy 1.7.) Przedmiot działalności zamawiającego: Inna działalno",
+  "cpv": [
+   "71220000-6",
+   "71221000-3",
+   "71240000-2",
+   "71320000-7",
+   "71247000-1",
+   "71248000-8"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "roboty-budowlane",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-02",
+  "hash": "fe0cdd8af37b49c2af807e6e687b07381489cde2ee5e10f758cba0c9d9168dc9"
  },
  {
   "zrodlo": "bzp",
@@ -10243,7 +10292,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-27",
+  "dodano": "2026-10-02",
   "hash": "f5e4dadfe4187f2923d4172c8df996c2621cd83b0ceba5eea26685d1a399c71c"
  },
  {
@@ -10364,7 +10413,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-30",
+  "dodano": "2026-10-02",
   "hash": "417b23978170029b580127c02880e5cdcc0454d4bf2e43794193653dc5d287e9"
  },
  {
@@ -10841,7 +10890,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-27",
+  "dodano": "2026-10-02",
   "hash": "0ae5adaf7377fac65482b860f3156085c5a1d387410cc0fd4b8097292c9d506b"
  },
  {
@@ -10871,7 +10920,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-30",
+  "dodano": "2026-10-02",
   "hash": "3d20f252bb2a163ee3a9a1eddd33bed690151ac07ddec5d828909f6e2d023c29"
  },
  {
@@ -11664,6 +11713,32 @@
   "status_opisu": "brak",
   "dodano": "2026-09-22",
   "hash": "f88cc5f6c472cd2699e9e4b7926e73578598a6240e21e19a940b779784bae626"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej adaptacji pomieszczeń na potrzeby wykonania powierzchni biurowej w budynku przy ul. Fordońskiej 19 w Bydgoszczy",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-9752c7cb-701a-44c2-9586-9ddf7f3eeeab",
+  "zamawiajacy": "NAUKOWA I AKADEMICKA SIEĆ KOMPUTEROWA - PAŃSTWOWY INSTYTUT BADAWCZY",
+  "data_publikacji": "2026-10-02",
+  "termin_skladania": "2026-10-19T09:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00468740 z dnia 2026-10-02 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej adaptacji pomieszczeń na potrzeby wykonania powierzchni biurowej w budynku przy ul. Fordońskiej 19 w Bydgoszczy SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: NAUKOWA I AKADEMICKA SIEĆ KOMPUTEROWA - PAŃSTWOWY INSTYTUT BADAWCZY 1.4) Krajowy Numer Identyfikacyjny: REGON 010464542 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Kolska 12 1.5.2.) Miejscowość: Warszawa 1.5.3.) Kod pocztowy: 01-045 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL911 - Miasto Warszawa 1.5.9.) Adres poczty elektronicznej: zamowienia.publiczne@nask.pl 1.5.10.) Adres strony internetowej zamawiającego: https://www.nask.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - osoba prawna, o której ",
+  "cpv": [
+   "71220000-6",
+   "71221000-3",
+   "71240000-2",
+   "71248000-8",
+   "71320000-7",
+   "71242000-6",
+   "79932000-6"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-02",
+  "hash": "406dc4729e8efda4e18c8ae451a1d4a6a6d6dae9a175d66e65d50b689a36d37f"
  },
  {
   "zrodlo": "ted",
