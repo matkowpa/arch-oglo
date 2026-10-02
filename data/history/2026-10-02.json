@@ -12,8 +12,8 @@
   "count": 25
  },
  "bip:kghm": {
-  "ok": true,
-  "count": 20
+  "ok": false,
+  "count": 0
  },
  "bip:pse": {
   "ok": true,
@@ -21,7 +21,7 @@
  },
  "pz-search": {
   "ok": true,
-  "count": 3
+  "count": 0
  },
  "bzp": {
   "ok": true,
