@@ -15,7 +15,7 @@ from datetime import datetime
 from urllib.parse import quote_plus, urljoin
 
 import httpx
-from selectolax.parser import HTMLParser
+from selectolax.lexbor import LexborHTMLParser
 
 from ..model import Announcement
 from .base import BaseSource
@@ -55,7 +55,7 @@ class PzSearchSource(BaseSource):
         return self.parse(r.text)
 
     def parse(self, html: str) -> list[Announcement]:
-        tree = HTMLParser(html)
+        tree = LexborHTMLParser(html)
         out: list[Announcement] = []
         for row in tree.css("div.auction-row"):
             a = row.css_first("a.auction-title")

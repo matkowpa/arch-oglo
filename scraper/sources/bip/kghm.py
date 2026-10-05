@@ -19,7 +19,7 @@ import time
 from urllib.parse import urljoin
 
 import httpx
-from selectolax.parser import HTMLParser
+from selectolax.lexbor import LexborHTMLParser
 
 from ...model import Announcement
 from ..base import BaseSource
@@ -52,7 +52,7 @@ class KghmSource(BaseSource):
         return out
 
     def parse(self, html: str, base_url: str = "") -> list[Announcement]:
-        tree = HTMLParser(html)
+        tree = LexborHTMLParser(html)
         table = tree.css_first("table.views-table")
         if table is None:
             return []

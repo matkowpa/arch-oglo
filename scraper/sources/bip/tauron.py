@@ -15,7 +15,7 @@ namePurchaser). Paginacja formularzowa (POST) — dla MVP pobieramy stronę 1
 from __future__ import annotations
 
 import httpx
-from selectolax.parser import HTMLParser
+from selectolax.lexbor import LexborHTMLParser
 
 from ...model import Announcement
 from ..base import BaseSource
@@ -37,7 +37,7 @@ class TauronSource(BaseSource):
         return self.parse(r.text, base_url=self.list_url)
 
     def parse(self, html: str, base_url: str = "") -> list[Announcement]:
-        tree = HTMLParser(html)
+        tree = LexborHTMLParser(html)
         table = tree.css_first("table#publicList")
         if table is None:
             return []

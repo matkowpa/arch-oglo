@@ -12,7 +12,7 @@ from datetime import datetime
 from urllib.parse import urljoin
 
 import httpx
-from selectolax.parser import HTMLParser
+from selectolax.lexbor import LexborHTMLParser
 
 from ...model import Announcement
 from ..base import BaseSource
@@ -49,7 +49,7 @@ class PhnSource(BaseSource):
         return out
 
     def parse(self, html: str, base_url: str = "") -> list[Announcement]:
-        tree = HTMLParser(html)
+        tree = LexborHTMLParser(html)
         out: list[Announcement] = []
         # Struktura Drupal views: div.views-row z views-field-title / date-display-single
         for row in tree.css("div.views-row"):
