@@ -473,32 +473,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Opracowanie dokumentacji projektowej dla zadania 08180 pn. „Przebudowa ul. Czajkowskiego i Koszarowej do AWL”",
-  "url": "https://ted.europa.eu/en/notice/-/detail/525794-2026",
-  "zamawiajacy": "Gmina Wrocław",
-  "data_publikacji": "2026-07-29",
-  "termin_skladania": "2026-09-04T10:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71320000",
-   "71322000",
-   "71248000",
-   "71320000",
-   "71322000",
-   "71248000"
-  ],
-  "score": 8,
-  "tagi": [
-   "cpv-71",
-   "samorząd",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": null,
-  "hash": "d17c25112a7678b66e994d6a60e085e8484b282c88b0f7c2923055c2462ab147"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Architektoniczne usługi zagospodarowania terenu – ZZK - NZ/241/3400/91/26-Wykonanie dokumentacji projektowo-kosztorysowej na zagospodarowanie wnętrz podwórzowych położonych we Wrocławiu.",
   "url": "https://ted.europa.eu/en/notice/-/detail/537830-2026",
   "zamawiajacy": "Zarząd Zasobu Komunalnego Jednostka Budżetowa Gminy Wrocław",
@@ -9473,31 +9447,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Przygotowanie przedsięwzięcia i projektu, oszacowanie kosztów – Opracowanie dokumentacji projektowej i pełnienie nadzoru autorskiego dla zadania: \"Gaz. Wrocław Obw. Pd, odc. Ołtaszyn - ZZU Wysoka wyłączenie gaz. z eksploatacji oraz Gaz. Wrocław Obw. Pd, odc. Ołtaszyn - ZZU Cargill - wyłączenie gaz z eksploatacji\"",
-  "url": "https://ted.europa.eu/en/notice/-/detail/664617-2026",
-  "zamawiajacy": "Operator Gazociągów Przesyłowych GAZ-SYSTEM S.A.",
-  "data_publikacji": "2026-09-28",
-  "termin_skladania": "2026-10-09T10:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71242000",
-   "71248000",
-   "71320000",
-   "71242000",
-   "71248000",
-   "71320000"
-  ],
-  "score": 9,
-  "tagi": [
-   "cpv-71",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-28",
-  "hash": "bcd8398d14d1483703ecb85045c74601a67cd755e6690cdd51e0b8a90eb7cee2"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Przygotowanie przedsięwzięcia i projektu, oszacowanie kosztów – Opracowanie koncepcji programowych budowy tras rowerowych wraz z opracowaniem programów funkcjonalno – użytkowych w podziale na 3 części",
   "url": "https://ted.europa.eu/en/notice/-/detail/653487-2026",
   "zamawiajacy": "Województwo Łódzkie - Zarząd Dróg Wojewódzkich w Łodzi",
@@ -9627,40 +9576,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Roboty budowlane – Opracowanie dokumentacji projektowej i realizacja robót budowlanych w zakresie podsystemu \"Energia\" - sieć trakcyjna na linii kolejowej nr 85 odc. Warszawa - Łódź",
-  "url": "https://ted.europa.eu/en/notice/-/detail/677695-2026",
-  "zamawiajacy": "Centralny Port Komunikacyjny sp. z o.o.",
-  "data_publikacji": "2026-10-01",
-  "termin_skladania": "2026-10-09T11:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "45000000",
-   "34632300",
-   "45232220",
-   "45234100",
-   "45231400",
-   "71321000",
-   "71322000",
-   "45000000",
-   "34632300",
-   "45232220",
-   "45234100",
-   "45231400",
-   "71321000",
-   "71322000"
-  ],
-  "score": 5,
-  "tagi": [
-   "bonus-ue/strategiczny",
-   "roboty-budowlane",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-10-01",
-  "hash": "127ed113281d2dd720299d45c8c9e19d10ee7ea9210808b144a18b54175d4719"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Różne maszyny specjalnego zastosowania – Modernizacja sortowni odpadów – Zakład Utylizacji Odpadów Sp. z o. o. w Siedlcach",
   "url": "https://ted.europa.eu/en/notice/-/detail/643991-2026",
   "zamawiajacy": "Zakład Utylizacji Odpadów spółka z ograniczoną odpowiedzialnością",
@@ -9688,7 +9603,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-05",
+  "dodano": "2026-10-06",
   "hash": "886d5920e4c0ea841fff739c00e230a6c8ff0705adf4b301c0433a2591c416aa"
  },
  {
@@ -10689,36 +10604,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Wyposażenie placów zabaw – Modernizacja placów zabaw na terenach nieruchomości stanowiących własność TBS Wrocław Sp. z o.o.",
-  "url": "https://ted.europa.eu/en/notice/-/detail/663009-2026",
-  "zamawiajacy": "Towarzystwo Budownictwa Społecznego Wrocław Sp. z o.o.",
-  "data_publikacji": "2026-09-25",
-  "termin_skladania": "2026-10-14T10:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "37535200",
-   "45112723",
-   "71221000",
-   "37535200",
-   "37535200",
-   "37535200",
-   "45112723",
-   "71221000",
-   "45112723",
-   "71221000",
-   "45112723",
-   "71221000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-25",
-  "hash": "fa82d077d61232cd5d51698234900c62945a5a1c2de52a102ae70622feb3177d"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Usługi architektoniczne, inżynieryjne i planowania – Wykonanie dokumentacji projektowo-kosztorysowej na zmianę systemu ogrzewania na elektryczne w lokalach gminnych.",
   "url": "https://ted.europa.eu/en/notice/-/detail/601808-2026",
   "zamawiajacy": "Zarząd Zasobu Komunalnego Jednostka Budżetowa Gminy Wrocław",
@@ -10799,6 +10684,28 @@
   "status_opisu": "pobrany",
   "dodano": "2026-10-05",
   "hash": "7d749048fc78b45e02c4c35f58e18f3ac20a1afee3696751e257799cc102b8a9"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej dla zadania pn. Rozbudowa DW 746 w miejscowości Pomorzany",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-d409bebe-105c-4fde-b560-709114f2aee1",
+  "zamawiajacy": "Województwo Świętokrzyskie - Świętokrzyski Zarząd Dróg Wojewódzkich",
+  "data_publikacji": "2026-10-06",
+  "termin_skladania": "2026-10-15T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00473186 z dnia 2026-10-06 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej dla zadania pn. Rozbudowa DW 746 w miejscowości Pomorzany SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Województwo Świętokrzyskie - Świętokrzyski Zarząd Dróg Wojewódzkich 1.3.) Oddział zamawiającego: Świętokrzyski Zarząd Dróg Wojewódzkich w Kielcach 1.4) Krajowy Numer Identyfikacyjny: REGON 291009337 1.5) Adres zamawiającego 1.5.1.) Ulica: Jagiellońska 72 1.5.2.) Miejscowość: Kielce 1.5.3.) Kod pocztowy: 25-734 1.5.4.) Województwo: świętokrzyskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL721 - Kielecki 1.5.7.) Numer telefonu: 413470480 1.5.9.) Adres poczty elektronicznej: zamowienia.publiczne@szdw.kielce.com.pl 1.5.10.) Adres strony internetowej zamawiającego: www.szdw.kielce.com.pl 1.6.) ",
+  "cpv": [
+   "71320000-7",
+   "71313440-1",
+   "71241000-9"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-06",
+  "hash": "11a2b45047802f8200c27824fa341ea4f6bdc943a5f537aa35d91e01efc2f8a9"
  },
  {
   "zrodlo": "bzp",
@@ -10975,7 +10882,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-05",
+  "dodano": "2026-10-06",
   "hash": "6ac1b027cd0af657086ab54a31f27d0d59f9c2f1d21756b4a264d4250addae83"
  },
  {
@@ -11005,7 +10912,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-05",
+  "dodano": "2026-10-06",
   "hash": "3d20f252bb2a163ee3a9a1eddd33bed690151ac07ddec5d828909f6e2d023c29"
  },
  {
@@ -11037,7 +10944,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-05",
+  "dodano": "2026-10-06",
   "hash": "21e59fef4ee3b4b38869304dbf6619748f3c2648aad23cf440bb171429e25800"
  },
  {
@@ -11087,7 +10994,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-05",
+  "dodano": "2026-10-06",
   "hash": "f44d6a0560baae93616ee3e6d98ff8fe2b7d9a43fdd6eb46aaf34b30731f327b"
  },
  {
@@ -11212,6 +11119,28 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej budowy budynku dla OSP w Zarzeczu wraz z magazynem obrony cywilnej",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-b3044f40-1cbf-45e5-b2cc-55840c4c40fd",
+  "zamawiajacy": "Gmina Nisko",
+  "data_publikacji": "2026-10-06",
+  "termin_skladania": "2026-10-16T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00473421 z dnia 2026-10-06 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej budowy budynku dla OSP w Zarzeczu wraz z magazynem obrony cywilnej SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Nisko 1.4) Krajowy Numer Identyfikacyjny: REGON 830409442 1.5) Adres zamawiającego 1.5.1.) Ulica: Plac Wolności 14 1.5.2.) Miejscowość: Nisko 1.5.3.) Kod pocztowy: 37-400 1.5.4.) Województwo: podkarpackie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL824 - Tarnobrzeski 1.5.9.) Adres poczty elektronicznej: przetargi@nisko.pl 1.5.10.) Adres strony internetowej zamawiającego: http://www.nisko.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Przedmiot działalności zamawiającego: Ogólne usługi pu",
+  "cpv": [
+   "71220000-6",
+   "71320000-7"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-06",
+  "hash": "6a34118ff1efaf97330bd7fd4a4f14af305533441a4efe4634afca0a15b11127"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Opracowanie kompletnej dokumentacji projektowej na remont odcinka ul. Kopalnianej w Polkowicach wraz z uzyskaniem prawa do realizacji robót",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-5507684a-4651-43fe-8b8f-952d5afae3d3",
   "zamawiajacy": "GMINA POLKOWICE",
@@ -11287,7 +11216,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-05",
+  "dodano": "2026-10-06",
   "hash": "9ff7b24d88888e5cf5f02ee32d5a2091a553d432458191e03e9f6bbe8cd46e53"
  },
  {
@@ -11510,6 +11439,31 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Przygotowanie przedsięwzięcia i projektu, oszacowanie kosztów – Opracowanie dokumentacji projektowej i pełnienie nadzoru autorskiego dla zadania: \"Gaz. Wrocław Obw. Pd, odc. Ołtaszyn - ZZU Wysoka wyłączenie gaz. z eksploatacji oraz Gaz. Wrocław Obw. Pd, odc. Ołtaszyn - ZZU Cargill - wyłączenie gaz z eksploatacji\"",
+  "url": "https://ted.europa.eu/en/notice/-/detail/688368-2026",
+  "zamawiajacy": "Operator Gazociągów Przesyłowych GAZ-SYSTEM S.A.",
+  "data_publikacji": "2026-10-06",
+  "termin_skladania": "2026-10-16T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71242000",
+   "71248000",
+   "71320000",
+   "71242000",
+   "71248000",
+   "71320000"
+  ],
+  "score": 9,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-28",
+  "hash": "97a958e0bcaf327ed767f7fe453d27e7ff833c10abd7694cd7194e5557b10819"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Roboty budowlane w zakresie wznoszenia kompletnych obiektów budowlanych lub ich części oraz roboty w zakresie inżynierii lądowej i wodnej – Wykonanie kompletnej dokumentacji projektowej oraz wykonanie na jej podstawie robót budowlanych dla zadania inwestycyjnego pn.: „Przebudowa i budowa Stadionu Lekkoatletycznego - kompleks lekkoatletyczno-piłkarski”.",
   "url": "https://ted.europa.eu/en/notice/-/detail/677515-2026",
   "zamawiajacy": "Gmina Otwock",
@@ -11606,6 +11560,40 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-18",
   "hash": "e01b42cd06ce310d5431023c5c26d5373f0fc85996dc49cac7c83da5d514ed63"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Roboty budowlane – Opracowanie dokumentacji projektowej i realizacja robót budowlanych w zakresie podsystemu \"Energia\" - sieć trakcyjna na linii kolejowej nr 85 odc. Warszawa - Łódź",
+  "url": "https://ted.europa.eu/en/notice/-/detail/688626-2026",
+  "zamawiajacy": "Centralny Port Komunikacyjny sp. z o.o.",
+  "data_publikacji": "2026-10-06",
+  "termin_skladania": "2026-10-16T11:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "45000000",
+   "34632300",
+   "45232220",
+   "45234100",
+   "45231400",
+   "71321000",
+   "71322000",
+   "45000000",
+   "34632300",
+   "45232220",
+   "45234100",
+   "45231400",
+   "71321000",
+   "71322000"
+  ],
+  "score": 5,
+  "tagi": [
+   "bonus-ue/strategiczny",
+   "roboty-budowlane",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-01",
+  "hash": "5572dc2b69a6b1680bf5d199a79058fe31f8b3fdab2b0a6ee1c2aefc52e48fbc"
  },
  {
   "zrodlo": "ted",
@@ -11987,7 +11975,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-05",
+  "dodano": "2026-10-06",
   "hash": "3111386a8c5a2c71173996df924f354231ee1ae72236ded9ac85b5aa67ec48e6"
  },
  {
@@ -12014,6 +12002,72 @@
   "status_opisu": "brak",
   "dodano": null,
   "hash": "b76dd22dbc47c8c406e5943ac2160105f80f679eed285a428951161a9822fe1d"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Wyposażenie placów zabaw – Modernizacja placów zabaw na terenach nieruchomości stanowiących własność TBS Wrocław Sp. z o.o.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/688286-2026",
+  "zamawiajacy": "Towarzystwo Budownictwa Społecznego Wrocław Sp. z o.o.",
+  "data_publikacji": "2026-10-06",
+  "termin_skladania": "2026-10-19T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "37535200",
+   "45112723",
+   "71221000",
+   "37535200",
+   "37535200",
+   "37535200",
+   "45112723",
+   "71221000",
+   "45112723",
+   "71221000",
+   "45112723",
+   "71221000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-25",
+  "hash": "919b0a9fdbbca0e2f1faa0c6acf6541a3629a4da9247bd80585379dabe6642c4"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Wykonanie ekspertyzy oraz sporządzenie dokumentacji projektowo-kosztorysowej na potrzeby dostosowania istniejącej piwnicy w Szkole Podstawowej w Kosakowie do wymogów Miejsc Doraźnego Schronienia",
+  "url": "https://ted.europa.eu/en/notice/-/detail/687203-2026",
+  "zamawiajacy": "Gmina Kosakowo",
+  "data_publikacji": "2026-10-06",
+  "termin_skladania": "2026-10-19T11:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71320000",
+   "71220000",
+   "71250000",
+   "71300000",
+   "71319000",
+   "71321000",
+   "71322000",
+   "75220000",
+   "71320000",
+   "71220000",
+   "71250000",
+   "71300000",
+   "71319000",
+   "71321000",
+   "71322000",
+   "75220000"
+  ],
+  "score": 14,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-06",
+  "hash": "259e8bfdda33a0c61ae3e485f0c89a0b8af298cdcbeae1106545511c6fa65f46"
  },
  {
   "zrodlo": "ted",
@@ -12074,6 +12128,25 @@
   "status_opisu": "brak",
   "dodano": "2026-10-01",
   "hash": "ce2e95dc4b65d25fdec73fdc36e69f90e3473191c09fab79ab034545277abba6"
+ },
+ {
+  "zrodlo": "bip:tauron",
+  "tytul": "160/2026/RZ1 - Opracowanie dokumentacji projektowej dla zadań: Zadanie nr 1 -  Jelenia Góra ul. Flisaków, Złotnicza – stacja JGJ24106 obwód L-6 - (KZ JG/001071/20). Zadanie nr 2 - Gorzeszów – stacja JGJ37210 obwód L-1 - (KZ JG/000977/17)",
+  "url": "https://swoz.tauron.pl/platform/demand/notice/public/current/list",
+  "zamawiajacy": "TAURON Dystrybucja S.A.",
+  "data_publikacji": "2026-10-06",
+  "termin_skladania": "2026-10-20 11:00",
+  "opis": null,
+  "cpv": [],
+  "score": 8,
+  "tagi": [
+   "giełdowa",
+   "spolka-sp",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-06",
+  "hash": "75a3fff7c565a0235c3c987f447ca3955711b83a5fc695d36ad1e8dfbe154ba3"
  },
  {
   "zrodlo": "ted",
@@ -12249,7 +12322,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-05",
+  "dodano": "2026-10-06",
   "hash": "96a23b0e7d9bb59def04b47d837e2cd7cf3f69f556ff13ba01d1a4fc1764e24c"
  },
  {
@@ -12498,7 +12571,7 @@
    "samorząd"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-05",
+  "dodano": "2026-10-06",
   "hash": "4210d16903fe82289765e99e28035cb57095e24dded7a6e8e851a22386c288c3"
  },
  {
@@ -12603,7 +12676,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-05",
+  "dodano": "2026-10-06",
   "hash": "6d2b6a960cc7482f5b5eb73f9c87fb7b5f010072df781975db15533ed9654480"
  },
  {
@@ -12684,7 +12757,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-05",
+  "dodano": "2026-10-06",
   "hash": "1417754ce4def456061f642b6f971a5f7b8f7151b577b2fa553dd0288e133d22"
  },
  {
@@ -12712,7 +12785,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-05",
+  "dodano": "2026-10-06",
   "hash": "c902dc7004560dcf2716e656ae9eef051ae0987faf9e608b1ce1f884a2b1eee9"
  },
  {
@@ -13244,7 +13317,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-05",
+  "dodano": "2026-10-06",
   "hash": "4dbf09c1f4480bc624953d08139f2dd3b5698916f686a11eb5ae37e68620eae0"
  },
  {
@@ -13567,7 +13640,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-05",
+  "dodano": "2026-10-06",
   "hash": "15f08b35a004afbfb79b77da575340fc1c155ec60ed374ffa7b167271c36313a"
  },
  {
@@ -13825,6 +13898,53 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynieryjne – „Czarna Woda - Zbiornik Kątki, gm. Marcinowice\" - opracowanie dokumentacji projektowej wraz z uzyskaniem wszystkich wymaganych decyzji niezbędnych do realizacji zadania",
+  "url": "https://ted.europa.eu/en/notice/-/detail/688693-2026",
+  "zamawiajacy": "Państwowe Gospodarstwo Wodne Wody Polskie",
+  "data_publikacji": "2026-10-06",
+  "termin_skladania": "2026-11-09T09:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71300000",
+   "71320000"
+  ],
+  "score": 9,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-06",
+  "hash": "0168602eaea1c4d3453361aa453068fc1d4caa238e6ff23c92b190e72f63bc52"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Opracowanie dokumentacji projektowej dla zadania 08180 pn. „Przebudowa ul. Czajkowskiego i Koszarowej do AWL”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/688788-2026",
+  "zamawiajacy": "Gmina Wrocław",
+  "data_publikacji": "2026-10-06",
+  "termin_skladania": "2026-11-10T10:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71320000",
+   "71322000",
+   "71248000",
+   "71320000",
+   "71322000",
+   "71248000"
+  ],
+  "score": 8,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-06",
+  "hash": "4b68dde37c2b477f98b4964d080182d633f6b66ec03e82244f142a6c5db2bf06"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi projektowania rurociągów – Opracowanie dokumentacji projektowej dla budowy: Kompletu urządzeń podczyszczających na sieci kanalizacji deszczowej w Poznaniu w ramach zadań inwestycyjnych: 0-05-25-145-1 Uzbrojenie wylotów - etap 7 0-05-25-146-1 Uzbrojenie wylotów - etap 8 oraz pełnienie nadzoru autorskiego.",
   "url": "https://ted.europa.eu/en/notice/-/detail/679377-2026",
   "zamawiajacy": "Aquanet S.A.",
@@ -13868,5 +13988,95 @@
   "status_opisu": "brak",
   "dodano": "2026-10-05",
   "hash": "126f1f8fdc8dab416cecd3f279cf9bf83fa6669bdef1e6db6e80f26a84e6ecf6"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Roboty budowlane w zakresie budowy kolei i systemów transportu – Realizacja zadania pn.\"Pomorska Kolej Metropolitalna Etap II: budowa linii kolejowej na odcinku Gdańsk Śródmieście – węzeł Kowale” w formule zaprojektuj i wybuduj.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/688555-2026",
+  "zamawiajacy": "Pomorska Kolej Metropolitalna S.A.",
+  "data_publikacji": "2026-10-06",
+  "termin_skladania": "2026-11-16T09:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "45234000",
+   "71320000",
+   "71541000",
+   "71240000",
+   "45234111",
+   "45234114",
+   "45234115",
+   "45234116",
+   "45234129",
+   "45234123",
+   "45234125",
+   "45234130",
+   "45234140",
+   "45221112",
+   "45221121",
+   "45221122",
+   "45221211",
+   "45221243",
+   "45221213",
+   "45221242",
+   "45233120",
+   "45400000",
+   "45351000",
+   "45343000",
+   "45330000",
+   "45320000",
+   "45310000",
+   "45262800",
+   "45262410",
+   "45262510",
+   "45234126",
+   "45234128",
+   "45213320",
+   "45110000",
+   "45233290",
+   "45234000",
+   "71320000",
+   "71541000",
+   "71240000",
+   "45234111",
+   "45234114",
+   "45234115",
+   "45234116",
+   "45234129",
+   "45234123",
+   "45234125",
+   "45234130",
+   "45234140",
+   "45221112",
+   "45221121",
+   "45221122",
+   "45221211",
+   "45221243",
+   "45221213",
+   "45221242",
+   "45233120",
+   "45400000",
+   "45351000",
+   "45343000",
+   "45330000",
+   "45320000",
+   "45310000",
+   "45262800",
+   "45262410",
+   "45262510",
+   "45234126",
+   "45234128",
+   "45213320",
+   "45110000",
+   "45233290"
+  ],
+  "score": 3,
+  "tagi": [
+   "bonus-ue/strategiczny",
+   "cpv-71",
+   "roboty-budowlane"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-06",
+  "hash": "c0dedaf3e211bb44eb8ce8015a258a0224f419879f070f88722971f6ed4760ab"
  }
 ]
