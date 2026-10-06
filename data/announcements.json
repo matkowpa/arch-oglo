@@ -10463,6 +10463,29 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej przebudowy budynku mieszkalnego na Ośrodek Wsparcia dla Seniorów przy ul. Artyleryjskiej 5 w Białymstoku.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-6ee8de0a-0625-4580-ad88-40b732b6420d",
+  "zamawiajacy": "Zarząd Mienia Komunalnego w Białymstoku",
+  "data_publikacji": "2026-10-06",
+  "termin_skladania": "2026-10-14T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00473826 z dnia 2026-10-06 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej przebudowy budynku mieszkalnego na Ośrodek Wsparcia dla Seniorów przy ul. Artyleryjskiej 5 w Białymstoku. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Zarząd Mienia Komunalnego w Białymstoku 1.4) Krajowy Numer Identyfikacyjny: REGON 200241074 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. gen. Józefa Bema 89/1 1.5.2.) Miejscowość: Białystok 1.5.3.) Kod pocztowy: 15-370 1.5.4.) Województwo: podlaskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL841 - Białostocki 1.5.9.) Adres poczty elektronicznej: zp@zmk.bialystok.pl 1.5.10.) Adres strony internetowej zamawiającego: www.zmk.bialystok.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka budżeto",
+  "cpv": [
+   "71220000-6",
+   "71221000-3",
+   "71222000-0",
+   "71320000-7"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-06",
+  "hash": "7cb6c7467aab27f0e98570c6ddd27c81b4468f1e7588f592c5365e9216b506b5"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Sporządzenie projektów decyzji o warunkach zabudowy oraz decyzji o ustaleniu lokalizacji inwestycji celu publicznego dla nieruchomości położonych na terenie miasta Sokołów Podlaski",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-79d4ff71-8190-4b4b-8f92-a0afb1d6ea9b",
   "zamawiajacy": "Miasto Sokołów Podlaski",
@@ -10754,6 +10777,26 @@
   "status_opisu": "pobrany",
   "dodano": "2026-10-02",
   "hash": "62c4fc442891de740eb8399c4bd22f97d5b5a1ef651442e7858c6818b2e83085"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie kompletnej dokumentacji projektowej dla zadania inwestycyjnego, polegającego na budowie ukrycia w kategorii U1 w Zespole Opieki Zdrowotnej w Wągrowcu",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-c79d9521-74f7-46ef-9592-d2618a4acd2d",
+  "zamawiajacy": "ZESPÓŁ OPIEKI ZDROWOTNEJ W WĄGROWCU",
+  "data_publikacji": "2026-10-06",
+  "termin_skladania": "2026-10-15T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00473570 z dnia 2026-10-06 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie kompletnej dokumentacji projektowej dla zadania inwestycyjnego, polegającego na budowie ukrycia w kategorii U1 w Zespole Opieki Zdrowotnej w Wągrowcu SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: ZESPÓŁ OPIEKI ZDROWOTNEJ W WĄGROWCU 1.4) Krajowy Numer Identyfikacyjny: REGON 000306638 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Kościuszki 74 1.5.2.) Miejscowość: Wągrowiec 1.5.3.) Kod pocztowy: 62-100 1.5.4.) Województwo: wielkopolskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL411 - Pilski 1.5.9.) Adres poczty elektronicznej: zampub@szpitalwagrowiec.pl 1.5.10.) Adres strony internetowej zamawiającego: www.szpitalwagrowiec.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - sam",
+  "cpv": [
+   "71220000-6"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-06",
+  "hash": "055fea09be7d1436f6c9a5d247137852286f0c22bba2dd3d84089f64b2f112e6"
  },
  {
   "zrodlo": "bzp",
@@ -11459,7 +11502,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-28",
+  "dodano": "2026-10-06",
   "hash": "97a958e0bcaf327ed767f7fe453d27e7ff833c10abd7694cd7194e5557b10819"
  },
  {
@@ -11592,7 +11635,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-01",
+  "dodano": "2026-10-06",
   "hash": "5572dc2b69a6b1680bf5d199a79058fe31f8b3fdab2b0a6ee1c2aefc52e48fbc"
  },
  {
@@ -12030,7 +12073,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-25",
+  "dodano": "2026-10-06",
   "hash": "919b0a9fdbbca0e2f1faa0c6acf6541a3629a4da9247bd80585379dabe6642c4"
  },
  {
