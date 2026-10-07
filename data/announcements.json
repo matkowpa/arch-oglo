@@ -10671,6 +10671,31 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "2026 Zadaszenie Amfiteatru Centrum Kultury „Scena To Dziwna” w Gnieźnie – Etap I – Dokumentacja Projektowa",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-eaac1e83-5b03-4624-a075-eb75fe7d7b19",
+  "zamawiajacy": "POWIAT GNIEŹNIEŃSKI",
+  "data_publikacji": "2026-10-07",
+  "termin_skladania": "2026-10-15T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00475986 z dnia 2026-10-07 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi 2026 Zadaszenie Amfiteatru Centrum Kultury „Scena To Dziwna” w Gnieźnie – Etap I – Dokumentacja Projektowa SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: POWIAT GNIEŹNIEŃSKI 1.4) Krajowy Numer Identyfikacyjny: REGON 631258046 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Papieża Jana Pawła II 9/10 1.5.2.) Miejscowość: Gniezno 1.5.3.) Kod pocztowy: 62-200 1.5.4.) Województwo: wielkopolskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL414 - Koniński 1.5.9.) Adres poczty elektronicznej: przetargi@powiat-gniezno.pl 1.5.10.) Adres strony internetowej zamawiającego: www.powiat-gniezno.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Przedmiot działalno",
+  "cpv": [
+   "71220000-6",
+   "71320000-7",
+   "71317000-3",
+   "71000000-8",
+   "71310000-4"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-07",
+  "hash": "4ae54a5f3fb7d98f6c1156dbe8c56e1aea8bcf441a3de7cfbe5a6061e5d513f3"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Opracowanie dokumentacji projektowej dla zadania pn. Rozbudowa DW 746 w miejscowości Pomorzany",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-d409bebe-105c-4fde-b560-709114f2aee1",
   "zamawiajacy": "Województwo Świętokrzyskie - Świętokrzyski Zarząd Dróg Wojewódzkich",
@@ -10734,6 +10759,28 @@
   "status_opisu": "pobrany",
   "dodano": "2026-10-07",
   "hash": "dcd6cd0d2644fc7a01a3d5c478d9edaf7bc56ab3ba4374ed775c49f7053f6ad5"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie kompletnej dokumentacji projektowo-kosztorysowej oraz specyfikacji technicznych wykonania i odbioru robót „Modernizacja energetyczna budynków użyteczności publicznej - Muniserwis",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-3b5aae77-87b3-40e2-b0e8-c60635bbc24c",
+  "zamawiajacy": "GMINA - MIASTO PŁOCK",
+  "data_publikacji": "2026-10-07",
+  "termin_skladania": "2026-10-15T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00476172 z dnia 2026-10-07 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie kompletnej dokumentacji projektowo-kosztorysowej oraz specyfikacji technicznych wykonania i odbioru robót „Modernizacja energetyczna budynków użyteczności publicznej - Muniserwis SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: GMINA - MIASTO PŁOCK 1.4) Krajowy Numer Identyfikacyjny: REGON 611016086 1.5) Adres zamawiającego 1.5.1.) Ulica: Stary Rynek 1 1.5.2.) Miejscowość: Płock 1.5.3.) Kod pocztowy: 09-400 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL923 - Płocki 1.5.9.) Adres poczty elektronicznej: przetargi@plock.eu 1.5.10.) Adres strony internetowej zamawiającego: https://nowybip.plock.eu/ 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jed",
+  "cpv": [
+   "71320000-7",
+   "71248000-8"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-07",
+  "hash": "0523ec25229a6fee517f38e542e9d9180bdf3d0318dd7d4a9a0a2d4d0715d86e"
  },
  {
   "zrodlo": "bzp",
@@ -12128,7 +12175,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-06",
+  "dodano": "2026-10-07",
   "hash": "f1e8f39a5f0732eb897c698730f845da86bfb0437965840977eb8f63f436994a"
  },
  {
@@ -12385,7 +12432,7 @@
    "roboty-budowlane"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-17",
+  "dodano": "2026-10-07",
   "hash": "7a35292493d4b2c487c510af2d049b1d6d2598856ccddada2354f9374ec1fa12"
  },
  {
@@ -12452,6 +12499,31 @@
   "status_opisu": "pobrany",
   "dodano": "2026-10-05",
   "hash": "b0557550e3170a0c2ac615c460c28bb77a68ebf687d8687b4c88f746740f2a3a"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie kompletnej dokumentacji projektowej dla systemu zaopatrzenia w wodę w miejscowości Przeorsk",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-460636c4-51b8-4e88-8250-2683cc0f96b3",
+  "zamawiajacy": "Gmina Tomaszów Lubelski",
+  "data_publikacji": "2026-10-07",
+  "termin_skladania": "2026-10-21T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00475990 z dnia 2026-10-07 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie kompletnej dokumentacji projektowej dla systemu zaopatrzenia w wodę w miejscowości Przeorsk SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Tomaszów Lubelski 1.4) Krajowy Numer Identyfikacyjny: REGON 950369089 1.5) Adres zamawiającego 1.5.1.) Ulica: 29 -go Listopada 9 1.5.2.) Miejscowość: Tomaszów Lubelski 1.5.3.) Kod pocztowy: 22-600 1.5.4.) Województwo: lubelskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL812 - Chełmsko-zamojski 1.5.7.) Numer telefonu: +48 (84) 66 43 085 1.5.9.) Adres poczty elektronicznej: zamowienia@tomaszowlubelski.pl 1.5.10.) Adres strony internetowej zamawiającego: https://ugtomaszowlubelski.bip.lubelskie.pl/index.php?id=6 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sekt",
+  "cpv": [
+   "71322200-3",
+   "71322000-1",
+   "71320000-7",
+   "71321000-4",
+   "71220000-6"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-07",
+  "hash": "07081e0a9492e257e61a46cf0da517a0c70dfba55951c3b5ab24d01f4e06c9db"
  },
  {
   "zrodlo": "ted",
@@ -12628,6 +12700,29 @@
   "status_opisu": "brak",
   "dodano": "2026-09-16",
   "hash": "c784b9cdee1f7e85162015a9f8d4760dd60e414b679e87094eae80d5cfe63d26"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie kompletnej dokumentacji projektowej dla zadania pn. „Budowa hali sportowej wraz z łącznikiem i zapleczem technicznym przy Szkole Podstawowej nr 1 w Skale”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-fbeea301-7a6e-4ab8-be23-09a0ae130d98",
+  "zamawiajacy": "GMINA SKAŁA",
+  "data_publikacji": "2026-10-07",
+  "termin_skladania": "2026-10-22T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00476199 z dnia 2026-10-07 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie kompletnej dokumentacji projektowej dla zadania pn. „Budowa hali sportowej wraz z łącznikiem i zapleczem technicznym przy Szkole Podstawowej nr 1 w Skale” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: GMINA SKAŁA 1.4) Krajowy Numer Identyfikacyjny: REGON 351555602 1.5) Adres zamawiającego 1.5.1.) Ulica: Rynek 29 1.5.2.) Miejscowość: Skała 1.5.3.) Kod pocztowy: 32-043 1.5.4.) Województwo: małopolskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL214 - Krakowski 1.5.7.) Numer telefonu: 12-389-10-98 1.5.8.) Numer faksu: 12-389-10-98 wew. 104 1.5.9.) Adres poczty elektronicznej: skala@skala.pl 1.5.10.) Adres strony internetowej zamawiającego: www.skala.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektor",
+  "cpv": [
+   "71000000-8",
+   "71300000-1",
+   "71420000-8"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-07",
+  "hash": "6fb64deae81c7c3adbb6e9d2051a4a600366f458840a29b621f5155016773d7a"
  },
  {
   "zrodlo": "ted",
