@@ -12389,6 +12389,25 @@
   "hash": "7a35292493d4b2c487c510af2d049b1d6d2598856ccddada2354f9374ec1fa12"
  },
  {
+  "zrodlo": "bip:tauron",
+  "tytul": "Przebudowa sieci nN zasilanej ze stacji K387, K1133, K1132 - Katowice ul.Panewnicka, Nad Strumieniem, Rzeczna, Ludowa, Smoleńska wraz z aktualizacja dokumentacji projektowej.",
+  "url": "https://swoz.tauron.pl/platform/demand/notice/public/current/list",
+  "zamawiajacy": "TAURON Dystrybucja S.A.",
+  "data_publikacji": "2026-10-07",
+  "termin_skladania": "2026-10-21 11:00",
+  "opis": null,
+  "cpv": [],
+  "score": 8,
+  "tagi": [
+   "giełdowa",
+   "spolka-sp",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-07",
+  "hash": "5d471f1265d827b1a539ba7b2ddc045fe2b3a875d963cd76bfb4b085c13e93b5"
+ },
+ {
   "zrodlo": "bzp",
   "tytul": "Utworzenie Izby Lokalnej Informacji Historycznej",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-4d632524-eccf-46c9-9905-518027eb13e5",
