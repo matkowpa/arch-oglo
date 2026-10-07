@@ -10811,6 +10811,29 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowej na zadanie pn.: Rozbudowa ulicy Fiszera w Sztumie wraz z infrastrukturą techniczną",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-01f29e54-ad11-40fc-b810-5000be38a99b",
+  "zamawiajacy": "Gmina Sztum",
+  "data_publikacji": "2026-10-07",
+  "termin_skladania": "2026-10-15T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00476414 z dnia 2026-10-07 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowej na zadanie pn.: Rozbudowa ulicy Fiszera w Sztumie wraz z infrastrukturą techniczną SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Sztum 1.4) Krajowy Numer Identyfikacyjny: REGON 170747773 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Mickiewicza 39 1.5.2.) Miejscowość: Sztum 1.5.3.) Kod pocztowy: 82-400 1.5.4.) Województwo: pomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL638 - Starogardzki 1.5.7.) Numer telefonu: 556406363 1.5.9.) Adres poczty elektronicznej: zamowienia.publiczne@sztum.pl 1.5.10.) Adres strony internetowej zamawiającego: http://www.sztum.pl/ 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1",
+  "cpv": [
+   "71220000-6",
+   "71242000-6",
+   "71248000-8"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-07",
+  "hash": "e0d510c9f1bea9c1b93cc9b28eb513a68e657aa11f1e3ec4972ca7bc8cb44e95"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Wykonanie dokumentacji projektowo-wykonawczej pn.: „Budowa wojewódzkiego magazynu wysokiego składu na potrzeby OLiOC wraz z infrastrukturą towarzyszącą przy ulicy Ernsta Petersona w Bydgoszczy”",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-b8ba97ed-0cc5-4872-818f-264f14dfc514",
   "zamawiajacy": "Kujawsko-Pomorski Urząd Wojewódzki w Bydgoszczy",
@@ -11637,6 +11660,33 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-18",
   "hash": "e01b42cd06ce310d5431023c5c26d5373f0fc85996dc49cac7c83da5d514ed63"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowej dla zadania pn. Budowa basenu krytego wraz łącznikiem i infrastrukturą techniczną przy Szkole Podstawowej nr 9 w Białej Podlaskiej",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-35436fb1-508f-4e57-ab48-6bd23aa67776",
+  "zamawiajacy": "GMINA MIEJSKA BIAŁA PODLASKA",
+  "data_publikacji": "2026-10-07",
+  "termin_skladania": "2026-10-16T10:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00476415 z dnia 2026-10-07 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowej dla zadania pn. Budowa basenu krytego wraz łącznikiem i infrastrukturą techniczną przy Szkole Podstawowej nr 9 w Białej Podlaskiej SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: GMINA MIEJSKA BIAŁA PODLASKA 1.4) Krajowy Numer Identyfikacyjny: REGON 030237380 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Marszałka Józefa Piłsudskiego 3 1.5.2.) Miejscowość: Biała Podlaska 1.5.3.) Kod pocztowy: 21-500 1.5.4.) Województwo: lubelskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL811 - Bialski 1.5.7.) Numer telefonu: 83-343-66-92 1.5.9.) Adres poczty elektronicznej: zamowienia@org.bialapodlaska.pl 1.5.10.) Adres strony internetowej zamawiającego: https://bialapodlaska.pl/ 1.6.) Rodzaj zamawiającego: Zamaw",
+  "cpv": [
+   "71000000-8",
+   "71320000-7",
+   "71250000-5",
+   "71221000-3",
+   "71240000-2",
+   "71332000-4",
+   "71354000-4"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-07",
+  "hash": "43c33d2e41b91d349f3b8b12dcaef224371dd50cd9f5a7f7338f5c8be6bceb37"
  },
  {
   "zrodlo": "ted",
@@ -12562,6 +12612,31 @@
   "status_opisu": "brak",
   "dodano": "2026-10-06",
   "hash": "96a23b0e7d9bb59def04b47d837e2cd7cf3f69f556ff13ba01d1a4fc1764e24c"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej przebudowy i remontu bloku sportowego z zagospodarowaniem terenu SP nr 44 przy ul. Wilanowskiej 31 we Wrocławiu wraz z pełnieniem nadzoru autorskiego",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-8fa2f22b-9e49-43c3-a9f0-b4ebe344cdaa",
+  "zamawiajacy": "GMINA WROCŁAW - ZARZĄD INWESTYCJI MIEJSKICH",
+  "data_publikacji": "2026-10-07",
+  "termin_skladania": "2026-10-21T09:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00476434 z dnia 2026-10-07 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej przebudowy i remontu bloku sportowego z zagospodarowaniem terenu SP nr 44 przy ul. Wilanowskiej 31 we Wrocławiu wraz z pełnieniem nadzoru autorskiego SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: GMINA WROCŁAW - ZARZĄD INWESTYCJI MIEJSKICH 1.4) Krajowy Numer Identyfikacyjny: REGON 931040088 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Januszowicka 15 A 1.5.2.) Miejscowość: Wrocław 1.5.3.) Kod pocztowy: 53-135 1.5.4.) Województwo: dolnośląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL514 - Miasto Wrocław 1.5.9.) Adres poczty elektronicznej: bzp@zim.wroc.pl 1.5.10.) Adres strony internetowej zamawiającego: www.zim.wroc.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora f",
+  "cpv": [
+   "71220000-6",
+   "71221000-3",
+   "71320000-7",
+   "71420000-8",
+   "71700000-5"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-07",
+  "hash": "a5a4d5eefb81c2337975c692d9438b25bef78aa425ee275d066d1b4a020be775"
  },
  {
   "zrodlo": "ted",
