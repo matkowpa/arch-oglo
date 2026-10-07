@@ -3719,36 +3719,6 @@
   "hash": "1bafe14de5054feea82eb530048194b4f1637b34b9d65f788b655cb91492b24a"
  },
  {
-  "zrodlo": "ted",
-  "tytul": "Polska – Usługi architektoniczne, budowlane, inżynieryjne i kontrolne – Opracowanie dokumentacji projektowej wraz z pełnieniem nadzoru autorskiego dla zadania pod nazwą: Termomodernizacja wraz z remontem budynku Szkoły Podstawowej nr 19 im. Zasłużonych Ludzi Morza przy ulicy Emilii Hoene 6 w Gdańsku w ramach przedsięwzięcia pn.: „Poprawa efektywności energetycznej w budynkach szkolnych należących do Gminy Miasta Gdańska”",
-  "url": "https://ted.europa.eu/en/notice/-/detail/568534-2026",
-  "zamawiajacy": "Dyrekcja Rozbudowy Miasta Gdańska działająca w imieniu i na rzecz Gminy Miasta Gdańska",
-  "data_publikacji": "2026-08-17",
-  "termin_skladania": "2026-09-18T12:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71000000",
-   "71220000",
-   "71240000",
-   "71327000",
-   "71520000",
-   "71000000",
-   "71220000",
-   "71240000",
-   "71520000",
-   "71327000"
-  ],
-  "score": 8,
-  "tagi": [
-   "cpv-71",
-   "samorząd",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": null,
-  "hash": "4283cabcfc7dd011c755c1892f36e03b24662de65dfb30b32616ee5c0e255414"
- },
- {
   "zrodlo": "bzp",
   "tytul": "Opracowanie dokumentacji projektowo – kosztorysowej dla zadania pn. ,, Remont dawnego kasyna w Zegrzu”",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-57fdbbb2-2db2-431e-be4b-b8757c83af89",
@@ -9575,38 +9545,6 @@
   "hash": "6c9457d881b883fd532f5043ea59c6d2db14ea95a05f98a702548b081ad4f8a5"
  },
  {
-  "zrodlo": "ted",
-  "tytul": "Polska – Różne maszyny specjalnego zastosowania – Modernizacja sortowni odpadów – Zakład Utylizacji Odpadów Sp. z o. o. w Siedlcach",
-  "url": "https://ted.europa.eu/en/notice/-/detail/643991-2026",
-  "zamawiajacy": "Zakład Utylizacji Odpadów spółka z ograniczoną odpowiedzialnością",
-  "data_publikacji": "2026-09-18",
-  "termin_skladania": "2026-10-09T12:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "42990000",
-   "45259900",
-   "45220000",
-   "51500000",
-   "71320000",
-   "71323200",
-   "79421200",
-   "42990000",
-   "45259900",
-   "45220000",
-   "51500000",
-   "71320000",
-   "71323200",
-   "79421200"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-10-06",
-  "hash": "886d5920e4c0ea841fff739c00e230a6c8ff0705adf4b301c0433a2591c416aa"
- },
- {
   "zrodlo": "bip:tauron",
   "tytul": "RZ4/185/26 R-Dzierżoniów - opracowanie dokumentacji projektowej i na jej podstawie przystosowanie pola nr 11 w rozdzielni 20 kV do współpracy z magazynem energii (PSP 2502202).",
   "url": "https://swoz.tauron.pl/platform/demand/notice/public/current/list",
@@ -10710,6 +10648,29 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej pn. Przebudowa i remont części pomieszczeń piwnicy w budynku Starostwa Powiatowego w Słubicach wraz ze zmianą sposobu użytkowania na Miejsce Doraźnego Schronienia",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-0442feee-59b0-494b-b864-0761e22f2005",
+  "zamawiajacy": "Powiat Słubicki",
+  "data_publikacji": "2026-10-07",
+  "termin_skladania": "2026-10-15T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00474293 z dnia 2026-10-07 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej pn. Przebudowa i remont części pomieszczeń piwnicy w budynku Starostwa Powiatowego w Słubicach wraz ze zmianą sposobu użytkowania na Miejsce Doraźnego Schronienia SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Powiat Słubicki 1.4) Krajowy Numer Identyfikacyjny: REGON 210967366 1.5) Adres zamawiającego 1.5.1.) Ulica: Piłsudskiego 20 1.5.2.) Miejscowość: Słubice 1.5.3.) Kod pocztowy: 69-100 1.5.4.) Województwo: lubuskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL431 - Gorzowski 1.5.9.) Adres poczty elektronicznej: sekretariat@powiatslubicki.pl 1.5.10.) Adres strony internetowej zamawiającego: www.bip.powiatslubicki.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansó",
+  "cpv": [
+   "71320000-7",
+   "71220000-6",
+   "71240000-2"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-07",
+  "hash": "2b4e4c346e25868cdb00d6927127c9cdb71ff76f5c8e01af24ebe6bd181e2e2c"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Opracowanie dokumentacji projektowej dla zadania pn. Rozbudowa DW 746 w miejscowości Pomorzany",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-d409bebe-105c-4fde-b560-709114f2aee1",
   "zamawiajacy": "Województwo Świętokrzyskie - Świętokrzyski Zarząd Dróg Wojewódzkich",
@@ -10753,6 +10714,29 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej pn. Przebudowa i remont części pomieszczeń piwnicy w budynku MOS w Ośnie Lubuskim wraz ze zmianą sposobu użytkowania na Miejsce Doraźnego Schronienia",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-a4e9dee9-d2ac-4afd-aedf-ba85ab3573e6",
+  "zamawiajacy": "Powiat Słubicki",
+  "data_publikacji": "2026-10-07",
+  "termin_skladania": "2026-10-15T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00474409 z dnia 2026-10-07 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej pn. Przebudowa i remont części pomieszczeń piwnicy w budynku MOS w Ośnie Lubuskim wraz ze zmianą sposobu użytkowania na Miejsce Doraźnego Schronienia SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Powiat Słubicki 1.4) Krajowy Numer Identyfikacyjny: REGON 210967366 1.5) Adres zamawiającego 1.5.1.) Ulica: Piłsudskiego 20 1.5.2.) Miejscowość: Słubice 1.5.3.) Kod pocztowy: 69-100 1.5.4.) Województwo: lubuskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL431 - Gorzowski 1.5.9.) Adres poczty elektronicznej: sekretariat@powiatslubicki.pl 1.5.10.) Adres strony internetowej zamawiającego: www.bip.powiatslubicki.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych",
+  "cpv": [
+   "71320000-7",
+   "71220000-6",
+   "71240000-2"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-07",
+  "hash": "dcd6cd0d2644fc7a01a3d5c478d9edaf7bc56ab3ba4374ed775c49f7053f6ad5"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Opracowanie wielobranżowej dokumentacji projektowej polegającej na budowie dwóch budynków mieszkalnych wielorodzinnych dwuklatkowych wraz z niezbędną infrastrukturą techniczną w miejscowości Woźniki",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-efc8d6d9-685e-4242-9230-15a37166a32b",
   "zamawiajacy": "SIM ŚLĄSK PÓŁNOC SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
@@ -10777,6 +10761,26 @@
   "status_opisu": "pobrany",
   "dodano": "2026-10-02",
   "hash": "62c4fc442891de740eb8399c4bd22f97d5b5a1ef651442e7858c6818b2e83085"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowo-wykonawczej pn.: „Budowa wojewódzkiego magazynu wysokiego składu na potrzeby OLiOC wraz z infrastrukturą towarzyszącą przy ulicy Ernsta Petersona w Bydgoszczy”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-b8ba97ed-0cc5-4872-818f-264f14dfc514",
+  "zamawiajacy": "Kujawsko-Pomorski Urząd Wojewódzki w Bydgoszczy",
+  "data_publikacji": "2026-10-07",
+  "termin_skladania": "2026-10-15T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00475415 z dnia 2026-10-07 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowo-wykonawczej pn.: „Budowa wojewódzkiego magazynu wysokiego składu na potrzeby OLiOC wraz z infrastrukturą towarzyszącą przy ulicy Ernsta Petersona w Bydgoszczy” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Kujawsko-Pomorski Urząd Wojewódzki w Bydgoszczy 1.3.) Oddział zamawiającego: 85/04 województwo kujawsko-pomorskie 1.4) Krajowy Numer Identyfikacyjny: REGON 000514236 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Jagiellońska 3 1.5.2.) Miejscowość: Bydgoszcz 1.5.3.) Kod pocztowy: 85-950 1.5.4.) Województwo: kujawsko-pomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL613 - Bydgosko-toruński 1.5.9.) Adres poczty elektronicznej: zamowienia.kpuw@bydgoszcz.uw.gov.pl 1.5.10.) Adres strony internetow",
+  "cpv": [
+   "71220000-6",
+   "71420000-8"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-07",
+  "hash": "2b73514dcc8b936909142c1858ef5bdd9cb0dd23f9e89a7078ad887b694ba703"
  },
  {
   "zrodlo": "bzp",
@@ -10987,7 +10991,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-06",
+  "dodano": "2026-10-07",
   "hash": "21e59fef4ee3b4b38869304dbf6619748f3c2648aad23cf440bb171429e25800"
  },
  {
@@ -11037,7 +11041,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-06",
+  "dodano": "2026-10-07",
   "hash": "f44d6a0560baae93616ee3e6d98ff8fe2b7d9a43fdd6eb46aaf34b30731f327b"
  },
  {
@@ -11162,6 +11166,32 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Na usługi nadzoru inwestorskiego w ramach projektu „Modernizacja podjazdu dla osób ze szczególnymi potrzebami w SPZZOZ w Lipsku”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-6e413753-555f-44f5-957a-ea7981616476",
+  "zamawiajacy": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej",
+  "data_publikacji": "2026-10-07",
+  "termin_skladania": "2026-10-16T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00475046 z dnia 2026-10-07 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Na usługi nadzoru inwestorskiego w ramach projektu „Modernizacja podjazdu dla osób ze szczególnymi potrzebami w SPZZOZ w Lipsku” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej 1.4) Krajowy Numer Identyfikacyjny: REGON 670997773 1.5) Adres zamawiającego 1.5.1.) Ulica: Jędrzeja Śniadeckiego 2 1.5.2.) Miejscowość: Lipsko 1.5.3.) Kod pocztowy: 27-300 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL921 - Radomski 1.5.7.) Numer telefonu: 483783512 1.5.9.) Adres poczty elektronicznej: przetargi@szpitallipsko.pl 1.5.10.) Adres strony internetowej zamawiającego: https://szpitallipsko.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora",
+  "cpv": [
+   "71520000-9",
+   "71000000-8",
+   "71318000-0",
+   "71317000-3",
+   "71312000-8",
+   "71310000-4",
+   "71247000-1",
+   "71248000-8"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-07",
+  "hash": "aa116e66630008a9841dc0d4e42c4852b13e08efbcd77e535565f14b8e523aaf"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Opracowanie dokumentacji projektowej budowy budynku dla OSP w Zarzeczu wraz z magazynem obrony cywilnej",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-b3044f40-1cbf-45e5-b2cc-55840c4c40fd",
   "zamawiajacy": "Gmina Nisko",
@@ -11259,7 +11289,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-06",
+  "dodano": "2026-10-07",
   "hash": "9ff7b24d88888e5cf5f02ee32d5a2091a553d432458191e03e9f6bbe8cd46e53"
  },
  {
@@ -11284,6 +11314,28 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-30",
   "hash": "a6ecd5dfcc2e31a9b78072741d2aa20e0feb9b7ec969a3e4e0198491bfa5a556"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowej wraz z uzyskaniem wszelkiej dokumentacji formalno-prawnej umożliwiającej zrealizowanie inwestycji polegającej na przebudowie chodnika przy ulicy Sadowej w Jawczycach",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-870a1d9a-a926-42eb-a71d-ec86c70e9796",
+  "zamawiajacy": "Gmina Ożarów Mazowiecki",
+  "data_publikacji": "2026-10-07",
+  "termin_skladania": "2026-10-16T09:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00475765 z dnia 2026-10-07 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowej wraz z uzyskaniem wszelkiej dokumentacji formalno-prawnej umożliwiającej zrealizowanie inwestycji polegającej na przebudowie chodnika przy ulicy Sadowej w Jawczycach SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Ożarów Mazowiecki 1.4) Krajowy Numer Identyfikacyjny: REGON 013271269 1.5) Adres zamawiającego 1.5.1.) Ulica: Kolejowa 2 1.5.2.) Miejscowość: Ożarów Mazowiecki 1.5.3.) Kod pocztowy: 05-850 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL913 - Warszawski zachodni 1.5.9.) Adres poczty elektronicznej: zampub@ozarow-mazowiecki.pl 1.5.10.) Adres strony internetowej zamawiającego: https://ozarow-mazowiecki.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny",
+  "cpv": [
+   "71320000-7"
+  ],
+  "score": 12,
+  "tagi": [
+   "bonus-ue/strategiczny",
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-07",
+  "hash": "4d2de8d482786e1f35bfe9f66c4dfdc659b666b7234bc0fbfb7a66255367a4ea"
  },
  {
   "zrodlo": "bzp",
@@ -11338,71 +11390,6 @@
   "status_opisu": "brak",
   "dodano": "2026-09-15",
   "hash": "516cc4e16572fa9413e1f0142971f30aef7480e6bbe9ed6a34a95dd3ec30ff5b"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Roboty budowlane – Zaprojektowanie (w zakresie branży srk) i kompleksowe wykonanie robót budowlanych na linii kolejowej nr 623 i nr 628 na odcinku I+K podg. Fornale – Szczyrzyc i podg. Porąbka – podg. Stróża w ramach Projektu pn. „Budowa nowej linii kolejowej Podłęże – Szczyrzyc – Tymbark / Mszana Dolna oraz modernizacja istniejącej linii kolejowej nr 104 Chabówka – Nowy Sącz – Etap II”",
-  "url": "https://ted.europa.eu/en/notice/-/detail/638934-2026",
-  "zamawiajacy": "PKP Polskie Linie Kolejowe S.A.",
-  "data_publikacji": "2026-09-16",
-  "termin_skladania": "2026-10-16T10:00:00+01:00",
-  "opis": null,
-  "cpv": [
-   "45000000",
-   "71322000",
-   "30000000",
-   "32000000",
-   "48000000",
-   "45233100",
-   "45200000",
-   "30200000",
-   "32500000",
-   "48200000",
-   "48600000",
-   "48800000",
-   "45100000",
-   "45230000",
-   "30210000",
-   "30230000",
-   "32410000",
-   "32420000",
-   "32430000",
-   "34000000",
-   "34600000",
-   "34630000",
-   "34632000",
-   "48810000",
-   "48820000",
-   "45220000",
-   "45240000",
-   "45110000",
-   "45234000",
-   "45234100",
-   "45234113",
-   "45234116",
-   "45234115",
-   "45310000",
-   "45311000",
-   "45314300",
-   "45314310",
-   "71000000",
-   "71300000",
-   "71320000",
-   "32400000",
-   "45300000",
-   "45232300",
-   "45231400",
-   "45000000"
-  ],
-  "score": 4,
-  "tagi": [
-   "bonus-ue/strategiczny",
-   "cpv-71",
-   "roboty-budowlane"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-17",
-  "hash": "781667c7211ca0729081879f9714fbeb6d9a497900c17d38e4873d885e5c6286"
  },
  {
   "zrodlo": "ted",
@@ -11502,7 +11489,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-06",
+  "dodano": "2026-10-07",
   "hash": "97a958e0bcaf327ed767f7fe453d27e7ff833c10abd7694cd7194e5557b10819"
  },
  {
@@ -11635,7 +11622,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-06",
+  "dodano": "2026-10-07",
   "hash": "5572dc2b69a6b1680bf5d199a79058fe31f8b3fdab2b0a6ee1c2aefc52e48fbc"
  },
  {
@@ -12018,7 +12005,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-06",
+  "dodano": "2026-10-07",
   "hash": "3111386a8c5a2c71173996df924f354231ee1ae72236ded9ac85b5aa67ec48e6"
  },
  {
@@ -12073,7 +12060,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-06",
+  "dodano": "2026-10-07",
   "hash": "919b0a9fdbbca0e2f1faa0c6acf6541a3629a4da9247bd80585379dabe6642c4"
  },
  {
@@ -12111,6 +12098,38 @@
   "status_opisu": "brak",
   "dodano": "2026-10-06",
   "hash": "259e8bfdda33a0c61ae3e485f0c89a0b8af298cdcbeae1106545511c6fa65f46"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Różne maszyny specjalnego zastosowania – Modernizacja sortowni odpadów – Zakład Utylizacji Odpadów Sp. z o. o. w Siedlcach",
+  "url": "https://ted.europa.eu/en/notice/-/detail/691969-2026",
+  "zamawiajacy": "Zakład Utylizacji Odpadów spółka z ograniczoną odpowiedzialnością",
+  "data_publikacji": "2026-10-07",
+  "termin_skladania": "2026-10-19T12:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "42990000",
+   "45259900",
+   "45220000",
+   "51500000",
+   "71320000",
+   "71323200",
+   "79421200",
+   "42990000",
+   "45259900",
+   "45220000",
+   "51500000",
+   "71320000",
+   "71323200",
+   "79421200"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-06",
+  "hash": "f1e8f39a5f0732eb897c698730f845da86bfb0437965840977eb8f63f436994a"
  },
  {
   "zrodlo": "ted",
@@ -12190,6 +12209,26 @@
   "status_opisu": "brak",
   "dodano": "2026-10-06",
   "hash": "75a3fff7c565a0235c3c987f447ca3955711b83a5fc695d36ad1e8dfbe154ba3"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowej wraz z uzyskaniem decyzji administracyjnych z uzgodnieniami na wykonanie robót dla zadania Budowa wiaty na Cietniu na działce ewidencyjnej nr 462",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-4201e528-5a73-4fa8-8416-53a159f65cc4",
+  "zamawiajacy": "Skarb Państwa Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Limanowa",
+  "data_publikacji": "2026-10-07",
+  "termin_skladania": "2026-10-20T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00474335 z dnia 2026-10-07 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowej wraz z uzyskaniem decyzji administracyjnych z uzgodnieniami na wykonanie robót dla zadania Budowa wiaty na Cietniu na działce ewidencyjnej nr 462 SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Skarb Państwa Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Limanowa 1.3.) Oddział zamawiającego: Nadleśnictwo Limanowa 1.4) Krajowy Numer Identyfikacyjny: REGON 350545636 1.5) Adres zamawiającego 1.5.1.) Ulica: Kopernika 1.5.2.) Miejscowość: Limanowa 1.5.3.) Kod pocztowy: 34-600 1.5.4.) Województwo: małopolskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL218 - Nowosądecki 1.5.9.) Adres poczty elektronicznej: limanowa@krakow.lasy.gov.pl 1.5.10.) Adres strony internetowej zamawiającego: https://l",
+  "cpv": [
+   "71320000-7"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-07",
+  "hash": "565bee9a3a97384b2b71b9b100a2375f0067aefb06b6f93ba8b954a2f0f57ecf"
  },
  {
   "zrodlo": "ted",
@@ -12283,6 +12322,71 @@
   "status_opisu": "brak",
   "dodano": "2026-09-15",
   "hash": "54bc5c4ab9ce27cb540c25d1eb642f33aa336dfdb611ebf727dd688b4dc1ac0d"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Roboty budowlane – Zaprojektowanie (w zakresie branży srk) i kompleksowe wykonanie robót budowlanych na linii kolejowej nr 623 i nr 628 na odcinku I+K podg. Fornale – Szczyrzyc i podg. Porąbka – podg. Stróża w ramach Projektu pn. „Budowa nowej linii kolejowej Podłęże – Szczyrzyc – Tymbark / Mszana Dolna oraz modernizacja istniejącej linii kolejowej nr 104 Chabówka – Nowy Sącz – Etap II”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/689943-2026",
+  "zamawiajacy": "PKP Polskie Linie Kolejowe S.A.",
+  "data_publikacji": "2026-10-07",
+  "termin_skladania": "2026-10-20T10:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "45000000",
+   "71322000",
+   "30000000",
+   "32000000",
+   "48000000",
+   "45233100",
+   "45200000",
+   "30200000",
+   "32500000",
+   "48200000",
+   "48600000",
+   "48800000",
+   "45100000",
+   "45230000",
+   "30210000",
+   "30230000",
+   "32410000",
+   "32420000",
+   "32430000",
+   "34000000",
+   "34600000",
+   "34630000",
+   "34632000",
+   "48810000",
+   "48820000",
+   "45220000",
+   "45240000",
+   "45110000",
+   "45234000",
+   "45234100",
+   "45234113",
+   "45234116",
+   "45234115",
+   "45310000",
+   "45311000",
+   "45314300",
+   "45314310",
+   "71000000",
+   "71300000",
+   "71320000",
+   "32400000",
+   "45300000",
+   "45232300",
+   "45231400",
+   "45000000"
+  ],
+  "score": 4,
+  "tagi": [
+   "bonus-ue/strategiczny",
+   "cpv-71",
+   "roboty-budowlane"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-17",
+  "hash": "7a35292493d4b2c487c510af2d049b1d6d2598856ccddada2354f9374ec1fa12"
  },
  {
   "zrodlo": "bzp",
@@ -12614,7 +12718,7 @@
    "samorząd"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-06",
+  "dodano": "2026-10-07",
   "hash": "4210d16903fe82289765e99e28035cb57095e24dded7a6e8e851a22386c288c3"
  },
  {
@@ -12719,7 +12823,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-06",
+  "dodano": "2026-10-07",
   "hash": "6d2b6a960cc7482f5b5eb73f9c87fb7b5f010072df781975db15533ed9654480"
  },
  {
@@ -12800,7 +12904,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-06",
+  "dodano": "2026-10-07",
   "hash": "1417754ce4def456061f642b6f971a5f7b8f7151b577b2fa553dd0288e133d22"
  },
  {
@@ -12828,7 +12932,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-06",
+  "dodano": "2026-10-07",
   "hash": "c902dc7004560dcf2716e656ae9eef051ae0987faf9e608b1ce1f884a2b1eee9"
  },
  {
@@ -13360,7 +13464,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-06",
+  "dodano": "2026-10-07",
   "hash": "4dbf09c1f4480bc624953d08139f2dd3b5698916f686a11eb5ae37e68620eae0"
  },
  {
@@ -13663,31 +13767,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Usługi projektowania architektonicznego – Wykonanie dokumentacji projektowej wraz z kosztorysami inwestorskimi, w tym przedmiarami robót, STWiOR i innymi niezbędnymi opracowaniami dla zadania pn. \"Budowa Centrum Specjalistycznego z zespołem ambulatoryjnych poradni przyszpitalnych w Miejskim Centrum Medycznym im. dr Karola Jonschera w Łodzi”",
-  "url": "https://ted.europa.eu/en/notice/-/detail/670875-2026",
-  "zamawiajacy": "Miejskie Centrum Medyczne im. dr. Karola Jonschera w Łodzi",
-  "data_publikacji": "2026-09-30",
-  "termin_skladania": "2026-11-03T11:00:00+01:00",
-  "opis": null,
-  "cpv": [
-   "71220000",
-   "71242000",
-   "71320000",
-   "71220000",
-   "71242000",
-   "71320000"
-  ],
-  "score": 9,
-  "tagi": [
-   "cpv-71",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-10-06",
-  "hash": "15f08b35a004afbfb79b77da575340fc1c155ec60ed374ffa7b167271c36313a"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Usługi inżynieryjne – Pełnienie przez 24 miesiące usług konsultanta ds. utrzymania monitoringu i rozwoju systemu dla zadania: Katowicki Inteligentny System Monitoringu i Analizy",
   "url": "https://ted.europa.eu/en/notice/-/detail/678916-2026",
   "zamawiajacy": "Miasto Katowice",
@@ -13791,6 +13870,31 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Usługi projektowania architektonicznego – Wykonanie dokumentacji projektowej wraz z kosztorysami inwestorskimi, w tym przedmiarami robót, STWiOR i innymi niezbędnymi opracowaniami dla zadania pn. \"Budowa Centrum Specjalistycznego z zespołem ambulatoryjnych poradni przyszpitalnych w Miejskim Centrum Medycznym im. dr Karola Jonschera w Łodzi”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/690447-2026",
+  "zamawiajacy": "Miejskie Centrum Medyczne im. dr. Karola Jonschera w Łodzi",
+  "data_publikacji": "2026-10-07",
+  "termin_skladania": "2026-11-05T11:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71220000",
+   "71242000",
+   "71320000",
+   "71220000",
+   "71242000",
+   "71320000"
+  ],
+  "score": 9,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-07",
+  "hash": "f8f98c888cf754c15e67dda5aeb5ab9cc70eef1bb99ca89d96275b9c5c2fc55c"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Opracowanie dokumentacji projektowej STEŚ dla zadania pn.: „Rozbudowa drogi krajowej nr 44 na odcinku Oświęcim - Zaborze - Oświęcim (proces przygotowawczy)\"",
   "url": "https://ted.europa.eu/en/notice/-/detail/680329-2026",
   "zamawiajacy": "Generalna Dyrekcja Dróg Krajowych i Autostrad",
@@ -13819,6 +13923,36 @@
   "status_opisu": "brak",
   "dodano": "2026-10-02",
   "hash": "aadfb46c0aa5968365e4d9f274cd479a7a491dfcd33bf4457f023bc5dd1a482d"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi zarządzania projektem budowlanym – Pełnienie funkcji Inwestora zastępczego wraz z inspektorami nadzoru dla robót budowlanych dotyczących zadania „Rozbudowa i doposażenie Świętokrzyskiego Centrum Onkologii w Kielcach celem zwiększenia zakresu świadczeń oraz innowacyjności leczenia onkologicznego”.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/690582-2026",
+  "zamawiajacy": "Świętokrzyskie Centrum Onkologii Samodzielny Publiczny Zakład Opieki Zdrowotnej w Kielcach",
+  "data_publikacji": "2026-10-07",
+  "termin_skladania": "2026-11-05T12:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71541000",
+   "71520000",
+   "71540000",
+   "71244000",
+   "71247000",
+   "71248000",
+   "71541000",
+   "71520000",
+   "71540000",
+   "71244000",
+   "71247000",
+   "71248000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-07",
+  "hash": "7d4996195ef153f6d6a500483c0b6f14896056ad0266cc88bff8f27920b710cd"
  },
  {
   "zrodlo": "ted",
@@ -13867,6 +14001,28 @@
   "status_opisu": "brak",
   "dodano": "2026-10-01",
   "hash": "534e77f8f3e6b135d1f9d8ba68ad5614fa206eb2db7dd9339fbeced12617704c"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Wykonanie Programu funkcjonalno-użytkowego dla realizacji następujących zadań inwestycyjnych: 1) Modernizacja górnej i dolnej mechaniki Sceny Głównej w Teatrze Wielkim - Operze Narodowej w Warszawie oraz 2) Modernizacja górnej i dolnej mechaniki Sceny Kameralnej w Teatrze Wielkim - Operze Narodowej w Warszawie.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/690284-2026",
+  "zamawiajacy": "Teatr Wielki - Opera Narodowa",
+  "data_publikacji": "2026-10-07",
+  "termin_skladania": "2026-11-06T10:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71320000",
+   "71240000",
+   "71320000",
+   "71240000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-07",
+  "hash": "d5e54bae8da6c0dcc4ec951fd105189af776f80f779d61cf3a27f91544179ae2"
  },
  {
   "zrodlo": "ted",
@@ -13962,6 +14118,36 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Usługi architektoniczne, budowlane, inżynieryjne i kontrolne – Opracowanie dokumentacji projektowej wraz z pełnieniem nadzoru autorskiego dla zadania pod nazwą: Termomodernizacja wraz z remontem budynku Szkoły Podstawowej nr 19 im. Zasłużonych Ludzi Morza przy ulicy Emilii Hoene 6 w Gdańsku w ramach przedsięwzięcia pn.: „Poprawa efektywności energetycznej w budynkach szkolnych należących do Gminy Miasta Gdańska”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/690467-2026",
+  "zamawiajacy": "Dyrekcja Rozbudowy Miasta Gdańska działająca w imieniu i na rzecz Gminy Miasta Gdańska",
+  "data_publikacji": "2026-10-07",
+  "termin_skladania": "2026-11-09T12:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71000000",
+   "71220000",
+   "71240000",
+   "71327000",
+   "71520000",
+   "71000000",
+   "71220000",
+   "71240000",
+   "71520000",
+   "71327000"
+  ],
+  "score": 8,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-07",
+  "hash": "f65c3307c7d8c80b291d6008a10fb6143d265f4a77a520ae4d3b4c744af6d66f"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Opracowanie dokumentacji projektowej dla zadania 08180 pn. „Przebudowa ul. Czajkowskiego i Koszarowej do AWL”",
   "url": "https://ted.europa.eu/en/notice/-/detail/688788-2026",
   "zamawiajacy": "Gmina Wrocław",
@@ -13985,6 +14171,51 @@
   "status_opisu": "brak",
   "dodano": "2026-10-06",
   "hash": "4b68dde37c2b477f98b4964d080182d633f6b66ec03e82244f142a6c5db2bf06"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – „Opracowanie kompletnej dokumentacji projektowej i uzyskanie decyzji administracyjnych dla zadania pn. „Zabezpieczenie przed powodzią miasta Brzeg. Rozbiórka obwałowań polderu Brzeziny – prace przygotowawcze”.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/692599-2026",
+  "zamawiajacy": "Państwowe Gospodarstwo Wodne Wody Polskie",
+  "data_publikacji": "2026-10-07",
+  "termin_skladania": "2026-11-12T09:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71320000",
+   "71320000"
+  ],
+  "score": 9,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-07",
+  "hash": "46c88ff32dc9b4f842a17941607483d287d300479aad76745f3c09bb726ff6d3"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi zarządzania budową – Pełnienie funkcji Inżyniera Kontraktu dla inwestycji „Rozbudowa centrum produkcji zielonej energii z wykorzystaniem GOZ na oczyszczalni ścieków w Tychach, dla łagodzenia zmian klimatu\"",
+  "url": "https://ted.europa.eu/en/notice/-/detail/692745-2026",
+  "zamawiajacy": "Regionalne Centrum Gospodarki Wodno-Ściekowej S.A.",
+  "data_publikacji": "2026-10-07",
+  "termin_skladania": "2026-11-12T09:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71540000",
+   "71520000",
+   "71248000",
+   "71540000",
+   "71520000",
+   "71248000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-07",
+  "hash": "152b04f0f9f04cf9bffb4f0a9d83779fb85d8cc55834159468432ca26fd4f6a3"
  },
  {
   "zrodlo": "ted",
