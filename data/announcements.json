@@ -6795,26 +6795,6 @@
   "hash": "c201c5302f63573a01ec79afc74e54ee644291a9cfc2d87419f0738e7b29e26e"
  },
  {
-  "zrodlo": "bzp",
-  "tytul": "Wykonanie dokumentacji projektowo – kosztorysowej oraz pełnienie nadzoru autorskiego dla zadania pn. „Rozbudowa, przebudowa i termomodernizacja budynku II LO (...) w Lublinie przy ul. Ogrodowej 16”.",
-  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-df8853b4-9ad8-4705-a753-e8a7539ed04a",
-  "zamawiajacy": "Zarząd Inwestycji Miejskich w Lublinie",
-  "data_publikacji": "2026-09-18",
-  "termin_skladania": "2026-09-30T10:30:00Z",
-  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00445658 z dnia 2026-09-18 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowo – kosztorysowej oraz pełnienie nadzoru autorskiego dla zadania pn. „Rozbudowa, przebudowa i termomodernizacja budynku II LO (...) w Lublinie przy ul. Ogrodowej 16”. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Zarząd Inwestycji Miejskich w Lublinie 1.4) Krajowy Numer Identyfikacyjny: REGON 542059462 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Podwale 3a 1.5.2.) Miejscowość: Lublin 1.5.3.) Kod pocztowy: 20-117 1.5.4.) Województwo: lubelskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL814 - Lubelski 1.5.9.) Adres poczty elektronicznej: sekretariat@zim.lublin.eu 1.5.10.) Adres strony internetowej zamawiającego: zim.lublin.eu 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora fin",
-  "cpv": [
-   "71320000-7",
-   "71248000-8"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "pobrany",
-  "dodano": "2026-09-18",
-  "hash": "aced052007962a53610730ed9655b598b9c4aa08cacff09285cad14438b54d26"
- },
- {
   "zrodlo": "ted",
   "tytul": "Polska – Usługi architektoniczne, budowlane, inżynieryjne i kontrolne – Opracowanie dokumentacji projektowo-kosztorysowej dla zadania: Przebudowa Pawilonu nr XVII z przeznaczeniem na stacjonarny oddział psychiatryczny stanowiący komórkę organizacyjną Centrum Zdrowia Psychicznego",
   "url": "https://ted.europa.eu/en/notice/-/detail/592652-2026",
@@ -11191,6 +11171,25 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Świadczenie usługi nadzoru autorskiego zapewniającego zgodność realizacji robót budowlanych z dokumentacją projektową w ramach projektu: FENX.07.01-IP.04- 0013/24.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-5d55ca49-5c77-4b91-be74-99828faab149",
+  "zamawiajacy": "Teatr Wielki w Łodzi",
+  "data_publikacji": "2026-10-08",
+  "termin_skladania": "2026-10-16T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00478914 z dnia 2026-10-08 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Świadczenie usługi nadzoru autorskiego zapewniającego zgodność realizacji robót budowlanych z dokumentacją projektową w ramach projektu: FENX.07.01-IP.04- 0013/24. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Teatr Wielki w Łodzi 1.4) Krajowy Numer Identyfikacyjny: REGON 000279195 1.5) Adres zamawiającego 1.5.1.) Ulica: Plac Dąbrowskiego 1.5.2.) Miejscowość: Łódź 1.5.3.) Kod pocztowy: 90-249 1.5.4.) Województwo: łódzkie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL711 - Miasto Łódź 1.5.9.) Adres poczty elektronicznej: a.iwanowska@teatr-wielki.lodz.pl 1.5.10.) Adres strony internetowej zamawiającego: www.operalodz.com 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - inny zamawiający jednostka sektora finansów publicznych, dla ",
+  "cpv": [
+   "71248000-8"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-08",
+  "hash": "a35abebe3111c181c124910e13bcad9aa4df25fef7c1d793a1045812b36d6ab7"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Adaptacja i dostosowanie pomieszczeń do standardów Data Center w budynkach IŁ – PIB w Warszawie i Gdańsku",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-8bc1a791-2445-4d70-9529-ee7c59925b9d",
   "zamawiajacy": "Instytut Łączności - Państwowy Instytut Badawczy",
@@ -11286,6 +11285,26 @@
   "status_opisu": "pobrany",
   "dodano": "2026-10-01",
   "hash": "4954ff3397d9316732cccbb7ffe8a93ac51605874768a990e3330823710c012a"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie kompletnej, wielobranżowej dokumentacji projektowej dla potrzeb pacjentów Siedleckiego Centrum Zdrowia Psychicznego w Siedlcach przy ul. Starowiejskiej 15.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-842525b7-a05f-486e-9eaf-f4cef019be8d",
+  "zamawiajacy": "Samodzielny Publiczny Zakład Opieki Zdrowotnej",
+  "data_publikacji": "2026-10-08",
+  "termin_skladania": "2026-10-16T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00478706 z dnia 2026-10-08 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie kompletnej, wielobranżowej dokumentacji projektowej dla potrzeb pacjentów Siedleckiego Centrum Zdrowia Psychicznego w Siedlcach przy ul. Starowiejskiej 15. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Samodzielny Publiczny Zakład Opieki Zdrowotnej 1.3.) Oddział zamawiającego: Samodzielny Publiczny Zakład Opieki Zdrowotnej 1.4) Krajowy Numer Identyfikacyjny: REGON 000310309 1.5) Adres zamawiającego 1.5.1.) Ulica: Kilińskiego 29 1.5.2.) Miejscowość: Siedlce 1.5.3.) Kod pocztowy: 08-110 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL925 - Siedlecki 1.5.7.) Numer telefonu: 6444483 1.5.8.) Numer faksu: 6444483 1.5.9.) Adres poczty elektronicznej: przetargi@spzoz-siedlce.pl 1.5.10.) Adres str",
+  "cpv": [
+   "71220000-6"
+  ],
+  "score": 21,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-08",
+  "hash": "3b9c3fa472568b898f3cb0ac867889e22f7d128d9f875f681264935f96afdd3e"
  },
  {
   "zrodlo": "bzp",
@@ -11672,6 +11691,26 @@
   "hash": "43c33d2e41b91d349f3b8b12dcaef224371dd50cd9f5a7f7338f5c8be6bceb37"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "„Opracowanie dokumentacji projektowej termomodernizacji budynków mieszkalnych wielorodzinnych w Żyrardowie, w ramach zadania „Termomodernizacja budynków gminnych.”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-f218f52d-1ce5-4a45-90e8-2ae1a682bf50",
+  "zamawiajacy": "Miasto Żyrardów",
+  "data_publikacji": "2026-10-08",
+  "termin_skladania": "2026-10-16T10:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00478678 z dnia 2026-10-08 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi „Opracowanie dokumentacji projektowej termomodernizacji budynków mieszkalnych wielorodzinnych w Żyrardowie, w ramach zadania „Termomodernizacja budynków gminnych.” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Miasto Żyrardów 1.4) Krajowy Numer Identyfikacyjny: REGON 750148650 1.5) Adres zamawiającego 1.5.1.) Ulica: Bolesława Limanowskiego 44 1.5.2.) Miejscowość: Żyrardów 1.5.3.) Kod pocztowy: 96-300 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL913 - Warszawski zachodni 1.5.7.) Numer telefonu: 46 880 05 50, 46 880 05 55 1.5.9.) Adres poczty elektronicznej: zamowieniapubliczne@zyrardow.pl 1.5.10.) Adres strony internetowej zamawiającego: www.zyrardow.pl 1.6.) Rodzaj zamawiającego: Zamawiający publi",
+  "cpv": [
+   "71320000-7"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-08",
+  "hash": "8b8e0851dae3aa9839206ebc369759a7b88f09bedd98b32d58221ef1b40fe731"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Roboty budowlane – Opracowanie dokumentacji projektowej i realizacja robót budowlanych w zakresie podsystemu \"Energia\" - sieć trakcyjna na linii kolejowej nr 85 odc. Warszawa - Łódź",
   "url": "https://ted.europa.eu/en/notice/-/detail/688626-2026",
@@ -11820,6 +11859,29 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej przebudowy i remontu pomieszczeń dydaktycznych i sportowych Zespołu Szkół Technicznych imienia 10 Pułku Piechoty w Łowiczu",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-f47d2c0f-df5e-4c44-996d-d07e9de361dc",
+  "zamawiajacy": "POWIAT ŁOWICKI",
+  "data_publikacji": "2026-10-08",
+  "termin_skladania": "2026-10-19T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00478936 z dnia 2026-10-08 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej przebudowy i remontu pomieszczeń dydaktycznych i sportowych Zespołu Szkół Technicznych imienia 10 Pułku Piechoty w Łowiczu SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: POWIAT ŁOWICKI 1.4) Krajowy Numer Identyfikacyjny: REGON 750147768 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Stanisława Stanisławskiego 30 1.5.2.) Miejscowość: Łowicz 1.5.3.) Kod pocztowy: 99-400 1.5.4.) Województwo: łódzkie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL715 - Skierniewicki 1.5.7.) Numer telefonu: 468115365 1.5.9.) Adres poczty elektronicznej: magdalena.zurawska@powiatlowicki.pl 1.5.10.) Adres strony internetowej zamawiającego: www.powiat.lowicz.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka s",
+  "cpv": [
+   "71000000-8",
+   "71220000-6",
+   "71221000-3"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-08",
+  "hash": "869877ba07d5af4f65e6ab202582aa9f3d31a52d09376bb5da77b121176a29a4"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Opracowanie dokumentacji projektowej dla zadania pn.: „Budowa dojść do przystanku nr 269 (Opolska) przy ul. Augustowskiej w Olsztynie”",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-8a0ecde9-0bea-4436-b23c-323f1701f1e3",
   "zamawiajacy": "ZARZĄD DRÓG ZIELENI I TRANSPORTU W OLSZTYNIE",
@@ -11863,6 +11925,31 @@
   "status_opisu": "pobrany",
   "dodano": "2026-10-08",
   "hash": "fe0a982099a8fb96a6ce6ee669dba6de6fc82715bba18082cd119633cb3ca956"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie pełnobranżowej dokumentacji projektowej dla wybranych ulic w mieście Lesznie z podziałem na dwie części przedmiotu zamówienia.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-17fbf8c1-1150-4b4c-a31c-4c77266baaf0",
+  "zamawiajacy": "Miasto Leszno",
+  "data_publikacji": "2026-10-08",
+  "termin_skladania": "2026-10-19T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00478776 z dnia 2026-10-08 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie pełnobranżowej dokumentacji projektowej dla wybranych ulic w mieście Lesznie z podziałem na dwie części przedmiotu zamówienia. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Miasto Leszno 1.4) Krajowy Numer Identyfikacyjny: REGON 411050445 1.5) Adres zamawiającego 1.5.1.) Ulica: Kazimierza Karasia 15 1.5.2.) Miejscowość: Leszno 1.5.3.) Kod pocztowy: 64-100 1.5.4.) Województwo: wielkopolskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL417 - Leszczyński 1.5.9.) Adres poczty elektronicznej: bzp@leszno.pl 1.5.10.) Adres strony internetowej zamawiającego: www.bip.leszno.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Przedmiot działalnoś",
+  "cpv": [
+   "71220000-6",
+   "71222000-0",
+   "71240000-2",
+   "71322000-1",
+   "71320000-7",
+   "71245000-7"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-08",
+  "hash": "d0912cfe71ef1ad11097b224cb6270e39ba490d55c22adc435dfb23d6d15171a"
  },
  {
   "zrodlo": "ted",
@@ -12237,6 +12324,28 @@
   "status_opisu": "brak",
   "dodano": "2026-10-08",
   "hash": "919b0a9fdbbca0e2f1faa0c6acf6541a3629a4da9247bd80585379dabe6642c4"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Pełnienie wielobranżowego nadzoru inwestorskiego nad budową budynku biurowego Nadleśnictwa Łobez",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-014d9027-e4dd-47e9-8953-905bb0a4a94a",
+  "zamawiajacy": "Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Łobez",
+  "data_publikacji": "2026-10-08",
+  "termin_skladania": "2026-10-19T10:30:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00478564 z dnia 2026-10-08 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Pełnienie wielobranżowego nadzoru inwestorskiego nad budową budynku biurowego Nadleśnictwa Łobez SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Łobez 1.4) Krajowy Numer Identyfikacyjny: REGON 810539189 1.5) Adres zamawiającego 1.5.1.) Ulica: Bema 15 1.5.2.) Miejscowość: Łobez 1.5.3.) Kod pocztowy: 73-150 1.5.4.) Województwo: zachodniopomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL427 - Szczecinecko-pyrzycki 1.5.9.) Adres poczty elektronicznej: lobez@szczecin.lasy.gov.pl 1.5.10.) Adres strony internetowej zamawiającego: https://lobez.szczecin.lasy.gov.pl/ 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - inna państwowa jednostka organizacyjna nieposiadająca osobowoś",
+  "cpv": [
+   "71247000-1",
+   "71520000-9",
+   "71248000-8",
+   "71310000-4"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-08",
+  "hash": "fe04fb2e5ccb69e44b2d6cf947d5626ecc6ad91761ef47b510f9b5d3437aa5b6"
  },
  {
   "zrodlo": "ted",
@@ -12627,6 +12736,26 @@
   "status_opisu": "pobrany",
   "dodano": "2026-10-08",
   "hash": "f991d18d98af40142dfc25c1f34be6b4c51745224e298c7dc807a396025685da"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowo – kosztorysowej oraz pełnienie nadzoru autorskiego dla zadania pn. „Rozbudowa, przebudowa i termomodernizacja budynku II LO (...) w Lublinie przy ul. Ogrodowej 16”.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-38b4de8a-e9a8-4277-934d-9975a5dadee3",
+  "zamawiajacy": "Zarząd Inwestycji Miejskich w Lublinie",
+  "data_publikacji": "2026-10-08",
+  "termin_skladania": "2026-10-20T10:30:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00478610 z dnia 2026-10-08 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowo – kosztorysowej oraz pełnienie nadzoru autorskiego dla zadania pn. „Rozbudowa, przebudowa i termomodernizacja budynku II LO (...) w Lublinie przy ul. Ogrodowej 16”. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Zarząd Inwestycji Miejskich w Lublinie 1.4) Krajowy Numer Identyfikacyjny: REGON 542059462 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Podwale 3a 1.5.2.) Miejscowość: Lublin 1.5.3.) Kod pocztowy: 20-117 1.5.4.) Województwo: lubelskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL814 - Lubelski 1.5.9.) Adres poczty elektronicznej: sekretariat@zim.lublin.eu 1.5.10.) Adres strony internetowej zamawiającego: zim.lublin.eu 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora fin",
+  "cpv": [
+   "71320000-7",
+   "71248000-8"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-18",
+  "hash": "a8fa37dc116335d5017c7744635893429f183263feea38cf50c325d8bbb8aa0f"
  },
  {
   "zrodlo": "bip:tauron",
