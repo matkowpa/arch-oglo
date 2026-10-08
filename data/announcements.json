@@ -9813,35 +9813,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Usługi instalowania urządzeń elektrycznych i mechanicznych – Przedmiotem zamówienia jest kompleksowa realizacja zadania pn.: „Modernizacja zasuw, krat i systemu sterowania na zamku wodnym EW Żur”",
-  "url": "https://ted.europa.eu/en/notice/-/detail/620918-2026",
-  "zamawiajacy": "ENEA Nowa Energia sp. z o.o.",
-  "data_publikacji": "2026-09-09",
-  "termin_skladania": "2026-10-12T10:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "51100000",
-   "71320000",
-   "45240000",
-   "45315700",
-   "50530000",
-   "51100000",
-   "45351000",
-   "71320000",
-   "45315100",
-   "71323100",
-   "50530000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-09",
-  "hash": "33b1a5a26550a58c7fec3a72c3c5870c5c59dc36aac88a5d3dbe329abf3b359d"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Usługi projektowania architektonicznego – Wykonanie wielobranżowej dokumentacji projektowej wraz z niezbędnymi uzgodnieniami w zakresie budowy zespołu budynków mieszkalnych wielorodzinnych oraz pełnienie nadzoru autorskiego",
   "url": "https://ted.europa.eu/en/notice/-/detail/625262-2026",
   "zamawiajacy": "SIM CHEŁM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
@@ -9952,48 +9923,6 @@
   "status_opisu": "pobrany",
   "dodano": "2026-10-02",
   "hash": "ef971accde1c7fd67c24fbbcf0648fb859c3fc07dd8611c5f349c5e3512f3a62"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Nadzór nad robotami budowlanymi – Pełnienie funkcji Inżyniera Kontraktu dla strategicznej inwestycji budowlanej pn. Przebudowa i rozbudowa wraz z doposażeniem Pabianickiego Centrum Psychiatrycznego dla projektu strategicznego wskazanego do finansowania ze środków Funduszu Medycznego w konkursie nr FM-SIS.03.PSYCH.2024",
-  "url": "https://ted.europa.eu/en/notice/-/detail/664849-2026",
-  "zamawiajacy": "Pabianickie Centrum Medyczne Sp. z o.o.",
-  "data_publikacji": "2026-09-28",
-  "termin_skladania": "2026-10-12T11:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71247000",
-   "71240000",
-   "71000000",
-   "71242000",
-   "71244000",
-   "71320000",
-   "71520000",
-   "71530000",
-   "71541000",
-   "71540000",
-   "71248000",
-   "79400000",
-   "71247000",
-   "71240000",
-   "71000000",
-   "71242000",
-   "71244000",
-   "71520000",
-   "71320000",
-   "71530000",
-   "71541000",
-   "71540000",
-   "71248000",
-   "79400000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-10",
-  "hash": "5659e31951dae638bc491409c29f79ab6d9cdff02badec7c4e8f144dedf3c1e8"
  },
  {
   "zrodlo": "ted",
@@ -10534,34 +10463,6 @@
   "status_opisu": "brak",
   "dodano": "2026-09-11",
   "hash": "4c88dea8c1c0bdeb23340e3ec110a839da238f88e690bcb2ff1fc95ad77487a6"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Usługi nadzoru budowlanego – Pełnienie nadzoru dla zaprojektowania i wykonania robót na linii kolejowej nr 68 na odcinku Stalowa Wola Rozwadów – Przeworsk wraz z pełnieniem nadzoru autorskiego w ramach projektu pn.: Prace na linii kolejowej nr 68 na odcinku Stalowa Wola Rozwadów – Przeworsk - etap I",
-  "url": "https://ted.europa.eu/en/notice/-/detail/660605-2026",
-  "zamawiajacy": "PKP Polskie Linie Kolejowe S.A.",
-  "data_publikacji": "2026-09-25",
-  "termin_skladania": "2026-10-14T10:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71520000",
-   "71247000",
-   "71521000",
-   "71248000",
-   "71520000",
-   "71247000",
-   "71521000",
-   "71248000"
-  ],
-  "score": 5,
-  "tagi": [
-   "bonus-ue/strategiczny",
-   "cpv-71",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-29",
-  "hash": "4b9ed1790c8e3bb997318d481ff34b75ab50104decfd19931332f10a76d2b364"
  },
  {
   "zrodlo": "ted",
@@ -11111,7 +11012,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-07",
+  "dodano": "2026-10-08",
   "hash": "f44d6a0560baae93616ee3e6d98ff8fe2b7d9a43fdd6eb46aaf34b30731f327b"
  },
  {
@@ -11159,6 +11060,23 @@
   "hash": "2ae46fe0789f497bc6fc51fc0826d3a363845491f9556b14ff4f3218257aa1c8"
  },
  {
+  "zrodlo": "pz-search",
+  "tytul": "ZP.271.1.38.2026 „Dokumentacja projektowa ul. Osiedla Łakomowo w Mąkowarsku”",
+  "url": "https://platformazakupowa.pl/transakcja/1385861",
+  "zamawiajacy": "Urząd Miejski Koronowo",
+  "data_publikacji": null,
+  "termin_skladania": "2026-10-16 09:00:00",
+  "opis": null,
+  "cpv": [],
+  "score": 6,
+  "tagi": [
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-08",
+  "hash": "0e0cce4e1cfee7cc53783a3d07c875b2392d6632f6f463832f13f29cad33e193"
+ },
+ {
   "zrodlo": "bip:tauron",
   "tytul": "132/2026/RZ1 - Opracowanie dokumentacji projektowej i wykonanie robót budowlano-montażowych w zakresie infrastruktury sieciowej oraz infrastruktury oświetleniowej dla zadania pn.: Przebudowa sieci nN obwód L-3 zasilanej ze stacji JGL10320 w m. Chmieleń - (KZ JG/001708/25)",
   "url": "https://swoz.tauron.pl/platform/demand/notice/public/current/list",
@@ -11176,6 +11094,71 @@
   "status_opisu": "brak",
   "dodano": "2026-10-02",
   "hash": "a505575adba82b1357d32ef21a78b21cfe4d112eb1d0d0591616891dc3efe0c6"
+ },
+ {
+  "zrodlo": "pz-search",
+  "tytul": "2026/BZP 00476639/01 ROA.271.18.2026 Wykonanie dokumentacji projektowej wraz z uzyskaniem ostatecznego dokumentu zezwalającego na realizację inwestycji oraz sprawowanie nadzoru autorskiego dla zadania pn.: Konarzewo – dokumentacja projektowa dla budowy obwodnicy na odcinku od ul. Szkolnej do ul. Poznańskiej w Konarzewie",
+  "url": "https://platformazakupowa.pl/transakcja/1386067",
+  "zamawiajacy": "Gmina Dopiewo",
+  "data_publikacji": null,
+  "termin_skladania": "2026-10-16 11:00:00",
+  "opis": null,
+  "cpv": [],
+  "score": 5,
+  "tagi": [
+   "drogi",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-08",
+  "hash": "79438575381900f35416dd65aaa483b6365561401cf1ab697b4f1112d98129b2"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Dokumentacja projektowa ul. Osiedla Łakomowo w Mąkowarsku",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-1758455d-dc6b-45f9-976d-bb22e0d6969f",
+  "zamawiajacy": "Gmina Koronowo",
+  "data_publikacji": "2026-10-08",
+  "termin_skladania": "2026-10-16T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00477853 z dnia 2026-10-08 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Dokumentacja projektowa ul. Osiedla Łakomowo w Mąkowarsku SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Koronowo 1.4) Krajowy Numer Identyfikacyjny: REGON 092350665 1.5) Adres zamawiającego 1.5.1.) Ulica: Plac Zwycięstwa 1 1.5.2.) Miejscowość: Koronowo 1.5.3.) Kod pocztowy: 86-010 1.5.4.) Województwo: kujawsko-pomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL613 - Bydgosko-toruński 1.5.9.) Adres poczty elektronicznej: paulina.tomaszewsk@um.koronowo.pl 1.5.10.) Adres strony internetowej zamawiającego: www.bip.koronowo.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Przedmiot działalności zamawiającego: Ogólne usługi publiczne SEKCJ",
+  "cpv": [
+   "71220000-6",
+   "71320000-7",
+   "71248000-8"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-08",
+  "hash": "5b68685e0da719ebed08e5026dcfb69051eaaa266ac48b20148f143d77aac66a"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowo-kosztorysowej dla zadania „Rozbudowa DP 2616S ul. Ks. Olszaka w Kończycach Wielkich od skrzyżowania z ul. Prostą do skrzyżowania z ul. Młyńską”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-ceb5853e-7536-4dc7-915c-17ed7c23c76e",
+  "zamawiajacy": "Powiatowy Zarząd Dróg Publicznych w Cieszynie",
+  "data_publikacji": "2026-10-08",
+  "termin_skladania": "2026-10-16T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00478076 z dnia 2026-10-08 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowo-kosztorysowej dla zadania „Rozbudowa DP 2616S ul. Ks. Olszaka w Kończycach Wielkich od skrzyżowania z ul. Prostą do skrzyżowania z ul. Młyńską” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Powiatowy Zarząd Dróg Publicznych w Cieszynie 1.4) Krajowy Numer Identyfikacyjny: REGON 072253400 1.5) Adres zamawiającego 1.5.1.) Ulica: Bobrecka 29 1.5.2.) Miejscowość: Cieszyn 1.5.3.) Kod pocztowy: 43-400 1.5.4.) Województwo: śląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL225 - Bielski 1.5.9.) Adres poczty elektronicznej: wiz@powiat.cieszyn.pl 1.5.10.) Adres strony internetowej zamawiającego: https://www.pzdp.cieszyn.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów p",
+  "cpv": [
+   "71300000-1",
+   "71320000-7",
+   "71322300-4"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-08",
+  "hash": "44600c1b950fbe29726c3d0efef5c5d9b7f31d5018f294f9cda6e08207bcba0a"
  },
  {
   "zrodlo": "bzp",
@@ -11359,7 +11342,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-07",
+  "dodano": "2026-10-08",
   "hash": "9ff7b24d88888e5cf5f02ee32d5a2091a553d432458191e03e9f6bbe8cd46e53"
  },
  {
@@ -11559,7 +11542,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-07",
+  "dodano": "2026-10-08",
   "hash": "97a958e0bcaf327ed767f7fe453d27e7ff833c10abd7694cd7194e5557b10819"
  },
  {
@@ -11719,7 +11702,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-07",
+  "dodano": "2026-10-08",
   "hash": "5572dc2b69a6b1680bf5d199a79058fe31f8b3fdab2b0a6ee1c2aefc52e48fbc"
  },
  {
@@ -11785,6 +11768,101 @@
   "status_opisu": "brak",
   "dodano": "2026-09-24",
   "hash": "e75f6f34faa3057357b97ecc9e2cc2cc5a782ad0cf64223a0c942a835d6e4eb7"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Droga do „Bulwarów nad Nidą”. – opracowanie dokumentacji projektowej",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-73ddd62a-b9ae-44c7-af0e-24a42ef096fb",
+  "zamawiajacy": "Gmina Pińczów",
+  "data_publikacji": "2026-10-08",
+  "termin_skladania": "2026-10-19T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00477260 z dnia 2026-10-08 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Droga do „Bulwarów nad Nidą”. – opracowanie dokumentacji projektowej SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Pińczów 1.3.) Oddział zamawiającego: Gmina Pińczów 1.4) Krajowy Numer Identyfikacyjny: REGON 291009840 1.5) Adres zamawiającego 1.5.1.) Ulica: 3 Maja 10 1.5.2.) Miejscowość: Pińczów 1.5.3.) Kod pocztowy: 28-400 1.5.4.) Województwo: świętokrzyskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL722 - Sandomiersko-jędrzejowski 1.5.7.) Numer telefonu: 412345100 1.5.9.) Adres poczty elektronicznej: sekretariat@pinczow.com.pl 1.5.10.) Adres strony internetowej zamawiającego: www.pinczow.com.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego",
+  "cpv": [
+   "71000000-8",
+   "71320000-7"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-08",
+  "hash": "7bded453dbf2a874c96773aad2b68f435d01120e68453b7952dd47ded5bbb75a"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej oraz pełnienie nadzoru autorskiego dla pn.: Rozbudowa DW nr 992 Jasło-Zarzecze-Nowy Żmigród-Kąty-Krempna-Świątkowa Mała-Grab-Granica Państwa w m. Grab.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-278ed244-2533-4190-ba3a-fe1c07ca56e8",
+  "zamawiajacy": "PODKARPACKI ZARZĄD DRÓG WOJEWÓDZKICH",
+  "data_publikacji": "2026-10-08",
+  "termin_skladania": "2026-10-19T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00477969 z dnia 2026-10-08 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej oraz pełnienie nadzoru autorskiego dla pn.: Rozbudowa DW nr 992 Jasło-Zarzecze-Nowy Żmigród-Kąty-Krempna-Świątkowa Mała-Grab-Granica Państwa w m. Grab. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: PODKARPACKI ZARZĄD DRÓG WOJEWÓDZKICH 1.4) Krajowy Numer Identyfikacyjny: REGON 690587670 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Tadeusza Boya-Żeleńskiego 19A 1.5.2.) Miejscowość: Rzeszów 1.5.3.) Kod pocztowy: 35-105 1.5.4.) Województwo: podkarpackie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL823 - Rzeszowski 1.5.9.) Adres poczty elektronicznej: biuro@pzdw.pl 1.5.10.) Adres strony internetowej zamawiającego: https://www.pzdw.pl/ 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sek",
+  "cpv": [
+   "71242000-6",
+   "71320000-7",
+   "71245000-7",
+   "71332000-4",
+   "71354000-4",
+   "71313400-9",
+   "71248000-8",
+   "71241000-9"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-08",
+  "hash": "e3fc89d5136c0b2c796caf9f5ea65b43423ed188bdd4b892a6ebbcc13a6e8368"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej dla zadania pn.: „Budowa dojść do przystanku nr 269 (Opolska) przy ul. Augustowskiej w Olsztynie”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-8a0ecde9-0bea-4436-b23c-323f1701f1e3",
+  "zamawiajacy": "ZARZĄD DRÓG ZIELENI I TRANSPORTU W OLSZTYNIE",
+  "data_publikacji": "2026-10-08",
+  "termin_skladania": "2026-10-19T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00477169 z dnia 2026-10-08 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej dla zadania pn.: „Budowa dojść do przystanku nr 269 (Opolska) przy ul. Augustowskiej w Olsztynie” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: ZARZĄD DRÓG ZIELENI I TRANSPORTU W OLSZTYNIE 1.4) Krajowy Numer Identyfikacyjny: REGON 281358034 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Ryszarda Knosały 3 lokal 5B 1.5.2.) Miejscowość: Olsztyn 1.5.3.) Kod pocztowy: 10-015 1.5.4.) Województwo: warmińsko-mazurskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL622 - Olsztyński 1.5.9.) Adres poczty elektronicznej: przetargi@zdzit.olsztyn.eu 1.5.10.) Adres strony internetowej zamawiającego: www.zdzit.olsztyn.eu 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - ",
+  "cpv": [
+   "71320000-7"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-08",
+  "hash": "459b78051942936ce63bf23e0b201160ec78fe93fa60c777bb17748a74b7e667"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowej i kosztorysowej dla zadania pn. ,,Przebudowa dachu na części budynku świetlicy wiejskiej w Czerniczynie”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-e856718a-a457-4b20-abf3-84ce6a304ae5",
+  "zamawiajacy": "Gmina Hrubieszów",
+  "data_publikacji": "2026-10-08",
+  "termin_skladania": "2026-10-19T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00477036 z dnia 2026-10-08 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowej i kosztorysowej dla zadania pn. ,,Przebudowa dachu na części budynku świetlicy wiejskiej w Czerniczynie” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Hrubieszów 1.4) Krajowy Numer Identyfikacyjny: REGON 950368782 1.5) Adres zamawiającego 1.5.1.) Ulica: B. Prusa 8 1.5.2.) Miejscowość: Hrubieszów 1.5.3.) Kod pocztowy: 22-500 1.5.4.) Województwo: lubelskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL812 - Chełmsko-zamojski 1.5.7.) Numer telefonu: (84) 696-26-81 1.5.9.) Adres poczty elektronicznej: sekretariat@hrubieszow-gmina.pl 1.5.10.) Adres strony internetowej zamawiającego: http://ughrubieszow.bip.lubelskie.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansó",
+  "cpv": [
+   "71000000-8",
+   "71220000-6",
+   "71240000-2",
+   "71242000-6",
+   "71248000-8",
+   "71320000-7"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-08",
+  "hash": "fe0a982099a8fb96a6ce6ee669dba6de6fc82715bba18082cd119633cb3ca956"
  },
  {
   "zrodlo": "ted",
@@ -12157,8 +12235,50 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-07",
+  "dodano": "2026-10-08",
   "hash": "919b0a9fdbbca0e2f1faa0c6acf6541a3629a4da9247bd80585379dabe6642c4"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Nadzór nad robotami budowlanymi – Pełnienie funkcji Inżyniera Kontraktu dla strategicznej inwestycji budowlanej pn. Przebudowa i rozbudowa wraz z doposażeniem Pabianickiego Centrum Psychiatrycznego dla projektu strategicznego wskazanego do finansowania ze środków Funduszu Medycznego w konkursie nr FM-SIS.03.PSYCH.2024",
+  "url": "https://ted.europa.eu/en/notice/-/detail/695000-2026",
+  "zamawiajacy": "Pabianickie Centrum Medyczne Sp. z o.o.",
+  "data_publikacji": "2026-10-08",
+  "termin_skladania": "2026-10-19T11:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71247000",
+   "71240000",
+   "71000000",
+   "71242000",
+   "71244000",
+   "71320000",
+   "71520000",
+   "71530000",
+   "71541000",
+   "71540000",
+   "71248000",
+   "79400000",
+   "71247000",
+   "71240000",
+   "71000000",
+   "71242000",
+   "71244000",
+   "71520000",
+   "71320000",
+   "71530000",
+   "71541000",
+   "71540000",
+   "71248000",
+   "79400000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-10",
+  "hash": "9ba9dcad20f7ef4fd9e399a17b9f217412f95813ce917a13947cdd1d9181a299"
  },
  {
   "zrodlo": "ted",
@@ -12225,7 +12345,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-07",
+  "dodano": "2026-10-08",
   "hash": "f1e8f39a5f0732eb897c698730f845da86bfb0437965840977eb8f63f436994a"
  },
  {
@@ -12482,8 +12602,31 @@
    "roboty-budowlane"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-07",
+  "dodano": "2026-10-08",
   "hash": "7a35292493d4b2c487c510af2d049b1d6d2598856ccddada2354f9374ec1fa12"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "„Opracowanie kompleksowej dokumentacji projektowo-kosztorysowej przebudowy płyty boiska stadionu miejskiego przy ul. Mokronoskich 4 wraz z podgrzewaniem murawy i odwodnieniem\".",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-663d34ef-5e4d-4ac6-9c4b-8c21966c82ee",
+  "zamawiajacy": "GMINA GRODZISK MAZOWIECKI",
+  "data_publikacji": "2026-10-08",
+  "termin_skladania": "2026-10-20T10:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00477588 z dnia 2026-10-08 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi „Opracowanie kompleksowej dokumentacji projektowo-kosztorysowej przebudowy płyty boiska stadionu miejskiego przy ul. Mokronoskich 4 wraz z podgrzewaniem murawy i odwodnieniem&#34;. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: GMINA GRODZISK MAZOWIECKI 1.4) Krajowy Numer Identyfikacyjny: REGON 013269137 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. T. Kościuszki 12A 1.5.2.) Miejscowość: Grodzisk Mazowiecki 1.5.3.) Kod pocztowy: 05-825 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL913 - Warszawski zachodni 1.5.9.) Adres poczty elektronicznej: zamowienia@grodzisk.pl 1.5.10.) Adres strony internetowej zamawiającego: www.grodzisk.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora fi",
+  "cpv": [
+   "71320000-7",
+   "71221000-3",
+   "71248000-8"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-08",
+  "hash": "f991d18d98af40142dfc25c1f34be6b4c51745224e298c7dc807a396025685da"
  },
  {
   "zrodlo": "bip:tauron",
@@ -12777,6 +12920,25 @@
   "hash": "c784b9cdee1f7e85162015a9f8d4760dd60e414b679e87094eae80d5cfe63d26"
  },
  {
+  "zrodlo": "bip:tauron",
+  "tytul": "174/2026/RZ1 - Opracowanie dokumentacji projektowej i wykonanie robót budowlano-montażowych dla zadania pod nazwą: Przebudowa linii kablowej SN L-860 oraz L-859 w m. Świeradów-Zdrój - wymiana kabli po istniejącej trasie: stacja JGL86002 kierunek stacja JGL86003; stacja JGL86002 kierunek stacja JGL85911 oraz WK SN JGL859z5 kierunek stacja JGL85912 - (KZ JG/001533/26)",
+  "url": "https://swoz.tauron.pl/platform/demand/notice/public/current/list",
+  "zamawiajacy": "TAURON Dystrybucja S.A.",
+  "data_publikacji": "2026-10-08",
+  "termin_skladania": "2026-10-22 11:00",
+  "opis": null,
+  "cpv": [],
+  "score": 8,
+  "tagi": [
+   "giełdowa",
+   "spolka-sp",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-08",
+  "hash": "55daecc5125684c863704855d1df390fcaf33a40f824402328726bb089f2ef9e"
+ },
+ {
   "zrodlo": "bzp",
   "tytul": "Opracowanie kompletnej dokumentacji projektowej dla zadania pn. „Budowa hali sportowej wraz z łącznikiem i zapleczem technicznym przy Szkole Podstawowej nr 1 w Skale”",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-fbeea301-7a6e-4ab8-be23-09a0ae130d98",
@@ -12798,6 +12960,25 @@
   "status_opisu": "pobrany",
   "dodano": "2026-10-07",
   "hash": "6fb64deae81c7c3adbb6e9d2051a4a600366f458840a29b621f5155016773d7a"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie zmian w dokumentacji projektowo - kosztorysowej przebudowy budynku mieszkalnego wielorodzinnego wraz przebudową wewnętrznej instalacji gazu w Rybniku przy ul. Cmentarnej 15",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-7d91a950-ae86-4c94-8af6-66eecd78a73c",
+  "zamawiajacy": "ZAKŁAD GOSPODARKI MIESZKANIOWEJ",
+  "data_publikacji": "2026-10-08",
+  "termin_skladania": "2026-10-22T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00476715 z dnia 2026-10-08 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie zmian w dokumentacji projektowo - kosztorysowej przebudowy budynku mieszkalnego wielorodzinnego wraz przebudową wewnętrznej instalacji gazu w Rybniku przy ul. Cmentarnej 15 SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: ZAKŁAD GOSPODARKI MIESZKANIOWEJ 1.4) Krajowy Numer Identyfikacyjny: REGON 271505550 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Tadeusza Kościuszki 17 1.5.2.) Miejscowość: Rybnik 1.5.3.) Kod pocztowy: 44-200 1.5.4.) Województwo: śląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL227 - Rybnicki 1.5.7.) Numer telefonu: 32 4294865 1.5.9.) Adres poczty elektronicznej: dzp@zgm.rybnik.pl 1.5.10.) Adres strony internetowej zamawiającego: https://www.zgm.rybnik.pl 1.6.) Rodzaj zamawiającego: Zamawiający publicz",
+  "cpv": [
+   "71221000-3"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-08",
+  "hash": "2b60de577060686c689c009f3bb64437e6b55530d106dbf8c95a97458e507dc7"
  },
  {
   "zrodlo": "ted",
@@ -12907,7 +13088,7 @@
    "samorząd"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-07",
+  "dodano": "2026-10-08",
   "hash": "4210d16903fe82289765e99e28035cb57095e24dded7a6e8e851a22386c288c3"
  },
  {
@@ -12993,6 +13174,47 @@
   "hash": "48b728dddac985dede9efb8cbe4e30df9709f31762e012956d67d6fc15c7d0dd"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie kompletnej dokumentacji projektowej a następnie przeprowadzenie robót budowlanych z podziałem na Część Nr 1 oraz Część Nr 2",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-3ffc0b64-de1e-4150-8208-cb9c4b4f378d",
+  "zamawiajacy": "POWIAT PŁOŃSKI",
+  "data_publikacji": "2026-10-08",
+  "termin_skladania": "2026-10-23T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00477649 z dnia 2026-10-08 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Roboty budowlane Wykonanie kompletnej dokumentacji projektowej a następnie przeprowadzenie robót budowlanych z podziałem na Część Nr 1 oraz Część Nr 2 SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: POWIAT PŁOŃSKI 1.4) Krajowy Numer Identyfikacyjny: REGON 130377712 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Płocka 39 1.5.2.) Miejscowość: Płońsk 1.5.3.) Kod pocztowy: 09-100 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL922 - Ciechanowski 1.5.9.) Adres poczty elektronicznej: bpietrzyk@powiat-plonski.pl 1.5.10.) Adres strony internetowej zamawiającego: www.powiat-plonski.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Prz",
+  "cpv": [
+   "45000000-7",
+   "71220000-6",
+   "71320000-7",
+   "35120000-1",
+   "45111300-1",
+   "45213220-1",
+   "45310000-3",
+   "45311200-2",
+   "45316000-5",
+   "45330000-9",
+   "45331100-7",
+   "45400000-1",
+   "45421100-5",
+   "45430000-0",
+   "45442100-8",
+   "45453000-7",
+   "45112000-5",
+   "45232130-2",
+   "45312310-3",
+   "43124100-9"
+  ],
+  "score": 10,
+  "tagi": [
+   "cpv-71",
+   "roboty-budowlane",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-08",
+  "hash": "3cd5fb898167b2f05bd5b47214260752b85697fe9dd9ee3672d8d67dcd5d1095"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Usługi inżynierii projektowej w zakresie inżynierii lądowej i wodnej – Opracowanie dokumentacji projektowej dla projektu pn.: „Budowa linii łączącej Bełchatów z linią 131”",
   "url": "https://ted.europa.eu/en/notice/-/detail/683673-2026",
@@ -13012,7 +13234,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-07",
+  "dodano": "2026-10-08",
   "hash": "6d2b6a960cc7482f5b5eb73f9c87fb7b5f010072df781975db15533ed9654480"
  },
  {
@@ -13093,7 +13315,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-07",
+  "dodano": "2026-10-08",
   "hash": "1417754ce4def456061f642b6f971a5f7b8f7151b577b2fa553dd0288e133d22"
  },
  {
@@ -13121,7 +13343,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-07",
+  "dodano": "2026-10-08",
   "hash": "c902dc7004560dcf2716e656ae9eef051ae0987faf9e608b1ce1f884a2b1eee9"
  },
  {
@@ -13210,6 +13432,35 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Usługi instalowania urządzeń elektrycznych i mechanicznych – Przedmiotem zamówienia jest kompleksowa realizacja zadania pn.: „Modernizacja zasuw, krat i systemu sterowania na zamku wodnym EW Żur”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/696239-2026",
+  "zamawiajacy": "ENEA Nowa Energia sp. z o.o.",
+  "data_publikacji": "2026-10-08",
+  "termin_skladania": "2026-10-26T10:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "51100000",
+   "71320000",
+   "45240000",
+   "45315700",
+   "50530000",
+   "51100000",
+   "45351000",
+   "71320000",
+   "45315100",
+   "71323100",
+   "50530000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-09",
+  "hash": "86719ce08cabd8e07692fe5c37be1a601997c385a0e7dca1259e0edd5de3fc35"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi zarządzania projektem budowlanym – Sprawowanie nadzoru inwestorskiego wraz z pozostałymi czynnościami związanymi z obsługą i rozliczeniem dla projektu pn.: \"Wsparcie rehabilitacji onkologicznej w Zachodniopomorskim Centrum Onkologii\".",
   "url": "https://ted.europa.eu/en/notice/-/detail/666504-2026",
   "zamawiajacy": "Szpitale Zachodniopomorskie Samodzielny Publiczny Zakład Opieki Zdrowotnej",
@@ -13239,6 +13490,34 @@
   "status_opisu": "brak",
   "dodano": "2026-09-28",
   "hash": "55de04e7ae879545c60dfd5e05b5f9c771bbf359dea4d6bf36c5bbb5d442066c"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi nadzoru budowlanego – Pełnienie nadzoru dla zaprojektowania i wykonania robót na linii kolejowej nr 68 na odcinku Stalowa Wola Rozwadów – Przeworsk wraz z pełnieniem nadzoru autorskiego w ramach projektu pn.: Prace na linii kolejowej nr 68 na odcinku Stalowa Wola Rozwadów – Przeworsk - etap I",
+  "url": "https://ted.europa.eu/en/notice/-/detail/694983-2026",
+  "zamawiajacy": "PKP Polskie Linie Kolejowe S.A.",
+  "data_publikacji": "2026-10-08",
+  "termin_skladania": "2026-10-27T10:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71520000",
+   "71247000",
+   "71521000",
+   "71248000",
+   "71520000",
+   "71247000",
+   "71521000",
+   "71248000"
+  ],
+  "score": 5,
+  "tagi": [
+   "bonus-ue/strategiczny",
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-29",
+  "hash": "1111628e57d34ff92a613026152fb54fdd2a09a6aba96bcadc6063103b2b9f3b"
  },
  {
   "zrodlo": "ted",
@@ -13653,7 +13932,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-07",
+  "dodano": "2026-10-08",
   "hash": "4dbf09c1f4480bc624953d08139f2dd3b5698916f686a11eb5ae37e68620eae0"
  },
  {
@@ -14079,7 +14358,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-07",
+  "dodano": "2026-10-08",
   "hash": "f8f98c888cf754c15e67dda5aeb5ab9cc70eef1bb99ca89d96275b9c5c2fc55c"
  },
  {
@@ -14334,6 +14613,27 @@
   "status_opisu": "brak",
   "dodano": "2026-10-07",
   "hash": "f65c3307c7d8c80b291d6008a10fb6143d265f4a77a520ae4d3b4c744af6d66f"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – „Zabezpieczenie przed powodzią miasta Dzierżoniów. Budowa zbiornika przeciwpowodziowego na rz. Piława w km 33+400 – opracowanie dokumentacji projektowej”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/693315-2026",
+  "zamawiajacy": "Państwowe Gospodarstwo Wodne Wody Polskie",
+  "data_publikacji": "2026-10-08",
+  "termin_skladania": "2026-11-10T09:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71320000",
+   "71320000"
+  ],
+  "score": 9,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-08",
+  "hash": "7a9a87a683b11f0e58606b720225e8845a08064e865e34c041ecc819e0db1c42"
  },
  {
   "zrodlo": "ted",
