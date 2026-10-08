@@ -21,10 +21,10 @@
  },
  "pz-search": {
   "ok": true,
-  "count": 5
+  "count": 1
  },
  "bzp": {
-  "ok": true,
-  "count": 42
+  "ok": false,
+  "count": 0
  }
 }
