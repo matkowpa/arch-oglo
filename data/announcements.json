@@ -11408,7 +11408,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-05",
+  "dodano": "2026-10-09",
   "hash": "a0c3e32871d7fc3db69da73ffd761590e50778e5ee3e29b81ec42f99f1c98b6d"
  },
  {
@@ -11850,6 +11850,50 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej i kosztorysowej dla Etapu III na podstawie koncepcji zagospodarowania terenu KW PSP w Gdańsku Klukowie",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-0df14a8c-a6bf-4313-ab0a-549173496f28",
+  "zamawiajacy": "KOMENDA WOJEWÓDZKA PAŃSTWOWEJ STRAŻY POŻARNEJ W GDAŃSKU",
+  "data_publikacji": "2026-10-09",
+  "termin_skladania": "2026-10-19T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00480623 z dnia 2026-10-09 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej i kosztorysowej dla Etapu III na podstawie koncepcji zagospodarowania terenu KW PSP w Gdańsku Klukowie SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: KOMENDA WOJEWÓDZKA PAŃSTWOWEJ STRAŻY POŻARNEJ W GDAŃSKU 1.4) Krajowy Numer Identyfikacyjny: REGON 000173568 1.5) Adres zamawiającego 1.5.1.) Ulica: Sosnowa 2 1.5.2.) Miejscowość: Gdańsk 1.5.3.) Kod pocztowy: 80-251 1.5.4.) Województwo: pomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL633 - Trójmiejski 1.5.7.) Numer telefonu: +48 58 347 78 00 1.5.8.) Numer faksu: +48 58 347 78 33 1.5.9.) Adres poczty elektronicznej: sekretariat@straz.gda.pl 1.5.10.) Adres strony internetowej zamawiającego: https://www.gov.pl/web/kwpsp-gdansk/komenda-wojewodzk",
+  "cpv": [
+   "71000000-8",
+   "71221000-3",
+   "71220000-6",
+   "71248000-8"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-09",
+  "hash": "3ab930200e0fde014b5501e5bda610726b986e1c8cecf9dd37f4b9b0e48b81cf"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej rozbudowy ul. Świerkowej wraz z przebudową sięgaczy w miejscowości Borowa",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-b98c0a29-bf00-4239-84c4-7f8befd93ff2",
+  "zamawiajacy": "Gmina Długołęka",
+  "data_publikacji": "2026-10-09",
+  "termin_skladania": "2026-10-19T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00480703 z dnia 2026-10-09 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej rozbudowy ul. Świerkowej wraz z przebudową sięgaczy w miejscowości Borowa SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Długołęka 1.4) Krajowy Numer Identyfikacyjny: REGON 931935017 1.5) Adres zamawiającego 1.5.1.) Ulica: Robotnicza 12 1.5.2.) Miejscowość: Długołęka 1.5.3.) Kod pocztowy: 55-095 1.5.4.) Województwo: dolnośląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL518 - Wrocławski 1.5.9.) Adres poczty elektronicznej: k.michalak@gmina.dlugoleka.pl 1.5.10.) Adres strony internetowej zamawiającego: https://dlugoleka.bip.net.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Przedmiot działalności z",
+  "cpv": [
+   "71320000-7"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-09",
+  "hash": "53b6651c3ae8176501c4071702b2f8ef98fc01c08cb4a930a9ee3a2c190cd429"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Opracowanie dokumentacji projektowej usytuowania i posadowienia pergoli śmietnikowej dla budynków mieszkalnych wielorodzinnych przy ul. Limanowskiego 25 i 27 w Żyrardowie",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-d5c7f726-7a5e-4366-8fd4-0c8c33a97d62",
   "zamawiajacy": "Przedsiębiorstwo Gospodarki Mieszkaniowej Żyrardów Sp. z o.o.",
@@ -12279,7 +12323,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-03",
+  "dodano": "2026-10-09",
   "hash": "087d03f9ebac3177b19d0f160e3f7e0812d55a2fcdd688acdf575996a4668d8e"
  },
  {
@@ -12430,7 +12474,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-03",
+  "dodano": "2026-10-09",
   "hash": "4fb0351bf0a310c68a38241d39fbe35961fd6ebda7fe75b653511145422e154a"
  },
  {
@@ -13046,6 +13090,33 @@
   "hash": "a5a4d5eefb81c2337975c692d9438b25bef78aa425ee275d066d1b4a020be775"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie prac projektowych i montażowych kompletnej instalacji fotowoltaicznej o mocy 37 kWp zlokalizowanej w Nadleśnictwie Nurzec, ul. Akacjowa 3; 17-330 Nurzec Stacja",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-a927d9e5-0f89-4aff-a25d-8d6c18fcf1df",
+  "zamawiajacy": "Zakład Usług Leśnych w Bystrzycy Kłodzkiej",
+  "data_publikacji": "2026-10-09",
+  "termin_skladania": "2026-10-21T09:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00480807 z dnia 2026-10-09 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Dostawy Wykonanie prac projektowych i montażowych kompletnej instalacji fotowoltaicznej o mocy 37 kWp zlokalizowanej w Nadleśnictwie Nurzec, ul. Akacjowa 3; 17-330 Nurzec Stacja SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Zakład Usług Leśnych w Bystrzycy Kłodzkiej 1.4) Krajowy Numer Identyfikacyjny: REGON 890197772 1.5) Adres zamawiającego 1.5.1.) Ulica: Nadbrzeżna 11 1.5.2.) Miejscowość: Bystrzyca Kłodzka 1.5.3.) Kod pocztowy: 57-500 1.5.4.) Województwo: dolnośląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL517 - Wałbrzyski 1.5.9.) Adres poczty elektronicznej: zulbystrzyca@wroclaw.lasy.gov.pl 1.5.10.) Adres strony internetowej zamawiającego: https://zulbystrzyca.wroclaw.lasy.gov.pl/ 1.6.) Rodzaj zamawiającego: Zamawiający publicz",
+  "cpv": [
+   "09332000-5",
+   "45310000-3",
+   "71320000-7",
+   "45311000-0",
+   "09331200-0",
+   "45111200-0",
+   "45223800-4",
+   "45223110-0",
+   "45342000-6"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-09",
+  "hash": "173c6d05b32c894b46615643d42d42df93d10f92e754aa170be362143cda4ed4"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Roboty budowlane – Modernizacja stacji elektroenergetycznej 110/15 kV Łososina tryb zaprojektuj i wybuduj",
   "url": "https://ted.europa.eu/en/notice/-/detail/631172-2026",
@@ -13201,6 +13272,25 @@
   "status_opisu": "brak",
   "dodano": "2026-10-08",
   "hash": "55daecc5125684c863704855d1df390fcaf33a40f824402328726bb089f2ef9e"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "wykonanie dokumentacji projektowo - kosztorysowej wraz z nadzorem autorskim",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-a2610e19-f66f-478d-80fd-7de1b6a6e0a5",
+  "zamawiajacy": "KRAJOWY OŚRODEK WSPARCIA ROLNICTWA",
+  "data_publikacji": "2026-10-09",
+  "termin_skladania": "2026-10-22T06:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00480616 z dnia 2026-10-09 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi wykonanie dokumentacji projektowo - kosztorysowej wraz z nadzorem autorskim SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: KRAJOWY OŚRODEK WSPARCIA ROLNICTWA 1.3.) Oddział zamawiającego: ODDZIAŁ TERENOWY W POZNANIU 1.4) Krajowy Numer Identyfikacyjny: REGON 367849538 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Fredry12 1.5.2.) Miejscowość: Poznań 1.5.3.) Kod pocztowy: 61-701 1.5.4.) Województwo: wielkopolskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL415 - Miasto Poznań 1.5.9.) Adres poczty elektronicznej: zamowienia.publiczne.poznan@kowr.gov.pl 1.5.10.) Adres strony internetowej zamawiającego: www.kowr.gov.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - agencja wykonawcza 1.7.) Pr",
+  "cpv": [
+   "71320000-7"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-09",
+  "hash": "408bae891e92d42d7636b397ea319ebd04be89e80f9baa260b9ed7d2d4ddff07"
  },
  {
   "zrodlo": "bzp",
