@@ -7778,27 +7778,6 @@
  },
  {
   "zrodlo": "bzp",
-  "tytul": "Opracowanie dokumentacji projektowej usytuowania i posadowienia pergoli śmietnikowej dla budynków mieszkalnych wielorodzinnych przy ul. Limanowskiego 25 i 27 w Żyrardowie",
-  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-95c5dd66-d12d-425d-8a33-ca539a240031",
-  "zamawiajacy": "Przedsiębiorstwo Gospodarki Mieszkaniowej Żyrardów Sp. z o.o.",
-  "data_publikacji": "2026-09-24",
-  "termin_skladania": "2026-10-05T08:00:00Z",
-  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00453663 z dnia 2026-09-24 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej usytuowania i posadowienia pergoli śmietnikowej dla budynków mieszkalnych wielorodzinnych przy ul. Limanowskiego 25 i 27 w Żyrardowie SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Przedsiębiorstwo Gospodarki Mieszkaniowej Żyrardów Sp. z o.o. 1.4) Krajowy Numer Identyfikacyjny: REGON 750087960 1.5) Adres zamawiającego 1.5.1.) Ulica: Armii Krajowej 5 1.5.2.) Miejscowość: Żyrardów 1.5.3.) Kod pocztowy: 96-300 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL926 - Żyrardowski 1.5.9.) Adres poczty elektronicznej: dzp@pgm.zyrardow.pl 1.5.10.) Adres strony internetowej zamawiającego: www.pgm.zyrardow.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - osoba prawna, o k",
-  "cpv": [
-   "71320000-7",
-   "71220000-6"
-  ],
-  "score": 12,
-  "tagi": [
-   "cpv-71",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "pobrany",
-  "dodano": "2026-09-24",
-  "hash": "22cc6192ebc1f902bf8476d1144b135e0a61e612c597727f651bb19e9d167aaf"
- },
- {
-  "zrodlo": "bzp",
   "tytul": "Opracowanie wielobranżowej dokumentacji projektowej dla przedsięwzięcia polegającego na budowie obiektu wielofunkcyjnego wraz z miejscami ukrycia w Mircu",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-a9d05225-da60-492a-b927-3264c1fa0979",
   "zamawiajacy": "GMINA MIRZEC",
@@ -9745,54 +9724,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Usługi inżynierii projektowej w zakresie inżynierii lądowej i wodnej – Opracowanie dokumentacji projektowej wraz z pełnieniem nadzoru autorskiego dla zadania inwestycyjnego pn.: „Przebudowa odcinka linii kolejowej nr 285 w zakresie wyniesienia toru na obiekt inżynieryjny nad ul. Bardzką we Wrocławiu\" w ramach projektu pn.: „Projekty przygotowawcze”",
-  "url": "https://ted.europa.eu/en/notice/-/detail/678414-2026",
-  "zamawiajacy": "PKP Polskie Linie Kolejowe S.A.",
-  "data_publikacji": "2026-10-02",
-  "termin_skladania": "2026-10-12T10:00:00+01:00",
-  "opis": null,
-  "cpv": [
-   "71322000",
-   "71248000",
-   "71247000",
-   "71322000",
-   "71248000",
-   "71247000"
-  ],
-  "score": 10,
-  "tagi": [
-   "bonus-ue/strategiczny",
-   "cpv-71",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-10-05",
-  "hash": "c70001b752ea2d4edff96a0e4c2f639f1e9a78c6c3d8c9ebe469a29f273230e1"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Usługi architektoniczne w zakresie obiektów budowlanych – KWP Katowice – modernizacja budynków A, B, C, etap I z przystosowaniem do przepisów przeciwpożarowych budynków KWP w Katowicach przy ul. Lompy 19",
-  "url": "https://ted.europa.eu/en/notice/-/detail/673350-2026",
-  "zamawiajacy": "Komenda Wojewódzka Policji w Katowicach",
-  "data_publikacji": "2026-09-30",
-  "termin_skladania": "2026-10-12T10:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71221000",
-   "71320000",
-   "71221000",
-   "71320000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-10-03",
-  "hash": "db2315da914c38f899ddd787de3418cd7ef82199d437afbd34b49ddcc5fdca92"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Usługi projektowania architektonicznego – Wykonanie wielobranżowej dokumentacji projektowej wraz z niezbędnymi uzgodnieniami w zakresie budowy zespołu budynków mieszkalnych wielorodzinnych oraz pełnienie nadzoru autorskiego",
   "url": "https://ted.europa.eu/en/notice/-/detail/625262-2026",
   "zamawiajacy": "SIM CHEŁM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
@@ -9903,38 +9834,6 @@
   "status_opisu": "pobrany",
   "dodano": "2026-10-02",
   "hash": "ef971accde1c7fd67c24fbbcf0648fb859c3fc07dd8611c5f349c5e3512f3a62"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Usługi architektoniczne, budowlane, inżynieryjne i kontrolne – Opracowanie dokumentacji projektowej wraz z pełnieniem nadzoru autorskiego dla zadania pn. „Budowa ul. Nowej Wyzwolenia w Gdańsku”",
-  "url": "https://ted.europa.eu/en/notice/-/detail/679979-2026",
-  "zamawiajacy": "Dyrekcja Rozbudowy Miasta Gdańska działająca w imieniu i na rzecz Gminy Miasta Gdańska",
-  "data_publikacji": "2026-10-02",
-  "termin_skladania": "2026-10-12T11:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71000000",
-   "71300000",
-   "71220000",
-   "71240000",
-   "71332000",
-   "71320000",
-   "71000000",
-   "71300000",
-   "71220000",
-   "71240000",
-   "71332000",
-   "71320000"
-  ],
-  "score": 8,
-  "tagi": [
-   "cpv-71",
-   "samorząd",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-10-03",
-  "hash": "f5e4dadfe4187f2923d4172c8df996c2621cd83b0ceba5eea26685d1a399c71c"
  },
  {
   "zrodlo": "ted",
@@ -10992,7 +10891,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-08",
+  "dodano": "2026-10-09",
   "hash": "f44d6a0560baae93616ee3e6d98ff8fe2b7d9a43fdd6eb46aaf34b30731f327b"
  },
  {
@@ -11384,7 +11283,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-08",
+  "dodano": "2026-10-09",
   "hash": "9ff7b24d88888e5cf5f02ee32d5a2091a553d432458191e03e9f6bbe8cd46e53"
  },
  {
@@ -11485,6 +11384,32 @@
   "status_opisu": "brak",
   "dodano": "2026-09-15",
   "hash": "516cc4e16572fa9413e1f0142971f30aef7480e6bbe9ed6a34a95dd3ec30ff5b"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynierii projektowej w zakresie inżynierii lądowej i wodnej – Opracowanie dokumentacji projektowej wraz z pełnieniem nadzoru autorskiego dla zadania inwestycyjnego pn.: „Przebudowa odcinka linii kolejowej nr 285 w zakresie wyniesienia toru na obiekt inżynieryjny nad ul. Bardzką we Wrocławiu\" w ramach projektu pn.: „Projekty przygotowawcze”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/698574-2026",
+  "zamawiajacy": "PKP Polskie Linie Kolejowe S.A.",
+  "data_publikacji": "2026-10-09",
+  "termin_skladania": "2026-10-16T10:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71322000",
+   "71248000",
+   "71247000",
+   "71322000",
+   "71248000",
+   "71247000"
+  ],
+  "score": 10,
+  "tagi": [
+   "bonus-ue/strategiczny",
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-05",
+  "hash": "a0c3e32871d7fc3db69da73ffd761590e50778e5ee3e29b81ec42f99f1c98b6d"
  },
  {
   "zrodlo": "ted",
@@ -11925,6 +11850,48 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej usytuowania i posadowienia pergoli śmietnikowej dla budynków mieszkalnych wielorodzinnych przy ul. Limanowskiego 25 i 27 w Żyrardowie",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-d5c7f726-7a5e-4366-8fd4-0c8c33a97d62",
+  "zamawiajacy": "Przedsiębiorstwo Gospodarki Mieszkaniowej Żyrardów Sp. z o.o.",
+  "data_publikacji": "2026-10-09",
+  "termin_skladania": "2026-10-19T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00480494 z dnia 2026-10-09 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej usytuowania i posadowienia pergoli śmietnikowej dla budynków mieszkalnych wielorodzinnych przy ul. Limanowskiego 25 i 27 w Żyrardowie SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Przedsiębiorstwo Gospodarki Mieszkaniowej Żyrardów Sp. z o.o. 1.4) Krajowy Numer Identyfikacyjny: REGON 750087960 1.5) Adres zamawiającego 1.5.1.) Ulica: Armii Krajowej 5 1.5.2.) Miejscowość: Żyrardów 1.5.3.) Kod pocztowy: 96-300 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL926 - Żyrardowski 1.5.9.) Adres poczty elektronicznej: dzp@pgm.zyrardow.pl 1.5.10.) Adres strony internetowej zamawiającego: www.pgm.zyrardow.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - osoba prawna, o k",
+  "cpv": [
+   "71320000-7",
+   "71220000-6"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-24",
+  "hash": "c2acebfe705a4b8b7bb895d72a87fd661376e4d34e5f77216ab60b6a5ed80e31"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowo-kosztorysowej dla zadania pn. \"Modernizacja Stadionu Miejskiego w Rykach”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-b42baf3f-fe19-4b7a-aa8f-e5a0f74a1782",
+  "zamawiajacy": "GMINA RYKI",
+  "data_publikacji": "2026-10-09",
+  "termin_skladania": "2026-10-19T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00479866 z dnia 2026-10-09 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowo-kosztorysowej dla zadania pn. &#34;Modernizacja Stadionu Miejskiego w Rykach” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: GMINA RYKI 1.3.) Oddział zamawiającego: w imieniu której działa Burmistrz Ryk 1.4) Krajowy Numer Identyfikacyjny: REGON 431020121 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Karola Wojtyły 29 1.5.2.) Miejscowość: Ryki 1.5.3.) Kod pocztowy: 08-500 1.5.4.) Województwo: lubelskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL815 - Puławski 1.5.9.) Adres poczty elektronicznej: ryki@ryki.pl 1.5.10.) Adres strony internetowej zamawiającego: http://www.ryki.pl/ 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytori",
+  "cpv": [
+   "71220000-6"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-09",
+  "hash": "e64f132c7d9a70bbafafc3d38761606ea4826d153cc2aca8242d977bca749886"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Wykonanie dokumentacji projektowej i kosztorysowej dla zadania pn. ,,Przebudowa dachu na części budynku świetlicy wiejskiej w Czerniczynie”",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-e856718a-a457-4b20-abf3-84ce6a304ae5",
   "zamawiajacy": "Gmina Hrubieszów",
@@ -12295,6 +12262,28 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Usługi architektoniczne w zakresie obiektów budowlanych – KWP Katowice – modernizacja budynków A, B, C, etap I z przystosowaniem do przepisów przeciwpożarowych budynków KWP w Katowicach przy ul. Lompy 19",
+  "url": "https://ted.europa.eu/en/notice/-/detail/698056-2026",
+  "zamawiajacy": "Komenda Wojewódzka Policji w Katowicach",
+  "data_publikacji": "2026-10-09",
+  "termin_skladania": "2026-10-19T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71221000",
+   "71320000",
+   "71221000",
+   "71320000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-03",
+  "hash": "087d03f9ebac3177b19d0f160e3f7e0812d55a2fcdd688acdf575996a4668d8e"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi projektowania architektonicznego – Opracowanie dokumentacji projektowo-kosztorysowej dla zadania „Rozbudowa Sądu Rejonowego w Lidzbarku Warmińskim przy ul. Bartoszyckiej 4A”",
   "url": "https://ted.europa.eu/en/notice/-/detail/488234-2026",
   "zamawiajacy": "Sąd Okręgowy w Olsztynie",
@@ -12345,7 +12334,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-08",
+  "dodano": "2026-10-09",
   "hash": "919b0a9fdbbca0e2f1faa0c6acf6541a3629a4da9247bd80585379dabe6642c4"
  },
  {
@@ -12409,8 +12398,40 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-08",
+  "dodano": "2026-10-09",
   "hash": "9ba9dcad20f7ef4fd9e399a17b9f217412f95813ce917a13947cdd1d9181a299"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi architektoniczne, budowlane, inżynieryjne i kontrolne – Opracowanie dokumentacji projektowej wraz z pełnieniem nadzoru autorskiego dla zadania pn. „Budowa ul. Nowej Wyzwolenia w Gdańsku”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/699943-2026",
+  "zamawiajacy": "Dyrekcja Rozbudowy Miasta Gdańska działająca w imieniu i na rzecz Gminy Miasta Gdańska",
+  "data_publikacji": "2026-10-09",
+  "termin_skladania": "2026-10-19T11:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71000000",
+   "71300000",
+   "71220000",
+   "71240000",
+   "71332000",
+   "71320000",
+   "71000000",
+   "71300000",
+   "71220000",
+   "71240000",
+   "71332000",
+   "71320000"
+  ],
+  "score": 8,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-03",
+  "hash": "4fb0351bf0a310c68a38241d39fbe35961fd6ebda7fe75b653511145422e154a"
  },
  {
   "zrodlo": "ted",
@@ -12561,6 +12582,26 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej rozbudowy DG 530143W ul. Skaryszewskiej w Radomiu na odc. od ul. Słowackiego do ul. Skrzydlatej",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-aa82e6e2-3ac0-4451-b8ed-af9b7dba6631",
+  "zamawiajacy": "MIEJSKI ZARZĄD DRÓG I KOMUNIKACJI",
+  "data_publikacji": "2026-10-09",
+  "termin_skladania": "2026-10-20T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00480312 z dnia 2026-10-09 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej rozbudowy DG 530143W ul. Skaryszewskiej w Radomiu na odc. od ul. Słowackiego do ul. Skrzydlatej SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: MIEJSKI ZARZĄD DRÓG I KOMUNIKACJI 1.3.) Oddział zamawiającego: Dział Zamówień 1.4) Krajowy Numer Identyfikacyjny: REGON 141100028 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Romualda Traugutta 30/30A 1.5.2.) Miejscowość: Radom 1.5.3.) Kod pocztowy: 26-600 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL921 - Radomski 1.5.7.) Numer telefonu: (048) 365-46-52 1.5.9.) Adres poczty elektronicznej: zamowienia@mzdik.pl 1.5.10.) Adres strony internetowej zamawiającego: www.mzdik.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny -",
+  "cpv": [
+   "71220000-6"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-09",
+  "hash": "a61e352b9ba91893a127bcae9dae03ce07af7c9b058150a4171ed1c2d5c3d4fe"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Wykonanie dokumentacji projektowej wraz z uzyskaniem decyzji administracyjnych z uzgodnieniami na wykonanie robót dla zadania Budowa wiaty na Cietniu na działce ewidencyjnej nr 462",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-4201e528-5a73-4fa8-8416-53a159f65cc4",
   "zamawiajacy": "Skarb Państwa Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Limanowa",
@@ -12578,6 +12619,29 @@
   "status_opisu": "pobrany",
   "dodano": "2026-10-07",
   "hash": "565bee9a3a97384b2b71b9b100a2375f0067aefb06b6f93ba8b954a2f0f57ecf"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Wytworzenie wielowariantowej koncepcji programowej przebudowy ulicy Żeromskiego wraz z przebudową (...) „Przebudowa ul. S. Żeromskiego - prace przygotowawcze”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-1e00979b-b741-47a9-9d7a-0171c1f66c1d",
+  "zamawiajacy": "Zarząd Dróg Miejskich",
+  "data_publikacji": "2026-10-09",
+  "termin_skladania": "2026-10-20T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00479277 z dnia 2026-10-09 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wytworzenie wielowariantowej koncepcji programowej przebudowy ulicy Żeromskiego wraz z przebudową (...) „Przebudowa ul. S. Żeromskiego - prace przygotowawcze” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Zarząd Dróg Miejskich 1.3.) Oddział zamawiającego: Zarząd Dróg Miejskich Wydział Zamówień Publicznych 1.4) Krajowy Numer Identyfikacyjny: REGON 010270068 1.5) Adres zamawiającego 1.5.1.) Ulica: Chmielna 120 1.5.2.) Miejscowość: Warszawa 1.5.3.) Kod pocztowy: 00-801 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL911 - Miasto Warszawa 1.5.7.) Numer telefonu: 225589000 1.5.9.) Adres poczty elektronicznej: zzp@zdm.waw.pl 1.5.10.) Adres strony internetowej zamawiającego: https://www.zdm.waw.pl 1.6.) Rod",
+  "cpv": [
+   "71320000-7",
+   "71322000-1",
+   "71322500-6",
+   "71332000-4",
+   "71400000-2"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-09",
+  "hash": "33672a9a3442db57f02785c8ec4b42ecb06af6a3743c71e7333795bde023c236"
  },
  {
   "zrodlo": "ted",
@@ -12673,6 +12737,27 @@
   "hash": "54bc5c4ab9ce27cb540c25d1eb642f33aa336dfdb611ebf727dd688b4dc1ac0d"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji konserwatorskiej dla planowanych prac termomodernizacyjnych.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-f875ea29-09cd-46ad-86bc-0b9e5c2b84b1",
+  "zamawiajacy": "Akademia Nauk Stosowanych Angelusa Silesiusa",
+  "data_publikacji": "2026-10-09",
+  "termin_skladania": "2026-10-20T09:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00479862 z dnia 2026-10-09 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji konserwatorskiej dla planowanych prac termomodernizacyjnych. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Akademia Nauk Stosowanych Angelusa Silesiusa 1.4) Krajowy Numer Identyfikacyjny: REGON 891041167 1.5) Adres zamawiającego 1.5.1.) Ulica: Zamkowa 4 1.5.2.) Miejscowość: Wałbrzych 1.5.3.) Kod pocztowy: 58-300 1.5.4.) Województwo: dolnośląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL517 - Wałbrzyski 1.5.9.) Adres poczty elektronicznej: przetargi@ans.edu.pl 1.5.10.) Adres strony internetowej zamawiającego: www.ans.edu.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - uczelnia publiczna 1.7.) Przedmiot działalności zamawiającego: Edukacja SEKCJA II – INFO",
+  "cpv": [
+   "71220000-6",
+   "71221000-3",
+   "71320000-7"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-09",
+  "hash": "d1e110697b93bd77ee368ecf92f327b80be1a0b24a24cb60950606a642c17133"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Roboty budowlane – Zaprojektowanie (w zakresie branży srk) i kompleksowe wykonanie robót budowlanych na linii kolejowej nr 623 i nr 628 na odcinku I+K podg. Fornale – Szczyrzyc i podg. Porąbka – podg. Stróża w ramach Projektu pn. „Budowa nowej linii kolejowej Podłęże – Szczyrzyc – Tymbark / Mszana Dolna oraz modernizacja istniejącej linii kolejowej nr 104 Chabówka – Nowy Sącz – Etap II”",
   "url": "https://ted.europa.eu/en/notice/-/detail/689943-2026",
@@ -12734,7 +12819,7 @@
    "roboty-budowlane"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-08",
+  "dodano": "2026-10-09",
   "hash": "7a35292493d4b2c487c510af2d049b1d6d2598856ccddada2354f9374ec1fa12"
  },
  {
@@ -12869,6 +12954,33 @@
   "status_opisu": "pobrany",
   "dodano": "2026-10-07",
   "hash": "07081e0a9492e257e61a46cf0da517a0c70dfba55951c3b5ab24d01f4e06c9db"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie koncepcji architektoniczno-budowlanej oraz dokumentacji projektowej dla zadania pn.: „Budowa Ośrodka Rehabilitacji Dzikich Zwierząt”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-7f100f50-deff-4dc0-bfea-30d50c7a936d",
+  "zamawiajacy": "Zarząd Inwestycji Miejskich w Krakowie",
+  "data_publikacji": "2026-10-09",
+  "termin_skladania": "2026-10-21T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00480436 z dnia 2026-10-09 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie koncepcji architektoniczno-budowlanej oraz dokumentacji projektowej dla zadania pn.: „Budowa Ośrodka Rehabilitacji Dzikich Zwierząt” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Zarząd Inwestycji Miejskich w Krakowie 1.4) Krajowy Numer Identyfikacyjny: REGON 367252869 1.5) Adres zamawiającego 1.5.1.) Ulica: Reymonta 20 1.5.2.) Miejscowość: Kraków 1.5.3.) Kod pocztowy: 30-059 1.5.4.) Województwo: małopolskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL213 - Miasto Kraków 1.5.7.) Numer telefonu: 12 34 18 591 1.5.9.) Adres poczty elektronicznej: sylwia.skrzypek@zim.krakow.pl 1.5.10.) Adres strony internetowej zamawiającego: www.zim.krakow.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów",
+  "cpv": [
+   "71220000-6",
+   "71000000-8",
+   "71248000-8",
+   "71250000-5",
+   "71221000-3",
+   "71240000-2",
+   "71242000-6",
+   "71320000-7"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-09",
+  "hash": "945a32351c9ca8bca8b2f9d92154f38c90a49cacca999c0326a94e012eef582c"
  },
  {
   "zrodlo": "ted",
@@ -13115,6 +13227,32 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowej i kosztorysowej dla inwestycji pn. Termomodernizacja DS ARKA ul. Olszewskiego 25 we Wrocławiu wraz z uzyskaniem prawomocnej decyzji o pozwoleniu na budowę",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-31fc396e-7618-4035-8c9a-f6078373f292",
+  "zamawiajacy": "UNIWERSYTET PRZYRODNICZY WE WROCŁAWIU",
+  "data_publikacji": "2026-10-09",
+  "termin_skladania": "2026-10-22T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00479915 z dnia 2026-10-09 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowej i kosztorysowej dla inwestycji pn. Termomodernizacja DS ARKA ul. Olszewskiego 25 we Wrocławiu wraz z uzyskaniem prawomocnej decyzji o pozwoleniu na budowę SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: UNIWERSYTET PRZYRODNICZY WE WROCŁAWIU 1.4) Krajowy Numer Identyfikacyjny: REGON 000001867 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Cypriana Kamila Norwida 25 1.5.2.) Miejscowość: Wrocław 1.5.3.) Kod pocztowy: 50-375 1.5.4.) Województwo: dolnośląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL514 - Miasto Wrocław 1.5.9.) Adres poczty elektronicznej: patrycja.miskow@upwr.edu.pl 1.5.10.) Adres strony internetowej zamawiającego: www.upwr.edu.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - j",
+  "cpv": [
+   "71000000-8",
+   "71320000-7",
+   "71321000-4",
+   "71323100-9",
+   "71327000-6",
+   "71242000-6",
+   "71248000-8"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-09",
+  "hash": "e1a670f9e92ae583c079d4b25df55492b8b9bbeb3783a132443aeb1a02b8ada9"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Wykonanie zmian w dokumentacji projektowo - kosztorysowej przebudowy budynku mieszkalnego wielorodzinnego wraz przebudową wewnętrznej instalacji gazu w Rybniku przy ul. Cmentarnej 15",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-7d91a950-ae86-4c94-8af6-66eecd78a73c",
   "zamawiajacy": "ZAKŁAD GOSPODARKI MIESZKANIOWEJ",
@@ -13240,7 +13378,7 @@
    "samorząd"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-08",
+  "dodano": "2026-10-09",
   "hash": "4210d16903fe82289765e99e28035cb57095e24dded7a6e8e851a22386c288c3"
  },
  {
@@ -13386,7 +13524,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-08",
+  "dodano": "2026-10-09",
   "hash": "6d2b6a960cc7482f5b5eb73f9c87fb7b5f010072df781975db15533ed9654480"
  },
  {
@@ -13441,6 +13579,45 @@
   "hash": "83590205cf68b887b64787d9d11640d6fa3111e6f89a051442e243f8eca1b82b"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej i realizacja robót budowlanych w formule \"zaprojektuj i wybuduj\" w lokalu użytkowym ......Klubu Seniora przy ul. Św. Barbary 7 w Siemianowicach Śl.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-378354fb-f7be-41f4-a123-9a721825322c",
+  "zamawiajacy": "Miejski Ośrodek Pomocy Społecznej w Siemianowicach Śląskich",
+  "data_publikacji": "2026-10-09",
+  "termin_skladania": "2026-10-26T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00479160 z dnia 2026-10-09 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Roboty budowlane Opracowanie dokumentacji projektowej i realizacja robót budowlanych w formule &#34;zaprojektuj i wybuduj&#34; w lokalu użytkowym ......Klubu Seniora przy ul. Św. Barbary 7 w Siemianowicach Śl. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Miejski Ośrodek Pomocy Społecznej w Siemianowicach Śląskich 1.4) Krajowy Numer Identyfikacyjny: REGON 003447492 1.5) Adres zamawiającego 1.5.1.) Ulica: Szkolna 17 1.5.2.) Miejscowość: Siemianowice Śląskie 1.5.3.) Kod pocztowy: 41-100 1.5.4.) Województwo: śląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL22A - Katowicki 1.5.7.) Numer telefonu: 327656216 1.5.9.) Adres poczty elektronicznej: mops@mops.siemianowice.pl 1.5.10.) Adres strony internetowej zamawiającego: https://www.mops.si",
+  "cpv": [
+   "45000000-7",
+   "44000000-0",
+   "45450000-6",
+   "45430000-0",
+   "45442100-8",
+   "45300000-0",
+   "45331000-6",
+   "71221000-3",
+   "71220000-6",
+   "71242000-6",
+   "71320000-7",
+   "45100000-8",
+   "45311000-0",
+   "45332000-3",
+   "45332200-5",
+   "45420000-7",
+   "45421146-9",
+   "45421141-4",
+   "45440000-3"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "roboty-budowlane",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-09",
+  "hash": "1603dba6dc441887ad272ee356627635b032d8677e1580bf74e649ea244f2972"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Wykonanie usług projektowych w ramach zadania inwestycyjnego pn.: „Katowicka Infrastruktura Rowerowa – wspieranie zrównoważonej multimodalnej mobilności miejskiej”- zamówienie udzielane w 5 częściach.",
   "url": "https://ted.europa.eu/en/notice/-/detail/665330-2026",
@@ -13467,7 +13644,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-08",
+  "dodano": "2026-10-09",
   "hash": "1417754ce4def456061f642b6f971a5f7b8f7151b577b2fa553dd0288e133d22"
  },
  {
@@ -13495,7 +13672,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-08",
+  "dodano": "2026-10-09",
   "hash": "c902dc7004560dcf2716e656ae9eef051ae0987faf9e608b1ce1f884a2b1eee9"
  },
  {
@@ -13583,6 +13760,32 @@
   "hash": "18c4362f1ec0b66586c9c2f6d530180967ee23337ddaa37ce2fd23569d09b2b9"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "„Opracowanie dokumentacji projektowej oraz wykonanie robót wyburzeniowych w ramach zadania p.n.: Zagospodarowanie i nadanie nowych funkcji terenom pod dawnym obiekcie Stadionu Zimowego w Sosnowcu”.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-57945ff1-7150-4335-9f0c-7adc0b4454d8",
+  "zamawiajacy": "Miejski Ośrodek Sportu i Rekreacji",
+  "data_publikacji": "2026-10-09",
+  "termin_skladania": "2026-10-26T09:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00480277 z dnia 2026-10-09 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Roboty budowlane „Opracowanie dokumentacji projektowej oraz wykonanie robót wyburzeniowych w ramach zadania p.n.: Zagospodarowanie i nadanie nowych funkcji terenom pod dawnym obiekcie Stadionu Zimowego w Sosnowcu”. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzi podmiot, któremu powierzono przeprowadzenie postępowania 1.2.) Nazwa zamawiającego: Miejski Ośrodek Sportu i Rekreacji 1.4) Krajowy Numer Identyfikacyjny: REGON 000330051 1.5) Adres zamawiającego 1.5.1.) Ulica: 3 Maja 1.5.2.) Miejscowość: Sosnowiec 1.5.3.) Kod pocztowy: 41-200 1.5.4.) Województwo: śląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL22B - Sosnowiecki 1.5.9.) Adres poczty elektronicznej: s.winter@um.sosnowiec.pl 1.5.10.) Adres strony internetowej zamawiającego: https://www.mosir.sosnowiec.pl 1.6.) Rodzaj zamawiającego: Zamawiający",
+  "cpv": [
+   "45110000-1",
+   "71300000-1",
+   "71320000-7",
+   "45210000-2",
+   "45111100-9",
+   "45262520-2"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "roboty-budowlane",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-09",
+  "hash": "1a0f6577a61b7fd0eb3b1fa2d185b2a54304c9de673d0d69deeee663ebdd0918"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Usługi instalowania urządzeń elektrycznych i mechanicznych – Przedmiotem zamówienia jest kompleksowa realizacja zadania pn.: „Modernizacja zasuw, krat i systemu sterowania na zamku wodnym EW Żur”",
   "url": "https://ted.europa.eu/en/notice/-/detail/696239-2026",
@@ -13608,7 +13811,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-08",
+  "dodano": "2026-10-09",
   "hash": "86719ce08cabd8e07692fe5c37be1a601997c385a0e7dca1259e0edd5de3fc35"
  },
  {
@@ -13668,7 +13871,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-08",
+  "dodano": "2026-10-09",
   "hash": "1111628e57d34ff92a613026152fb54fdd2a09a6aba96bcadc6063103b2b9f3b"
  },
  {
@@ -13898,6 +14101,28 @@
   "hash": "b3379d020d149b4cf538b399281dd0b20aa260ba66d56ff91c19aefc37c7f251"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej na potrzeby zmiany decyzji o pozwoleniu na budowę dotyczącej przebudowy pomieszczeń parteru na kantynę pracowniczą w budynku przy ul. Kolskiej 12 w Warszawie",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-ecc43aff-face-4fe7-88da-09f0609c3efa",
+  "zamawiajacy": "NAUKOWA I AKADEMICKA SIEĆ KOMPUTEROWA - PAŃSTWOWY INSTYTUT BADAWCZY",
+  "data_publikacji": "2026-10-09",
+  "termin_skladania": "2026-10-29T10:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00479645 z dnia 2026-10-09 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej na potrzeby zmiany decyzji o pozwoleniu na budowę dotyczącej przebudowy pomieszczeń parteru na kantynę pracowniczą w budynku przy ul. Kolskiej 12 w Warszawie SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: NAUKOWA I AKADEMICKA SIEĆ KOMPUTEROWA - PAŃSTWOWY INSTYTUT BADAWCZY 1.4) Krajowy Numer Identyfikacyjny: REGON 010464542 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Kolska 12 1.5.2.) Miejscowość: Warszawa 1.5.3.) Kod pocztowy: 01-045 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL911 - Miasto Warszawa 1.5.9.) Adres poczty elektronicznej: zamowienia.publiczne@nask.pl 1.5.10.) Adres strony internetowej zamawiającego: https://www.nask.pl 1.6.) Rodzaj zamawiającego: Z",
+  "cpv": [
+   "71320000-7",
+   "71220000-6",
+   "71242000-6"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-09",
+  "hash": "c542a1cb5ac9901ed51490f45c7c96b7838c1c72108c4c70f67d88908235ee90"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Wiercenie studni wodnych – Rekonstrukcja dolnokredowej studni głębinowej nr 5 na ujęciu Zbiorniki Stoki",
   "url": "https://ted.europa.eu/en/notice/-/detail/662924-2026",
@@ -14084,7 +14309,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-08",
+  "dodano": "2026-10-09",
   "hash": "4dbf09c1f4480bc624953d08139f2dd3b5698916f686a11eb5ae37e68620eae0"
  },
  {
@@ -14510,7 +14735,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-08",
+  "dodano": "2026-10-09",
   "hash": "f8f98c888cf754c15e67dda5aeb5ab9cc70eef1bb99ca89d96275b9c5c2fc55c"
  },
  {
@@ -14885,6 +15110,33 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Usługi architektoniczne, budowlane, inżynieryjne i kontrolne – Opracowanie koncepcji oraz dokumentacji projektowej rozbudowy i przebudowy budynku przy ul. Filipowskiej 20B w Suwałkach wraz z niezbędną infrastrukturą na potrzeby placówki opiekuńczo – wychowawczej",
+  "url": "https://ted.europa.eu/en/notice/-/detail/699198-2026",
+  "zamawiajacy": "Miasto Suwałki",
+  "data_publikacji": "2026-10-09",
+  "termin_skladania": "2026-11-13T09:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71000000",
+   "71220000",
+   "71300000",
+   "71320000",
+   "71000000",
+   "71220000",
+   "71300000",
+   "71320000"
+  ],
+  "score": 9,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-09",
+  "hash": "baf700b90315c302c1540de22ca0c3fabe4c3eb202e7bf3ddfabd15937ca266f"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi projektowania architektonicznego – Opracowanie dokumentacji projektowej na rozbudowę skrzyżowania DW nr 632 z ul. Norwida w m. Słupno wraz z przeprowadzeniem analizy potrzeb na odcinku ok. 3,5 km od DW nr 631 do m. Radzymin - nr postępowania 183/26",
   "url": "https://ted.europa.eu/en/notice/-/detail/682852-2026",
   "zamawiajacy": "Mazowiecki Zarząd Dróg Wojewódzkich w Warszawie",
@@ -14993,5 +15245,99 @@
   "status_opisu": "brak",
   "dodano": "2026-10-06",
   "hash": "c0dedaf3e211bb44eb8ce8015a258a0224f419879f070f88722971f6ed4760ab"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi projektowania architektonicznego – Opracowanie dokumentacji projektowej termomodernizacji żłobków miejskich wraz z dostosowaniem budynków do obowiązujących wymagań ochrony przeciwpożarowej – 5 części",
+  "url": "https://ted.europa.eu/en/notice/-/detail/700105-2026",
+  "zamawiajacy": "Miasto Łódź - Urząd Miasta Łodzi",
+  "data_publikacji": "2026-10-09",
+  "termin_skladania": "2026-11-16T10:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71220000",
+   "71221000",
+   "71420000",
+   "71250000",
+   "71320000",
+   "71314300",
+   "71621000",
+   "71317100",
+   "71242000",
+   "71220000",
+   "71220000",
+   "71220000",
+   "71220000",
+   "71220000",
+   "71221000",
+   "71420000",
+   "71200000",
+   "71320000",
+   "71314300",
+   "71621000",
+   "71317100",
+   "71242000",
+   "71221000",
+   "71420000",
+   "71200000",
+   "71320000",
+   "71314300",
+   "71621000",
+   "71317100",
+   "71242000",
+   "71221000",
+   "71420000",
+   "71200000",
+   "71320000",
+   "71314300",
+   "71621000",
+   "71317100",
+   "71242000",
+   "71221000",
+   "71420000",
+   "71200000",
+   "71320000",
+   "71314300",
+   "71621000",
+   "71317100",
+   "71242000",
+   "71221000",
+   "71420000",
+   "71200000",
+   "71320000",
+   "71314300",
+   "71621000",
+   "71317100",
+   "71242000"
+  ],
+  "score": 8,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-09",
+  "hash": "9c73b783b8bd2560c4db151056e7aef2b931d81d0a99f985b6ea8fdf4f5b8995"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi projektowania architektonicznego – Opracowanie Studium techniczno ekonomiczno - środowiskowe dla zadania: budowa nowych przebiegów dróg wojewódzkich nr 721 oraz nr 724 na terenie gmin: Piaseczno i Konstancin-Jeziorna – nr postępowania 195/26",
+  "url": "https://ted.europa.eu/en/notice/-/detail/698719-2026",
+  "zamawiajacy": "Mazowiecki Zarząd Dróg Wojewódzkich w Warszawie",
+  "data_publikacji": "2026-10-09",
+  "termin_skladania": "2026-11-17T08:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71220000",
+   "71220000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-09",
+  "hash": "f2a76326c08950040626796d48011236425bd5b9ee576516f375bd6c2365040f"
  }
 ]
