@@ -12510,6 +12510,27 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej dla rozbudowy obiektu Komisariatu Policji w Kórniku.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-66e8c03f-e8c9-493d-922a-515b3de26277",
+  "zamawiajacy": "KOMENDA WOJEWÓDZKA POLICJI",
+  "data_publikacji": "2026-10-12",
+  "termin_skladania": "2026-10-20T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00483300 z dnia 2026-10-12 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej dla rozbudowy obiektu Komisariatu Policji w Kórniku. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: KOMENDA WOJEWÓDZKA POLICJI 1.4) Krajowy Numer Identyfikacyjny: REGON 630703410 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Jana Kochanowskiego 2A 1.5.2.) Miejscowość: Poznań 1.5.3.) Kod pocztowy: 60-844 1.5.4.) Województwo: wielkopolskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL415 - Miasto Poznań 1.5.7.) Numer telefonu: 477712743 1.5.9.) Adres poczty elektronicznej: przetargi@po.policja.gov.pl 1.5.10.) Adres strony internetowej zamawiającego: www.wielkopolska.policja.gov.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - organ władzy publicznej - ",
+  "cpv": [
+   "71320000-7",
+   "71420000-8"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-12",
+  "hash": "f478882afe74408f46589b0e97bcb0f4b7a4a21bd7bfa141a70f611e39f58fa3"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Opracowanie dokumentacji projektowej dla zadania ,,Budowa ul. Kasprowicza w Trzciance”",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-3e75425b-15dd-4b3a-b5e5-eaa1f4e28483",
   "zamawiajacy": "Gmina Trzcianka",
@@ -12828,7 +12849,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-11",
+  "dodano": "2026-10-12",
   "hash": "4f0e702aeeab64f52bf11be35775d74f319dd4fe9f8820e9b1b7886ca58cc81c"
  },
  {
@@ -13396,6 +13417,35 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Opracowanie wielobranżowej kompletnej dokumentacji projektowej dla inwestycji realizowanej na terenie Wojewódzkiego Szpitala Zdrowia Psychicznego im. dr. Józefa Bednarza w Świeciu – bud. 18 i 19",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-fbd75599-5767-4c67-ade9-45fe18e71ad9",
+  "zamawiajacy": "Wojewódzki Szpital Zdrowia Psychicznego im. dr. Józefa Bednarza w Świeciu",
+  "data_publikacji": "2026-10-12",
+  "termin_skladania": "2026-10-22T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00483320 z dnia 2026-10-12 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie wielobranżowej kompletnej dokumentacji projektowej dla inwestycji realizowanej na terenie Wojewódzkiego Szpitala Zdrowia Psychicznego im. dr. Józefa Bednarza w Świeciu – bud. 18 i 19 SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Wojewódzki Szpital Zdrowia Psychicznego im. dr. Józefa Bednarza w Świeciu 1.4) Krajowy Numer Identyfikacyjny: REGON 000291523 1.5) Adres zamawiającego 1.5.1.) Ulica: Sądowa 1.5.2.) Miejscowość: Świecie 1.5.3.) Kod pocztowy: 86-100 1.5.4.) Województwo: kujawsko-pomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL618 - Świecki 1.5.9.) Adres poczty elektronicznej: zamowienia@szpital-swiecie.pl 1.5.10.) Adres strony internetowej zamawiającego: http://www.szpital-psychiatryczny.swiecie.pl/ 1.6.)",
+  "cpv": [
+   "71320000-7",
+   "71000000-8",
+   "71220000-6",
+   "71221000-3",
+   "71242000-6",
+   "71245000-7",
+   "71248000-8",
+   "71250000-5",
+   "71311300-4",
+   "71244000-0"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-12",
+  "hash": "8a1dbceefd69d944190d2ab36a01d103f33d80d79cc7ffb94efce99e19ead41a"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Wykonanie dokumentacji projektowej i kosztorysowej dla inwestycji pn. Termomodernizacja DS ARKA ul. Olszewskiego 25 we Wrocławiu wraz z uzyskaniem prawomocnej decyzji o pozwoleniu na budowę",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-31fc396e-7618-4035-8c9a-f6078373f292",
   "zamawiajacy": "UNIWERSYTET PRZYRODNICZY WE WROCŁAWIU",
@@ -13547,7 +13597,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-05",
+  "dodano": "2026-10-12",
   "hash": "026219111e2573b310eb77fcd01caa4cb7188a4a50f7aec2af4966a6084a5fe1"
  },
  {
@@ -13577,7 +13627,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-06",
+  "dodano": "2026-10-12",
   "hash": "48ea775a0bbbb734b1e48e13ebd0e2d9cff80dea5367c23ff833ffffaf7b666d"
  },
  {
@@ -13607,7 +13657,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-06",
+  "dodano": "2026-10-12",
   "hash": "fae0324b67cbf8c8b7e01efaa0f0c05ad2f4a9e081d369a23bd3de3a896412b4"
  },
  {
@@ -14403,7 +14453,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-16",
+  "dodano": "2026-10-12",
   "hash": "e63522f7f801a2d4ff2c0ac2c7cbf2ca1b07d062660b75d2c59e1088b0c5f757"
  },
  {
@@ -15800,7 +15850,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-29",
+  "dodano": "2026-10-12",
   "hash": "290f81ae419c81d536659f4d032f1bd1846fc25f4bb7c58b1e8f6aee39aa16a3"
  }
 ]
