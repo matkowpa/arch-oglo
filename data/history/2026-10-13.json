@@ -17,14 +17,14 @@
  },
  "bip:pse": {
   "ok": true,
-  "count": 171
+  "count": 170
  },
  "pz-search": {
   "ok": true,
-  "count": 0
+  "count": 4
  },
  "bzp": {
   "ok": true,
-  "count": 26
+  "count": 25
  }
 }

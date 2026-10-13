@@ -13926,7 +13926,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-15",
+  "dodano": "2026-10-13",
   "hash": "bdbf89634c08eb29964720ce1257065b3d386d7c36ac3fff934094071d78a3d6"
  },
  {
@@ -14234,7 +14234,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-17",
+  "dodano": "2026-10-13",
   "hash": "e3185a885fd4f1e30b33e0858679ae2fedf342f31caf296806a1e26e921be1f0"
  },
  {
@@ -14363,6 +14363,24 @@
   "status_opisu": "brak",
   "dodano": "2026-09-28",
   "hash": "f5a05c788f4514c610eb0b70ad66f33a5bfc34e0e2cef8d9cac8f67e67f7d0f5"
+ },
+ {
+  "zrodlo": "pz-search",
+  "tytul": "ZP.271.31.2026 Dokumentacja projektowa ulic: Wrześniowej i Za Kopcem",
+  "url": "https://platformazakupowa.pl/transakcja/1388896",
+  "zamawiajacy": "Gmina Bieruń",
+  "data_publikacji": null,
+  "termin_skladania": "2026-10-28 10:00:00",
+  "opis": null,
+  "cpv": [],
+  "score": 5,
+  "tagi": [
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-13",
+  "hash": "4f5ff97701c821d587011c551c4d93f3a761a2cc3b9be4497b7f951dc73f86f7"
  },
  {
   "zrodlo": "ted",
