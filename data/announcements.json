@@ -803,30 +803,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Specjalne usługi projektowe – Projekt przebudowy ulicy Okrzei w Jastrzębiu-Zdroju",
-  "url": "https://ted.europa.eu/en/notice/-/detail/548032-2026",
-  "zamawiajacy": "Miasto Jastrzębie-Zdrój",
-  "data_publikacji": "2026-08-07",
-  "termin_skladania": "2026-09-09T10:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "79930000",
-   "71248000",
-   "71000000",
-   "79930000",
-   "71000000",
-   "71248000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": null,
-  "hash": "fb405d8f10707569845d347da2fb7a25bcefeae7e6a79bdf4be4ed42204086c2"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Usługi architektoniczne, budowlane, inżynieryjne i kontrolne – Szczegółowe opracowanie wielobranżowej koncepcji oraz dokumentacji projektowej i przetargowej oraz uzyskanie prawomocnego pozwolenia na budowę wraz z pełnieniem nadzoru autorskiego w ramach zadania inwestycyjnego pod nazwą: „Przebudowa budynku przy pl. S. Starynkiewicza 7/9 w celu utworzenia „Centrum zarządzania ruchem drogowym”",
   "url": "https://ted.europa.eu/en/notice/-/detail/581019-2026",
   "zamawiajacy": "Zarząd Dróg Miejskich w Warszawie",
@@ -3277,34 +3253,6 @@
   "status_opisu": "brak",
   "dodano": "2026-09-14",
   "hash": "a41012a0f2c52b4b225370a85c51c1da900b2495cbed2f92e472d7bf66e19c47"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Usługi architektoniczne, budowlane, inżynieryjne i kontrolne – Opracowanie dokumentacji projektowej wraz z pełnieniem nadzoru autorskiego dla zadania pn.: Termomodernizacja wraz z remontem budynków Zespołu Szkół Ogólnokształcących nr 10 im. Eugeniusza Kwiatkowskiego przy ulicy Ignacego Krasickiego 10 w Gdańsku",
-  "url": "https://ted.europa.eu/en/notice/-/detail/568146-2026",
-  "zamawiajacy": "Dyrekcja Rozbudowy Miasta Gdańska działająca w imieniu i na rzecz Gminy Miasta Gdańska",
-  "data_publikacji": "2026-08-17",
-  "termin_skladania": "2026-09-17T11:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71000000",
-   "71220000",
-   "71320000",
-   "71248000",
-   "71000000",
-   "71220000",
-   "71320000",
-   "71248000"
-  ],
-  "score": 8,
-  "tagi": [
-   "cpv-71",
-   "samorząd",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": null,
-  "hash": "d99a4f3309eb6617c372ce0c42ee4736357d4c487745435d99beab051a4c6eee"
  },
  {
   "zrodlo": "bzp",
@@ -11120,7 +11068,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-12",
+  "dodano": "2026-10-13",
   "hash": "9ff7b24d88888e5cf5f02ee32d5a2091a553d432458191e03e9f6bbe8cd46e53"
  },
  {
@@ -11188,39 +11136,6 @@
   "status_opisu": "pobrany",
   "dodano": "2026-10-01",
   "hash": "7077e73d9db1ca890a88cc35ee71f012f74ff69182022f16dfad6a39b7e2c89b"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Usługi projektowania architektonicznego – „Opracowanie dokumentacji projektowej zadania pn.: „Przebudowa zagospodarowania terenu, budowa budowli ochronnej, budowy budynku przyjęć i obsługi interesantów na działce o numerze ewidencyjnym nr 37, w Warszawie przy ul. Puławskiej 148/150 - w zakresie opracowania wielobranżowej dokumentacji projektowej budowy budynku przyjęć obsługi interesantów wraz z koniecznymi przyłączami, instalacjami (...)",
-  "url": "https://ted.europa.eu/en/notice/-/detail/635130-2026",
-  "zamawiajacy": "Komenda Główna Policji",
-  "data_publikacji": "2026-09-15",
-  "termin_skladania": "2026-10-16T09:30:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71220000",
-   "71221000",
-   "71240000",
-   "71242000",
-   "71244000",
-   "71248000",
-   "71320000",
-   "71220000",
-   "71221000",
-   "71240000",
-   "71242000",
-   "71244000",
-   "71248000",
-   "71320000"
-  ],
-  "score": 21,
-  "tagi": [
-   "cpv-71",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-15",
-  "hash": "516cc4e16572fa9413e1f0142971f30aef7480e6bbe9ed6a34a95dd3ec30ff5b"
  },
  {
   "zrodlo": "ted",
@@ -12159,7 +12074,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-12",
+  "dodano": "2026-10-13",
   "hash": "919b0a9fdbbca0e2f1faa0c6acf6541a3629a4da9247bd80585379dabe6642c4"
  },
  {
@@ -12647,26 +12562,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Usługi inżynierii projektowej w zakresie inżynierii lądowej i wodnej – Opracowanie kompletnej dokumentacji projektowej i uzyskanie decyzji administracyjnych dla zadania pn. „Polder Oława-Lipki - prace przygotowawcze”",
-  "url": "https://ted.europa.eu/en/notice/-/detail/642589-2026",
-  "zamawiajacy": "Państwowe Gospodarstwo Wodne Wody Polskie",
-  "data_publikacji": "2026-09-17",
-  "termin_skladania": "2026-10-20T09:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71322000",
-   "71322000"
-  ],
-  "score": 6,
-  "tagi": [
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-17",
-  "hash": "8307a26a7315ff50b4ab6610b304afff4a87e6729604c2eca616cb335ee9bfe7"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Usługi projektowania architektonicznego – Opracowanie wielobranżowej dokumentacji projektowo-kosztorysowej na budowę budynku regionalnej placówki opiekuńczo-terapeutycznej w Ignatkach Osiedle wraz z pełnieniem nadzoru autorskiego II",
   "url": "https://ted.europa.eu/en/notice/-/detail/634079-2026",
   "zamawiajacy": "Województwo Podlaskie",
@@ -12773,7 +12668,7 @@
    "roboty-budowlane"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-12",
+  "dodano": "2026-10-13",
   "hash": "7a35292493d4b2c487c510af2d049b1d6d2598856ccddada2354f9374ec1fa12"
  },
  {
@@ -12849,7 +12744,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-12",
+  "dodano": "2026-10-13",
   "hash": "4f0e702aeeab64f52bf11be35775d74f319dd4fe9f8820e9b1b7886ca58cc81c"
  },
  {
@@ -13127,6 +13022,25 @@
   "hash": "62f6a8ed713a316b5ed1176fa0a9f8a3485341e610eef1dcddef30c43d9b1003"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "Świadczenie usługi nadzoru autorskiego w trakcie realizacji inwestycji pn. „Budowa wielofunkcyjnej Sali Prób i Sali Prób Baletu na tarasach wewnętrznych Teatru Wielkiego - Opery Narodowej (...)\"",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-d3c66a2a-8af3-42d9-932a-6839984db3e9",
+  "zamawiajacy": "Teatr Wielki - Opera Narodowa",
+  "data_publikacji": "2026-10-13",
+  "termin_skladania": "2026-10-21T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00485156 z dnia 2026-10-13 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Świadczenie usługi nadzoru autorskiego w trakcie realizacji inwestycji pn. „Budowa wielofunkcyjnej Sali Prób i Sali Prób Baletu na tarasach wewnętrznych Teatru Wielkiego - Opery Narodowej (...)&#34; SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Teatr Wielki - Opera Narodowa 1.4) Krajowy Numer Identyfikacyjny: REGON 013055028 1.5) Adres zamawiającego 1.5.1.) Ulica: Plac Teatralny 1 1.5.2.) Miejscowość: Warszawa 1.5.3.) Kod pocztowy: 00-950 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL911 - Miasto Warszawa 1.5.9.) Adres poczty elektronicznej: office@teatrwielki.pl; zamowienia@teatrwielki.pl 1.5.10.) Adres strony internetowej zamawiającego: https://teatrwielki.pl/ 1.6.) Rodzaj zamawiającego: Zamawiaj",
+  "cpv": [
+   "71248000-8"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-13",
+  "hash": "cfdc360b421c5862f984aea94c470b732aa2e111eb781e92e73aa58ae1b78ea4"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Wykonanie dokumentacji projektowo – kosztorysowej dla obiektów małej retencji nizinnej wraz z pełnieniem nadzoru autorskiego na terenie Nadleśnictwa Leśny Dwór",
   "url": "https://ted.europa.eu/en/notice/-/detail/685187-2026",
@@ -13394,6 +13308,29 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Pełnienie kompleksowego nadzoru inwestorskiego dla zadania pn.: „Bezpieczny transport w Aglomeracji Opolskiej” w zakresie: ,,Budowa pętli autobusowej przy ul. Wschodniej”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-7d7a218e-c359-4365-8faf-dc07dc0d7936",
+  "zamawiajacy": "MIEJSKI ZARZĄD DRÓG W OPOLU",
+  "data_publikacji": "2026-10-13",
+  "termin_skladania": "2026-10-22T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00483762 z dnia 2026-10-13 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Pełnienie kompleksowego nadzoru inwestorskiego dla zadania pn.: „Bezpieczny transport w Aglomeracji Opolskiej” w zakresie: ,,Budowa pętli autobusowej przy ul. Wschodniej” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: MIEJSKI ZARZĄD DRÓG W OPOLU 1.3.) Oddział zamawiającego: MZD w Opolu 1.4) Krajowy Numer Identyfikacyjny: REGON 530546013 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. płk. Witolda Pileckiego 1 1.5.2.) Miejscowość: Opole 1.5.3.) Kod pocztowy: 45-331 1.5.4.) Województwo: opolskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL524 - Opolski 1.5.9.) Adres poczty elektronicznej: zamowienia@mzd.opole.pl 1.5.10.) Adres strony internetowej zamawiającego: www.umopole.logintrade.net 1.6.) Rodzaj zamawiającego: Zamawiający publiczn",
+  "cpv": [
+   "71520000-9",
+   "71540000-5",
+   "71000000-8",
+   "71248000-8",
+   "71247000-1"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-13",
+  "hash": "ff06cf26f1fba3e85c6f43909bcf5db0f3e834b008fab8c80d51313366da5237"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Opracowanie kompletnej dokumentacji projektowej dla zadania pn. „Budowa hali sportowej wraz z łącznikiem i zapleczem technicznym przy Szkole Podstawowej nr 1 w Skale”",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-fbeea301-7a6e-4ab8-be23-09a0ae130d98",
   "zamawiajacy": "GMINA SKAŁA",
@@ -13443,6 +13380,31 @@
   "status_opisu": "pobrany",
   "dodano": "2026-10-12",
   "hash": "8a1dbceefd69d944190d2ab36a01d103f33d80d79cc7ffb94efce99e19ead41a"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Pełnienie funkcji Inżyniera Kontraktu nad realizacją projektu Przyszłość w Równowadze. Wspólnie ze Szwajcarią dla lepszego i bezpiecznego Słupska w ramach Polsko-Szwajcarskiego Programu Rozwoju Miast",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-8373846e-3735-4061-98bd-4c76d890a5cc",
+  "zamawiajacy": "Zarząd Infrastruktury Miejskiej w Słupsku",
+  "data_publikacji": "2026-10-13",
+  "termin_skladania": "2026-10-22T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00484499 z dnia 2026-10-13 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Pełnienie funkcji Inżyniera Kontraktu nad realizacją projektu Przyszłość w Równowadze. Wspólnie ze Szwajcarią dla lepszego i bezpiecznego Słupska w ramach Polsko-Szwajcarskiego Programu Rozwoju Miast SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Zarząd Infrastruktury Miejskiej w Słupsku 1.4) Krajowy Numer Identyfikacyjny: REGON 221221715 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Artura Grottgera 13 1.5.2.) Miejscowość: Słupsk 1.5.3.) Kod pocztowy: 76-200 1.5.4.) Województwo: pomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL636 - Słupski 1.5.7.) Numer telefonu: +48 59 841 00 91 1.5.9.) Adres poczty elektronicznej: zamowienia@zimslupsk.pl 1.5.10.) Adres strony internetowej zamawiającego: www.zimslupsk.pl 1.6.) Rodzaj zamawi",
+  "cpv": [
+   "71520000-9",
+   "71540000-5",
+   "71310000-4",
+   "71315400-3",
+   "71248000-8",
+   "71244000-0",
+   "71247000-1"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-13",
+  "hash": "1727d450b5ed9b654fe789067368e1fdcc449f23f31ca9bab29995de12027504"
  },
  {
   "zrodlo": "bzp",
@@ -13597,7 +13559,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-12",
+  "dodano": "2026-10-13",
   "hash": "026219111e2573b310eb77fcd01caa4cb7188a4a50f7aec2af4966a6084a5fe1"
  },
  {
@@ -13627,7 +13589,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-12",
+  "dodano": "2026-10-13",
   "hash": "48ea775a0bbbb734b1e48e13ebd0e2d9cff80dea5367c23ff833ffffaf7b666d"
  },
  {
@@ -13657,7 +13619,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-12",
+  "dodano": "2026-10-13",
   "hash": "fae0324b67cbf8c8b7e01efaa0f0c05ad2f4a9e081d369a23bd3de3a896412b4"
  },
  {
@@ -13707,7 +13669,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-12",
+  "dodano": "2026-10-13",
   "hash": "79e1684d9241438c6130a981af8f4dbd6b34ed3d20a9055059b94a38e14a4076"
  },
  {
@@ -13880,7 +13842,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-12",
+  "dodano": "2026-10-13",
   "hash": "6d2b6a960cc7482f5b5eb73f9c87fb7b5f010072df781975db15533ed9654480"
  },
  {
@@ -13933,6 +13895,39 @@
   "status_opisu": "pobrany",
   "dodano": "2026-10-05",
   "hash": "83590205cf68b887b64787d9d11640d6fa3111e6f89a051442e243f8eca1b82b"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi projektowania architektonicznego – „Opracowanie dokumentacji projektowej zadania pn.: „Przebudowa zagospodarowania terenu, budowa budowli ochronnej, budowy budynku przyjęć i obsługi interesantów na działce o numerze ewidencyjnym nr 37, w Warszawie przy ul. Puławskiej 148/150 - w zakresie opracowania wielobranżowej dokumentacji projektowej budowy budynku przyjęć obsługi interesantów wraz z koniecznymi przyłączami, instalacjami (...)",
+  "url": "https://ted.europa.eu/en/notice/-/detail/707161-2026",
+  "zamawiajacy": "Komenda Główna Policji",
+  "data_publikacji": "2026-10-13",
+  "termin_skladania": "2026-10-23T09:30:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71220000",
+   "71221000",
+   "71240000",
+   "71242000",
+   "71244000",
+   "71248000",
+   "71320000",
+   "71220000",
+   "71221000",
+   "71240000",
+   "71242000",
+   "71244000",
+   "71248000",
+   "71320000"
+  ],
+  "score": 21,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-15",
+  "hash": "bdbf89634c08eb29964720ce1257065b3d386d7c36ac3fff934094071d78a3d6"
  },
  {
   "zrodlo": "bzp",
@@ -14028,7 +14023,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-12",
+  "dodano": "2026-10-13",
   "hash": "c902dc7004560dcf2716e656ae9eef051ae0987faf9e608b1ce1f884a2b1eee9"
  },
  {
@@ -14224,6 +14219,26 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynierii projektowej w zakresie inżynierii lądowej i wodnej – Opracowanie kompletnej dokumentacji projektowej i uzyskanie decyzji administracyjnych dla zadania pn. „Polder Oława-Lipki - prace przygotowawcze”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/704721-2026",
+  "zamawiajacy": "Państwowe Gospodarstwo Wodne Wody Polskie",
+  "data_publikacji": "2026-10-13",
+  "termin_skladania": "2026-10-27T09:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71322000",
+   "71322000"
+  ],
+  "score": 6,
+  "tagi": [
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-17",
+  "hash": "e3185a885fd4f1e30b33e0858679ae2fedf342f31caf296806a1e26e921be1f0"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Słoneczne moduły fotoelektryczne – Dostawa i montaż wraz z zaprojektowaniem i uruchomieniem instalacji fotowoltaicznej o mocy 450 kWp w ramach wniosku o dofinansowanie pn.: Rozwój energetyki rozproszonej opartej o OZE dla budynków użyteczności publicznej w Gminie Zawiercie 6",
   "url": "https://ted.europa.eu/en/notice/-/detail/702846-2026",
   "zamawiajacy": "Gmina Zawiercie",
@@ -14271,7 +14286,7 @@
    "samorząd"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-12",
+  "dodano": "2026-10-13",
   "hash": "a5756b20f401c0ddb6f79f7cb68f8a6dbc547866e1f17bd46421c5db97894e02"
  },
  {
@@ -14299,7 +14314,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-12",
+  "dodano": "2026-10-13",
   "hash": "1111628e57d34ff92a613026152fb54fdd2a09a6aba96bcadc6063103b2b9f3b"
  },
  {
@@ -14374,6 +14389,31 @@
   "status_opisu": "brak",
   "dodano": "2026-10-01",
   "hash": "73ec9e06d2c99fb001cd9da028ca1bd97112838404df2deede1d5d4503a4eb06"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Dokumentacja projektowa ulic: Wrześniowej i Za Kopcem",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-62d6fc25-b8fb-4f55-b1ac-d05f05e7a9d8",
+  "zamawiajacy": "Gmina Bieruń reprezentowana przez Burmistrza Miasta Bieruń",
+  "data_publikacji": "2026-10-13",
+  "termin_skladania": "2026-10-28T09:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00484290 z dnia 2026-10-13 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Dokumentacja projektowa ulic: Wrześniowej i Za Kopcem SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Bieruń reprezentowana przez Burmistrza Miasta Bieruń 1.3.) Oddział zamawiającego: Gmina Bieruń reprezentowana przez Burmistrza Miasta Bieruń 1.4) Krajowy Numer Identyfikacyjny: REGON 276258285 1.5) Adres zamawiającego 1.5.1.) Ulica: Rynek 1.5.2.) Miejscowość: Bieruń 1.5.3.) Kod pocztowy: 43-150 1.5.4.) Województwo: śląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL22C - Tyski 1.5.9.) Adres poczty elektronicznej: zp@um.bierun.pl 1.5.10.) Adres strony internetowej zamawiającego: www.bierun.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) ",
+  "cpv": [
+   "71322000-1",
+   "71242000-6",
+   "71245000-7",
+   "71320000-7",
+   "71248000-8"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-13",
+  "hash": "709628c8217101b1aef62ea2642502e436870a52943b07e2ed0f1f511025d8ea"
  },
  {
   "zrodlo": "ted",
@@ -14453,7 +14493,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-12",
+  "dodano": "2026-10-13",
   "hash": "e63522f7f801a2d4ff2c0ac2c7cbf2ca1b07d062660b75d2c59e1088b0c5f757"
  },
  {
@@ -15157,7 +15197,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-12",
+  "dodano": "2026-10-13",
   "hash": "f8f98c888cf754c15e67dda5aeb5ab9cc70eef1bb99ca89d96275b9c5c2fc55c"
  },
  {
@@ -15580,6 +15620,60 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Specjalne usługi projektowe – Projekt przebudowy ulicy Okrzei w Jastrzębiu-Zdroju",
+  "url": "https://ted.europa.eu/en/notice/-/detail/704549-2026",
+  "zamawiajacy": "Miasto Jastrzębie-Zdrój",
+  "data_publikacji": "2026-10-13",
+  "termin_skladania": "2026-11-13T10:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "79930000",
+   "71248000",
+   "71000000",
+   "79930000",
+   "71000000",
+   "71248000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-13",
+  "hash": "a0c610b1ca427664edd31640a010f1b24e7b3258a60e7659913a0dd0a8d1f2d7"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi architektoniczne, budowlane, inżynieryjne i kontrolne – Opracowanie dokumentacji projektowej wraz z pełnieniem nadzoru autorskiego dla zadania pn.: Termomodernizacja wraz z remontem budynków Zespołu Szkół Ogólnokształcących nr 10 im. Eugeniusza Kwiatkowskiego przy ulicy Ignacego Krasickiego 10 w Gdańsku",
+  "url": "https://ted.europa.eu/en/notice/-/detail/704966-2026",
+  "zamawiajacy": "Dyrekcja Rozbudowy Miasta Gdańska działająca w imieniu i na rzecz Gminy Miasta Gdańska",
+  "data_publikacji": "2026-10-13",
+  "termin_skladania": "2026-11-13T11:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71000000",
+   "71220000",
+   "71327000",
+   "71248000",
+   "71240000",
+   "71000000",
+   "71220000",
+   "71327000",
+   "71248000",
+   "71240000"
+  ],
+  "score": 8,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-13",
+  "hash": "4fc5d289b18340cfd23d230ed23bb00daa965d85254b14a9b53c771a99afa838"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi projektowania architektonicznego – Opracowanie dokumentacji projektowej na rozbudowę skrzyżowania DW nr 632 z ul. Norwida w m. Słupno wraz z przeprowadzeniem analizy potrzeb na odcinku ok. 3,5 km od DW nr 631 do m. Radzymin - nr postępowania 183/26",
   "url": "https://ted.europa.eu/en/notice/-/detail/682852-2026",
   "zamawiajacy": "Mazowiecki Zarząd Dróg Wojewódzkich w Warszawie",
@@ -15785,6 +15879,76 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Usługi pobierania opłat – Realizacja sprzedaży biletów Komunikacji Miejskiej w Krakowie w automatach stacjonarnych II",
+  "url": "https://ted.europa.eu/en/notice/-/detail/705215-2026",
+  "zamawiajacy": "ZARZĄD TRANSPORTU PUBLICZNEGO W KRAKOWIE",
+  "data_publikacji": "2026-10-13",
+  "termin_skladania": "2026-11-17T08:30:00+01:00",
+  "opis": null,
+  "cpv": [
+   "79941000",
+   "30144200",
+   "72212517",
+   "72268000",
+   "72265000",
+   "72263000",
+   "72267000",
+   "48000000",
+   "48460000",
+   "48820000",
+   "30123100",
+   "30144200",
+   "30144400",
+   "34980000",
+   "30216000",
+   "48219700",
+   "48600000",
+   "48800000",
+   "64212500",
+   "66133000",
+   "66172000",
+   "71248000",
+   "72220000",
+   "72212610",
+   "72000000",
+   "30200000",
+   "79941000",
+   "30144200",
+   "72212517",
+   "72268000",
+   "72265000",
+   "72263000",
+   "72267000",
+   "48000000",
+   "48460000",
+   "48820000",
+   "30123100",
+   "30144200",
+   "30144400",
+   "34980000",
+   "30216000",
+   "48219700",
+   "48600000",
+   "48800000",
+   "64212500",
+   "66133000",
+   "66172000",
+   "71248000",
+   "72220000",
+   "72212610",
+   "72000000",
+   "30200000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-13",
+  "hash": "40ed84c27de641f0d2fc41ae178bfe8ded5bbc3052bac09fa2f4f5f9e0dee94a"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Opracowanie dokumentacji projektowo - kosztorysowej dla przedsięwzięcia pn. „Rozbudowa i przebudowa oczyszczalni ścieków w Skoczowie – etap II”",
   "url": "https://ted.europa.eu/en/notice/-/detail/703252-2026",
   "zamawiajacy": "Miejska Spółka SKO-EKO Sp. z o.o.",
@@ -15819,6 +15983,128 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Przygotowanie terenu pod budowę – Wykonanie projektu budowlano-wykonawczego oraz robót budowlano-montażowych według tego projektu dla zadania pn. „Przyłączenie do sieci elektroenergetycznej ogólnodostępnej stacji ładowania pojazdów na dz. 27/1 obr. 8 Domanin”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/707364-2026",
+  "zamawiajacy": "ENERGA-OPERATOR S.A.",
+  "data_publikacji": "2026-10-13",
+  "termin_skladania": "2026-11-23T11:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "45100000",
+   "45300000",
+   "45400000",
+   "51000000",
+   "71000000",
+   "45110000",
+   "45220000",
+   "45310000",
+   "45440000",
+   "45450000",
+   "45510000",
+   "45520000",
+   "51100000",
+   "51900000",
+   "71300000",
+   "71340000",
+   "71500000",
+   "71350000",
+   "45111000",
+   "45112000",
+   "45113000",
+   "45222000",
+   "45223000",
+   "45232000",
+   "45236000",
+   "45311000",
+   "45314000",
+   "45317000",
+   "51110000",
+   "71220000",
+   "71320000",
+   "71330000",
+   "71354000",
+   "71355000",
+   "71356000",
+   "71520000",
+   "71510000",
+   "71540000",
+   "71352000",
+   "45100000",
+   "45300000",
+   "45400000",
+   "51000000",
+   "71000000",
+   "45110000",
+   "45220000",
+   "45310000",
+   "45440000",
+   "45450000",
+   "45510000",
+   "45520000",
+   "51100000",
+   "51900000",
+   "71300000",
+   "71340000",
+   "71500000",
+   "71350000",
+   "45111000",
+   "45112000",
+   "45113000",
+   "45222000",
+   "45223000",
+   "45232000",
+   "45236000",
+   "45311000",
+   "45314000",
+   "45317000",
+   "51110000",
+   "71220000",
+   "71320000",
+   "71330000",
+   "71354000",
+   "71355000",
+   "71356000",
+   "71520000",
+   "71510000",
+   "71540000",
+   "71352000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-13",
+  "hash": "524a5d70fe1af3389d288545c231e72bbc10b592f42abf81c00bc99d82b905e4"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – 07590 - Opracowanie dokumentacji projektowej dla zadania pn. „Rewitalizacja ul. Szczytnickiej we Wrocławiu”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/705494-2026",
+  "zamawiajacy": "Gmina Wrocław",
+  "data_publikacji": "2026-10-13",
+  "termin_skladania": "2026-11-27T10:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71320000",
+   "71322000",
+   "71248000",
+   "71320000",
+   "71322000",
+   "71248000"
+  ],
+  "score": 8,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-13",
+  "hash": "43674d60ef916e40bc38fa0db4722189317bd6ca422e06349338a50a1a43b280"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi zarządzania budową – Pełnienie funkcji Inżyniera Kontraktu dotyczącej inwestycji pn. „Poszerzenie odcinka toru wodnego na podejściu do portu morskiego w Świnoujściu”",
   "url": "https://ted.europa.eu/en/notice/-/detail/701368-2026",
   "zamawiajacy": "Dyrektor Urzędu Morskiego w Szczecinie",
@@ -15850,7 +16136,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-12",
+  "dodano": "2026-10-13",
   "hash": "290f81ae419c81d536659f4d032f1bd1846fc25f4bb7c58b1e8f6aee39aa16a3"
  }
 ]
