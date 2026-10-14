@@ -11165,60 +11165,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Przygotowanie przedsięwzięcia i projektu, oszacowanie kosztów – Opracowanie dokumentacji projektowej i pełnienie nadzoru autorskiego dla zadania: \"Gaz. Wrocław Obw. Pd, odc. Ołtaszyn - ZZU Wysoka wyłączenie gaz. z eksploatacji oraz Gaz. Wrocław Obw. Pd, odc. Ołtaszyn - ZZU Cargill - wyłączenie gaz z eksploatacji\"",
-  "url": "https://ted.europa.eu/en/notice/-/detail/688368-2026",
-  "zamawiajacy": "Operator Gazociągów Przesyłowych GAZ-SYSTEM S.A.",
-  "data_publikacji": "2026-10-06",
-  "termin_skladania": "2026-10-16T10:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71242000",
-   "71248000",
-   "71320000",
-   "71242000",
-   "71248000",
-   "71320000"
-  ],
-  "score": 9,
-  "tagi": [
-   "cpv-71",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-10-08",
-  "hash": "97a958e0bcaf327ed767f7fe453d27e7ff833c10abd7694cd7194e5557b10819"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Roboty budowlane w zakresie wznoszenia kompletnych obiektów budowlanych lub ich części oraz roboty w zakresie inżynierii lądowej i wodnej – Wykonanie kompletnej dokumentacji projektowej oraz wykonanie na jej podstawie robót budowlanych dla zadania inwestycyjnego pn.: „Przebudowa i budowa Stadionu Lekkoatletycznego - kompleks lekkoatletyczno-piłkarski”.",
-  "url": "https://ted.europa.eu/en/notice/-/detail/677515-2026",
-  "zamawiajacy": "Gmina Otwock",
-  "data_publikacji": "2026-10-01",
-  "termin_skladania": "2026-10-16T10:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "45200000",
-   "45223000",
-   "71000000",
-   "71220000",
-   "45200000",
-   "45223000",
-   "71000000",
-   "71220000"
-  ],
-  "score": 6,
-  "tagi": [
-   "cpv-71",
-   "roboty-budowlane",
-   "samorząd",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-10-01",
-  "hash": "fc3d1848f9aec44a059fa0f068102adc1e8724a49b563d7a11367407cabcc316"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Usługi architektoniczne, budowlane, inżynieryjne i kontrolne – Wykonanie aktualizacji dokumentacji projektowej termomodernizacji budynku Szkoły Podstawowej nr 27 przy ul. Sielskiej 34 w Bydgoszczy.",
   "url": "https://ted.europa.eu/en/notice/-/detail/636893-2026",
   "zamawiajacy": "Miasto Bydgoszcz",
@@ -11333,40 +11279,6 @@
   "status_opisu": "pobrany",
   "dodano": "2026-10-08",
   "hash": "8b8e0851dae3aa9839206ebc369759a7b88f09bedd98b32d58221ef1b40fe731"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Roboty budowlane – Opracowanie dokumentacji projektowej i realizacja robót budowlanych w zakresie podsystemu \"Energia\" - sieć trakcyjna na linii kolejowej nr 85 odc. Warszawa - Łódź",
-  "url": "https://ted.europa.eu/en/notice/-/detail/688626-2026",
-  "zamawiajacy": "Centralny Port Komunikacyjny sp. z o.o.",
-  "data_publikacji": "2026-10-06",
-  "termin_skladania": "2026-10-16T11:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "45000000",
-   "34632300",
-   "45232220",
-   "45234100",
-   "45231400",
-   "71321000",
-   "71322000",
-   "45000000",
-   "34632300",
-   "45232220",
-   "45234100",
-   "45231400",
-   "71321000",
-   "71322000"
-  ],
-  "score": 5,
-  "tagi": [
-   "bonus-ue/strategiczny",
-   "roboty-budowlane",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-10-08",
-  "hash": "5572dc2b69a6b1680bf5d199a79058fe31f8b3fdab2b0a6ee1c2aefc52e48fbc"
  },
  {
   "zrodlo": "ted",
@@ -11870,71 +11782,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Roboty budowlane – Zaprojektowanie (w zakresie branży srk) i kompleksowe wykonanie robót budowlanych na linii kolejowej nr 622 na odcinku G Gdów – Szczyrzyc w ramach Projektu pn. „Budowa nowej linii kolejowej Podłęże – Szczyrzyc – Tymbark / Mszana Dolna oraz modernizacja istniejącej linii kolejowej nr 104 Chabówka – Nowy Sącz – Etap II”",
-  "url": "https://ted.europa.eu/en/notice/-/detail/642406-2026",
-  "zamawiajacy": "PKP Polskie Linie Kolejowe S.A.",
-  "data_publikacji": "2026-09-17",
-  "termin_skladania": "2026-10-19T10:00:00+01:00",
-  "opis": null,
-  "cpv": [
-   "45000000",
-   "71322000",
-   "30000000",
-   "32000000",
-   "48000000",
-   "45233100",
-   "45200000",
-   "30200000",
-   "32500000",
-   "48200000",
-   "48600000",
-   "48800000",
-   "45100000",
-   "45230000",
-   "30210000",
-   "30230000",
-   "32410000",
-   "32420000",
-   "32430000",
-   "34000000",
-   "34600000",
-   "34630000",
-   "34632000",
-   "48810000",
-   "48820000",
-   "45220000",
-   "45240000",
-   "45110000",
-   "45234000",
-   "45234100",
-   "45234113",
-   "45234116",
-   "45234115",
-   "45310000",
-   "45311000",
-   "45314300",
-   "45314310",
-   "71000000",
-   "71300000",
-   "71320000",
-   "32400000",
-   "45300000",
-   "45232300",
-   "45231400",
-   "45000000"
-  ],
-  "score": 4,
-  "tagi": [
-   "bonus-ue/strategiczny",
-   "cpv-71",
-   "roboty-budowlane"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-20",
-  "hash": "bd6fff378715dfe9c0d2dc5a82dcfeeda0e874d793aad56a83ae1a573ab23fc6"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Nadzór nad projektem i dokumentacją – Opracowanie projektu wymiany oświetlenia wewnętrznego w budynku użyteczności publicznej w Katowicach przy ul. Powstańców nr 30 w celu poprawy stanu technicznego, estetycznego, a przede wszystkim zwiększenie efektywności energetycznej i redukcja zużycia energii elektrycznej oraz optymalizacja czasu i mocy świecenia – przedsięwzięcie termomodernizacyjne.",
   "url": "https://ted.europa.eu/en/notice/-/detail/684305-2026",
   "zamawiajacy": "Ministerstwo Energii",
@@ -12021,31 +11868,6 @@
   "status_opisu": "brak",
   "dodano": "2026-10-11",
   "hash": "087d03f9ebac3177b19d0f160e3f7e0812d55a2fcdd688acdf575996a4668d8e"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Usługi projektowania architektonicznego – Opracowanie dokumentacji projektowo-kosztorysowej dla zadania „Rozbudowa Sądu Rejonowego w Lidzbarku Warmińskim przy ul. Bartoszyckiej 4A”",
-  "url": "https://ted.europa.eu/en/notice/-/detail/488234-2026",
-  "zamawiajacy": "Sąd Okręgowy w Olsztynie",
-  "data_publikacji": "2026-07-15",
-  "termin_skladania": "2026-10-19T10:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71220000",
-   "71230000",
-   "71240000",
-   "71220000",
-   "71240000",
-   "71230000"
-  ],
-  "score": 9,
-  "tagi": [
-   "cpv-71",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": null,
-  "hash": "b76dd22dbc47c8c406e5943ac2160105f80f679eed285a428951161a9822fe1d"
  },
  {
   "zrodlo": "ted",
@@ -12668,7 +12490,7 @@
    "roboty-budowlane"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-13",
+  "dodano": "2026-10-14",
   "hash": "7a35292493d4b2c487c510af2d049b1d6d2598856ccddada2354f9374ec1fa12"
  },
  {
@@ -12744,7 +12566,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-13",
+  "dodano": "2026-10-14",
   "hash": "4f0e702aeeab64f52bf11be35775d74f319dd4fe9f8820e9b1b7886ca58cc81c"
  },
  {
@@ -13261,6 +13083,40 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Roboty budowlane – Opracowanie dokumentacji projektowej i realizacja robót budowlanych w zakresie podsystemu \"Energia\" - sieć trakcyjna na linii kolejowej nr 85 odc. Warszawa - Łódź",
+  "url": "https://ted.europa.eu/en/notice/-/detail/708958-2026",
+  "zamawiajacy": "Centralny Port Komunikacyjny sp. z o.o.",
+  "data_publikacji": "2026-10-14",
+  "termin_skladania": "2026-10-21T11:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "45000000",
+   "34632300",
+   "45232220",
+   "45234100",
+   "45231400",
+   "71321000",
+   "71322000",
+   "45000000",
+   "34632300",
+   "45232220",
+   "45234100",
+   "45231400",
+   "71321000",
+   "71322000"
+  ],
+  "score": 5,
+  "tagi": [
+   "bonus-ue/strategiczny",
+   "roboty-budowlane",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-08",
+  "hash": "83e19e7b312e397926366cd408fa7ad4f00d18d99a2aeb830e5a3be59fb0ba98"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi architektoniczne, budowlane, inżynieryjne i kontrolne – Opracowanie dokumentacji projektowej dla zadania pn.: „Budowa drogi dla pieszych i rowerów w ciągu DK70 na odc. Arkadia - Nieborów”.",
   "url": "https://ted.europa.eu/en/notice/-/detail/636397-2026",
   "zamawiajacy": "Generalna Dyrekcja Dróg Krajowych i Autostrad",
@@ -13583,7 +13439,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-13",
+  "dodano": "2026-10-14",
   "hash": "026219111e2573b310eb77fcd01caa4cb7188a4a50f7aec2af4966a6084a5fe1"
  },
  {
@@ -13613,7 +13469,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-13",
+  "dodano": "2026-10-14",
   "hash": "48ea775a0bbbb734b1e48e13ebd0e2d9cff80dea5367c23ff833ffffaf7b666d"
  },
  {
@@ -13643,7 +13499,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-13",
+  "dodano": "2026-10-14",
   "hash": "fae0324b67cbf8c8b7e01efaa0f0c05ad2f4a9e081d369a23bd3de3a896412b4"
  },
  {
@@ -13693,7 +13549,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-13",
+  "dodano": "2026-10-14",
   "hash": "79e1684d9241438c6130a981af8f4dbd6b34ed3d20a9055059b94a38e14a4076"
  },
  {
@@ -13866,7 +13722,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-13",
+  "dodano": "2026-10-14",
   "hash": "6d2b6a960cc7482f5b5eb73f9c87fb7b5f010072df781975db15533ed9654480"
  },
  {
@@ -13950,8 +13806,62 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-13",
+  "dodano": "2026-10-14",
   "hash": "bdbf89634c08eb29964720ce1257065b3d386d7c36ac3fff934094071d78a3d6"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Przygotowanie przedsięwzięcia i projektu, oszacowanie kosztów – Opracowanie dokumentacji projektowej i pełnienie nadzoru autorskiego dla zadania: \"Gaz. Wrocław Obw. Pd, odc. Ołtaszyn - ZZU Wysoka wyłączenie gaz. z eksploatacji oraz Gaz. Wrocław Obw. Pd, odc. Ołtaszyn - ZZU Cargill - wyłączenie gaz z eksploatacji\"",
+  "url": "https://ted.europa.eu/en/notice/-/detail/709950-2026",
+  "zamawiajacy": "Operator Gazociągów Przesyłowych GAZ-SYSTEM S.A.",
+  "data_publikacji": "2026-10-14",
+  "termin_skladania": "2026-10-23T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71242000",
+   "71248000",
+   "71320000",
+   "71242000",
+   "71248000",
+   "71320000"
+  ],
+  "score": 9,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-08",
+  "hash": "58beb494cfa7b93c441c0458384462cd566718392e4450b4ddcd208cf27bc88b"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Roboty budowlane w zakresie wznoszenia kompletnych obiektów budowlanych lub ich części oraz roboty w zakresie inżynierii lądowej i wodnej – Wykonanie kompletnej dokumentacji projektowej oraz wykonanie na jej podstawie robót budowlanych dla zadania inwestycyjnego pn.: „Przebudowa i budowa Stadionu Lekkoatletycznego - kompleks lekkoatletyczno-piłkarski”.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/708895-2026",
+  "zamawiajacy": "Gmina Otwock",
+  "data_publikacji": "2026-10-14",
+  "termin_skladania": "2026-10-23T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "45200000",
+   "45223000",
+   "71000000",
+   "71220000",
+   "45200000",
+   "45223000",
+   "71000000",
+   "71220000"
+  ],
+  "score": 6,
+  "tagi": [
+   "cpv-71",
+   "roboty-budowlane",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-01",
+  "hash": "51f1d155851ec18c7759fb5dca5cd674d7bd0490c138da8e27622124bf429cd8"
  },
  {
   "zrodlo": "bzp",
@@ -14047,7 +13957,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-13",
+  "dodano": "2026-10-14",
   "hash": "c902dc7004560dcf2716e656ae9eef051ae0987faf9e608b1ce1f884a2b1eee9"
  },
  {
@@ -14243,6 +14153,48 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Sprzęt obrazujący do użytku medycznego, stomatologicznego i weterynaryjnego – Zakup rezonansu magnetycznego 3T wraz z pełnym wyposażeniem z dostawą, instalacją, szkoleniem, demontażem i utylizacją rezonansu magnetycznego będącego na wyposażeniu Zamawiającego oraz modernizacją pomieszczenia.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/709983-2026",
+  "zamawiajacy": "Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie - Państwowy Instytut Badawczy",
+  "data_publikacji": "2026-10-14",
+  "termin_skladania": "2026-10-27T09:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "33110000",
+   "71221000",
+   "39150000",
+   "39180000",
+   "45400000",
+   "45215143",
+   "45310000",
+   "45311000",
+   "45232460",
+   "45332400",
+   "45343000",
+   "45331220",
+   "33110000",
+   "71221000",
+   "39150000",
+   "39180000",
+   "45400000",
+   "45215143",
+   "45310000",
+   "45311000",
+   "45232460",
+   "45332400",
+   "45343000",
+   "45331220"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-14",
+  "hash": "fe648a9c9954fa8a6d7d90a8ee4ee71cfb2f8c8e128acd6262464581be04cc47"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi inżynierii projektowej w zakresie inżynierii lądowej i wodnej – Opracowanie kompletnej dokumentacji projektowej i uzyskanie decyzji administracyjnych dla zadania pn. „Polder Oława-Lipki - prace przygotowawcze”",
   "url": "https://ted.europa.eu/en/notice/-/detail/704721-2026",
   "zamawiajacy": "Państwowe Gospodarstwo Wodne Wody Polskie",
@@ -14258,7 +14210,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-13",
+  "dodano": "2026-10-14",
   "hash": "e3185a885fd4f1e30b33e0858679ae2fedf342f31caf296806a1e26e921be1f0"
  },
  {
@@ -14310,7 +14262,7 @@
    "samorząd"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-13",
+  "dodano": "2026-10-14",
   "hash": "a5756b20f401c0ddb6f79f7cb68f8a6dbc547866e1f17bd46421c5db97894e02"
  },
  {
@@ -14535,7 +14487,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-13",
+  "dodano": "2026-10-14",
   "hash": "e63522f7f801a2d4ff2c0ac2c7cbf2ca1b07d062660b75d2c59e1088b0c5f757"
  },
  {
@@ -15239,7 +15191,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-13",
+  "dodano": "2026-10-14",
   "hash": "f8f98c888cf754c15e67dda5aeb5ab9cc70eef1bb99ca89d96275b9c5c2fc55c"
  },
  {
@@ -15350,6 +15302,71 @@
   "status_opisu": "brak",
   "dodano": "2026-10-01",
   "hash": "534e77f8f3e6b135d1f9d8ba68ad5614fa206eb2db7dd9339fbeced12617704c"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Roboty budowlane – Zaprojektowanie (w zakresie branży srk) i kompleksowe wykonanie robót budowlanych na linii kolejowej nr 622 na odcinku G Gdów – Szczyrzyc w ramach Projektu pn. „Budowa nowej linii kolejowej Podłęże – Szczyrzyc – Tymbark / Mszana Dolna oraz modernizacja istniejącej linii kolejowej nr 104 Chabówka – Nowy Sącz – Etap II”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/710519-2026",
+  "zamawiajacy": "PKP Polskie Linie Kolejowe S.A.",
+  "data_publikacji": "2026-10-14",
+  "termin_skladania": "2026-11-06T10:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "45000000",
+   "71322000",
+   "30000000",
+   "32000000",
+   "48000000",
+   "45233100",
+   "45200000",
+   "30200000",
+   "32500000",
+   "48200000",
+   "48600000",
+   "48800000",
+   "45100000",
+   "45230000",
+   "30210000",
+   "30230000",
+   "32410000",
+   "32420000",
+   "32430000",
+   "34000000",
+   "34600000",
+   "34630000",
+   "34632000",
+   "48810000",
+   "48820000",
+   "45220000",
+   "45240000",
+   "45110000",
+   "45234000",
+   "45234100",
+   "45234113",
+   "45234116",
+   "45234115",
+   "45310000",
+   "45311000",
+   "45314300",
+   "45314310",
+   "71000000",
+   "71300000",
+   "71320000",
+   "32400000",
+   "45300000",
+   "45232300",
+   "45231400",
+   "45000000"
+  ],
+  "score": 4,
+  "tagi": [
+   "bonus-ue/strategiczny",
+   "cpv-71",
+   "roboty-budowlane"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-20",
+  "hash": "609b9afa4487b7d50310837432e5db85eeaea773efef850d73131d34960eeddb"
  },
  {
   "zrodlo": "ted",
@@ -15539,32 +15556,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Opracowanie dokumentacji projektowej dla zadania 08180 pn. „Przebudowa ul. Czajkowskiego i Koszarowej do AWL”",
-  "url": "https://ted.europa.eu/en/notice/-/detail/688788-2026",
-  "zamawiajacy": "Gmina Wrocław",
-  "data_publikacji": "2026-10-06",
-  "termin_skladania": "2026-11-10T10:00:00+01:00",
-  "opis": null,
-  "cpv": [
-   "71320000",
-   "71322000",
-   "71248000",
-   "71320000",
-   "71322000",
-   "71248000"
-  ],
-  "score": 8,
-  "tagi": [
-   "cpv-71",
-   "samorząd",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-10-06",
-  "hash": "4b68dde37c2b477f98b4964d080182d633f6b66ec03e82244f142a6c5db2bf06"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – „Opracowanie kompletnej dokumentacji projektowej i uzyskanie decyzji administracyjnych dla zadania pn. „Zabezpieczenie przed powodzią miasta Brzeg. Rozbiórka obwałowań polderu Brzeziny – prace przygotowawcze”.",
   "url": "https://ted.europa.eu/en/notice/-/detail/692599-2026",
   "zamawiajacy": "Państwowe Gospodarstwo Wodne Wody Polskie",
@@ -15610,6 +15601,32 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Opracowanie dokumentacji projektowej dla zadania 08180 pn. „Przebudowa ul. Czajkowskiego i Koszarowej do AWL”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/710410-2026",
+  "zamawiajacy": "Gmina Wrocław",
+  "data_publikacji": "2026-10-14",
+  "termin_skladania": "2026-11-12T10:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71320000",
+   "71322000",
+   "71248000",
+   "71320000",
+   "71322000",
+   "71248000"
+  ],
+  "score": 8,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-06",
+  "hash": "474cb7f3393bee9cf6bbc0d34fde1c213cd1d3d5905c4ee84bdbfa8bc6b45fbb"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi projektowania rurociągów – Opracowanie dokumentacji projektowej dla budowy: Kompletu urządzeń podczyszczających na sieci kanalizacji deszczowej w Poznaniu w ramach zadań inwestycyjnych: 0-05-25-145-1 Uzbrojenie wylotów - etap 7 0-05-25-146-1 Uzbrojenie wylotów - etap 8 oraz pełnienie nadzoru autorskiego.",
   "url": "https://ted.europa.eu/en/notice/-/detail/679377-2026",
   "zamawiajacy": "Aquanet S.A.",
@@ -15632,33 +15649,6 @@
   "status_opisu": "brak",
   "dodano": "2026-10-02",
   "hash": "7e40ecbfa21aac0ebe550a4ff4c3dbe7774e5ce150ebdec74dfd141eab3d4e5e"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Usługi architektoniczne, budowlane, inżynieryjne i kontrolne – Opracowanie koncepcji oraz dokumentacji projektowej rozbudowy i przebudowy budynku przy ul. Filipowskiej 20B w Suwałkach wraz z niezbędną infrastrukturą na potrzeby placówki opiekuńczo – wychowawczej",
-  "url": "https://ted.europa.eu/en/notice/-/detail/699198-2026",
-  "zamawiajacy": "Miasto Suwałki",
-  "data_publikacji": "2026-10-09",
-  "termin_skladania": "2026-11-13T09:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71000000",
-   "71220000",
-   "71300000",
-   "71320000",
-   "71000000",
-   "71220000",
-   "71300000",
-   "71320000"
-  ],
-  "score": 9,
-  "tagi": [
-   "cpv-71",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-10-09",
-  "hash": "baf700b90315c302c1540de22ca0c3fabe4c3eb202e7bf3ddfabd15937ca266f"
  },
  {
   "zrodlo": "ted",
@@ -15991,6 +15981,33 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Usługi architektoniczne, budowlane, inżynieryjne i kontrolne – Opracowanie koncepcji oraz dokumentacji projektowej rozbudowy i przebudowy budynku przy ul. Filipowskiej 20B w Suwałkach wraz z niezbędną infrastrukturą na potrzeby placówki opiekuńczo – wychowawczej",
+  "url": "https://ted.europa.eu/en/notice/-/detail/708122-2026",
+  "zamawiajacy": "Miasto Suwałki",
+  "data_publikacji": "2026-10-14",
+  "termin_skladania": "2026-11-18T09:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71000000",
+   "71220000",
+   "71300000",
+   "71320000",
+   "71000000",
+   "71220000",
+   "71300000",
+   "71320000"
+  ],
+  "score": 9,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-09",
+  "hash": "b24f6184f522b8ec32d5bbb91e607a81de08d25345994d73971f0e4f117ad2e6"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Opracowanie dokumentacji projektowo - kosztorysowej dla przedsięwzięcia pn. „Rozbudowa i przebudowa oczyszczalni ścieków w Skoczowie – etap II”",
   "url": "https://ted.europa.eu/en/notice/-/detail/703252-2026",
   "zamawiajacy": "Miejska Spółka SKO-EKO Sp. z o.o.",
@@ -16022,6 +16039,30 @@
   "status_opisu": "brak",
   "dodano": "2026-10-12",
   "hash": "65e3cb7b6f5df29ef75e5787da2e716ead0fd4a41a8bc1221165a32e7aa873a8"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi doradcze w zakresie systemów i doradztwo techniczne – Wyposażenie ośrodka zapasowego (serwerownia) dla platformy cyfrowej wspierającej procesy kontroli w zakresie zarzadzania i analityki - projekt.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/709578-2026",
+  "zamawiajacy": "Najwyższa Izba Kontroli",
+  "data_publikacji": "2026-10-14",
+  "termin_skladania": "2026-11-23T08:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "72220000",
+   "72241000",
+   "71320000",
+   "72220000",
+   "72241000",
+   "71320000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-14",
+  "hash": "8ebcdf31aab3c09937224cf3b25b534a8666a7d9686ffede7771b5048cb13c4a"
  },
  {
   "zrodlo": "ted",
@@ -16178,7 +16219,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-13",
+  "dodano": "2026-10-14",
   "hash": "290f81ae419c81d536659f4d032f1bd1846fc25f4bb7c58b1e8f6aee39aa16a3"
  }
 ]
