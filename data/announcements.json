@@ -8530,29 +8530,6 @@
  },
  {
   "zrodlo": "bzp",
-  "tytul": "Opracowanie dokumentacji projektowej dla zadania: 08410 pn. „Ścieżka spacerowa wzdłuż Steblówki – Stabłowice od ul. Kruszcowej do Piechowickiej we Wrocławiu – projekt nr 92/WBO.2025”",
-  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-58e98d95-0fd4-44c6-9aa5-9e792aa9e224",
-  "zamawiajacy": "Gmina Wrocław, w imieniu i na rzecz której działają Wrocławskie Inwestycje Sp. z o. o. z siedzibą przy ul. Ofiar Oświęcimskich 36, 50-059 Wrocław na podstawie pełnomocnictwa Prezydenta Wrocławia",
-  "data_publikacji": "2026-09-28",
-  "termin_skladania": "2026-10-07T07:00:00Z",
-  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00459445 z dnia 2026-09-28 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej dla zadania: 08410 pn. „Ścieżka spacerowa wzdłuż Steblówki – Stabłowice od ul. Kruszcowej do Piechowickiej we Wrocławiu – projekt nr 92/WBO.2025” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzi podmiot, któremu powierzono przeprowadzenie postępowania 1.2.) Nazwa zamawiającego: Gmina Wrocław, w imieniu i na rzecz której działają Wrocławskie Inwestycje Sp. z o. o. z siedzibą przy ul. Ofiar Oświęcimskich 36, 50-059 Wrocław na podstawie pełnomocnictwa Prezydenta Wrocławia 1.4) Krajowy Numer Identyfikacyjny: REGON 020568529 1.5) Adres zamawiającego 1.5.1.) Ulica: Ofiar Oświęcimskich 36 1.5.2.) Miejscowość: Wrocław 1.5.3.) Kod pocztowy: 50-059 1.5.4.) Województwo: dolnośląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL514 - Miasto Wrocław 1.5.9.) Adres poczty elek",
-  "cpv": [
-   "71320000-7",
-   "71322000-1",
-   "71248000-8"
-  ],
-  "score": 11,
-  "tagi": [
-   "cpv-71",
-   "samorząd",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "pobrany",
-  "dodano": "2026-09-28",
-  "hash": "7a2d2ba96061fcbf4d7e751df83ee5178686d7a2bec7810999fa3a8e41c74d1b"
- },
- {
-  "zrodlo": "bzp",
   "tytul": "Opracowanie koncepcji remontu obiektów - DW 897 Tylawa – Cisna – Wołosate: Zad.1 most przez rz. Osława w m. Wola Michowa w km 50+088, Zad.2 – most przez rz. Osława w m. Wola Michowa w km 51+325",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-e313c245-5d63-4b3a-91b0-2b4a770b4792",
   "zamawiajacy": "PODKARPACKI ZARZĄD DRÓG WOJEWÓDZKICH",
@@ -13112,7 +13089,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-08",
+  "dodano": "2026-10-14",
   "hash": "83e19e7b312e397926366cd408fa7ad4f00d18d99a2aeb830e5a3be59fb0ba98"
  },
  {
@@ -13831,7 +13808,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-08",
+  "dodano": "2026-10-14",
   "hash": "58beb494cfa7b93c441c0458384462cd566718392e4450b4ddcd208cf27bc88b"
  },
  {
@@ -13860,7 +13837,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-01",
+  "dodano": "2026-10-14",
   "hash": "51f1d155851ec18c7759fb5dca5cd674d7bd0490c138da8e27622124bf429cd8"
  },
  {
@@ -13931,6 +13908,29 @@
   "status_opisu": "brak",
   "dodano": "2026-10-11",
   "hash": "1417754ce4def456061f642b6f971a5f7b8f7151b577b2fa553dd0288e133d22"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej dla zadania: 08410 pn. „Ścieżka spacerowa wzdłuż Steblówki – Stabłowice od ul. Kruszcowej do Piechowickiej we Wrocławiu – projekt nr 92/WBO.2025”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-5964f3ab-392f-45b6-b066-6f4d1814ff4c",
+  "zamawiajacy": "Gmina Wrocław, w imieniu i na rzecz której działają Wrocławskie Inwestycje Sp. z o. o. z siedzibą przy ul. Ofiar Oświęcimskich 36, 50-059 Wrocław na podstawie pełnomocnictwa Prezydenta Wrocławia",
+  "data_publikacji": "2026-10-14",
+  "termin_skladania": "2026-10-26T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00487175 z dnia 2026-10-14 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej dla zadania: 08410 pn. „Ścieżka spacerowa wzdłuż Steblówki – Stabłowice od ul. Kruszcowej do Piechowickiej we Wrocławiu – projekt nr 92/WBO.2025” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzi podmiot, któremu powierzono przeprowadzenie postępowania 1.2.) Nazwa zamawiającego: Gmina Wrocław, w imieniu i na rzecz której działają Wrocławskie Inwestycje Sp. z o. o. z siedzibą przy ul. Ofiar Oświęcimskich 36, 50-059 Wrocław na podstawie pełnomocnictwa Prezydenta Wrocławia 1.4) Krajowy Numer Identyfikacyjny: REGON 020568529 1.5) Adres zamawiającego 1.5.1.) Ulica: Ofiar Oświęcimskich 36 1.5.2.) Miejscowość: Wrocław 1.5.3.) Kod pocztowy: 50-059 1.5.4.) Województwo: dolnośląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL514 - Miasto Wrocław 1.5.9.) Adres poczty elek",
+  "cpv": [
+   "71320000-7",
+   "71322000-1",
+   "71248000-8"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-28",
+  "hash": "1fe9ce2aab891570bea4958601b1f35d38d09312becd88cb51f18b2684b32a12"
  },
  {
   "zrodlo": "ted",
@@ -14044,6 +14044,31 @@
   "status_opisu": "pobrany",
   "dodano": "2026-10-09",
   "hash": "13eedc5565ab7fd9c53342ac84297b8d57c37b82ef9df76a980bcd4046a2aa33"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "„Opracowanie dokumentacji projektowej dla budowy dróg na terenie Gminy Bieliny” z podziałem na części",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-b8e934e3-9226-470a-8340-bf54f3249e6c",
+  "zamawiajacy": "GMINA BIELINY",
+  "data_publikacji": "2026-10-14",
+  "termin_skladania": "2026-10-26T09:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00487317 z dnia 2026-10-14 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi „Opracowanie dokumentacji projektowej dla budowy dróg na terenie Gminy Bieliny” z podziałem na części SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: GMINA BIELINY 1.4) Krajowy Numer Identyfikacyjny: REGON 291009975 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Partyzantów 17 1.5.2.) Miejscowość: Bieliny 1.5.3.) Kod pocztowy: 26-004 1.5.4.) Województwo: świętokrzyskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL721 - Kielecki 1.5.9.) Adres poczty elektronicznej: zefiryna.poniewierska@bieliny.pl 1.5.10.) Adres strony internetowej zamawiającego: www.bieliny.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Przedmiot działalności zamawiającego: Ogóln",
+  "cpv": [
+   "71320000-7",
+   "71322000-1",
+   "71355000-1",
+   "79933000-3",
+   "71248000-8"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-14",
+  "hash": "c58e32f4b65e2989115eb80d1f05194bdad846bdedf5e00185f1e899e11e0bf4"
  },
  {
   "zrodlo": "bzp",
@@ -15388,7 +15413,7 @@
    "roboty-budowlane"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-20",
+  "dodano": "2026-10-14",
   "hash": "609b9afa4487b7d50310837432e5db85eeaea773efef850d73131d34960eeddb"
  },
  {
@@ -15645,7 +15670,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-06",
+  "dodano": "2026-10-14",
   "hash": "474cb7f3393bee9cf6bbc0d34fde1c213cd1d3d5905c4ee84bdbfa8bc6b45fbb"
  },
  {
@@ -16026,7 +16051,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-09",
+  "dodano": "2026-10-14",
   "hash": "b24f6184f522b8ec32d5bbb91e607a81de08d25345994d73971f0e4f117ad2e6"
  },
  {
