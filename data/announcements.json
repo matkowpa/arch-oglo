@@ -14458,6 +14458,30 @@
   "hash": "ec135290cafb2495fba1d3612a7b55cfd66e72fe2ab80e6fb54784bf57682bd4"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowej kontenerowych laboratoriów modułowych przy ul. Willowej",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-975211c7-5d01-44bd-9a11-d36ee4f09457",
+  "zamawiajacy": "Politechnika Morska w Szczecinie",
+  "data_publikacji": "2026-10-14",
+  "termin_skladania": "2026-10-28T10:30:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00487348 z dnia 2026-10-14 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowej kontenerowych laboratoriów modułowych przy ul. Willowej SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Politechnika Morska w Szczecinie 1.4) Krajowy Numer Identyfikacyjny: REGON 000145129 1.5) Adres zamawiającego 1.5.1.) Ulica: Wały Chrobrego 1-2 1.5.2.) Miejscowość: Szczecin 1.5.3.) Kod pocztowy: 70-500 1.5.4.) Województwo: zachodniopomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL424 - Miasto Szczecin 1.5.9.) Adres poczty elektronicznej: ar@pm.szczecin.pl 1.5.10.) Adres strony internetowej zamawiającego: www.pm.szczecin.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - uczelnia publiczna 1.7.) Przedmiot działalności zamawiającego: Edukacja SEK",
+  "cpv": [
+   "71200000-0",
+   "71220000-6",
+   "71240000-2",
+   "71320000-7",
+   "71244000-0"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-14",
+  "hash": "043a1a510abda1148f58a7b8e40b5a5e57ce637b3e30d5bec9644e0fee29ff07"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Słoneczne moduły fotoelektryczne – Dostawa, montaż, uruchomienie oraz przekazanie do eksploatacji kompletnej instalacji fotowoltaicznej wraz z towarzyszącymi robotami budowlanymi dla budynku administracyjnego Urzędu Stanu Cywilnego w ramach zadania inwestycyjnego pn.: „Zwiększenie produkcji energii elektrycznej ze źródeł odnawialnych w budynkach użyteczności publicznej Miasta Katowice – etap II”",
   "url": "https://ted.europa.eu/en/notice/-/detail/663814-2026",
