@@ -15082,6 +15082,30 @@
   "hash": "3d851ef95684705d2350a649085cdd2e30e054513cff71a0b0b49dcf39a085ba"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej oraz wykonanie robót budowlanych związanych z budową oświetlenia przejść dla pieszych w ulicy 3 Maja oraz w ulicy Powstańców w Ząbkach",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-70d954e8-b3ae-4d87-ad45-cc9da456b3e9",
+  "zamawiajacy": "Miasto Ząbki",
+  "data_publikacji": "2026-10-14",
+  "termin_skladania": "2026-11-03T09:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00487796 z dnia 2026-10-14 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Roboty budowlane Opracowanie dokumentacji projektowej oraz wykonanie robót budowlanych związanych z budową oświetlenia przejść dla pieszych w ulicy 3 Maja oraz w ulicy Powstańców w Ząbkach SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Miasto Ząbki 1.4) Krajowy Numer Identyfikacyjny: REGON 013269717 1.5) Adres zamawiającego 1.5.1.) Ulica: Wojska Polskiego 10 1.5.2.) Miejscowość: Ząbki 1.5.3.) Kod pocztowy: 05-091 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL912 - Warszawski wschodni 1.5.9.) Adres poczty elektronicznej: zamowienia.publiczne@zabki.pl 1.5.10.) Adres strony internetowej zamawiającego: www.zabki.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jed",
+  "cpv": [
+   "45316110-9",
+   "45231400-9",
+   "71320000-7",
+   "34928510-6"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "roboty-budowlane",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-14",
+  "hash": "a9ce0e80ada54d7b27c80f8f932e3707f73f92eb56d84b5a956a74820feb726b"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Budynki modułowe i przenośne – Dostawa wraz z montażem i dostosowaniem transportowalnych modułów kontenerowych w ramach PROGRAMU OCHRONY LUDNOŚCI I OBRONY CYWILNEJ NA LATA 2025-2026’’",
   "url": "https://ted.europa.eu/en/notice/-/detail/673340-2026",
