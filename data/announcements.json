@@ -13504,6 +13504,25 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Usługa wykonania dokumentacji projektowo - kosztorysowej na remont budynku nr 2 w Siedlcach, będącego w administrowaniu 28 Wojskowego Oddziału Gospodarczego w Siedlcach.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-a90d5576-4b07-4952-8c8a-02bdf9c9ca1d",
+  "zamawiajacy": "28 WOJSKOWY ODDZIAŁ GOSPODARCZY",
+  "data_publikacji": "2026-10-15",
+  "termin_skladania": "2026-10-23T06:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00489748 z dnia 2026-10-15 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Usługa wykonania dokumentacji projektowo - kosztorysowej na remont budynku nr 2 w Siedlcach, będącego w administrowaniu 28 Wojskowego Oddziału Gospodarczego w Siedlcach. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: 28 WOJSKOWY ODDZIAŁ GOSPODARCZY 1.4) Krajowy Numer Identyfikacyjny: REGON 523025966 1.5) Adres zamawiającego 1.5.1.) Ulica: ROTMISTRZA WITOLDA PILECKIEGO 5 1.5.2.) Miejscowość: Siedlce 1.5.3.) Kod pocztowy: 08-110 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL925 - Siedlecki 1.5.9.) Adres poczty elektronicznej: zampub1.28wog@ron.mil.pl 1.5.10.) Adres strony internetowej zamawiającego: www.28wog.wp.mil.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - inny zamawiający Skarb Państwa-",
+  "cpv": [
+   "71320000-7"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-15",
+  "hash": "cc6172ef095cb4ff330d209877caef1ab404a90b4b12f790daaac19cd37d69ce"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Opracowanie dokumentacji projektowej dotyczącej dostosowania pomieszczeń w budynku Szkoły Podstawowej nr 2 w Strzyżowie do warunków technicznych miejsca ukrycia U-1",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-baadba8c-639b-42a4-b700-5e11060bd558",
   "zamawiajacy": "Gmina Strzyżów",
@@ -13533,6 +13552,26 @@
   "status_opisu": "pobrany",
   "dodano": "2026-10-15",
   "hash": "414c2daf4c99fb5325c7e91bc6a63231ca4f89951ae92583a15bc9f84efa12fc"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowo – kosztorysowej dla zadania inwestycyjnego pn.: „Modernizacja SSP i KD oraz wymiana drzwi p.poż. - O/Nowy Sącz, ul. Węgierska”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-07c4d977-e46d-43e0-9d7c-41fc30138527",
+  "zamawiajacy": "Zakład Ubezpieczeń Społecznych Oddział w Nowym Sączu",
+  "data_publikacji": "2026-10-15",
+  "termin_skladania": "2026-10-23T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00489847 z dnia 2026-10-15 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowo – kosztorysowej dla zadania inwestycyjnego pn.: „Modernizacja SSP i KD oraz wymiana drzwi p.poż. - O/Nowy Sącz, ul. Węgierska” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Zakład Ubezpieczeń Społecznych Oddział w Nowym Sączu 1.4) Krajowy Numer Identyfikacyjny: REGON 00001775600331 1.5) Adres zamawiającego 1.5.1.) Ulica: Sienkiewicza 77 1.5.2.) Miejscowość: Nowy Sącz 1.5.3.) Kod pocztowy: 33-300 1.5.4.) Województwo: małopolskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL218 - Nowosądecki 1.5.9.) Adres poczty elektronicznej: zampubl_nowysacz@zus.pl 1.5.10.) Adres strony internetowej zamawiającego: https://www.zus.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów p",
+  "cpv": [
+   "71320000-7",
+   "71248000-8"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-15",
+  "hash": "ee7830ea06e06fc15553b66719c23e8cd4463fbcac524abc073e2a159c7964d0"
  },
  {
   "zrodlo": "bzp",
@@ -13977,6 +14016,31 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Budowa kompleksu boisk sportowych przy ul. Jagodowej - koncepcja projektowa",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-38b5f1b1-d16b-4101-895f-7b35362c5582",
+  "zamawiajacy": "Miasto Gliwice",
+  "data_publikacji": "2026-10-15",
+  "termin_skladania": "2026-10-26T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00489925 z dnia 2026-10-15 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Budowa kompleksu boisk sportowych przy ul. Jagodowej - koncepcja projektowa SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Miasto Gliwice 1.3.) Oddział zamawiającego: Wydział Organizacyjny 1.4) Krajowy Numer Identyfikacyjny: REGON 276255335 1.5) Adres zamawiającego 1.5.1.) Ulica: Zwycięstwa 21 1.5.2.) Miejscowość: Gliwice 1.5.3.) Kod pocztowy: 44-100 1.5.4.) Województwo: śląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL229 - Gliwicki 1.5.7.) Numer telefonu: +48 32 238 55 30 1.5.9.) Adres poczty elektronicznej: za@um.gliwice.pl 1.5.10.) Adres strony internetowej zamawiającego: https://gliwice.eu/ 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.)",
+  "cpv": [
+   "71242000-6",
+   "71400000-2",
+   "71220000-6",
+   "71221000-3",
+   "71320000-7",
+   "71352000-0",
+   "71354000-4"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-15",
+  "hash": "eec743164d3c14b6d078b272fb40122aacbc9072f08e84fb7d8b79ef7d6fb5e5"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Opracowanie dokumentacji projektowej dla zadania: 08410 pn. „Ścieżka spacerowa wzdłuż Steblówki – Stabłowice od ul. Kruszcowej do Piechowickiej we Wrocławiu – projekt nr 92/WBO.2025”",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-5964f3ab-392f-45b6-b066-6f4d1814ff4c",
   "zamawiajacy": "Gmina Wrocław, w imieniu i na rzecz której działają Wrocławskie Inwestycje Sp. z o. o. z siedzibą przy ul. Ofiar Oświęcimskich 36, 50-059 Wrocław na podstawie pełnomocnictwa Prezydenta Wrocławia",
@@ -13997,6 +14061,27 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-28",
   "hash": "1fe9ce2aab891570bea4958601b1f35d38d09312becd88cb51f18b2684b32a12"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowych na budowę, przebudowę i remont budynków Leśnego Zakładu Doświadczalnego w Krynicy-Zdroju",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-17206885-2d3a-4f2f-bde0-032a652d37ee",
+  "zamawiajacy": "Uniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie",
+  "data_publikacji": "2026-10-15",
+  "termin_skladania": "2026-10-26T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00489860 z dnia 2026-10-15 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowych na budowę, przebudowę i remont budynków Leśnego Zakładu Doświadczalnego w Krynicy-Zdroju SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Uniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie 1.4) Krajowy Numer Identyfikacyjny: REGON 000001815 1.5) Adres zamawiającego 1.5.1.) Ulica: al. Adama Mickiewicza 21 1.5.2.) Miejscowość: Kraków 1.5.3.) Kod pocztowy: 31-120 1.5.4.) Województwo: małopolskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL213 - Miasto Kraków 1.5.9.) Adres poczty elektronicznej: beata.krzek@urk.edu.pl 1.5.10.) Adres strony internetowej zamawiającego: https://urk.edu.pl/ 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - uczelnia publiczna",
+  "cpv": [
+   "71220000-6",
+   "71320000-7",
+   "71248000-8"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-15",
+  "hash": "91b2cd5897615012038170b05865c4a2aa3382dcaf96bb4efa4a2d342058ca55"
  },
  {
   "zrodlo": "bzp",
