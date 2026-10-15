@@ -13192,7 +13192,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-11",
+  "dodano": "2026-10-15",
   "hash": "a400184c359592aa3cbbff087f750d153a9916756cf7d839e77b4edf8232e7e0"
  },
  {
@@ -13628,6 +13628,30 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Opracowanie kompletnej dokumentacji projektowej budowy miejsca schronienia i ewakuacji (obiekt o podwójnym przeznaczeniu) w ŚCMiN-SzS w Kielcach",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-3309927d-abb5-4af1-b536-7a26cdde9ad7",
+  "zamawiajacy": "Świętokrzyskie Centrum Matki i Noworodka - Szpital Specjalistyczny w Kielcach",
+  "data_publikacji": "2026-10-15",
+  "termin_skladania": "2026-10-23T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00489189 z dnia 2026-10-15 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie kompletnej dokumentacji projektowej budowy miejsca schronienia i ewakuacji (obiekt o podwójnym przeznaczeniu) w ŚCMiN-SzS w Kielcach SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Świętokrzyskie Centrum Matki i Noworodka - Szpital Specjalistyczny w Kielcach 1.4) Krajowy Numer Identyfikacyjny: REGON 290503911 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Prosta 30 1.5.2.) Miejscowość: Kielce 1.5.3.) Kod pocztowy: 25-371 1.5.4.) Województwo: świętokrzyskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL721 - Kielecki 1.5.9.) Adres poczty elektronicznej: a.cieslik@szpitalprosta.pl 1.5.10.) Adres strony internetowej zamawiającego: www.szpgin.kielce.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finans",
+  "cpv": [
+   "71220000-6",
+   "71320000-7",
+   "71242000-6",
+   "71248000-8",
+   "71247000-1"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-15",
+  "hash": "607bb6a47d658dccdc5eedb2edf4cf80eac3a45ccaf04a65ffb88f764113a0a9"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Wykonanie kompletnej dokumentacji projektowej a następnie przeprowadzenie robót budowlanych z podziałem na Część Nr 1 oraz Część Nr 2",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-3ffc0b64-de1e-4150-8208-cb9c4b4f378d",
   "zamawiajacy": "POWIAT PŁOŃSKI",
@@ -13932,6 +13956,27 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Budowa Centrum Przesiadkowego wraz z przebudową ul. Dworcowej i Konopnickiej w Sulechowie – etap: dokumentacja projektowa",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-4b97a8ba-b0de-4920-8024-b7fd17f2d20b",
+  "zamawiajacy": "Gmina Sulechów",
+  "data_publikacji": "2026-10-15",
+  "termin_skladania": "2026-10-26T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00489555 z dnia 2026-10-15 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Budowa Centrum Przesiadkowego wraz z przebudową ul. Dworcowej i Konopnickiej w Sulechowie – etap: dokumentacja projektowa SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Sulechów 1.4) Krajowy Numer Identyfikacyjny: REGON 000526765 1.5) Adres zamawiającego 1.5.1.) Ulica: Plac Ratuszowy 6 1.5.2.) Miejscowość: Sulechów 1.5.3.) Kod pocztowy: 66-100 1.5.4.) Województwo: lubuskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL432 - Zielonogórski 1.5.7.) Numer telefonu: 683851100 1.5.9.) Adres poczty elektronicznej: um@sulechow.pl 1.5.10.) Adres strony internetowej zamawiającego: https://www.bip.sulechow.pl/ 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego ",
+  "cpv": [
+   "71320000-7"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-15",
+  "hash": "5baccb7598e5a069afb94a7ca95a6a63cf91ab6d84cc1c098800d4d6b6b2c9de"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Opracowanie dokumentacji projektowej dla zadania: 08410 pn. „Ścieżka spacerowa wzdłuż Steblówki – Stabłowice od ul. Kruszcowej do Piechowickiej we Wrocławiu – projekt nr 92/WBO.2025”",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-5964f3ab-392f-45b6-b066-6f4d1814ff4c",
   "zamawiajacy": "Gmina Wrocław, w imieniu i na rzecz której działają Wrocławskie Inwestycje Sp. z o. o. z siedzibą przy ul. Ofiar Oświęcimskich 36, 50-059 Wrocław na podstawie pełnomocnictwa Prezydenta Wrocławia",
@@ -14157,7 +14202,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-11",
+  "dodano": "2026-10-15",
   "hash": "971a8312bc418df855eb7f431146c6b244ff4f3ba3189dd8a9f1e681b0eeed27"
  },
  {
@@ -14303,6 +14348,30 @@
   "hash": "e3185a885fd4f1e30b33e0858679ae2fedf342f31caf296806a1e26e921be1f0"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "Nadzór inwestorski specjalistyczny przy realizacji zadania pn. „Budowa kładki rowerowej połączonej z istniejącym mostem Legionów Józefa Piłsudskiego przez Wisłę w Płocku wraz z dojazdami - trasa 21”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-7dc844f6-81ba-4aed-bc3f-a24455787e6c",
+  "zamawiajacy": "Miejski Zarząd Dróg",
+  "data_publikacji": "2026-10-15",
+  "termin_skladania": "2026-10-27T09:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00489483 z dnia 2026-10-15 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Nadzór inwestorski specjalistyczny przy realizacji zadania pn. „Budowa kładki rowerowej połączonej z istniejącym mostem Legionów Józefa Piłsudskiego przez Wisłę w Płocku wraz z dojazdami - trasa 21” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Miejski Zarząd Dróg 1.4) Krajowy Numer Identyfikacyjny: REGON 610209280 1.5) Adres zamawiającego 1.5.1.) Ulica: Bielska 9/11 1.5.2.) Miejscowość: Płock 1.5.3.) Kod pocztowy: 09-400 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL923 - Płocki 1.5.7.) Numer telefonu: (24) 364-01-20 1.5.9.) Adres poczty elektronicznej: sekretariat@mzd-plock.eu 1.5.10.) Adres strony internetowej zamawiającego: www.mzd-plock.eu 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - je",
+  "cpv": [
+   "71310000-4",
+   "71248000-8",
+   "71247000-1",
+   "71350000-6",
+   "71530000-2",
+   "71700000-5"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-15",
+  "hash": "cb813fecf61fadd64d317e7cc6b35ae618341ebd96304881d9d43385a8f4a851"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Słoneczne moduły fotoelektryczne – Dostawa i montaż wraz z zaprojektowaniem i uruchomieniem instalacji fotowoltaicznej o mocy 450 kWp w ramach wniosku o dofinansowanie pn.: Rozwój energetyki rozproszonej opartej o OZE dla budynków użyteczności publicznej w Gminie Zawiercie 6",
   "url": "https://ted.europa.eu/en/notice/-/detail/702846-2026",
@@ -14405,6 +14474,33 @@
   "status_opisu": "brak",
   "dodano": "2026-09-23",
   "hash": "81b8c7e6a9438c9102b7d024405cc4b18e9d5d14e2582a9449e1b23fbe149ee3"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowo-kosztorysowej dla Miasta i Gminy Skępe w 2026 roku",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-43861ddd-7b3b-4282-9fc2-fd82f34acc47",
+  "zamawiajacy": "MIASTO I GMINA SKĘPE",
+  "data_publikacji": "2026-10-15",
+  "termin_skladania": "2026-10-27T10:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00489322 z dnia 2026-10-15 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowo-kosztorysowej dla Miasta i Gminy Skępe w 2026 roku SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: MIASTO I GMINA SKĘPE 1.4) Krajowy Numer Identyfikacyjny: REGON 910866560 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Kościelna 2 1.5.2.) Miejscowość: Skępe 1.5.3.) Kod pocztowy: 87-630 1.5.4.) Województwo: kujawsko-pomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL619 - Włocławski 1.5.7.) Numer telefonu: (54) 287 85 21 1.5.8.) Numer faksu: (54) 287 72 04 1.5.9.) Adres poczty elektronicznej: sekretariat@skepe.pl 1.5.10.) Adres strony internetowej zamawiającego: www.bip.skepe.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytori",
+  "cpv": [
+   "71000000-8",
+   "71200000-0",
+   "71220000-6",
+   "71240000-2",
+   "71242000-6",
+   "71245000-7",
+   "71246000-4"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-15",
+  "hash": "e1cdaced0130fd25f4ab69a8c752e2b9a87c7b9e68a8fa7136668133bf8a0030"
  },
  {
   "zrodlo": "ted",
@@ -14574,7 +14670,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-08",
+  "dodano": "2026-10-15",
   "hash": "ba2a13f0618e0e4052e5beffbcb86bbf881a5e671d863e41fe1816e87160b46e"
  },
  {
