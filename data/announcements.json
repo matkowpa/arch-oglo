@@ -6884,33 +6884,6 @@
  },
  {
   "zrodlo": "bzp",
-  "tytul": "Wykonanie ekspertyzy określającej stan techniczny dla zadania „Przebudowa zapory czołowej Zbiornika Wodnego Włodzienin stanowiącego ochronę przeciwpowodziową doliny rzeki Troi”",
-  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-c1b0a2d0-81c2-4339-b5e0-487eb75df851",
-  "zamawiajacy": "Państwowe Gospodarstwo Wodne Wody Polskie",
-  "data_publikacji": "2026-09-23",
-  "termin_skladania": "2026-10-01T07:00:00Z",
-  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00451165 z dnia 2026-09-23 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie ekspertyzy określającej stan techniczny dla zadania „Przebudowa zapory czołowej Zbiornika Wodnego Włodzienin stanowiącego ochronę przeciwpowodziową doliny rzeki Troi” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Państwowe Gospodarstwo Wodne Wody Polskie 1.4) Krajowy Numer Identyfikacyjny: REGON 368302575 1.5) Adres zamawiającego 1.5.1.) Ulica: Chałubińskiego 8 1.5.2.) Miejscowość: Warszawa 1.5.3.) Kod pocztowy: 00-613 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL911 - Miasto Warszawa 1.5.7.) Numer telefonu: 48 32 231 64 31 wew.16 1.5.9.) Adres poczty elektronicznej: gliwice@wody.gov.pl 1.5.10.) Adres strony internetowej zamawiającego: https://www.gov.pl/web/wody-polskie 1.6.) Rodzaj zam",
-  "cpv": [
-   "71242000-6",
-   "71250000-5",
-   "71320000-7",
-   "71322000-1",
-   "71332000-4",
-   "71336000-2",
-   "72242000-3",
-   "71356100-9",
-   "71335000-5"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "pobrany",
-  "dodano": "2026-09-23",
-  "hash": "9634307710715dc4ab9858a13c6aba3d10853cb899d487e1f791321098367557"
- },
- {
-  "zrodlo": "bzp",
   "tytul": "Opracowanie dokumentacji projektowej oraz pełnienie w trakcie realizacji robót budowlanych nadzoru autorskiego na zadanie p.n.: Budowa szlaku pieszo-rowerowego nad Jeziorem Sławskim w m. Sława.",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-c97769d0-5312-4ddd-9403-7db1a9e61f74",
   "zamawiajacy": "Gmina Sława",
@@ -10625,38 +10598,6 @@
   "hash": "58f14c25b296c12a846553285dbe31862fac5c9ae2edf9e02ca24a45d7c0d70a"
  },
  {
-  "zrodlo": "ted",
-  "tytul": "Polska – Roboty budowlane w zakresie budynków – Opracowanie dokumentacji projektowej (wraz z pełnieniem nadzoru autorskiego na etapie realizacji zadania) oraz wykonanie robót budowlanych, w formule „zaprojektuj i wybuduj” w ramach projektu pn.: Budowa w Zielonej Górze przy ul. Wyspiańskiego nowego budynku na potrzeby Samodzielnego Publicznego Zakładu Opieki Zdrowotnej Centrum Leczenia Dzieci i Młodzieży w Zaborze”.",
-  "url": "https://ted.europa.eu/en/notice/-/detail/683479-2026",
-  "zamawiajacy": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Centrum Leczenia Dzieci i Młodzieży w Zaborze",
-  "data_publikacji": "2026-10-05",
-  "termin_skladania": "2026-10-15T10:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "45210000",
-   "45215140",
-   "45111200",
-   "45300000",
-   "71220000",
-   "33100000",
-   "45210000",
-   "45215140",
-   "45111200",
-   "45300000",
-   "71220000",
-   "33100000"
-  ],
-  "score": 7,
-  "tagi": [
-   "cpv-71",
-   "roboty-budowlane",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-10-07",
-  "hash": "21e59fef4ee3b4b38869304dbf6619748f3c2648aad23cf440bb171429e25800"
- },
- {
   "zrodlo": "bzp",
   "tytul": "Wykonanie dokumentacji projektowej przebudowy Amfiteatru \"Kadzielnia\" w ramach zadania \"Wzmocnienie potencjału turystycznego Amfiteatru Kadzielnia\"",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-c29a2d55-e870-4741-832c-d5ae959f3280",
@@ -11672,37 +11613,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Urządzenia medyczne – Dostawa rezonansu magnetycznego wraz z adaptacją pomieszczeń; PN-115/26/DS",
-  "url": "https://ted.europa.eu/en/notice/-/detail/627234-2026",
-  "zamawiajacy": "Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie - Państwowy Instytut Badawczy",
-  "data_publikacji": "2026-09-11",
-  "termin_skladania": "2026-10-19T09:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "33100000",
-   "71221000",
-   "45400000",
-   "45215143",
-   "45310000",
-   "45311000",
-   "45232460",
-   "45332400",
-   "45343000",
-   "39180000",
-   "39150000",
-   "45331220",
-   "33100000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-11",
-  "hash": "113b4d489bea036b114a3b848f71910eac0a70a3cb89dd1bb95c8a5bf834d2a4"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Usługi projektowania architektonicznego – BP-DZP.2612.1.2026",
   "url": "https://ted.europa.eu/en/notice/-/detail/652857-2026",
   "zamawiajacy": "Agencja Mienia Wojskowego",
@@ -11823,28 +11733,6 @@
   "status_opisu": "brak",
   "dodano": "2026-10-07",
   "hash": "3111386a8c5a2c71173996df924f354231ee1ae72236ded9ac85b5aa67ec48e6"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Usługi architektoniczne w zakresie obiektów budowlanych – KWP Katowice – modernizacja budynków A, B, C, etap I z przystosowaniem do przepisów przeciwpożarowych budynków KWP w Katowicach przy ul. Lompy 19",
-  "url": "https://ted.europa.eu/en/notice/-/detail/698056-2026",
-  "zamawiajacy": "Komenda Wojewódzka Policji w Katowicach",
-  "data_publikacji": "2026-10-09",
-  "termin_skladania": "2026-10-19T10:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71221000",
-   "71320000",
-   "71221000",
-   "71320000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-10-11",
-  "hash": "087d03f9ebac3177b19d0f160e3f7e0812d55a2fcdd688acdf575996a4668d8e"
  },
  {
   "zrodlo": "ted",
@@ -11975,9 +11863,9 @@
  {
   "zrodlo": "ted",
   "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Wykonanie ekspertyzy oraz sporządzenie dokumentacji projektowo-kosztorysowej na potrzeby dostosowania istniejącej piwnicy w Szkole Podstawowej w Kosakowie do wymogów Miejsc Doraźnego Schronienia",
-  "url": "https://ted.europa.eu/en/notice/-/detail/687203-2026",
+  "url": "https://ted.europa.eu/en/notice/-/detail/714185-2026",
   "zamawiajacy": "Gmina Kosakowo",
-  "data_publikacji": "2026-10-06",
+  "data_publikacji": "2026-10-15",
   "termin_skladania": "2026-10-19T11:00:00+02:00",
   "opis": null,
   "cpv": [
@@ -12006,39 +11894,7 @@
   ],
   "status_opisu": "brak",
   "dodano": "2026-10-06",
-  "hash": "259e8bfdda33a0c61ae3e485f0c89a0b8af298cdcbeae1106545511c6fa65f46"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Różne maszyny specjalnego zastosowania – Modernizacja sortowni odpadów – Zakład Utylizacji Odpadów Sp. z o. o. w Siedlcach",
-  "url": "https://ted.europa.eu/en/notice/-/detail/691969-2026",
-  "zamawiajacy": "Zakład Utylizacji Odpadów spółka z ograniczoną odpowiedzialnością",
-  "data_publikacji": "2026-10-07",
-  "termin_skladania": "2026-10-19T12:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "42990000",
-   "45259900",
-   "45220000",
-   "51500000",
-   "71320000",
-   "71323200",
-   "79421200",
-   "42990000",
-   "45259900",
-   "45220000",
-   "51500000",
-   "71320000",
-   "71323200",
-   "79421200"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-10-08",
-  "hash": "f1e8f39a5f0732eb897c698730f845da86bfb0437965840977eb8f63f436994a"
+  "hash": "0b0bf9a70bf64ff391164768eee6cc5b048eacc6589b5cb4006ebc187c14dc8a"
  },
  {
   "zrodlo": "ted",
@@ -12467,7 +12323,7 @@
    "roboty-budowlane"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-14",
+  "dodano": "2026-10-15",
   "hash": "7a35292493d4b2c487c510af2d049b1d6d2598856ccddada2354f9374ec1fa12"
  },
  {
@@ -12543,7 +12399,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-14",
+  "dodano": "2026-10-15",
   "hash": "4f0e702aeeab64f52bf11be35775d74f319dd4fe9f8820e9b1b7886ca58cc81c"
  },
  {
@@ -13089,7 +12945,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-14",
+  "dodano": "2026-10-15",
   "hash": "83e19e7b312e397926366cd408fa7ad4f00d18d99a2aeb830e5a3be59fb0ba98"
  },
  {
@@ -13307,6 +13163,37 @@
   "status_opisu": "pobrany",
   "dodano": "2026-10-08",
   "hash": "2b60de577060686c689c009f3bb64437e6b55530d106dbf8c95a97458e507dc7"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Urządzenia medyczne – Dostawa rezonansu magnetycznego wraz z adaptacją pomieszczeń; PN-115/26/DS",
+  "url": "https://ted.europa.eu/en/notice/-/detail/713578-2026",
+  "zamawiajacy": "Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie - Państwowy Instytut Badawczy",
+  "data_publikacji": "2026-10-15",
+  "termin_skladania": "2026-10-22T09:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "33100000",
+   "71221000",
+   "45400000",
+   "45215143",
+   "45310000",
+   "45311000",
+   "45232460",
+   "45332400",
+   "45343000",
+   "39180000",
+   "39150000",
+   "45331220",
+   "33100000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-11",
+  "hash": "a400184c359592aa3cbbff087f750d153a9916756cf7d839e77b4edf8232e7e0"
  },
  {
   "zrodlo": "ted",
@@ -13617,6 +13504,65 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej dotyczącej dostosowania pomieszczeń w budynku Szkoły Podstawowej nr 2 w Strzyżowie do warunków technicznych miejsca ukrycia U-1",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-baadba8c-639b-42a4-b700-5e11060bd558",
+  "zamawiajacy": "Gmina Strzyżów",
+  "data_publikacji": "2026-10-15",
+  "termin_skladania": "2026-10-23T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00488217 z dnia 2026-10-15 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej dotyczącej dostosowania pomieszczeń w budynku Szkoły Podstawowej nr 2 w Strzyżowie do warunków technicznych miejsca ukrycia U-1 SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Strzyżów 1.4) Krajowy Numer Identyfikacyjny: REGON 690582200 1.5) Adres zamawiającego 1.5.1.) Ulica: Przecławczyka 1.5.2.) Miejscowość: Strzyżów 1.5.3.) Kod pocztowy: 38-100 1.5.4.) Województwo: podkarpackie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL823 - Rzeszowski 1.5.9.) Adres poczty elektronicznej: gmina@strzyzow.pl 1.5.10.) Adres strony internetowej zamawiającego: https://www.strzyzow.pl/ 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytoria",
+  "cpv": [
+   "71220000-6",
+   "71320000-7",
+   "71248000-8",
+   "45310000-3",
+   "45311000-0",
+   "45312000-7",
+   "45315000-8",
+   "45317000-2",
+   "45330000-9",
+   "45331000-6",
+   "45332000-3",
+   "45400000-1"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-15",
+  "hash": "414c2daf4c99fb5325c7e91bc6a63231ca4f89951ae92583a15bc9f84efa12fc"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie ekspertyzy określającej stan techniczny dla zadania „Przebudowa zapory czołowej Zbiornika Wodnego Włodzienin stanowiącego ochronę przeciwpowodziową doliny rzeki Troi”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-c7ea39b4-f981-4c81-8eb0-6b405f6ed555",
+  "zamawiajacy": "Państwowe Gospodarstwo Wodne Wody Polskie",
+  "data_publikacji": "2026-10-15",
+  "termin_skladania": "2026-10-23T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00489016 z dnia 2026-10-15 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie ekspertyzy określającej stan techniczny dla zadania „Przebudowa zapory czołowej Zbiornika Wodnego Włodzienin stanowiącego ochronę przeciwpowodziową doliny rzeki Troi” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Państwowe Gospodarstwo Wodne Wody Polskie 1.4) Krajowy Numer Identyfikacyjny: REGON 368302575 1.5) Adres zamawiającego 1.5.1.) Ulica: Chałubińskiego 8 1.5.2.) Miejscowość: Warszawa 1.5.3.) Kod pocztowy: 00-613 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL911 - Miasto Warszawa 1.5.7.) Numer telefonu: 48 32 231 64 31 wew.16 1.5.9.) Adres poczty elektronicznej: zamowienia.gliwice@wody.gov.pl 1.5.10.) Adres strony internetowej zamawiającego: https://www.gov.pl/web/wody-polskie 1.6.)",
+  "cpv": [
+   "71242000-6",
+   "71250000-5",
+   "71320000-7",
+   "71322000-1",
+   "71332000-4",
+   "71336000-2",
+   "72242000-3",
+   "71356100-9",
+   "71335000-5"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-23",
+  "hash": "a833a602488b9d6b3489dca8133c208bba7b90daa02a207228af7cabf8a2980e"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Wykonanie projektu budowlanego i uzyskanie pozwolenia na budowę dla inwestycji: „Budowa budynków wielorodzinnych z infrastrukturą techniczną i zagospodarowaniem terenu przy ul. Zielonej w Strumieniu”",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-a7e2f4c6-1f7e-43af-82cd-756883be7b72",
   "zamawiajacy": "SIM Śląsk Południe sp. z o.o.",
@@ -13637,6 +13583,48 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-24",
   "hash": "48b728dddac985dede9efb8cbe4e30df9709f31762e012956d67d6fc15c7d0dd"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Wymiana windy osobowej w istniejącym szybie dźwigowym w budynku Przychodni Rejonowo-Specjalistycznej nr 1 w Oleśnicy ul. Ludwikowska 10",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-9a28bc2c-6714-4329-9767-954d1389b00e",
+  "zamawiajacy": "SAMODZIELNY ZESPÓŁ PUBLICZNYCH ZAKŁADÓW OPIEKI ZDROWOTNEJ W OLEŚNICY",
+  "data_publikacji": "2026-10-15",
+  "termin_skladania": "2026-10-23T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00488407 z dnia 2026-10-15 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Dostawy Wymiana windy osobowej w istniejącym szybie dźwigowym w budynku Przychodni Rejonowo-Specjalistycznej nr 1 w Oleśnicy ul. Ludwikowska 10 SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: SAMODZIELNY ZESPÓŁ PUBLICZNYCH ZAKŁADÓW OPIEKI ZDROWOTNEJ W OLEŚNICY 1.4) Krajowy Numer Identyfikacyjny: REGON 931616743 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Mikołaja Reja 10 1.5.2.) Miejscowość: Oleśnica 1.5.3.) Kod pocztowy: 56-400 1.5.4.) Województwo: dolnośląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL518 - Wrocławski 1.5.9.) Adres poczty elektronicznej: zamowienia@szpzoz-olesnica.pl 1.5.10.) Adres strony internetowej zamawiającego: https://szpzoz-olesnica.bip.gov.pl/ 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sekt",
+  "cpv": [
+   "42416100-6",
+   "45313100-5",
+   "45111100-9",
+   "71320000-7"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-15",
+  "hash": "777d783ca760c0da7681a53d056bbd0bb69a256093f1ceda9206597cf646f504"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowo-kosztorysowej",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-85b05d46-7139-40be-9519-32f470d15412",
+  "zamawiajacy": "Muzeum Azji i Pacyfiku w Warszawie im. Andrzeja Wawrzyniaka",
+  "data_publikacji": "2026-10-15",
+  "termin_skladania": "2026-10-23T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00488898 z dnia 2026-10-15 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowo-kosztorysowej SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Muzeum Azji i Pacyfiku w Warszawie im. Andrzeja Wawrzyniaka 1.4) Krajowy Numer Identyfikacyjny: REGON 000646736 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Solec 24 1.5.2.) Miejscowość: Warszawa 1.5.3.) Kod pocztowy: 00-403 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL911 - Miasto Warszawa 1.5.7.) Numer telefonu: 22 629 92 68 1.5.9.) Adres poczty elektronicznej: sekretariat@muzeumazji.pl 1.5.10.) Adres strony internetowej zamawiającego: www.muzeumazji.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - państwowe i samorządowe instytucje kultury 1.7.) Przedmiot",
+  "cpv": [
+   "71320000-7"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-15",
+  "hash": "3914882dff9af7e2156b2427ec74e454dd9f147e4ce338bc82247a54eb5b49dd"
  },
  {
   "zrodlo": "bzp",
@@ -13699,7 +13687,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-14",
+  "dodano": "2026-10-15",
   "hash": "6d2b6a960cc7482f5b5eb73f9c87fb7b5f010072df781975db15533ed9654480"
  },
  {
@@ -13783,7 +13771,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-14",
+  "dodano": "2026-10-15",
   "hash": "bdbf89634c08eb29964720ce1257065b3d386d7c36ac3fff934094071d78a3d6"
  },
  {
@@ -13808,7 +13796,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-14",
+  "dodano": "2026-10-15",
   "hash": "58beb494cfa7b93c441c0458384462cd566718392e4450b4ddcd208cf27bc88b"
  },
  {
@@ -13837,8 +13825,41 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-14",
+  "dodano": "2026-10-15",
   "hash": "51f1d155851ec18c7759fb5dca5cd674d7bd0490c138da8e27622124bf429cd8"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "„Utworzenie Zespołu Środowiskowej Opieki Psychologicznej i Psychoterapeutycznej dla dzieci i młodzieży–opracowanie kompletnej dokumentacji projektowej.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-3c8411be-fa05-4ee9-95b8-2ce68b5a69cb",
+  "zamawiajacy": "Powiat Kwidzyński- Starostwo Powiatowe w Kwidzynie",
+  "data_publikacji": "2026-10-15",
+  "termin_skladania": "2026-10-23T10:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00489017 z dnia 2026-10-15 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi „Utworzenie Zespołu Środowiskowej Opieki Psychologicznej i Psychoterapeutycznej dla dzieci i młodzieży–opracowanie kompletnej dokumentacji projektowej. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Powiat Kwidzyński- Starostwo Powiatowe w Kwidzynie 1.4) Krajowy Numer Identyfikacyjny: REGON 192644760 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Kościuszki 29B 1.5.2.) Miejscowość: Kwidzyn 1.5.3.) Kod pocztowy: 82-500 1.5.4.) Województwo: pomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL638 - Starogardzki 1.5.9.) Adres poczty elektronicznej: zamowienia@powiatkwidzynski.pl 1.5.10.) Adres strony internetowej zamawiającego: http://bip.powiatkwidzynski.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansó",
+  "cpv": [
+   "71220000-6",
+   "71223000-7",
+   "71222000-0",
+   "71221000-3",
+   "71250000-5",
+   "71240000-2",
+   "71230000-9",
+   "71210000-3",
+   "71500000-3",
+   "71400000-2",
+   "71300000-1",
+   "71200000-0",
+   "71320000-7"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-15",
+  "hash": "bd92ab694fb2966d5b55a8969e8e4cba26021aea75b097edf5cad062be4ff913"
  },
  {
   "zrodlo": "bzp",
@@ -13933,6 +13954,27 @@
   "hash": "1fe9ce2aab891570bea4958601b1f35d38d09312becd88cb51f18b2684b32a12"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej dla zadania „Budowa sali gimnastycznej przy Szkole Podstawowej Nr 4 w Kołobrzegu”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-0458f8a2-94a9-4c02-ba20-d733786f872c",
+  "zamawiajacy": "Gmina Miasto Kołobrzeg",
+  "data_publikacji": "2026-10-15",
+  "termin_skladania": "2026-10-26T08:30:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00488322 z dnia 2026-10-15 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej dla zadania „Budowa sali gimnastycznej przy Szkole Podstawowej Nr 4 w Kołobrzegu” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Miasto Kołobrzeg 1.4) Krajowy Numer Identyfikacyjny: REGON 330920736 1.5) Adres zamawiającego 1.5.1.) Ulica: Ratuszowa 13 1.5.2.) Miejscowość: Kołobrzeg 1.5.3.) Kod pocztowy: 78-100 1.5.4.) Województwo: zachodniopomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL426 - Koszaliński 1.5.9.) Adres poczty elektronicznej: przetargi@um.kolobrzeg.pl 1.5.10.) Adres strony internetowej zamawiającego: https://i-kolobrzeg.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Przedmiot dzi",
+  "cpv": [
+   "71320000-7"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-15",
+  "hash": "ab6cd9e717c8e303a4081e6abf029e450387c4c76967194a5aa39b0556cc79cf"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Opracowanie dokumentacji projektowej dla zadania pn. „Budowa Centrum Przesiadkowego w Wilkszynie”",
   "url": "https://ted.europa.eu/en/notice/-/detail/657723-2026",
@@ -13957,7 +13999,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-14",
+  "dodano": "2026-10-15",
   "hash": "c902dc7004560dcf2716e656ae9eef051ae0987faf9e608b1ce1f884a2b1eee9"
  },
  {
@@ -14098,6 +14140,28 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Usługi architektoniczne w zakresie obiektów budowlanych – KWP Katowice – modernizacja budynków A, B, C, etap I z przystosowaniem do przepisów przeciwpożarowych budynków KWP w Katowicach przy ul. Lompy 19",
+  "url": "https://ted.europa.eu/en/notice/-/detail/712342-2026",
+  "zamawiajacy": "Komenda Wojewódzka Policji w Katowicach",
+  "data_publikacji": "2026-10-15",
+  "termin_skladania": "2026-10-26T10:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71221000",
+   "71320000",
+   "71221000",
+   "71320000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-11",
+  "hash": "971a8312bc418df855eb7f431146c6b244ff4f3ba3189dd8a9f1e681b0eeed27"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi instalowania urządzeń elektrycznych i mechanicznych – Przedmiotem zamówienia jest kompleksowa realizacja zadania pn.: „Modernizacja zasuw, krat i systemu sterowania na zamku wodnym EW Żur”",
   "url": "https://ted.europa.eu/en/notice/-/detail/696239-2026",
   "zamawiajacy": "ENEA Nowa Energia sp. z o.o.",
@@ -14235,7 +14299,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-14",
+  "dodano": "2026-10-15",
   "hash": "e3185a885fd4f1e30b33e0858679ae2fedf342f31caf296806a1e26e921be1f0"
  },
  {
@@ -14287,7 +14351,7 @@
    "samorząd"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-14",
+  "dodano": "2026-10-15",
   "hash": "a5756b20f401c0ddb6f79f7cb68f8a6dbc547866e1f17bd46421c5db97894e02"
  },
  {
@@ -14483,6 +14547,57 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Różne maszyny specjalnego zastosowania – Modernizacja sortowni odpadów – Zakład Utylizacji Odpadów Sp. z o. o. w Siedlcach",
+  "url": "https://ted.europa.eu/en/notice/-/detail/713817-2026",
+  "zamawiajacy": "Zakład Utylizacji Odpadów spółka z ograniczoną odpowiedzialnością",
+  "data_publikacji": "2026-10-15",
+  "termin_skladania": "2026-10-28T12:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "42990000",
+   "45259900",
+   "45220000",
+   "51500000",
+   "71320000",
+   "71323200",
+   "79421200",
+   "42990000",
+   "45259900",
+   "45220000",
+   "51500000",
+   "71320000",
+   "71323200",
+   "79421200"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-08",
+  "hash": "ba2a13f0618e0e4052e5beffbcb86bbf881a5e671d863e41fe1816e87160b46e"
+ },
+ {
+  "zrodlo": "bip:tauron",
+  "tytul": "Wyposażenie pola 4/110kV w SE Szombierki wraz z aktualizacją dokumentacji projektowej.",
+  "url": "https://swoz.tauron.pl/platform/demand/notice/public/current/list",
+  "zamawiajacy": "TAURON Dystrybucja S.A.",
+  "data_publikacji": "2026-10-15",
+  "termin_skladania": "2026-10-29 11:00",
+  "opis": null,
+  "cpv": [],
+  "score": 8,
+  "tagi": [
+   "giełdowa",
+   "spolka-sp",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-15",
+  "hash": "c38da4a9ae436a8a86be9b805bc347e54b5109045e3bb6ac58c781856e006f55"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Słoneczne moduły fotoelektryczne – Dostawa, montaż, uruchomienie oraz przekazanie do eksploatacji kompletnej instalacji fotowoltaicznej wraz z towarzyszącymi robotami budowlanymi dla budynku administracyjnego Urzędu Stanu Cywilnego w ramach zadania inwestycyjnego pn.: „Zwiększenie produkcji energii elektrycznej ze źródeł odnawialnych w budynkach użyteczności publicznej Miasta Katowice – etap II”",
   "url": "https://ted.europa.eu/en/notice/-/detail/663814-2026",
   "zamawiajacy": "Miasto Katowice",
@@ -14559,7 +14674,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-14",
+  "dodano": "2026-10-15",
   "hash": "e63522f7f801a2d4ff2c0ac2c7cbf2ca1b07d062660b75d2c59e1088b0c5f757"
  },
  {
@@ -14978,6 +15093,38 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Roboty budowlane w zakresie budynków – Opracowanie dokumentacji projektowej (wraz z pełnieniem nadzoru autorskiego na etapie realizacji zadania) oraz wykonanie robót budowlanych, w formule „zaprojektuj i wybuduj” w ramach projektu pn.: Budowa w Zielonej Górze przy ul. Wyspiańskiego nowego budynku na potrzeby Samodzielnego Publicznego Zakładu Opieki Zdrowotnej Centrum Leczenia Dzieci i Młodzieży w Zaborze”.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/711960-2026",
+  "zamawiajacy": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Centrum Leczenia Dzieci i Młodzieży w Zaborze",
+  "data_publikacji": "2026-10-15",
+  "termin_skladania": "2026-10-30T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "45210000",
+   "45215140",
+   "45111200",
+   "45300000",
+   "71220000",
+   "33100000",
+   "45210000",
+   "45215140",
+   "45111200",
+   "45300000",
+   "71220000",
+   "33100000"
+  ],
+  "score": 7,
+  "tagi": [
+   "cpv-71",
+   "roboty-budowlane",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-07",
+  "hash": "c18bd77e00411db700a2751d2507ee728df33fb4bd1a0d92c814d8a969f99d21"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi architektoniczne, budowlane, inżynieryjne i kontrolne – Opracowanie dokumentacji projektowej przebudowy kładki przez rzekę Czarna Hańcza wraz z dojściami przy ul. Waryńskiego w Suwałkach",
   "url": "https://ted.europa.eu/en/notice/-/detail/665575-2026",
   "zamawiajacy": "Miasto Suwałki",
@@ -15287,7 +15434,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-14",
+  "dodano": "2026-10-15",
   "hash": "f8f98c888cf754c15e67dda5aeb5ab9cc70eef1bb99ca89d96275b9c5c2fc55c"
  },
  {
@@ -15461,7 +15608,7 @@
    "roboty-budowlane"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-14",
+  "dodano": "2026-10-15",
   "hash": "609b9afa4487b7d50310837432e5db85eeaea773efef850d73131d34960eeddb"
  },
  {
@@ -15718,7 +15865,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-14",
+  "dodano": "2026-10-15",
   "hash": "474cb7f3393bee9cf6bbc0d34fde1c213cd1d3d5905c4ee84bdbfa8bc6b45fbb"
  },
  {
@@ -16099,8 +16246,85 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-14",
+  "dodano": "2026-10-15",
   "hash": "b24f6184f522b8ec32d5bbb91e607a81de08d25345994d73971f0e4f117ad2e6"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Wykonanie dokumentacji projektowo – kosztorysowej dla obiektów urządzeń piętrzących w ramach projektu „Lasy dla mokradeł” wraz z pełnieniem nadzoru autorskiego na terenie Nadleśnictwa Łupawa – I postępowanie",
+  "url": "https://ted.europa.eu/en/notice/-/detail/713138-2026",
+  "zamawiajacy": "Skarb Państwa PGL LP Nadleśnictwo Łupawa",
+  "data_publikacji": "2026-10-15",
+  "termin_skladania": "2026-11-19T09:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71320000",
+   "71322000",
+   "71248000",
+   "71320000",
+   "71320000",
+   "71320000",
+   "71320000",
+   "71330000",
+   "71520000",
+   "71322000",
+   "71248000",
+   "71330000",
+   "71520000",
+   "71322000",
+   "71248000",
+   "71330000",
+   "71520000",
+   "71322000",
+   "71248000",
+   "71330000",
+   "71520000",
+   "71322000",
+   "71248000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-15",
+  "hash": "6de7e6c39c3d99724ec67ba8243c7516908bffae078c73bbccbdc79a224a65a5"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Opracowanie dokumentacji projektowej rozbudowy DP nr 1387K relacji Siepietnica – Lubaszowa",
+  "url": "https://ted.europa.eu/en/notice/-/detail/713907-2026",
+  "zamawiajacy": "Powiatowy Zarząd Dróg w Tarnowie z siedzibą w Zgłobicach",
+  "data_publikacji": "2026-10-15",
+  "termin_skladania": "2026-11-20T09:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71320000",
+   "45000000",
+   "45111000",
+   "45112000",
+   "45200000",
+   "45221000",
+   "71332000",
+   "71330000",
+   "71320000",
+   "45000000",
+   "45111000",
+   "45112000",
+   "45200000",
+   "45221000",
+   "71332000",
+   "71330000"
+  ],
+  "score": 8,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-15",
+  "hash": "f9f2ffeff77bc9ddfa0108858bd92adf29da3ce0de6d3c10ede6ca5d49cdd0f9"
  },
  {
   "zrodlo": "ted",
@@ -16138,6 +16362,85 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Roboty w zakresie kształtowania terenów zielonych – „Projekt i realizacja zadania inwestycyjnego pn. „Wsparcie małej retencji wodnej i rozwój zielono-niebieskiej infrastruktury na obszarze Metropolii Poznań - etap II. Zielona sieć- szkoły””",
+  "url": "https://ted.europa.eu/en/notice/-/detail/713889-2026",
+  "zamawiajacy": "Poznańskie Inwestycje Miejskie sp. z o.o. w imieniu MIASTO POZNAŃ pl. Kolegiacki 17, 61-841 Poznań",
+  "data_publikacji": "2026-10-15",
+  "termin_skladania": "2026-11-20T10:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "45112710",
+   "71320000",
+   "45112710",
+   "71320000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-15",
+  "hash": "35d8dbb283b1c130a196e164369f5a4104f4b557ef7b89197a6f5ef32a900463"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Roboty inżynieryjne i budowlane – Realizacja prac związanych z przyłączeniem odbiorców gr. IV i V na terenie działalności TAURON Dystrybucja S.A. Oddział w Tarnowie (3 zadania)",
+  "url": "https://ted.europa.eu/en/notice/-/detail/711677-2026",
+  "zamawiajacy": "TAURON Dystrybucja S. A. Oddział w Tarnowie",
+  "data_publikacji": "2026-10-15",
+  "termin_skladania": "2026-11-20T12:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "45220000",
+   "71200000",
+   "71300000",
+   "31200000",
+   "31320000",
+   "32500000",
+   "35100000",
+   "45300000",
+   "51100000",
+   "45220000",
+   "45220000",
+   "45220000",
+   "71200000",
+   "71300000",
+   "31200000",
+   "31320000",
+   "32500000",
+   "35100000",
+   "45300000",
+   "51100000",
+   "71200000",
+   "71300000",
+   "31200000",
+   "31320000",
+   "32500000",
+   "35100000",
+   "45300000",
+   "51100000",
+   "71200000",
+   "71300000",
+   "31200000",
+   "31320000",
+   "32500000",
+   "35100000",
+   "45300000",
+   "51100000"
+  ],
+  "score": 5,
+  "tagi": [
+   "cpv-71",
+   "giełdowa",
+   "spolka-sp",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-15",
+  "hash": "7bc6877da82fb7e3ad505d461315a5caf77c13d281c301ffc2b659fa5ff0ab92"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi doradcze w zakresie systemów i doradztwo techniczne – Wyposażenie ośrodka zapasowego (serwerownia) dla platformy cyfrowej wspierającej procesy kontroli w zakresie zarzadzania i analityki - projekt.",
   "url": "https://ted.europa.eu/en/notice/-/detail/709578-2026",
   "zamawiajacy": "Najwyższa Izba Kontroli",
@@ -16159,6 +16462,29 @@
   "status_opisu": "brak",
   "dodano": "2026-10-14",
   "hash": "8ebcdf31aab3c09937224cf3b25b534a8666a7d9686ffede7771b5048cb13c4a"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi architektoniczne, budowlane, inżynieryjne i kontrolne – \"Pełnienie nadzoru inżynierskiego nad realizacją projektu wykonawczego branży srk oraz kompleksowych robót budowlanych na linii kolejowej nr 622 na odcinku G Gdów-Szczyrzyc\" w ramach Projektu pn.” Budowa nowej linii kolejowej Podłęże-Szczyrzyc-Tymbark/Mszana Dolna oraz modernizacja istniejącej linii kolejowej nr 104 Chabówka-Nowy Sącz – Etap II",
+  "url": "https://ted.europa.eu/en/notice/-/detail/714080-2026",
+  "zamawiajacy": "PKP Polskie Linie Kolejowe S.A.",
+  "data_publikacji": "2026-10-15",
+  "termin_skladania": "2026-11-23T10:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "71000000",
+   "71520000",
+   "71247000",
+   "71521000",
+   "71520000"
+  ],
+  "score": 3,
+  "tagi": [
+   "bonus-ue/strategiczny"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-15",
+  "hash": "c582878c0ac2ba50ab6a303bb66fba7775442c9703b4f87728d3bef246347f14"
  },
  {
   "zrodlo": "ted",
@@ -16315,7 +16641,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-14",
+  "dodano": "2026-10-15",
   "hash": "290f81ae419c81d536659f4d032f1bd1846fc25f4bb7c58b1e8f6aee39aa16a3"
  }
 ]
