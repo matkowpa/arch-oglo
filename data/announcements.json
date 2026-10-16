@@ -13735,6 +13735,24 @@
   "hash": "32cd45b7d1c98c846da769c76f97a28c6c0ba36eeec6e1e23a76c31af6af514c"
  },
  {
+  "zrodlo": "pz-search",
+  "tytul": "ZDP.IV.333- 34/2026 „Przebudowa DP Nr 2091R wraz z obiektami inżynieryjnymi w km 0+933-5+195” – dokumentacja projektowa – opracowanie dokumentacji projektowej w celu uzyskania decyzji pozwolenia na budowę",
+  "url": "https://platformazakupowa.pl/transakcja/1393350",
+  "zamawiajacy": "Powiat Przemyski",
+  "data_publikacji": null,
+  "termin_skladania": "2026-10-26 09:00:00",
+  "opis": null,
+  "cpv": [],
+  "score": 11,
+  "tagi": [
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-16",
+  "hash": "83d6c27e61582a712d1983eb148ef625bc9926be7d9ac4996ab9044c65354864"
+ },
+ {
   "zrodlo": "bzp",
   "tytul": "Opracowanie dokumentacji projektowej i realizacja robót budowlanych w formule \"zaprojektuj i wybuduj\" w lokalu użytkowym ......Klubu Seniora przy ul. Św. Barbary 7 w Siemianowicach Śl.",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-378354fb-f7be-41f4-a123-9a721825322c",
@@ -14428,6 +14446,26 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Pełnienie funkcji wielobranżow. nadzoru inwestorsk. nad realizacją zadań pn.: „Podniesienie efektyw. energet. budynku D SM w Siemianow. Śl.” oraz „Przebudowa budynku B Szpitala wraz z termomoderniz.”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-c13e2365-0d17-4a7e-8bab-fbfc28db5652",
+  "zamawiajacy": "Szpital Miejski w Siemianowicach Śląskich Sp. z o.o.",
+  "data_publikacji": "2026-10-16",
+  "termin_skladania": "2026-10-27T09:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00492564 z dnia 2026-10-16 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Pełnienie funkcji wielobranżow. nadzoru inwestorsk. nad realizacją zadań pn.: „Podniesienie efektyw. energet. budynku D SM w Siemianow. Śl.” oraz „Przebudowa budynku B Szpitala wraz z termomoderniz.” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Szpital Miejski w Siemianowicach Śląskich Sp. z o.o. 1.4) Krajowy Numer Identyfikacyjny: REGON 000308270 1.5) Adres zamawiającego 1.5.1.) Ulica: 1-go Maja 9 1.5.2.) Miejscowość: Siemianowice Śląskie 1.5.3.) Kod pocztowy: 41-100 1.5.4.) Województwo: śląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL22A - Katowicki 1.5.9.) Adres poczty elektronicznej: zp@zozsiemianowice.pl 1.5.10.) Adres strony internetowej zamawiającego: http://www.zozsiemianowice.pl 1.6.) Rodzaj zamawiającego: Zamawiaj",
+  "cpv": [
+   "71520000-9",
+   "71248000-8"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-16",
+  "hash": "7eef6d40cc74948ff8a6770a0cbf6dbb20601e16337409c7db2fa2f09d66dc97"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Wykonanie dokumentacji projektowej zagospodarowania terenu działki 40/16 obręb Kobierzyce",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-286394cc-be81-4de8-b9b3-d6a4febfa4b0",
   "zamawiajacy": "Gmina Kobierzyce",
@@ -14857,6 +14895,30 @@
   "hash": "c38da4a9ae436a8a86be9b805bc347e54b5109045e3bb6ac58c781856e006f55"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "BUDOWA EKRANÓW AKUSTYCZNYCH W CIĄGU DROGI WOJEWÓDZKIEJ NR 919 W RACIBORZU – DOKUMENTACJA PROJEKTOWA WRAZ Z PEŁNIENIEM NADZORU AUTORSKIEGO",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-fe8a6295-d46d-4418-a0a4-393da57b647d",
+  "zamawiajacy": "Zarząd Dróg Wojewódzkich w Katowicach",
+  "data_publikacji": "2026-10-16",
+  "termin_skladania": "2026-10-29T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00492223 z dnia 2026-10-16 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi BUDOWA EKRANÓW AKUSTYCZNYCH W CIĄGU DROGI WOJEWÓDZKIEJ NR 919 W RACIBORZU – DOKUMENTACJA PROJEKTOWA WRAZ Z PEŁNIENIEM NADZORU AUTORSKIEGO SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Zarząd Dróg Wojewódzkich w Katowicach 1.4) Krajowy Numer Identyfikacyjny: REGON 276303005 1.5) Adres zamawiającego 1.5.1.) Ulica: Lechicka 24 1.5.2.) Miejscowość: Katowice 1.5.3.) Kod pocztowy: 40-609 1.5.4.) Województwo: śląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL22A - Katowicki 1.5.9.) Adres poczty elektronicznej: cichocka@zdw.katowice.pl 1.5.10.) Adres strony internetowej zamawiającego: zdw.katowice.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Pr",
+  "cpv": [
+   "71320000-7",
+   "71220000-6",
+   "71322000-1",
+   "71242000-6",
+   "71248000-8"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71",
+   "drogi"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-16",
+  "hash": "63070234d25c84b0779bb1b7e59107fc7252a90e2a02d71875478b3a496439fa"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Słoneczne moduły fotoelektryczne – Dostawa, montaż, uruchomienie oraz przekazanie do eksploatacji kompletnej instalacji fotowoltaicznej wraz z towarzyszącymi robotami budowlanymi dla budynku administracyjnego Urzędu Stanu Cywilnego w ramach zadania inwestycyjnego pn.: „Zwiększenie produkcji energii elektrycznej ze źródeł odnawialnych w budynkach użyteczności publicznej Miasta Katowice – etap II”",
   "url": "https://ted.europa.eu/en/notice/-/detail/663814-2026",
@@ -14906,6 +14968,25 @@
   "status_opisu": "brak",
   "dodano": "2026-09-24",
   "hash": "35f948b154f6012de0c0db7938d1c0b33dc5d7333fd5a3fae1623452947f05ce"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie koncepcji projektowej dla zadania pn.: „Budowa parkingu podziemnego przy ul. Lwowskiej oraz przy ul. Krakowskiej w Bielsku-Białej”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-ed53f070-d7d6-4a79-b393-ae15285e1c68",
+  "zamawiajacy": "Miasto Bielsko-Biała - Miejski Zarząd Dróg w Bielsku-Białej",
+  "data_publikacji": "2026-10-16",
+  "termin_skladania": "2026-10-29T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00492151 z dnia 2026-10-16 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie koncepcji projektowej dla zadania pn.: „Budowa parkingu podziemnego przy ul. Lwowskiej oraz przy ul. Krakowskiej w Bielsku-Białej” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Miasto Bielsko-Biała - Miejski Zarząd Dróg w Bielsku-Białej 1.4) Krajowy Numer Identyfikacyjny: REGON 070493318 1.5) Adres zamawiającego 1.5.1.) Ulica: Michała Grażyńskiego 10 1.5.2.) Miejscowość: Bielsko-Biała 1.5.3.) Kod pocztowy: 43-300 1.5.4.) Województwo: śląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL225 - Bielski 1.5.7.) Numer telefonu: 33 4726010 1.5.9.) Adres poczty elektronicznej: przetargi@mzd.bielsko.pl 1.5.10.) Adres strony internetowej zamawiającego: www.mzd.bielsko.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednos",
+  "cpv": [
+   "71320000-7"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-16",
+  "hash": "e9eb4fc8fea649939829036add923c68c8c0cd876f5cb44f2ba8fd9118a6cd58"
  },
  {
   "zrodlo": "ted",
