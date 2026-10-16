@@ -11809,38 +11809,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Usługi architektoniczne, budowlane, inżynieryjne i kontrolne – Opracowanie dokumentacji projektowej wraz z pełnieniem nadzoru autorskiego dla zadania pn. „Budowa ul. Nowej Wyzwolenia w Gdańsku”",
-  "url": "https://ted.europa.eu/en/notice/-/detail/699943-2026",
-  "zamawiajacy": "Dyrekcja Rozbudowy Miasta Gdańska działająca w imieniu i na rzecz Gminy Miasta Gdańska",
-  "data_publikacji": "2026-10-09",
-  "termin_skladania": "2026-10-19T11:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71000000",
-   "71300000",
-   "71220000",
-   "71240000",
-   "71332000",
-   "71320000",
-   "71000000",
-   "71300000",
-   "71220000",
-   "71240000",
-   "71332000",
-   "71320000"
-  ],
-  "score": 8,
-  "tagi": [
-   "cpv-71",
-   "samorząd",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-10-11",
-  "hash": "4fb0351bf0a310c68a38241d39fbe35961fd6ebda7fe75b653511145422e154a"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Wykonanie ekspertyzy oraz sporządzenie dokumentacji projektowo-kosztorysowej na potrzeby dostosowania istniejącej piwnicy w Szkole Podstawowej w Kosakowie do wymogów Miejsc Doraźnego Schronienia",
   "url": "https://ted.europa.eu/en/notice/-/detail/714185-2026",
   "zamawiajacy": "Gmina Kosakowo",
@@ -11874,28 +11842,6 @@
   "status_opisu": "brak",
   "dodano": "2026-10-06",
   "hash": "0b0bf9a70bf64ff391164768eee6cc5b048eacc6589b5cb4006ebc187c14dc8a"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Wentylatory – Modernizacja wentylacji wyciągowej i nawiewnej Reaktora MARIA",
-  "url": "https://ted.europa.eu/en/notice/-/detail/636441-2026",
-  "zamawiajacy": "NARODOWE CENTRUM BADAŃ JĄDROWYCH",
-  "data_publikacji": "2026-09-16",
-  "termin_skladania": "2026-10-19T12:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "39717100",
-   "71300000",
-   "39717100",
-   "71300000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-16",
-  "hash": "9b3986a5cbb8bf3da01b7117ecf33ff748cbbc49a3f3b75588d73471cf8b92b1"
  },
  {
   "zrodlo": "ted",
@@ -12145,54 +12091,6 @@
   "status_opisu": "pobrany",
   "dodano": "2026-10-12",
   "hash": "c71971ed42193938717a3e1a38636d8a375858fc0cdba402b1bb58d5802a9a7c"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Urządzenia do radioterapii, mechanoterapii, elektroterapii i fizykoterapii – Akcelerator do tomoterapii wraz z modernizacją bunkra.",
-  "url": "https://ted.europa.eu/en/notice/-/detail/629835-2026",
-  "zamawiajacy": "Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie - Państwowy Instytut Badawczy",
-  "data_publikacji": "2026-09-14",
-  "termin_skladania": "2026-10-20T09:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "33150000",
-   "71221000",
-   "71320000",
-   "45400000",
-   "45215143",
-   "39180000",
-   "39150000",
-   "45310000",
-   "45311000",
-   "45232460",
-   "45332400",
-   "45343000",
-   "45331220",
-   "42961100",
-   "45314320",
-   "33150000",
-   "71221000",
-   "71320000",
-   "45400000",
-   "45215143",
-   "39180000",
-   "39150000",
-   "45310000",
-   "45311000",
-   "45232460",
-   "45332400",
-   "45343000",
-   "45331220",
-   "42961100",
-   "45314320"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-14",
-  "hash": "86a43318254325333b6383fede11359d2d5edb18a72ac4dcbd030359e59fef0a"
  },
  {
   "zrodlo": "ted",
@@ -12790,89 +12688,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Roboty budowlane – Modernizacja stacji elektroenergetycznej 110/15 kV Łososina tryb zaprojektuj i wybuduj",
-  "url": "https://ted.europa.eu/en/notice/-/detail/631172-2026",
-  "zamawiajacy": "TAURON Dystrybucja S. A. Oddział w Krakowie",
-  "data_publikacji": "2026-09-14",
-  "termin_skladania": "2026-10-21T10:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "45000000",
-   "45100000",
-   "45110000",
-   "45111000",
-   "45112000",
-   "45113000",
-   "45220000",
-   "45222000",
-   "45223000",
-   "45232000",
-   "45233000",
-   "45236000",
-   "45300000",
-   "45310000",
-   "45311000",
-   "45314000",
-   "45317000",
-   "45400000",
-   "45440000",
-   "45442000",
-   "45450000",
-   "45510000",
-   "45520000",
-   "71240000",
-   "71250000",
-   "71310000",
-   "71320000",
-   "71330000",
-   "71220000",
-   "71300000",
-   "71520000",
-   "45000000",
-   "45100000",
-   "45110000",
-   "45111000",
-   "45112000",
-   "45113000",
-   "45220000",
-   "45222000",
-   "45223000",
-   "45232000",
-   "45233000",
-   "45236000",
-   "45300000",
-   "45310000",
-   "45311000",
-   "45314000",
-   "45317000",
-   "45400000",
-   "45440000",
-   "45442000",
-   "45450000",
-   "45510000",
-   "45520000",
-   "71240000",
-   "71250000",
-   "71310000",
-   "71320000",
-   "71330000",
-   "71220000",
-   "71300000",
-   "71520000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71",
-   "giełdowa",
-   "roboty-budowlane",
-   "spolka-sp"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-14",
-  "hash": "96ed61ee64a880a37164e98af33b6ea8aa8b842cf7fb4297014fc55570d96fe5"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Opracowanie dokumentacji dla zadania pn.: „Maleszów - budowa zbiornika retencyjnego gm. Kondratowice”.",
   "url": "https://ted.europa.eu/en/notice/-/detail/636370-2026",
   "zamawiajacy": "Państwowe Gospodarstwo Wodne Wody Polskie",
@@ -13171,7 +12986,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-15",
+  "dodano": "2026-10-16",
   "hash": "a400184c359592aa3cbbff087f750d153a9916756cf7d839e77b4edf8232e7e0"
  },
  {
@@ -13346,56 +13161,6 @@
   "hash": "fae0324b67cbf8c8b7e01efaa0f0c05ad2f4a9e081d369a23bd3de3a896412b4"
  },
  {
-  "zrodlo": "ted",
-  "tytul": "Polska – Sprzęt wystawowy – Zagospodarowanie budynku pokopalnianego Łaźni Moszczenica w Jastrzębiu-Zdroju – Etap III – Porozumienie Jastrzębskie",
-  "url": "https://ted.europa.eu/en/notice/-/detail/702246-2026",
-  "zamawiajacy": "Miasto Jastrzębie-Zdrój",
-  "data_publikacji": "2026-10-12",
-  "termin_skladania": "2026-10-22T10:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "39154000",
-   "39133000",
-   "39171000",
-   "39154100",
-   "45311100",
-   "30236000",
-   "32322000",
-   "92521100",
-   "71320000",
-   "45000000",
-   "45300000",
-   "45311200",
-   "45315300",
-   "45400000",
-   "45316000",
-   "45421153",
-   "39154000",
-   "39133000",
-   "39171000",
-   "39154100",
-   "45311100",
-   "30236000",
-   "32322000",
-   "92521100",
-   "71320000",
-   "45000000",
-   "45300000",
-   "45311200",
-   "45315300",
-   "45400000",
-   "45316000",
-   "45421153"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-10-14",
-  "hash": "79e1684d9241438c6130a981af8f4dbd6b34ed3d20a9055059b94a38e14a4076"
- },
- {
   "zrodlo": "bzp",
   "tytul": "Pełnienie funkcji Inwestora Zastępczego wraz ze świadczeniem usług wielobranżowego nadzoru inwestorskiego oraz zarządz. inwestycją polegającą na przebudowie i adaptacji obiektu przy ul. Kopernika 15A",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-0f824657-9de6-4490-a26a-8c2353be933f",
@@ -13499,6 +13264,28 @@
   "status_opisu": "pobrany",
   "dodano": "2026-10-15",
   "hash": "cc6172ef095cb4ff330d209877caef1ab404a90b4b12f790daaac19cd37d69ce"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej dla zadania pn. Rewitalizacja i zwiększenie terenów zieleni miejskiej w mieście Międzybórz.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-20735264-0ddf-4696-9c9a-723426d20e7a",
+  "zamawiajacy": "Gmina Międzybórz",
+  "data_publikacji": "2026-10-16",
+  "termin_skladania": "2026-10-23T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00490779 z dnia 2026-10-16 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej dla zadania pn. Rewitalizacja i zwiększenie terenów zieleni miejskiej w mieście Międzybórz. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Międzybórz 1.4) Krajowy Numer Identyfikacyjny: REGON 250854889 1.5) Adres zamawiającego 1.5.1.) Ulica: Kolejowa 13 1.5.2.) Miejscowość: Międzybórz 1.5.3.) Kod pocztowy: 56-513 1.5.4.) Województwo: dolnośląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL518 - Wrocławski 1.5.9.) Adres poczty elektronicznej: umig@miedzyborz.pl 1.5.10.) Adres strony internetowej zamawiającego: http://www.bip.miedzyborz.pl/ 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Przedmiot działa",
+  "cpv": [
+   "71220000-6"
+  ],
+  "score": 12,
+  "tagi": [
+   "bonus-ue/strategiczny",
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-16",
+  "hash": "8b88e70bf5471513bbcfc2ca13d2e834d70601f387fbb1093039331207f22a5a"
  },
  {
   "zrodlo": "bzp",
@@ -13756,33 +13543,10 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Usługi inżynierii projektowej w zakresie inżynierii lądowej i wodnej – Opracowanie dokumentacji projektowej dla projektu pn.: „Budowa linii łączącej Bełchatów z linią 131”",
-  "url": "https://ted.europa.eu/en/notice/-/detail/683673-2026",
-  "zamawiajacy": "PKP Polskie Linie Kolejowe S.A.",
-  "data_publikacji": "2026-10-05",
-  "termin_skladania": "2026-10-23T09:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71322000",
-   "71248000",
-   "71322000",
-   "71248000"
-  ],
-  "score": 9,
-  "tagi": [
-   "cpv-71",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-10-15",
-  "hash": "6d2b6a960cc7482f5b5eb73f9c87fb7b5f010072df781975db15533ed9654480"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – ,,Wykonanie dokumentacji projektowej wraz z pełnieniem nadzoru autorskiego dla zadania pn.: Zabezpieczenie przeciwerozyjne szlaków zrywkowych - wykonanie przegród drewnianych w leśnictwach Lasek i Czerniawa w ramach projektu „Kompleksowy projekt adaptacji lasów i leśnictwa do zmian klimatu – mała retencja oraz przeciwdziałanie erozji wodnej na terenach górskich –kontynuacja (MRG3)”",
-  "url": "https://ted.europa.eu/en/notice/-/detail/632945-2026",
+  "url": "https://ted.europa.eu/en/notice/-/detail/716269-2026",
   "zamawiajacy": "Skarb Państwa PGL LP Nadleśnictwo Świeradów",
-  "data_publikacji": "2026-09-15",
+  "data_publikacji": "2026-10-16",
   "termin_skladania": "2026-10-23T09:00:00+02:00",
   "opis": null,
   "cpv": [
@@ -13803,7 +13567,7 @@
   ],
   "status_opisu": "brak",
   "dodano": "2026-09-15",
-  "hash": "26c826b46903382144378b8be0d1821db25f190da95be9abe68d73f46d65e35d"
+  "hash": "03364f7e91fcef0b4c8e6556d3e13853c33016d022c55bca52f4408d5bc75aa4"
  },
  {
   "zrodlo": "bzp",
@@ -13968,6 +13732,28 @@
   "status_opisu": "pobrany",
   "dodano": "2026-10-15",
   "hash": "bd92ab694fb2966d5b55a8969e8e4cba26021aea75b097edf5cad062be4ff913"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Wentylatory – Modernizacja wentylacji wyciągowej i nawiewnej Reaktora MARIA",
+  "url": "https://ted.europa.eu/en/notice/-/detail/715314-2026",
+  "zamawiajacy": "NARODOWE CENTRUM BADAŃ JĄDROWYCH",
+  "data_publikacji": "2026-10-16",
+  "termin_skladania": "2026-10-23T12:00:00+02:00",
+  "opis": null,
+  "cpv": [
+   "39717100",
+   "71300000",
+   "39717100",
+   "71300000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-16",
+  "hash": "32cd45b7d1c98c846da769c76f97a28c6c0ba36eeec6e1e23a76c31af6af514c"
  },
  {
   "zrodlo": "bzp",
@@ -14151,6 +13937,54 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Urządzenia do radioterapii, mechanoterapii, elektroterapii i fizykoterapii – Akcelerator do tomoterapii wraz z modernizacją bunkra.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/716275-2026",
+  "zamawiajacy": "Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie - Państwowy Instytut Badawczy",
+  "data_publikacji": "2026-10-16",
+  "termin_skladania": "2026-10-26T09:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "33150000",
+   "71221000",
+   "71320000",
+   "45400000",
+   "45215143",
+   "39180000",
+   "39150000",
+   "45310000",
+   "45311000",
+   "45232460",
+   "45332400",
+   "45343000",
+   "45331220",
+   "42961100",
+   "45314320",
+   "33150000",
+   "71221000",
+   "71320000",
+   "45400000",
+   "45215143",
+   "39180000",
+   "39150000",
+   "45310000",
+   "45311000",
+   "45232460",
+   "45332400",
+   "45343000",
+   "45331220",
+   "42961100",
+   "45314320"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-14",
+  "hash": "54f48de5c7004eb71dcb4e4b7494dc53274cbb49c77ffa4981412c993e7a2c5f"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Opracowanie dokumentacji projektowej dla zadania pn. „Budowa Centrum Przesiadkowego w Wilkszynie”",
   "url": "https://ted.europa.eu/en/notice/-/detail/657723-2026",
   "zamawiajacy": "Gmina Miękinia",
@@ -14174,7 +14008,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-15",
+  "dodano": "2026-10-16",
   "hash": "c902dc7004560dcf2716e656ae9eef051ae0987faf9e608b1ce1f884a2b1eee9"
  },
  {
@@ -14351,7 +14185,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-15",
+  "dodano": "2026-10-16",
   "hash": "971a8312bc418df855eb7f431146c6b244ff4f3ba3189dd8a9f1e681b0eeed27"
  },
  {
@@ -14382,6 +14216,38 @@
   "status_opisu": "brak",
   "dodano": "2026-10-11",
   "hash": "86719ce08cabd8e07692fe5c37be1a601997c385a0e7dca1259e0edd5de3fc35"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi architektoniczne, budowlane, inżynieryjne i kontrolne – Opracowanie dokumentacji projektowej wraz z pełnieniem nadzoru autorskiego dla zadania pn. „Budowa ul. Nowej Wyzwolenia w Gdańsku”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/717320-2026",
+  "zamawiajacy": "Dyrekcja Rozbudowy Miasta Gdańska działająca w imieniu i na rzecz Gminy Miasta Gdańska",
+  "data_publikacji": "2026-10-16",
+  "termin_skladania": "2026-10-26T11:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71000000",
+   "71300000",
+   "71220000",
+   "71240000",
+   "71332000",
+   "71320000",
+   "71000000",
+   "71300000",
+   "71220000",
+   "71240000",
+   "71332000",
+   "71320000"
+  ],
+  "score": 8,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-11",
+  "hash": "7720d6395207b02f17142734a468d8beec7c47b0e6d4c7c9270da09670dd20c8"
  },
  {
   "zrodlo": "ted",
@@ -14512,7 +14378,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-15",
+  "dodano": "2026-10-16",
   "hash": "e3185a885fd4f1e30b33e0858679ae2fedf342f31caf296806a1e26e921be1f0"
  },
  {
@@ -14538,6 +14404,115 @@
   "status_opisu": "pobrany",
   "dodano": "2026-10-15",
   "hash": "cb813fecf61fadd64d317e7cc6b35ae618341ebd96304881d9d43385a8f4a851"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowej zagospodarowania terenu działki 40/16 obręb Kobierzyce",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-286394cc-be81-4de8-b9b3-d6a4febfa4b0",
+  "zamawiajacy": "Gmina Kobierzyce",
+  "data_publikacji": "2026-10-16",
+  "termin_skladania": "2026-10-27T09:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00491430 z dnia 2026-10-16 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowej zagospodarowania terenu działki 40/16 obręb Kobierzyce SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Kobierzyce 1.4) Krajowy Numer Identyfikacyjny: REGON 931935075 1.5) Adres zamawiającego 1.5.1.) Ulica: Al. Pałacowa 1 1.5.2.) Miejscowość: Kobierzyce 1.5.3.) Kod pocztowy: 55-040 1.5.4.) Województwo: dolnośląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL518 - Wrocławski 1.5.9.) Adres poczty elektronicznej: zp@ugk.pl 1.5.10.) Adres strony internetowej zamawiającego: https://www.ugk.pl/ 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Przedmiot działalności zamawiającego: Ogólne usługi publiczne SEKCJA II",
+  "cpv": [
+   "71000000-8",
+   "71200000-0",
+   "71220000-6",
+   "71248000-8",
+   "71400000-2",
+   "71322000-1"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-16",
+  "hash": "1ca807c1e67a67c77202bd040f27dcba39319d137bd3a3504300af98a93942af"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Roboty budowlane – Modernizacja stacji elektroenergetycznej 110/15 kV Łososina tryb zaprojektuj i wybuduj",
+  "url": "https://ted.europa.eu/en/notice/-/detail/715286-2026",
+  "zamawiajacy": "TAURON Dystrybucja S. A. Oddział w Krakowie",
+  "data_publikacji": "2026-10-16",
+  "termin_skladania": "2026-10-27T10:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "45000000",
+   "45100000",
+   "45110000",
+   "45111000",
+   "45112000",
+   "45113000",
+   "45220000",
+   "45222000",
+   "45223000",
+   "45232000",
+   "45233000",
+   "45236000",
+   "45300000",
+   "45310000",
+   "45311000",
+   "45314000",
+   "45317000",
+   "45400000",
+   "45440000",
+   "45442000",
+   "45450000",
+   "45510000",
+   "45520000",
+   "71240000",
+   "71250000",
+   "71310000",
+   "71320000",
+   "71330000",
+   "71220000",
+   "71300000",
+   "71520000",
+   "45000000",
+   "45100000",
+   "45110000",
+   "45111000",
+   "45112000",
+   "45113000",
+   "45220000",
+   "45222000",
+   "45223000",
+   "45232000",
+   "45233000",
+   "45236000",
+   "45300000",
+   "45310000",
+   "45311000",
+   "45314000",
+   "45317000",
+   "45400000",
+   "45440000",
+   "45442000",
+   "45450000",
+   "45510000",
+   "45520000",
+   "71240000",
+   "71250000",
+   "71310000",
+   "71320000",
+   "71330000",
+   "71220000",
+   "71300000",
+   "71520000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71",
+   "giełdowa",
+   "roboty-budowlane",
+   "spolka-sp"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-14",
+  "hash": "a07b81cac2b9d5f3abaec6e0abdec3e475bb30e114707800a15ef213811c9c09"
  },
  {
   "zrodlo": "ted",
@@ -14588,7 +14563,7 @@
    "samorząd"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-15",
+  "dodano": "2026-10-16",
   "hash": "a5756b20f401c0ddb6f79f7cb68f8a6dbc547866e1f17bd46421c5db97894e02"
  },
  {
@@ -14838,7 +14813,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-15",
+  "dodano": "2026-10-16",
   "hash": "ba2a13f0618e0e4052e5beffbcb86bbf881a5e671d863e41fe1816e87160b46e"
  },
  {
@@ -14913,6 +14888,29 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynierii projektowej w zakresie inżynierii lądowej i wodnej – Opracowanie dokumentacji projektowej dla projektu pn.: „Budowa linii łączącej Bełchatów z linią 131”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/716886-2026",
+  "zamawiajacy": "PKP Polskie Linie Kolejowe S.A.",
+  "data_publikacji": "2026-10-16",
+  "termin_skladania": "2026-10-29T09:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71322000",
+   "71248000",
+   "71322000",
+   "71248000"
+  ],
+  "score": 9,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-16",
+  "hash": "250be2d9e86ac9a7bd7848ed79ffbd1cd7e36d0656be776f3dbb70841aeea14e"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Opracowanie projektu budowlanego i projektów wykonawczych oraz uzyskanie decyzji administracyjnych niezbędnych do wykonania robót budowlanych w ramach realizacji zadania pn. „Budowa ul. Zdziarskiej na odcinku od ul. Ostródzkiej do ul. Płochocińskiej wraz z mostem nad Kanałem Żerańskim – prace przygotowawcze”.",
   "url": "https://ted.europa.eu/en/notice/-/detail/702087-2026",
   "zamawiajacy": "Miasto Stołeczne Warszawa - Stołeczny Zarząd Rozbudowy Miasta",
@@ -14938,7 +14936,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-15",
+  "dodano": "2026-10-16",
   "hash": "e63522f7f801a2d4ff2c0ac2c7cbf2ca1b07d062660b75d2c59e1088b0c5f757"
  },
  {
@@ -14995,6 +14993,56 @@
   "status_opisu": "brak",
   "dodano": "2026-09-29",
   "hash": "1bf1e34474178e323bfe663352f74e4b8e3c997a2b11c485acbb94cb43c9d30c"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Sprzęt wystawowy – Zagospodarowanie budynku pokopalnianego Łaźni Moszczenica w Jastrzębiu-Zdroju – Etap III – Porozumienie Jastrzębskie",
+  "url": "https://ted.europa.eu/en/notice/-/detail/717994-2026",
+  "zamawiajacy": "Miasto Jastrzębie-Zdrój",
+  "data_publikacji": "2026-10-16",
+  "termin_skladania": "2026-10-29T10:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "39154000",
+   "39133000",
+   "39171000",
+   "39154100",
+   "45311100",
+   "30236000",
+   "32322000",
+   "92521100",
+   "71320000",
+   "45000000",
+   "45300000",
+   "45311200",
+   "45315300",
+   "45400000",
+   "45316000",
+   "45421153",
+   "39154000",
+   "39133000",
+   "39171000",
+   "39154100",
+   "45311100",
+   "30236000",
+   "32322000",
+   "92521100",
+   "71320000",
+   "45000000",
+   "45300000",
+   "45311200",
+   "45315300",
+   "45400000",
+   "45316000",
+   "45421153"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-14",
+  "hash": "c55030521c17463ee83f60ad9d79ca2744d5434f8108f79bc7cb438da8f60382"
  },
  {
   "zrodlo": "ted",
@@ -15064,6 +15112,31 @@
   "status_opisu": "pobrany",
   "dodano": "2026-10-09",
   "hash": "c542a1cb5ac9901ed51490f45c7c96b7838c1c72108c4c70f67d88908235ee90"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej przebudowy i rozbudowy budynku Szkoły Podstawowej nr 76 przy ul. Wandy 13 we Wrocławiu o blok sportowy wraz z zagospodarowaniem terenu i infrastrukturą techniczną",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-82c4e3c6-99ab-418a-9613-4cb55dc158f3",
+  "zamawiajacy": "GMINA WROCŁAW - ZARZĄD INWESTYCJI MIEJSKICH",
+  "data_publikacji": "2026-10-16",
+  "termin_skladania": "2026-10-29T10:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00490617 z dnia 2026-10-16 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej przebudowy i rozbudowy budynku Szkoły Podstawowej nr 76 przy ul. Wandy 13 we Wrocławiu o blok sportowy wraz z zagospodarowaniem terenu i infrastrukturą techniczną SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: GMINA WROCŁAW - ZARZĄD INWESTYCJI MIEJSKICH 1.4) Krajowy Numer Identyfikacyjny: REGON 931040088 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Januszowicka 15 A 1.5.2.) Miejscowość: Wrocław 1.5.3.) Kod pocztowy: 53-135 1.5.4.) Województwo: dolnośląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL514 - Miasto Wrocław 1.5.9.) Adres poczty elektronicznej: bzp@zim.wroc.pl 1.5.10.) Adres strony internetowej zamawiającego: www.zim.wroc.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednos",
+  "cpv": [
+   "71220000-6",
+   "71248000-8",
+   "71320000-7",
+   "71420000-8",
+   "71700000-5"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-16",
+  "hash": "bbb2b77f0b0bad50f03ca89646d78c556eaade05bc33736e555db755564ed5d9"
  },
  {
   "zrodlo": "ted",
@@ -15677,6 +15750,72 @@
   "hash": "5e45ddc9d80e5ad9241c69c489904ac6ddcc961f68276e2b6efadcbe1d0f3494"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej i wykonanie robót budowlanych dla zadania nr 07931 pn.: „Rozbudowa pętli autobusowej przy ul. Zwycięskiej we Wrocławiu”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-2096773f-55ee-4ae9-b68e-a21017e4069d",
+  "zamawiajacy": "Gmina Wrocław, w imieniu i na rzecz której działają Wrocławskie Inwestycje Sp. z o. o. z siedzibą przy ul. Ofiar Oświęcimskich 36, 50-059 Wrocław na podstawie pełnomocnictwa Prezydenta Wrocławia",
+  "data_publikacji": "2026-10-16",
+  "termin_skladania": "2026-11-05T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00491242 z dnia 2026-10-16 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Roboty budowlane Opracowanie dokumentacji projektowej i wykonanie robót budowlanych dla zadania nr 07931 pn.: „Rozbudowa pętli autobusowej przy ul. Zwycięskiej we Wrocławiu” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzą zamawiający działający wspólnie 1.2.) Nazwa zamawiającego: Gmina Wrocław, w imieniu i na rzecz której działają Wrocławskie Inwestycje Sp. z o. o. z siedzibą przy ul. Ofiar Oświęcimskich 36, 50-059 Wrocław na podstawie pełnomocnictwa Prezydenta Wrocławia 1.4) Krajowy Numer Identyfikacyjny: REGON 020568529 1.5) Adres zamawiającego 1.5.1.) Ulica: Ofiar Oświęcimskich 36 1.5.2.) Miejscowość: Wrocław 1.5.3.) Kod pocztowy: 50-059 1.5.4.) Województwo: dolnośląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL514 - Miasto Wrocław 1.5.9.) Adres poczty elektronicznej: przetargi@wi.wroc.pl 1.5.10.)",
+  "cpv": [
+   "45000000-7",
+   "71320000-7",
+   "71322000-1",
+   "71248000-8",
+   "45111200-0",
+   "45112210-0",
+   "45111300-1",
+   "45233000-9",
+   "45231110-9",
+   "45231300-8",
+   "45231400-9",
+   "45232300-5",
+   "45112710-5",
+   "45111291-4",
+   "45232400-6",
+   "45100000-8",
+   "45232000-2",
+   "45232420-2",
+   "45232410-9",
+   "45231100-6",
+   "45112000-5",
+   "45310000-3",
+   "45213314-7"
+  ],
+  "score": 10,
+  "tagi": [
+   "cpv-71",
+   "roboty-budowlane",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-16",
+  "hash": "576a72ddaca3f62cc6a37baa0aca2ba3ab4967847f297869b682eb364536878f"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej dla inwestycji pn.: „Budowa, przebudowa, rozbudowa magazynu na potrzeby OLiOC wraz z budynkiem administracyjnym i zapleczem dla ZGZiR w Nowym Targu”.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-ba46d43c-6a4d-4b11-97fd-f077e77737b8",
+  "zamawiajacy": "Gmina Miasto Nowy Targ",
+  "data_publikacji": "2026-10-16",
+  "termin_skladania": "2026-11-05T08:30:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00491095 z dnia 2026-10-16 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej dla inwestycji pn.: „Budowa, przebudowa, rozbudowa magazynu na potrzeby OLiOC wraz z budynkiem administracyjnym i zapleczem dla ZGZiR w Nowym Targu”. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Miasto Nowy Targ 1.4) Krajowy Numer Identyfikacyjny: REGON 491893256 1.5) Adres zamawiającego 1.5.1.) Ulica: Krzywa 1 1.5.2.) Miejscowość: Nowy Targ 1.5.3.) Kod pocztowy: 34-400 1.5.4.) Województwo: małopolskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL219 - Nowotarski 1.5.7.) Numer telefonu: 0182611200 1.5.9.) Adres poczty elektronicznej: umnt@um.nowytarg.pl 1.5.10.) Adres strony internetowej zamawiającego: www.nowytarg.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora",
+  "cpv": [
+   "71220000-6",
+   "71221000-3"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-16",
+  "hash": "9c46b8ea4ba829c4794e10ab3f34131bc5c1a701d0082cdd4b7290401f0494df"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Usługi projektowania architektonicznego – Wykonanie dokumentacji projektowej wraz z kosztorysami inwestorskimi, w tym przedmiarami robót, STWiOR i innymi niezbędnymi opracowaniami dla zadania pn. \"Budowa Centrum Specjalistycznego z zespołem ambulatoryjnych poradni przyszpitalnych w Miejskim Centrum Medycznym im. dr Karola Jonschera w Łodzi”",
   "url": "https://ted.europa.eu/en/notice/-/detail/690447-2026",
@@ -15698,7 +15837,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-15",
+  "dodano": "2026-10-16",
   "hash": "f8f98c888cf754c15e67dda5aeb5ab9cc70eef1bb99ca89d96275b9c5c2fc55c"
  },
  {
@@ -15731,36 +15870,6 @@
   "status_opisu": "brak",
   "dodano": "2026-10-02",
   "hash": "aadfb46c0aa5968365e4d9f274cd479a7a491dfcd33bf4457f023bc5dd1a482d"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Usługi zarządzania projektem budowlanym – Pełnienie funkcji Inwestora zastępczego wraz z inspektorami nadzoru dla robót budowlanych dotyczących zadania „Rozbudowa i doposażenie Świętokrzyskiego Centrum Onkologii w Kielcach celem zwiększenia zakresu świadczeń oraz innowacyjności leczenia onkologicznego”.",
-  "url": "https://ted.europa.eu/en/notice/-/detail/690582-2026",
-  "zamawiajacy": "Świętokrzyskie Centrum Onkologii Samodzielny Publiczny Zakład Opieki Zdrowotnej w Kielcach",
-  "data_publikacji": "2026-10-07",
-  "termin_skladania": "2026-11-05T12:00:00+01:00",
-  "opis": null,
-  "cpv": [
-   "71541000",
-   "71520000",
-   "71540000",
-   "71244000",
-   "71247000",
-   "71248000",
-   "71541000",
-   "71520000",
-   "71540000",
-   "71244000",
-   "71247000",
-   "71248000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-10-07",
-  "hash": "7d4996195ef153f6d6a500483c0b6f14896056ad0266cc88bff8f27920b710cd"
  },
  {
   "zrodlo": "ted",
@@ -15872,7 +15981,7 @@
    "roboty-budowlane"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-15",
+  "dodano": "2026-10-16",
   "hash": "609b9afa4487b7d50310837432e5db85eeaea773efef850d73131d34960eeddb"
  },
  {
@@ -16063,6 +16172,36 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Usługi zarządzania projektem budowlanym – Pełnienie funkcji Inwestora zastępczego wraz z inspektorami nadzoru dla robót budowlanych dotyczących zadania „Rozbudowa i doposażenie Świętokrzyskiego Centrum Onkologii w Kielcach celem zwiększenia zakresu świadczeń oraz innowacyjności leczenia onkologicznego”.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/716528-2026",
+  "zamawiajacy": "Świętokrzyskie Centrum Onkologii Samodzielny Publiczny Zakład Opieki Zdrowotnej w Kielcach",
+  "data_publikacji": "2026-10-16",
+  "termin_skladania": "2026-11-10T12:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71541000",
+   "71520000",
+   "71540000",
+   "71244000",
+   "71247000",
+   "71248000",
+   "71541000",
+   "71520000",
+   "71540000",
+   "71244000",
+   "71247000",
+   "71248000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-07",
+  "hash": "406c4f8d8d2a906270c5fbc06e7059eff6a4baff7b3c1304c0ab3cbe6abb2192"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – „Opracowanie kompletnej dokumentacji projektowej i uzyskanie decyzji administracyjnych dla zadania pn. „Zabezpieczenie przed powodzią miasta Brzeg. Rozbiórka obwałowań polderu Brzeziny – prace przygotowawcze”.",
   "url": "https://ted.europa.eu/en/notice/-/detail/692599-2026",
   "zamawiajacy": "Państwowe Gospodarstwo Wodne Wody Polskie",
@@ -16129,7 +16268,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-15",
+  "dodano": "2026-10-16",
   "hash": "474cb7f3393bee9cf6bbc0d34fde1c213cd1d3d5905c4ee84bdbfa8bc6b45fbb"
  },
  {
@@ -16510,7 +16649,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-15",
+  "dodano": "2026-10-16",
   "hash": "b24f6184f522b8ec32d5bbb91e607a81de08d25345994d73971f0e4f117ad2e6"
  },
  {
@@ -16626,6 +16765,30 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Nadzór nad robotami budowlanymi – Świadczenie usługi kompleksowego nadzoru inwestorskiego wraz z koordynacją techniczną realizacji zadania pod nazwą: „Podniesienie jakości infrastruktury hydrotechnicznej Zbiornika Wodnego Goczałkowice - Remont generalny zapory bocznej zbiornika wodnego Goczałkowice” - FESL.14.02-IZ.01-12E7/25.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/716557-2026",
+  "zamawiajacy": "Górnośląskie Przedsiębiorstwo Wodociągów Spółka Akcyjna",
+  "data_publikacji": "2026-10-16",
+  "termin_skladania": "2026-11-20T10:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71247000",
+   "71248000",
+   "71310000",
+   "71247000",
+   "71248000",
+   "71310000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-16",
+  "hash": "1e295efb7b3e689f92da46f154a723c0fd787081e6bfeaaf49f4ce96ac54b081"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Roboty w zakresie kształtowania terenów zielonych – „Projekt i realizacja zadania inwestycyjnego pn. „Wsparcie małej retencji wodnej i rozwój zielono-niebieskiej infrastruktury na obszarze Metropolii Poznań - etap II. Zielona sieć- szkoły””",
   "url": "https://ted.europa.eu/en/notice/-/detail/713889-2026",
   "zamawiajacy": "Poznańskie Inwestycje Miejskie sp. z o.o. w imieniu MIASTO POZNAŃ pl. Kolegiacki 17, 61-841 Poznań",
@@ -16702,6 +16865,51 @@
   "status_opisu": "brak",
   "dodano": "2026-10-15",
   "hash": "7bc6877da82fb7e3ad505d461315a5caf77c13d281c301ffc2b659fa5ff0ab92"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi architektoniczne, budowlane, inżynieryjne i kontrolne – Opracowanie dokumentacji projektowo-kosztorysowej dla zadania: „Przebudowa ulicy Marii Konopnickiej w Świnoujściu”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/716428-2026",
+  "zamawiajacy": "Gmina Miasto Świnoujście",
+  "data_publikacji": "2026-10-16",
+  "termin_skladania": "2026-11-20T12:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71000000",
+   "71320000",
+   "71000000",
+   "71320000"
+  ],
+  "score": 8,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-16",
+  "hash": "ac8e965fe9f9263241cf4c40aeed1ce891938f04196790f4fd1c8853f1489a64"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi projektowania architektonicznego – Opracowanie dokumentacji projektowej dla zadania pn. Rewitalizacja i modernizacja wraz z dostosowaniem do przepisów ppoż i wymogów bezpieczeństwa Sali Koncertowej UMFC przy ul. Okólnik 2 w Warszawie",
+  "url": "https://ted.europa.eu/en/notice/-/detail/717400-2026",
+  "zamawiajacy": "Uniwersytet Muzyczny Fryderyka Chopina",
+  "data_publikacji": "2026-10-16",
+  "termin_skladania": "2026-11-20T12:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71220000",
+   "71220000"
+  ],
+  "score": 9,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-16",
+  "hash": "02591f9bf25a454eeea6b5039092cefcbf6cf37fc97d1f2b71fd6ffbc4e07add"
  },
  {
   "zrodlo": "ted",
@@ -16874,6 +17082,27 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Opracowanie dokumentacji projektowej na „Rozbudowę drogi wojewódzkiej Nr 689 – przejście przez m. Hajnówka”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/718552-2026",
+  "zamawiajacy": "Podlaski Zarząd Dróg Wojewódzkich w Białymstoku",
+  "data_publikacji": "2026-10-16",
+  "termin_skladania": "2026-12-03T09:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71320000",
+   "71320000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71",
+   "drogi"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-16",
+  "hash": "d1d2218d84f08183836de12da532e273234a110d566c9ca8603d75bc11f948df"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi zarządzania budową – Pełnienie funkcji Inżyniera Kontraktu dotyczącej inwestycji pn. „Poszerzenie odcinka toru wodnego na podejściu do portu morskiego w Świnoujściu”",
   "url": "https://ted.europa.eu/en/notice/-/detail/701368-2026",
   "zamawiajacy": "Dyrektor Urzędu Morskiego w Szczecinie",
@@ -16905,7 +17134,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-15",
+  "dodano": "2026-10-16",
   "hash": "290f81ae419c81d536659f4d032f1bd1846fc25f4bb7c58b1e8f6aee39aa16a3"
  }
 ]
