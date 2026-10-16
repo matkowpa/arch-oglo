@@ -7053,27 +7053,6 @@
   "hash": "178ae0d627abbe1976abf56cdbf0bbb07e7a831d71f4754912794e83b516a10e"
  },
  {
-  "zrodlo": "bzp",
-  "tytul": "Opracowanie dokumentacji projektowej rozbudowy i przebudowy budynku OSP w Dąbrówce",
-  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-83a4112d-933d-4c82-ae72-6c2dcb9b4bfd",
-  "zamawiajacy": "GMINA CELESTYNÓW",
-  "data_publikacji": "2026-09-23",
-  "termin_skladania": "2026-10-01T09:00:00Z",
-  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00452907 z dnia 2026-09-23 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej rozbudowy i przebudowy budynku OSP w Dąbrówce SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: GMINA CELESTYNÓW 1.4) Krajowy Numer Identyfikacyjny: REGON 013268965 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Regucka 3 1.5.2.) Miejscowość: Celestynów 1.5.3.) Kod pocztowy: 05-430 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL912 - Warszawski wschodni 1.5.9.) Adres poczty elektronicznej: zamowienia@celestynow.pl 1.5.10.) Adres strony internetowej zamawiającego: www.celestynow.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Przedmiot działalności zamawiającego: Ogólne usługi public",
-  "cpv": [
-   "71220000-6"
-  ],
-  "score": 11,
-  "tagi": [
-   "cpv-71",
-   "samorząd",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "pobrany",
-  "dodano": "2026-09-04",
-  "hash": "30d3ab6a98114f691d8c2948bd83e9d990e8d2d5195abc18ad660404dc2e01df"
- },
- {
   "zrodlo": "ted",
   "tytul": "Polska – Maszyny do uzdatniania ścieków – Projekt, dostawę, montaż i uruchomienie trzech wirówek dekantacyjnych wraz z niezbędnym wyposażeniem",
   "url": "https://ted.europa.eu/en/notice/-/detail/591581-2026",
@@ -13752,7 +13731,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-16",
+  "dodano": "2026-10-16",
   "hash": "32cd45b7d1c98c846da769c76f97a28c6c0ba36eeec6e1e23a76c31af6af514c"
  },
  {
@@ -13916,6 +13895,27 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "„Przebudowa DP Nr 2091R wraz z obiektami inżynieryjnymi w km 0+933-5+195” – dokumentacja projektowa – opracowanie dokumentacji projektowej w celu uzyskania decyzji pozwolenia na budowę",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-1f943a65-a60e-4bbe-a37c-bd1b766321a6",
+  "zamawiajacy": "Zarząd Dróg Powiatowych w Przemyślu",
+  "data_publikacji": "2026-10-16",
+  "termin_skladania": "2026-10-26T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00491897 z dnia 2026-10-16 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi „Przebudowa DP Nr 2091R wraz z obiektami inżynieryjnymi w km 0+933-5+195” – dokumentacja projektowa – opracowanie dokumentacji projektowej w celu uzyskania decyzji pozwolenia na budowę SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Zarząd Dróg Powiatowych w Przemyślu 1.4) Krajowy Numer Identyfikacyjny: REGON 650945384 1.5) Adres zamawiającego 1.5.1.) Ulica: Plac Dominikański, 3 1.5.2.) Miejscowość: Przemyśl 1.5.3.) Kod pocztowy: 37-700 1.5.4.) Województwo: podkarpackie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL822 - Przemyski 1.5.9.) Adres poczty elektronicznej: zdp@powiat.przemysl.pl 1.5.10.) Adres strony internetowej zamawiającego: www.zdpp.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - inna państwowa jednostka organi",
+  "cpv": [
+   "71320000-7"
+  ],
+  "score": 20,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-16",
+  "hash": "e392f71906e69be196593c3e10f3dd39e5fe92a274a0be1cd2e2e69e45d0f720"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Opracowanie dokumentacji projektowej dla zadania „Budowa sali gimnastycznej przy Szkole Podstawowej Nr 4 w Kołobrzegu”",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-0458f8a2-94a9-4c02-ba20-d733786f872c",
   "zamawiajacy": "Gmina Miasto Kołobrzeg",
@@ -13980,7 +13980,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-14",
+  "dodano": "2026-10-16",
   "hash": "54f48de5c7004eb71dcb4e4b7494dc53274cbb49c77ffa4981412c993e7a2c5f"
  },
  {
@@ -14218,6 +14218,27 @@
   "hash": "86719ce08cabd8e07692fe5c37be1a601997c385a0e7dca1259e0edd5de3fc35"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej rozbudowy i przebudowy budynku OSP w Dąbrówce",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-01f48602-2672-469d-a1f3-79d373b2cc87",
+  "zamawiajacy": "GMINA CELESTYNÓW",
+  "data_publikacji": "2026-10-16",
+  "termin_skladania": "2026-10-26T10:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00491761 z dnia 2026-10-16 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej rozbudowy i przebudowy budynku OSP w Dąbrówce SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: GMINA CELESTYNÓW 1.4) Krajowy Numer Identyfikacyjny: REGON 013268965 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Regucka 3 1.5.2.) Miejscowość: Celestynów 1.5.3.) Kod pocztowy: 05-430 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL912 - Warszawski wschodni 1.5.9.) Adres poczty elektronicznej: zamowienia@celestynow.pl 1.5.10.) Adres strony internetowej zamawiającego: www.celestynow.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Przedmiot działalności zamawiającego: Ogólne usługi public",
+  "cpv": [
+   "71220000-6"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-04",
+  "hash": "3bf75a99864e6266286b257611b90eadf9844c76a8d8e326af30e09f9d2d1608"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Usługi architektoniczne, budowlane, inżynieryjne i kontrolne – Opracowanie dokumentacji projektowej wraz z pełnieniem nadzoru autorskiego dla zadania pn. „Budowa ul. Nowej Wyzwolenia w Gdańsku”",
   "url": "https://ted.europa.eu/en/notice/-/detail/717320-2026",
@@ -14246,7 +14267,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-11",
+  "dodano": "2026-10-16",
   "hash": "7720d6395207b02f17142734a468d8beec7c47b0e6d4c7c9270da09670dd20c8"
  },
  {
@@ -14511,7 +14532,7 @@
    "spolka-sp"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-14",
+  "dodano": "2026-10-16",
   "hash": "a07b81cac2b9d5f3abaec6e0abdec3e475bb30e114707800a15ef213811c9c09"
  },
  {
@@ -15041,7 +15062,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-14",
+  "dodano": "2026-10-16",
   "hash": "c55030521c17463ee83f60ad9d79ca2744d5434f8108f79bc7cb438da8f60382"
  },
  {
@@ -15564,6 +15585,42 @@
   "status_opisu": "brak",
   "dodano": "2026-09-23",
   "hash": "3d851ef95684705d2350a649085cdd2e30e054513cff71a0b0b49dcf39a085ba"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": ",,Przebudowa ul. Dworcowej i ul. Kolejowej w Koszęcinie’’",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-aed30b4d-009d-4e43-a76a-50dff8a7edee",
+  "zamawiajacy": "Gmina Koszęcin",
+  "data_publikacji": "2026-10-16",
+  "termin_skladania": "2026-11-03T09:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00491719 z dnia 2026-10-16 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Roboty budowlane ,,Przebudowa ul. Dworcowej i ul. Kolejowej w Koszęcinie’’ SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Koszęcin 1.3.) Oddział zamawiającego: UG Koszęcin 1.4) Krajowy Numer Identyfikacyjny: REGON 151398468 1.5) Adres zamawiającego 1.5.1.) Ulica: Powstańców 10 1.5.2.) Miejscowość: Koszęcin 1.5.3.) Kod pocztowy: 42-286 1.5.4.) Województwo: śląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL228 - Bytomski 1.5.9.) Adres poczty elektronicznej: koszecin@koszecin.pl 1.5.10.) Adres strony internetowej zamawiającego: www.koszecin.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Przedmiot działalności zamawiającego: Inna działalność Ki",
+  "cpv": [
+   "45000000-7",
+   "71320000-7",
+   "71322000-1",
+   "45233140-2",
+   "45233120-6",
+   "45233161-5",
+   "45213311-6",
+   "45232400-6",
+   "45232000-2",
+   "45316110-9",
+   "45232300-5",
+   "45111200-0",
+   "77314000-4",
+   "45233221-4",
+   "45233290-8"
+  ],
+  "score": 3,
+  "tagi": [
+   "bonus-ue/strategiczny",
+   "cpv-71",
+   "roboty-budowlane",
+   "samorząd"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-16",
+  "hash": "6b41228f953ae9e945c2fe4b17878f226ea277421ba973eca1f103b3030cf469"
  },
  {
   "zrodlo": "bzp",
@@ -16197,7 +16254,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-07",
+  "dodano": "2026-10-16",
   "hash": "406c4f8d8d2a906270c5fbc06e7059eff6a4baff7b3c1304c0ab3cbe6abb2192"
  },
  {
@@ -16349,6 +16406,25 @@
   "status_opisu": "brak",
   "dodano": "2026-10-13",
   "hash": "4fc5d289b18340cfd23d230ed23bb00daa965d85254b14a9b53c771a99afa838"
+ },
+ {
+  "zrodlo": "bip:tauron",
+  "tytul": "Wykonanie usługi transportu kolejowego węgla do jednostek wytwórczych TAURON Ciepło sp. z o.o.",
+  "url": "https://swoz.tauron.pl/platform/demand/notice/public/current/list",
+  "zamawiajacy": "TAURON Ciepło sp. z o.o.",
+  "data_publikacji": "2026-10-16",
+  "termin_skladania": "2026-11-16 12:00",
+  "opis": null,
+  "cpv": [],
+  "score": 3,
+  "tagi": [
+   "bonus-ue/strategiczny",
+   "giełdowa",
+   "spolka-sp"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-16",
+  "hash": "c14bf3cbe3fcf541f8fbb5cb35971b2fb8935746bc81ac2deda2e8f9014d865b"
  },
  {
   "zrodlo": "ted",
