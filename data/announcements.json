@@ -13894,6 +13894,29 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "II przetarg na opracowanie dokumentacji projektowej na przebudowę budynku kuchni, stołówki oraz kotłowni w Zespole Szkół Centrum Kształcenia Rolniczego im. W. Witosa w Suwałkach.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-4e5a2687-835b-48bb-bd0b-6abec2aea099",
+  "zamawiajacy": "Zespół Szkół Centrum Kształcenia Rolniczego im. Wincentego Witosa w Suwałkach",
+  "data_publikacji": "2026-10-18",
+  "termin_skladania": "2026-10-26T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00492847 z dnia 2026-10-18 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi II przetarg na opracowanie dokumentacji projektowej na przebudowę budynku kuchni, stołówki oraz kotłowni w Zespole Szkół Centrum Kształcenia Rolniczego im. W. Witosa w Suwałkach. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Zespół Szkół Centrum Kształcenia Rolniczego im. Wincentego Witosa w Suwałkach 1.4) Krajowy Numer Identyfikacyjny: REGON 000098772 1.5) Adres zamawiającego 1.5.1.) Ulica: Ogrodowa, 49 1.5.2.) Miejscowość: Suwałki 1.5.3.) Kod pocztowy: 16-400 1.5.4.) Województwo: podlaskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL843 - Suwalski 1.5.7.) Numer telefonu: 87-5679081 1.5.9.) Adres poczty elektronicznej: zsckrsuw@suwalki.eta.pl 1.5.10.) Adres strony internetowej zamawiającego: www.zs7.edu.pl 1.6.) Rodzaj zamawiaj",
+  "cpv": [
+   "71220000-6",
+   "71327000-6",
+   "71420000-8",
+   "71320000-7"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-18",
+  "hash": "da6c4a3da00172b48831b82eae1ee2f4c3c879f5acbf39b9aac80b4579d5b69d"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Opracowanie dokumentacji projektowej dla zadania: 08410 pn. „Ścieżka spacerowa wzdłuż Steblówki – Stabłowice od ul. Kruszcowej do Piechowickiej we Wrocławiu – projekt nr 92/WBO.2025”",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-5964f3ab-392f-45b6-b066-6f4d1814ff4c",
   "zamawiajacy": "Gmina Wrocław, w imieniu i na rzecz której działają Wrocławskie Inwestycje Sp. z o. o. z siedzibą przy ul. Ofiar Oświęcimskich 36, 50-059 Wrocław na podstawie pełnomocnictwa Prezydenta Wrocławia",
