@@ -15412,6 +15412,36 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Usługa opracowania dokumentacji projektowej wraz z usługami towarzyszącymi",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-f7310e98-0a43-4629-a000-1158dec70d16",
+  "zamawiajacy": "SZPITAL DZIECIĘCY POLANKI IM. MACIEJA PŁAŻYŃSKIEGO W GDAŃSKU SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+  "data_publikacji": "2026-10-19",
+  "termin_skladania": "2026-10-30T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00494935 z dnia 2026-10-19 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Usługa opracowania dokumentacji projektowej wraz z usługami towarzyszącymi SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: SZPITAL DZIECIĘCY POLANKI IM. MACIEJA PŁAŻYŃSKIEGO W GDAŃSKU SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ 1.3.) Oddział zamawiającego: Szpital Polanki 1.4) Krajowy Numer Identyfikacyjny: REGON 000294208 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Polanki 119 1.5.2.) Miejscowość: Gdańsk 1.5.3.) Kod pocztowy: 80-308 1.5.4.) Województwo: pomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL633 - Trójmiejski 1.5.7.) Numer telefonu: 58 520 93 00 1.5.8.) Numer faksu: 58 552 47 41 1.5.9.) Adres poczty elektronicznej: zamowienia@szpitalpolanki.pl 1.5.10.) Adres strony internetowej zamawiającego: www.szpitalpolanki.pl 1.6.",
+  "cpv": [
+   "71000000-8",
+   "71248000-8",
+   "71220000-6",
+   "71250000-5",
+   "71322000-1",
+   "71310000-4",
+   "71520000-9",
+   "71240000-2",
+   "71242000-6",
+   "71320000-7",
+   "71321000-4"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-19",
+  "hash": "4486a91f574d639515c4256ed7cc7f7edfed0a1f9024d1aadf325246fe83add5"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Opracowanie dokumentacji projektowej połączenia drogowego z ciągami pieszymi ulic Lipa-Lipińska na granicy z Miastem Świętochłowice.",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-047e0395-d434-4b42-9ca0-84779d104f54",
   "zamawiajacy": "MIASTO RUDA ŚLĄSKA",
@@ -15856,6 +15886,25 @@
   "status_opisu": "pobrany",
   "dodano": "2026-10-14",
   "hash": "a9ce0e80ada54d7b27c80f8f932e3707f73f92eb56d84b5a956a74820feb726b"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie projektów stałej organizacji ruchu oraz programów sygnalizacji świetlnej na potrzeby zarządzania ruchem na drogach wojewódzkich",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-470af9cf-acfc-4e7b-87b6-956072a14879",
+  "zamawiajacy": "Województwo Łódzkie",
+  "data_publikacji": "2026-10-19",
+  "termin_skladania": "2026-11-03T10:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00494791 z dnia 2026-10-19 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie projektów stałej organizacji ruchu oraz programów sygnalizacji świetlnej na potrzeby zarządzania ruchem na drogach wojewódzkich SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Województwo Łódzkie 1.3.) Oddział zamawiającego: Urząd Marszałkowski Województwa Łódzkiego 1.4) Krajowy Numer Identyfikacyjny: REGON 472071715 1.5) Adres zamawiającego 1.5.1.) Ulica: Al. Piłsudskiego 8 1.5.2.) Miejscowość: Łódź 1.5.3.) Kod pocztowy: 90-051 1.5.4.) Województwo: łódzkie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL711 - Miasto Łódź 1.5.9.) Adres poczty elektronicznej: zp.info@lodzkie.pl 1.5.10.) Adres strony internetowej zamawiającego: www.lodzkie.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publ",
+  "cpv": [
+   "71320000-7"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-19",
+  "hash": "87f3f4d3e576ca85174413b26fae49771515e55fd275e20c7012c2c1ce496e3c"
  },
  {
   "zrodlo": "ted",
