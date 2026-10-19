@@ -13545,7 +13545,7 @@
    "roboty-budowlane"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-15",
+  "dodano": "2026-10-19",
   "hash": "ab55e5d362f324fda1bca5e824daff3c9ff84a40afa97590c6de31173589de4b"
  },
  {
@@ -15113,7 +15113,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-14",
+  "dodano": "2026-10-19",
   "hash": "715fce9a0814bb88717b74499c8f3e571101d542f1fc30d5c5ca33d1bd59fada"
  },
  {
@@ -15472,7 +15472,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-14",
+  "dodano": "2026-10-19",
   "hash": "b19d3a89a01034ecb81eedd827d6bfd0d00bd53d922f950085b01cf7f0ba9aea"
  },
  {
@@ -15646,6 +15646,28 @@
   "status_opisu": "brak",
   "dodano": "2026-10-07",
   "hash": "c18bd77e00411db700a2751d2507ee728df33fb4bd1a0d92c814d8a969f99d21"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "INŻYNIER KONTRAKTU – MAŁA RETENCJA W UL. KOŚCIELNEJ W POZNANIU (skrócona nazwa postępowania)",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-517c82ea-a297-4fa5-a49b-bff97d493507",
+  "zamawiajacy": "Poznańskie Inwestycje Miejskie Sp. z o.o.",
+  "data_publikacji": "2026-10-19",
+  "termin_skladania": "2026-10-30T10:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00494755 z dnia 2026-10-19 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi INŻYNIER KONTRAKTU – MAŁA RETENCJA W UL. KOŚCIELNEJ W POZNANIU (skrócona nazwa postępowania) SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Poznańskie Inwestycje Miejskie Sp. z o.o. 1.4) Krajowy Numer Identyfikacyjny: REGON 302689539 1.5) Adres zamawiającego 1.5.1.) Ulica: pl. Wiosny Ludów 2 1.5.2.) Miejscowość: Poznań 1.5.3.) Kod pocztowy: 61-831 1.5.4.) Województwo: wielkopolskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL415 - Miasto Poznań 1.5.9.) Adres poczty elektronicznej: zamowienia.publiczne@pim.poznan.pl 1.5.10.) Adres strony internetowej zamawiającego: www.pim.poznan.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - osoba prawna, o której mowa w art. 4 pkt 3 ustawy (podmiot prawa publicznego) 1.7.) Przedmiot dzia",
+  "cpv": [
+   "71247000-1",
+   "71248000-8",
+   "71310000-4",
+   "71540000-5"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-19",
+  "hash": "318c19d7c9f5aa2291dbb331e95dd77580786e44c9b047c29066bf8e771c5973"
  },
  {
   "zrodlo": "ted",
@@ -16104,6 +16126,29 @@
   "hash": "9c46b8ea4ba829c4794e10ab3f34131bc5c1a701d0082cdd4b7290401f0494df"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie wielobranżowej dokumentacji projektowej przebudowy budynku adm.-gospodarczego Gospodarstwa Szkółkarskiego w Nędzy wraz z częścią laboratoryjną, instalacją fotowoltaiczną z magazynem energii",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-11fb8bec-caf4-43e4-9dd6-0650b89f0de9",
+  "zamawiajacy": "Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Rudy Raciborskie",
+  "data_publikacji": "2026-10-19",
+  "termin_skladania": "2026-11-05T09:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00494471 z dnia 2026-10-19 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie wielobranżowej dokumentacji projektowej przebudowy budynku adm.-gospodarczego Gospodarstwa Szkółkarskiego w Nędzy wraz z częścią laboratoryjną, instalacją fotowoltaiczną z magazynem energii SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Rudy Raciborskie 1.4) Krajowy Numer Identyfikacyjny: REGON 272536296 1.5) Adres zamawiającego 1.5.1.) Ulica: Rogera 1 1.5.2.) Miejscowość: Rudy 1.5.3.) Kod pocztowy: 47-430 1.5.4.) Województwo: śląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL227 - Rybnicki 1.5.7.) Numer telefonu: 324103029 1.5.9.) Adres poczty elektronicznej: rudy@katowice.lasy.gov.pl 1.5.10.) Adres strony internetowej zamawiającego: https://rudy-raciborskie.ka",
+  "cpv": [
+   "71320000-7",
+   "71242000-6",
+   "71220000-6",
+   "79932000-6"
+  ],
+  "score": 21,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-19",
+  "hash": "ef53c0eec28e53eb81b9e892ece349a7d090950f8bb27e4b9112e952f8cbb171"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Urządzenia do radioterapii, mechanoterapii, elektroterapii i fizykoterapii – Dostawa systemu do hipertermii głębokiej wraz z modernizacją bunkra.",
   "url": "https://ted.europa.eu/en/notice/-/detail/677472-2026",
@@ -16337,7 +16382,7 @@
    "drogi"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-02",
+  "dodano": "2026-10-19",
   "hash": "8bf4f8c2a49d3c80b45c778aaa0ade512275e63465670cf6e1f89ed8718ca6d9"
  },
  {
