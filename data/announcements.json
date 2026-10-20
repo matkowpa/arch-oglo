@@ -1744,28 +1744,6 @@
  },
  {
   "zrodlo": "bzp",
-  "tytul": "Wykonanie dokumentacji projektowej budowy ul. Leśnej na odcinku od nr 14 do nr 16 w miejscowości Sucha Górna",
-  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-8ce3cd72-e546-4f02-8fef-9684e67a5c29",
-  "zamawiajacy": "GMINA POLKOWICE",
-  "data_publikacji": "2026-09-04",
-  "termin_skladania": "2026-09-14T08:00:00Z",
-  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00423287 z dnia 2026-09-04 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowej budowy ul. Leśnej na odcinku od nr 14 do nr 16 w miejscowości Sucha Górna SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: GMINA POLKOWICE 1.4) Krajowy Numer Identyfikacyjny: REGON 390647618 1.5) Adres zamawiającego 1.5.1.) Ulica: Rynek 1 1.5.2.) Miejscowość: Polkowice 1.5.3.) Kod pocztowy: 59-100 1.5.4.) Województwo: dolnośląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL516 - Legnicko-głogowski 1.5.7.) Numer telefonu: 76/8474121 1.5.9.) Adres poczty elektronicznej: a.nowak@gmina.polkowice.pl 1.5.10.) Adres strony internetowej zamawiającego: https://bip.polkowice.eu/ 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1",
-  "cpv": [
-   "71240000-2",
-   "71320000-7"
-  ],
-  "score": 11,
-  "tagi": [
-   "cpv-71",
-   "samorząd",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "pobrany",
-  "dodano": "2026-09-04",
-  "hash": "fc97fd4859a259bd3c2dfbadf0d2881b3df84b2ddce63fe36143f364be61d82a"
- },
- {
-  "zrodlo": "bzp",
   "tytul": "„Zaprojektowanie, dostawa i montaż agregatu prądotwórczego oraz systemu zasilania gwarantowanego UPS wraz z bateriami dla budynku SZPZLO Warszawa Praga-Północ przy ul. Otwockiej 1”",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-d3500417-732d-43b1-964d-059d245eebae",
   "zamawiajacy": "Samodzielny Zespół Publicznych Zakładów Lecznictwa Otwartego Warszawa Praga-Północ",
@@ -14753,6 +14731,27 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowo-kosztorysowej wraz ze STWiOR: Adaptacja pomieszczeń SP Nr 4 w Mrągowie na potrzeby MDK wraz z dostosowaniem obiektu do obowiązujących przepisów przeciwpożarowych.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-fb78b39a-c53d-4d37-abeb-a281a3e84514",
+  "zamawiajacy": "Gmina Miasto Mrągowo",
+  "data_publikacji": "2026-10-20",
+  "termin_skladania": "2026-10-28T09:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00496884 z dnia 2026-10-20 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowo-kosztorysowej wraz ze STWiOR: Adaptacja pomieszczeń SP Nr 4 w Mrągowie na potrzeby MDK wraz z dostosowaniem obiektu do obowiązujących przepisów przeciwpożarowych. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Miasto Mrągowo 1.4) Krajowy Numer Identyfikacyjny: REGON 510743427 1.5) Adres zamawiającego 1.5.1.) Ulica: Królewiecka 60A 1.5.2.) Miejscowość: Mrągowo 1.5.3.) Kod pocztowy: 11-700 1.5.4.) Województwo: warmińsko-mazurskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL622 - Olsztyński 1.5.7.) Numer telefonu: 897419000 1.5.9.) Adres poczty elektronicznej: zamowienia@mragowo.um.gov.pl 1.5.10.) Adres strony internetowej zamawiającego: www.mragowo.pl 1.6.) Rodzaj zamawiającego: Zamawiający p",
+  "cpv": [
+   "71320000-7"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-20",
+  "hash": "39fd0385eefff49e19a14a41986cd1bb06534bf2327104561052d8bb29aba18e"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Wykonanie dokumentacji projektowej dla inwestycji pn. ”Budowa laboratorium środowiskowego GREEN HUB” na terenie kampusu Politechniki Gdańskiej wraz z pełnieniem nadzoru autorskiego",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-a30227c0-482a-4a1f-ad75-ab8f1d7c11d4",
   "zamawiajacy": "POLITECHNIKA GDAŃSKA",
@@ -15106,6 +15105,28 @@
   "status_opisu": "brak",
   "dodano": "2026-09-29",
   "hash": "1e8ab2936916cdbbdbd372d793b8f3fe22bf86854f8f53e142d8dd3ee765492b"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowej budowy ul. Leśnej na odcinku od nr 14 do nr 16 w miejscowości Sucha Górna",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-e0d3013a-0a28-427d-8367-bca21fe239bd",
+  "zamawiajacy": "GMINA POLKOWICE",
+  "data_publikacji": "2026-10-20",
+  "termin_skladania": "2026-10-29T09:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00496744 z dnia 2026-10-20 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowej budowy ul. Leśnej na odcinku od nr 14 do nr 16 w miejscowości Sucha Górna SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: GMINA POLKOWICE 1.4) Krajowy Numer Identyfikacyjny: REGON 390647618 1.5) Adres zamawiającego 1.5.1.) Ulica: Rynek 1 1.5.2.) Miejscowość: Polkowice 1.5.3.) Kod pocztowy: 59-100 1.5.4.) Województwo: dolnośląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL516 - Legnicko-głogowski 1.5.7.) Numer telefonu: 76/8474121 1.5.9.) Adres poczty elektronicznej: a.nowak@gmina.polkowice.pl 1.5.10.) Adres strony internetowej zamawiającego: https://bip.polkowice.eu/ 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1",
+  "cpv": [
+   "71240000-2",
+   "71320000-7"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-04",
+  "hash": "ac34e1acd6109a201225766cf42b2031ba4c56c230e7409a7b94a588e7723f00"
  },
  {
   "zrodlo": "ted",
@@ -16144,6 +16165,63 @@
   "status_opisu": "brak",
   "dodano": "2026-10-02",
   "hash": "e906d31a1227cb149928b760bd51cf7d1b9ed499bcb960033db687ffc9a678c7"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej dla przebudowy ulicy Unii Lubelskiej w Bydgoszczy",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-98b1c2aa-b85a-4a6c-b6d4-068a78dafea1",
+  "zamawiajacy": "Zarząd Dróg Miejskich i Komunikacji Publicznej w Bydgoszczy",
+  "data_publikacji": "2026-10-20",
+  "termin_skladania": "2026-11-04T09:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00496735 z dnia 2026-10-20 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej dla przebudowy ulicy Unii Lubelskiej w Bydgoszczy SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Zarząd Dróg Miejskich i Komunikacji Publicznej w Bydgoszczy 1.4) Krajowy Numer Identyfikacyjny: REGON 090476971 1.5) Adres zamawiającego 1.5.1.) Ulica: Toruńska 174a 1.5.2.) Miejscowość: Bydgoszcz 1.5.3.) Kod pocztowy: 85-844 1.5.4.) Województwo: kujawsko-pomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL613 - Bydgosko-toruński 1.5.7.) Numer telefonu: 52 582 27 23 1.5.8.) Numer faksu: 52 582 27 77 1.5.9.) Adres poczty elektronicznej: zarzad@zdmikp.bydgoszcz.pl 1.5.10.) Adres strony internetowej zamawiającego: www.zdmikp.bydgoszcz.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka ",
+  "cpv": [
+   "71320000-7"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-20",
+  "hash": "00bb7df9be356a4497b214eef1a5eb49f2fc2505d8e6e6963be6d8b9a2d1c0bb"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Przebudowa budynku handlowo-usługowego przy ul. Karczewskiej 10 (dz.159/3 w obr. 45) na siedzibę Oświaty Miejskiej w ramach zadania budżetowego: „Dokumentacja projektowa i przebudowa budynku (...)",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-42458c7c-6d3c-4be6-b7c9-c234fd2ec6bc",
+  "zamawiajacy": "Gmina Otwock",
+  "data_publikacji": "2026-10-20",
+  "termin_skladania": "2026-11-04T09:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00496901 z dnia 2026-10-20 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Roboty budowlane Przebudowa budynku handlowo-usługowego przy ul. Karczewskiej 10 (dz.159/3 w obr. 45) na siedzibę Oświaty Miejskiej w ramach zadania budżetowego: „Dokumentacja projektowa i przebudowa budynku (...) SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Otwock 1.4) Krajowy Numer Identyfikacyjny: REGON 013268770 1.5) Adres zamawiającego 1.5.1.) Ulica: Armii Krajowej 5 1.5.2.) Miejscowość: Otwock 1.5.3.) Kod pocztowy: 05-400 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL912 - Warszawski wschodni 1.5.9.) Adres poczty elektronicznej: zamowienia@otwock.pl 1.5.10.) Adres strony internetowej zamawiającego: www.bip.otwock.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansó",
+  "cpv": [
+   "45200000-9",
+   "71220000-6",
+   "71221000-3",
+   "45000000-7",
+   "45400000-1",
+   "45443000-4",
+   "45421000-4",
+   "45410000-4",
+   "45300000-0",
+   "45340000-2",
+   "45330000-9",
+   "45310000-3",
+   "45210000-2",
+   "45261300-7",
+   "45112700-2",
+   "45111200-0"
+  ],
+  "score": 10,
+  "tagi": [
+   "cpv-71",
+   "roboty-budowlane",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-20",
+  "hash": "049d2492477212380be52b8dc04bd3cc3c9da38e731f71a8adf9d179a3958958"
  },
  {
   "zrodlo": "ted",
