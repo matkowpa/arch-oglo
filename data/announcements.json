@@ -14968,6 +14968,25 @@
   "hash": "e9eb4fc8fea649939829036add923c68c8c0cd876f5cb44f2ba8fd9118a6cd58"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "SVA/4620-653/2026 Opracowanie dok. projektowo-koszt. dot. całkowitej wymiany instalacji centralnego ogrzewania w budynkach nr 2, 3, 10, 11, 12, 13, 14, 15, 24 zlokalizowanych na terenie KW Glewice",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-eb164d4a-4894-40c5-952b-2cdeeb981fa6",
+  "zamawiajacy": "AMW SINEVIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+  "data_publikacji": "2026-10-20",
+  "termin_skladania": "2026-10-29T08:30:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00496256 z dnia 2026-10-20 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi SVA/4620-653/2026 Opracowanie dok. projektowo-koszt. dot. całkowitej wymiany instalacji centralnego ogrzewania w budynkach nr 2, 3, 10, 11, 12, 13, 14, 15, 24 zlokalizowanych na terenie KW Glewice SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: AMW SINEVIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ 1.4) Krajowy Numer Identyfikacyjny: REGON 142989877 1.5) Adres zamawiającego 1.5.1.) Ulica: Paderewskiego 6 1.5.2.) Miejscowość: Nowy Dwór Mazowiecki 1.5.3.) Kod pocztowy: 05-100 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL912 - Warszawski wschodni 1.5.9.) Adres poczty elektronicznej: biuro@amwsinevia.pl 1.5.10.) Adres strony internetowej zamawiającego: https://amwsinevia.pl 1.6.) Rodzaj zamawiającego: Zama",
+  "cpv": [
+   "71320000-7"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-20",
+  "hash": "b83a37968da30ec8b5930c6b799f422c46c905e90ad48ba7c42a4d56e9ec9d1f"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Usługi inżynierii projektowej w zakresie inżynierii lądowej i wodnej – Opracowanie dokumentacji projektowej dla projektu pn.: „Budowa linii łączącej Bełchatów z linią 131”",
   "url": "https://ted.europa.eu/en/notice/-/detail/716886-2026",
