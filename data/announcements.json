@@ -15049,7 +15049,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-14",
+  "dodano": "2026-10-21",
   "hash": "cac6ae35594dc9948cd18aa9f18dd7c5a7d4da6def40d39584f64981c6dedaac"
  },
  {
@@ -15458,7 +15458,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-15",
+  "dodano": "2026-10-21",
   "hash": "fd2e79b6bfca1e67e76fd82c48aedf5d5e08442ea70d1d2ba3937b807053a031"
  },
  {
@@ -15523,7 +15523,7 @@
    "roboty-budowlane"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-19",
+  "dodano": "2026-10-21",
   "hash": "e7260adda325286f9d3451ddd64ee11af0bae424bb7afd53689771b32542e68c"
  },
  {
@@ -15793,6 +15793,25 @@
   "hash": "5688c2ead1adde0550b77f00be3facb2e112fa7eca85174323e631a27b172d6b"
  },
  {
+  "zrodlo": "bip:tauron",
+  "tytul": "RZ4/187/26 R-Żarów - opracowanie dokumentacji projektowej i na jej podstawie wymiana wyłączników 110 kV i szafek kablowych na terenie rozdzielni napowietrznej WN wraz z wymianą zabezpieczeń rozdzielni 20 kV oraz 110 kV wraz z przebudową obwodów wtórnych i automatyk stacyjnych (PSP 2601947 2400784 2601956).",
+  "url": "https://swoz.tauron.pl/platform/demand/notice/public/current/list",
+  "zamawiajacy": "TAURON Dystrybucja S.A.",
+  "data_publikacji": "2026-10-21",
+  "termin_skladania": "2026-11-03 12:00",
+  "opis": null,
+  "cpv": [],
+  "score": 8,
+  "tagi": [
+   "giełdowa",
+   "spolka-sp",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-21",
+  "hash": "8e1ff7152b7cbbbcb0e0c9a2cca4d85e7261f963c3e96b6600592f17f3608578"
+ },
+ {
   "zrodlo": "bzp",
   "tytul": "Pełnienie obowiązków inspektora nadzoru inwestorskiego w ramach zadania „Dostosowanie istniejącej dokumentacji projektowej dla zadania wzniesienia budynku wielorodzinnego w Radlinie z jego budową",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-d85ffd4f-5383-4daa-a60c-5a941e8fdd19",
@@ -15963,7 +15982,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-18",
+  "dodano": "2026-10-21",
   "hash": "a8b2ad6aa8549425a6757a56ffc989d5b5b61217b1b1d65a381697b54dc53164"
  },
  {
@@ -16075,7 +16094,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-13",
+  "dodano": "2026-10-21",
   "hash": "b612f864d7909afe18c20a26d7602b5fa3bc991ea6d935f0e02c10d6ba709779"
  },
  {
@@ -16497,6 +16516,28 @@
   "status_opisu": "pobrany",
   "dodano": "2026-10-16",
   "hash": "9c46b8ea4ba829c4794e10ab3f34131bc5c1a701d0082cdd4b7290401f0494df"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowo-konserwatorskiej remontu bram na terenie Wzgórza wawelskiego",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-a82e3266-2245-4431-b1b8-f9a3bfcd92ba",
+  "zamawiajacy": "ZAMEK KRÓLEWSKI NA WAWELU - PAŃSTWOWE ZBIORY SZTUKI",
+  "data_publikacji": "2026-10-21",
+  "termin_skladania": "2026-11-05T09:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00498883 z dnia 2026-10-21 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowo-konserwatorskiej remontu bram na terenie Wzgórza wawelskiego SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: ZAMEK KRÓLEWSKI NA WAWELU - PAŃSTWOWE ZBIORY SZTUKI 1.4) Krajowy Numer Identyfikacyjny: REGON 000276009 1.5) Adres zamawiającego 1.5.1.) Ulica: Wawel 5 1.5.2.) Miejscowość: Kraków 1.5.3.) Kod pocztowy: 31-001 1.5.4.) Województwo: małopolskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL213 - Miasto Kraków 1.5.7.) Numer telefonu: 12 422 51 55 1.5.8.) Numer faksu: 12 421 51 77 1.5.9.) Adres poczty elektronicznej: kancelaria@wawelzamek.pl 1.5.10.) Adres strony internetowej zamawiającego: www.wawel.krakow.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publiczny",
+  "cpv": [
+   "71000000-8",
+   "71221000-3",
+   "71327000-6",
+   "71220000-6"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-21",
+  "hash": "e4f66a4524b8d7ea6c166381951b0bd4d93d9c36d2dc3f22f95c4db74eceb1e0"
  },
  {
   "zrodlo": "bzp",

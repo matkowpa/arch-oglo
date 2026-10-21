@@ -17,7 +17,7 @@
  },
  "bip:pse": {
   "ok": true,
-  "count": 185
+  "count": 183
  },
  "pz-search": {
   "ok": true,
@@ -25,6 +25,6 @@
  },
  "bzp": {
   "ok": true,
-  "count": 32
+  "count": 28
  }
 }
