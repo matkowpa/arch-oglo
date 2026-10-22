@@ -15322,6 +15322,37 @@
   "hash": "8f8bd814e9e43a3d475d5cd1edf72554fac5d7cf1d5d0a9e1cc08c19fca24a60"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "„Opracowanie kompletnej wielobranżowej dokumentacji projektowej dla zadania pn. Budowa hali widowiskowo-sportowej w miejscowości Łambinowice”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-cc1a9915-ec1f-43d8-86ec-4f97452c2751",
+  "zamawiajacy": "Gmina Łambinowice",
+  "data_publikacji": "2026-10-22",
+  "termin_skladania": "2026-10-30T09:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00501590 z dnia 2026-10-22 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi „Opracowanie kompletnej wielobranżowej dokumentacji projektowej dla zadania pn. Budowa hali widowiskowo-sportowej w miejscowości Łambinowice” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Łambinowice 1.4) Krajowy Numer Identyfikacyjny: REGON 531412846 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Tadeusza Zawadzkiego 29 1.5.2.) Miejscowość: Łambinowice 1.5.3.) Kod pocztowy: 48-316 1.5.4.) Województwo: opolskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL523 - Nyski 1.5.9.) Adres poczty elektronicznej: ug@lambinowice.pl 1.5.10.) Adres strony internetowej zamawiającego: www.lambinowice.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Przedm",
+  "cpv": [
+   "71220000-6",
+   "71000000-8",
+   "71200000-0",
+   "71250000-5",
+   "71242000-6",
+   "71300000-1",
+   "71320000-7",
+   "71420000-8",
+   "71500000-3",
+   "71221000-3",
+   "71248000-8"
+  ],
+  "score": 20,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-22",
+  "hash": "f89ddf41c6a798639f6544573906864e99122a98dc529b7a094ab2502684d78c"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Usługi projektowania architektonicznego – „Opracowanie dokumentacji projektowej zadania pn.: „Przebudowa zagospodarowania terenu, budowa budowli ochronnej, budowy budynku przyjęć i obsługi interesantów na działce o numerze ewidencyjnym nr 37, w Warszawie przy ul. Puławskiej 148/150 - w zakresie opracowania wielobranżowej dokumentacji projektowej budowy budynku przyjęć obsługi interesantów wraz z koniecznymi przyłączami, instalacjami (...)",
   "url": "https://ted.europa.eu/en/notice/-/detail/726903-2026",
@@ -16376,6 +16407,27 @@
   "hash": "049d2492477212380be52b8dc04bd3cc3c9da38e731f71a8adf9d179a3958958"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie wielobranżowej dokumentacji projektowo-kosztorysowej dla przebudowy i rozbudowy budynku Urzędu Gminy Nieporęt",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-e9b274d6-3762-4737-9c5f-8f76619d6569",
+  "zamawiajacy": "Gmina Nieporęt",
+  "data_publikacji": "2026-10-22",
+  "termin_skladania": "2026-11-04T09:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00501960 z dnia 2026-10-22 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie wielobranżowej dokumentacji projektowo-kosztorysowej dla przebudowy i rozbudowy budynku Urzędu Gminy Nieporęt SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Nieporęt 1.4) Krajowy Numer Identyfikacyjny: REGON 013270519 1.5) Adres zamawiającego 1.5.1.) Ulica: Plac Wolności 1 1.5.2.) Miejscowość: Nieporęt 1.5.3.) Kod pocztowy: 05-126 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL912 - Warszawski wschodni 1.5.9.) Adres poczty elektronicznej: urzad@nieporet.pl 1.5.10.) Adres strony internetowej zamawiającego: www.nieporet.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Przedmiot działalności zamawiają",
+  "cpv": [
+   "71220000-6"
+  ],
+  "score": 20,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-22",
+  "hash": "d7acece335761ffc2cf5d232ecaae9db70de1a591c42a0aea6db420971a46af1"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Nadzór nad robotami budowlanymi – Pełnienie nadzoru inwestorskiego nad realizacją robót budowlanych w ramach zadania inwestycyjnego pn. „Przebudowa w celu poprawy efektywności energetycznej budynku Urzędu Skarbowego w Tarnobrzegu przy ul. Wyspiańskiego 12\"",
   "url": "https://ted.europa.eu/en/notice/-/detail/728730-2026",
@@ -16572,6 +16624,26 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej budynku komunalnego mieszkalnego w Podkowie Leśnej – Zaspokojenie potrzeb budownictwa komunalnego",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-921ac6c7-5e3e-47cd-8aab-7de85c287b30",
+  "zamawiajacy": "Miasto Podkowa Leśna",
+  "data_publikacji": "2026-10-22",
+  "termin_skladania": "2026-11-05T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00501602 z dnia 2026-10-22 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej budynku komunalnego mieszkalnego w Podkowie Leśnej – Zaspokojenie potrzeb budownictwa komunalnego SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Miasto Podkowa Leśna 1.4) Krajowy Numer Identyfikacyjny: REGON 013269338 1.5) Adres zamawiającego 1.5.1.) Ulica: Akacjowa 39/41 1.5.2.) Miejscowość: Podkowa Leśna 1.5.3.) Kod pocztowy: 05-807 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL913 - Warszawski zachodni 1.5.9.) Adres poczty elektronicznej: zp@podkowalesna.pl 1.5.10.) Adres strony internetowej zamawiającego: www.podkowalesna.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Pr",
+  "cpv": [
+   "71320000-7"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-22",
+  "hash": "4f0fe18b79b754979e3a9c9d442c5aada8b428ea04e1a7383b92c215fdce42c8"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Opracowanie dokumentacji projektowej i wykonanie robót budowlanych dla zadania nr 07931 pn.: „Rozbudowa pętli autobusowej przy ul. Zwycięskiej we Wrocławiu”",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-2096773f-55ee-4ae9-b68e-a21017e4069d",
   "zamawiajacy": "Gmina Wrocław, w imieniu i na rzecz której działają Wrocławskie Inwestycje Sp. z o. o. z siedzibą przy ul. Ofiar Oświęcimskich 36, 50-059 Wrocław na podstawie pełnomocnictwa Prezydenta Wrocławia",
@@ -16633,6 +16705,28 @@
   "status_opisu": "pobrany",
   "dodano": "2026-10-21",
   "hash": "035993f78aa87a69b5cd9e68475da01b5cf01daae12f7c0675b9ad1e28368db5"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Usługa wykonania nadzoru autorskiego w ramach projektu: „Zamek otwarty – kompleksowa modernizacja zespołu budynków wystawienniczych i magazynowych Muzeum Zamkowego w Sandomierzu”, w podziale na 2 cz.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-600b2ae0-e539-4415-b212-87f128e6066e",
+  "zamawiajacy": "Muzeum Zamkowe w Sandomierzu",
+  "data_publikacji": "2026-10-22",
+  "termin_skladania": "2026-11-05T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00501941 z dnia 2026-10-22 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Usługa wykonania nadzoru autorskiego w ramach projektu: „Zamek otwarty – kompleksowa modernizacja zespołu budynków wystawienniczych i magazynowych Muzeum Zamkowego w Sandomierzu”, w podziale na 2 cz. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Muzeum Zamkowe w Sandomierzu 1.4) Krajowy Numer Identyfikacyjny: REGON 291200740 1.5) Adres zamawiającego 1.5.1.) Ulica: Zamkowa 12 1.5.2.) Miejscowość: Sandomierz 1.5.3.) Kod pocztowy: 27-600 1.5.4.) Województwo: świętokrzyskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL722 - Sandomiersko-jędrzejowski 1.5.9.) Adres poczty elektronicznej: m.piorkowski@zamek-sandomierz.pl 1.5.10.) Adres strony internetowej zamawiającego: http://www.zamek-sandomierz.pl 1.6.) Rodzaj zamawiającego: Zamawiaj",
+  "cpv": [
+   "71248000-8",
+   "71310000-4",
+   "71318000-0",
+   "71220000-6"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-22",
+  "hash": "89e8b152ec15f74069c781a13ad29c37e488f4b9d4d3d34357732cb71f471230"
  },
  {
   "zrodlo": "bzp",
