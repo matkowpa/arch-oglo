@@ -73,30 +73,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Opracowanie projektu budowlanego oraz projektów wykonawczych wraz z uzyskaniem decyzji administracyjnych niezbędnych dla rozbudowy ul. Lewandów na odcinku od ul. Głębockiej do granicy m.st Warszawy w ramach zadania inwestycyjnego pn. \"Przebudowa ulicy Lewandów - prace przygotowawcze\".",
-  "url": "https://ted.europa.eu/en/notice/-/detail/512948-2026",
-  "zamawiajacy": "Miasto Stołeczne Warszawa - Stołeczny Zarząd Rozbudowy Miasta",
-  "data_publikacji": "2026-07-24",
-  "termin_skladania": "2026-08-31T09:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71320000",
-   "71322000",
-   "71322500",
-   "71320000",
-   "71322000",
-   "71322500"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": null,
-  "hash": "3ff7b6379c212ee0a158ceead9279d28f5e264599d15e005cbf550a5eadd7993"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Roboty w zakresie oczyszczania ścieków – Modernizacja, rozbudowa i remont oczyszczalni ścieków w Nowym Targu",
   "url": "https://ted.europa.eu/en/notice/-/detail/580144-2026",
   "zamawiajacy": "Miejski Zakład Wodociągów i Kanalizacji w Nowym Targu sp. z o.o.",
@@ -7560,31 +7536,6 @@
  },
  {
   "zrodlo": "bzp",
-  "tytul": "Modernizacja oświetlenia jarzeniowego na LED w pomieszczeniach segmentu E1 oraz Oddziale Anestezjologii i Intensywnej Terapii w segmencie E",
-  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-f95b94db-4b59-48a5-924b-f666ac7a4fbf",
-  "zamawiajacy": "Wojewódzki Szpital Specjalistyczny im. św. Rafała w Czerwonej Górze",
-  "data_publikacji": "2026-09-24",
-  "termin_skladania": "2026-10-05T09:00:00Z",
-  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00455119 z dnia 2026-09-24 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Modernizacja oświetlenia jarzeniowego na LED w pomieszczeniach segmentu E1 oraz Oddziale Anestezjologii i Intensywnej Terapii w segmencie E SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Wojewódzki Szpital Specjalistyczny im. św. Rafała w Czerwonej Górze 1.4) Krajowy Numer Identyfikacyjny: REGON 000296213 1.5) Adres zamawiającego 1.5.1.) Ulica: Czerwona Góra 10 1.5.2.) Miejscowość: Chęciny 1.5.3.) Kod pocztowy: 26-060 1.5.4.) Województwo: świętokrzyskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL721 - Kielecki 1.5.9.) Adres poczty elektronicznej: przetargi@czerwonagora.pl 1.5.10.) Adres strony internetowej zamawiającego: www.czerwonagora.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznyc",
-  "cpv": [
-   "45316000-5",
-   "45311200-2",
-   "71320000-7",
-   "45310000-3",
-   "45300000-0",
-   "45311000-0",
-   "45311100-1"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "pobrany",
-  "dodano": "2026-09-24",
-  "hash": "c34e7a97e420ed83290272e7b8b4f0d81602c69a1c35566c80a7e1e2a73957ad"
- },
- {
-  "zrodlo": "bzp",
   "tytul": "Opracowanie kompletnej dokumentacji projektowej parków kieszonkowych i skwerów w Warszawie wraz z pełnieniem nadzorów autorskich w ramach realizacji projektów z budżetu obywatelskiego na 2026",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-8704ba2a-528c-4974-ba69-c3959620a460",
   "zamawiajacy": "Miasto Stołeczne Warszawa",
@@ -13220,35 +13171,6 @@
   "hash": "58beb494cfa7b93c441c0458384462cd566718392e4450b4ddcd208cf27bc88b"
  },
  {
-  "zrodlo": "ted",
-  "tytul": "Polska – Roboty budowlane w zakresie wznoszenia kompletnych obiektów budowlanych lub ich części oraz roboty w zakresie inżynierii lądowej i wodnej – Wykonanie kompletnej dokumentacji projektowej oraz wykonanie na jej podstawie robót budowlanych dla zadania inwestycyjnego pn.: „Przebudowa i budowa Stadionu Lekkoatletycznego - kompleks lekkoatletyczno-piłkarski”.",
-  "url": "https://ted.europa.eu/en/notice/-/detail/708895-2026",
-  "zamawiajacy": "Gmina Otwock",
-  "data_publikacji": "2026-10-14",
-  "termin_skladania": "2026-10-23T10:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "45200000",
-   "45223000",
-   "71000000",
-   "71220000",
-   "45200000",
-   "45223000",
-   "71000000",
-   "71220000"
-  ],
-  "score": 6,
-  "tagi": [
-   "cpv-71",
-   "roboty-budowlane",
-   "samorząd",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-10-15",
-  "hash": "51f1d155851ec18c7759fb5dca5cd674d7bd0490c138da8e27622124bf429cd8"
- },
- {
   "zrodlo": "bzp",
   "tytul": "Opracowanie kompletnej dokumentacji projektowej na przebudowę ul. Saperów (DG 103090L) w Dęblinie",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-2a665a71-e2c8-4404-b1b9-12c7b05f184d",
@@ -13571,54 +13493,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Urządzenia do radioterapii, mechanoterapii, elektroterapii i fizykoterapii – Akcelerator do tomoterapii wraz z modernizacją bunkra.",
-  "url": "https://ted.europa.eu/en/notice/-/detail/716275-2026",
-  "zamawiajacy": "Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie - Państwowy Instytut Badawczy",
-  "data_publikacji": "2026-10-16",
-  "termin_skladania": "2026-10-26T09:00:00+01:00",
-  "opis": null,
-  "cpv": [
-   "33150000",
-   "71221000",
-   "71320000",
-   "45400000",
-   "45215143",
-   "39180000",
-   "39150000",
-   "45310000",
-   "45311000",
-   "45232460",
-   "45332400",
-   "45343000",
-   "45331220",
-   "42961100",
-   "45314320",
-   "33150000",
-   "71221000",
-   "71320000",
-   "45400000",
-   "45215143",
-   "39180000",
-   "39150000",
-   "45310000",
-   "45311000",
-   "45232460",
-   "45332400",
-   "45343000",
-   "45331220",
-   "42961100",
-   "45314320"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-10-19",
-  "hash": "54f48de5c7004eb71dcb4e4b7494dc53274cbb49c77ffa4981412c993e7a2c5f"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Usługi projektowania architektonicznego – Opracowanie wielobranżowej dokumentacji projektowej dotyczącej modernizacji i adaptacji I piętra części wysokiej budynku Urzędu Marszałkowskiego Województwa Podlaskiego w Białymstoku przy ul. kard. S. Wyszyńskiego 1",
   "url": "https://ted.europa.eu/en/notice/-/detail/651214-2026",
   "zamawiajacy": "Województwo Podlaskie",
@@ -13800,38 +13674,6 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-04",
   "hash": "3bf75a99864e6266286b257611b90eadf9844c76a8d8e326af30e09f9d2d1608"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Usługi architektoniczne, budowlane, inżynieryjne i kontrolne – Opracowanie dokumentacji projektowej wraz z pełnieniem nadzoru autorskiego dla zadania pn. „Budowa ul. Nowej Wyzwolenia w Gdańsku”",
-  "url": "https://ted.europa.eu/en/notice/-/detail/717320-2026",
-  "zamawiajacy": "Dyrekcja Rozbudowy Miasta Gdańska działająca w imieniu i na rzecz Gminy Miasta Gdańska",
-  "data_publikacji": "2026-10-16",
-  "termin_skladania": "2026-10-26T11:00:00+01:00",
-  "opis": null,
-  "cpv": [
-   "71000000",
-   "71300000",
-   "71220000",
-   "71240000",
-   "71332000",
-   "71320000",
-   "71000000",
-   "71300000",
-   "71220000",
-   "71240000",
-   "71332000",
-   "71320000"
-  ],
-  "score": 8,
-  "tagi": [
-   "cpv-71",
-   "samorząd",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-10-18",
-  "hash": "7720d6395207b02f17142734a468d8beec7c47b0e6d4c7c9270da09670dd20c8"
  },
  {
   "zrodlo": "bzp",
@@ -14762,59 +14604,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Usługi inżynierii projektowej w zakresie inżynierii lądowej i wodnej – Opracowanie dokumentacji projektowej dla projektu pn.: „Budowa linii łączącej Bełchatów z linią 131”",
-  "url": "https://ted.europa.eu/en/notice/-/detail/716886-2026",
-  "zamawiajacy": "PKP Polskie Linie Kolejowe S.A.",
-  "data_publikacji": "2026-10-16",
-  "termin_skladania": "2026-10-29T09:00:00+01:00",
-  "opis": null,
-  "cpv": [
-   "71322000",
-   "71248000",
-   "71322000",
-   "71248000"
-  ],
-  "score": 9,
-  "tagi": [
-   "cpv-71",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-10-22",
-  "hash": "250be2d9e86ac9a7bd7848ed79ffbd1cd7e36d0656be776f3dbb70841aeea14e"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Opracowanie projektu budowlanego i projektów wykonawczych oraz uzyskanie decyzji administracyjnych niezbędnych do wykonania robót budowlanych w ramach realizacji zadania pn. „Budowa ul. Zdziarskiej na odcinku od ul. Ostródzkiej do ul. Płochocińskiej wraz z mostem nad Kanałem Żerańskim – prace przygotowawcze”.",
-  "url": "https://ted.europa.eu/en/notice/-/detail/702087-2026",
-  "zamawiajacy": "Miasto Stołeczne Warszawa - Stołeczny Zarząd Rozbudowy Miasta",
-  "data_publikacji": "2026-10-12",
-  "termin_skladania": "2026-10-29T09:00:00+01:00",
-  "opis": null,
-  "cpv": [
-   "71320000",
-   "71322000",
-   "71322500",
-   "71322300",
-   "71323100",
-   "71322200",
-   "71320000",
-   "71322000",
-   "71322500",
-   "71322300",
-   "71323100",
-   "71322200"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-10-22",
-  "hash": "e63522f7f801a2d4ff2c0ac2c7cbf2ca1b07d062660b75d2c59e1088b0c5f757"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – „Pielgrzymka – budowa zbiornika na rz. Skora gm. Pielgrzymka” – opracowanie dokumentacji projektowej",
   "url": "https://ted.europa.eu/en/notice/-/detail/669689-2026",
   "zamawiajacy": "Państwowe Gospodarstwo Wodne Wody Polskie",
@@ -14859,36 +14648,6 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-04",
   "hash": "ac34e1acd6109a201225766cf42b2031ba4c56c230e7409a7b94a588e7723f00"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Instalacje słoneczne – Dostawa i montaż instalacji fotowoltaicznej w PP nr 24 z magazynem energii wraz z dokumentacją - w ramach projektu: Odnawialne źródła energii w budynkach użyteczności publicznej w Jastrzębiu-Zdroju",
-  "url": "https://ted.europa.eu/en/notice/-/detail/670606-2026",
-  "zamawiajacy": "Miasto Jastrzębie-Zdrój",
-  "data_publikacji": "2026-09-29",
-  "termin_skladania": "2026-10-29T10:00:00+01:00",
-  "opis": null,
-  "cpv": [
-   "09332000",
-   "09331200",
-   "31430000",
-   "45310000",
-   "71320000",
-   "51112200",
-   "09332000",
-   "09331200",
-   "31430000",
-   "45310000",
-   "71320000",
-   "51112200"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-29",
-  "hash": "1bf1e34474178e323bfe663352f74e4b8e3c997a2b11c485acbb94cb43c9d30c"
  },
  {
   "zrodlo": "ted",
@@ -15096,6 +14855,38 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Usługi architektoniczne, budowlane, inżynieryjne i kontrolne – Opracowanie dokumentacji projektowej wraz z pełnieniem nadzoru autorskiego dla zadania pn. „Budowa ul. Nowej Wyzwolenia w Gdańsku”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/733895-2026",
+  "zamawiajacy": "Dyrekcja Rozbudowy Miasta Gdańska działająca w imieniu i na rzecz Gminy Miasta Gdańska",
+  "data_publikacji": "2026-10-23",
+  "termin_skladania": "2026-10-29T11:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71000000",
+   "71300000",
+   "71220000",
+   "71240000",
+   "71332000",
+   "71320000",
+   "71000000",
+   "71300000",
+   "71220000",
+   "71240000",
+   "71332000",
+   "71320000"
+  ],
+  "score": 8,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-18",
+  "hash": "7b096eee1fa1e6d79d7f0cbbec16d582eaee90bfc2c3adab5cce53eeb52d02e4"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Opracowanie kompleksowej dokumentacji projektowo – kosztorysowej wraz z pełnieniem nadzoru autorskiego dla zadania inwestycyjnego w budynku Wielkopolskiego Urzędu Celno-Skarbowego w Poznaniu, 60-449 Poznań, ul. Wichrowa 20 oraz w budynku Urzędu Skarbowego w Kępnie, 63-600 Kępno, ul. Rynek 4.",
   "url": "https://ted.europa.eu/en/notice/-/detail/662818-2026",
   "zamawiajacy": "Izba Administracji Skarbowej w Poznaniu",
@@ -15257,6 +15048,54 @@
   "status_opisu": "pobrany",
   "dodano": "2026-10-19",
   "hash": "d275a854ad7a66face16a4bf3381700194bb7a3c0299db5c8270d04558ae9ead"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Urządzenia do radioterapii, mechanoterapii, elektroterapii i fizykoterapii – Akcelerator do tomoterapii wraz z modernizacją bunkra.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/736673-2026",
+  "zamawiajacy": "Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie - Państwowy Instytut Badawczy",
+  "data_publikacji": "2026-10-23",
+  "termin_skladania": "2026-10-30T09:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "33150000",
+   "71221000",
+   "71320000",
+   "45400000",
+   "45215143",
+   "39180000",
+   "39150000",
+   "45310000",
+   "45311000",
+   "45232460",
+   "45332400",
+   "45343000",
+   "45331220",
+   "42961100",
+   "45314320",
+   "33150000",
+   "71221000",
+   "71320000",
+   "45400000",
+   "45215143",
+   "39180000",
+   "39150000",
+   "45310000",
+   "45311000",
+   "45232460",
+   "45332400",
+   "45343000",
+   "45331220",
+   "42961100",
+   "45314320"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-19",
+  "hash": "32d59cbcc3cda3c97884951333a6b273c41bd449de69eacc2387925a2f3cec19"
  },
  {
   "zrodlo": "ted",
@@ -15704,6 +15543,28 @@
   "hash": "4a0bdc30a8f74244d2d9c53c6b7af09464b18fd523892778be0fee5e56f3bad6"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie wielobranżowej dokumentacji projektowej dotyczącej remontu i przebudowy dawnego budynku koszarowego przy ul. Biskupiej 24 w Chełmnie na cele mieszkaniowe.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-8a9031f3-2638-4098-ad6c-35377c8b352d",
+  "zamawiajacy": "CHEŁMIŃSKA SPOŁECZNA INICJATYWA MIESZKANIOWA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+  "data_publikacji": "2026-10-23",
+  "termin_skladania": "2026-10-30T11:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00502549 z dnia 2026-10-23 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie wielobranżowej dokumentacji projektowej dotyczącej remontu i przebudowy dawnego budynku koszarowego przy ul. Biskupiej 24 w Chełmnie na cele mieszkaniowe. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: CHEŁMIŃSKA SPOŁECZNA INICJATYWA MIESZKANIOWA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ 1.4) Krajowy Numer Identyfikacyjny: REGON 389602973 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Dworcowa 1 1.5.2.) Miejscowość: Chełmno 1.5.3.) Kod pocztowy: 86-200 1.5.4.) Województwo: kujawsko-pomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL616 - Grudziądzki 1.5.7.) Numer telefonu: +48 56 4756054 1.5.9.) Adres poczty elektronicznej: biuro@chsim.pl 1.5.10.) Adres strony internetowej zamawiającego: www.chsim.pl 1.6.) Rodzaj zamawi",
+  "cpv": [
+   "71000000-8",
+   "71250000-5",
+   "71320000-7"
+  ],
+  "score": 21,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-23",
+  "hash": "8c4c41a665a1f031cca98058339d0158e7ad1e9667ef7771a06119f59e8a19cc"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Wiercenie studni wodnych – Rekonstrukcja dolnokredowej studni głębinowej nr 5 na ujęciu Zbiorniki Stoki",
   "url": "https://ted.europa.eu/en/notice/-/detail/725119-2026",
@@ -15760,7 +15621,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-22",
+  "dodano": "2026-10-23",
   "hash": "0f533a33740cc084d1c75a4bcafde1e8cefe7a71f79140886229a02c966cc692"
  },
  {
@@ -15809,7 +15670,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-22",
+  "dodano": "2026-10-23",
   "hash": "01156338f0df0152ff3c56d3a48d1a98fa90eaf39b030f65c66cef1786680105"
  },
  {
@@ -15840,9 +15701,9 @@
  {
   "zrodlo": "ted",
   "tytul": "Polska – Wentylatory – Modernizacja wentylacji wyciągowej i nawiewnej Reaktora MARIA",
-  "url": "https://ted.europa.eu/en/notice/-/detail/731646-2026",
+  "url": "https://ted.europa.eu/en/notice/-/detail/735779-2026",
   "zamawiajacy": "NARODOWE CENTRUM BADAŃ JĄDROWYCH",
-  "data_publikacji": "2026-10-22",
+  "data_publikacji": "2026-10-23",
   "termin_skladania": "2026-11-02T12:00:00+01:00",
   "opis": null,
   "cpv": [
@@ -15857,7 +15718,7 @@
   ],
   "status_opisu": "brak",
   "dodano": "2026-10-22",
-  "hash": "a5d46805cde555d43b96f4e6f9cc8a392c2ac460af05479a1fde78dea09ac568"
+  "hash": "fc9e393a997f24ee97b6763dd600e32c1619a57ca2a65b26cded3f450bcd8ea0"
  },
  {
   "zrodlo": "bip:tauron",
@@ -15896,6 +15757,32 @@
   "status_opisu": "brak",
   "dodano": "2026-10-21",
   "hash": "8e1ff7152b7cbbbcb0e0c9a2cca4d85e7261f963c3e96b6600592f17f3608578"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej (...) dla zadania pn.: „Rozbudowa drogi wojewódzkiej nr 867 (...) w m. Lubaczów”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-6f7773d4-aee5-419f-86c6-a0da5d151349",
+  "zamawiajacy": "PODKARPACKI ZARZĄD DRÓG WOJEWÓDZKICH",
+  "data_publikacji": "2026-10-23",
+  "termin_skladania": "2026-11-03T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00502810 z dnia 2026-10-23 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej (...) dla zadania pn.: „Rozbudowa drogi wojewódzkiej nr 867 (...) w m. Lubaczów” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: PODKARPACKI ZARZĄD DRÓG WOJEWÓDZKICH 1.4) Krajowy Numer Identyfikacyjny: REGON 690587670 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Tadeusza Boya-Żeleńskiego 19A 1.5.2.) Miejscowość: Rzeszów 1.5.3.) Kod pocztowy: 35-105 1.5.4.) Województwo: podkarpackie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL823 - Rzeszowski 1.5.9.) Adres poczty elektronicznej: biuro@pzdw.pl 1.5.10.) Adres strony internetowej zamawiającego: https://www.pzdw.pl/ 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka budżetowa 1.7.) Przedmiot działal",
+  "cpv": [
+   "71320000-7",
+   "71245000-7",
+   "71332000-4",
+   "71354000-4",
+   "71313400-9",
+   "71248000-8",
+   "71241000-9"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71",
+   "drogi"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-23",
+  "hash": "13c38aa600262f3e0638b9e8a40ba6052442db38a2734fab32b57c2cdc464d7a"
  },
  {
   "zrodlo": "bzp",
@@ -16037,7 +15924,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-22",
+  "dodano": "2026-10-23",
   "hash": "c7016c75ab38041979a0179024419258bd7a84ae07d887ec2a1e41818318e9c2"
  },
  {
@@ -16070,6 +15957,29 @@
   "status_opisu": "brak",
   "dodano": "2026-10-21",
   "hash": "a8b2ad6aa8549425a6757a56ffc989d5b5b61217b1b1d65a381697b54dc53164"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynierii projektowej w zakresie inżynierii lądowej i wodnej – Opracowanie dokumentacji projektowej dla projektu pn.: „Budowa linii łączącej Bełchatów z linią 131”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/736740-2026",
+  "zamawiajacy": "PKP Polskie Linie Kolejowe S.A.",
+  "data_publikacji": "2026-10-23",
+  "termin_skladania": "2026-11-03T09:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71322000",
+   "71248000",
+   "71322000",
+   "71248000"
+  ],
+  "score": 9,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-22",
+  "hash": "2c0eaa0553670c85cb3834b2406219cd00341f9120f228bffe35364ab8669b1a"
  },
  {
   "zrodlo": "bzp",
@@ -16179,6 +16089,36 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Instalacje słoneczne – Dostawa i montaż instalacji fotowoltaicznej w PP nr 24 z magazynem energii wraz z dokumentacją - w ramach projektu: Odnawialne źródła energii w budynkach użyteczności publicznej w Jastrzębiu-Zdroju",
+  "url": "https://ted.europa.eu/en/notice/-/detail/737082-2026",
+  "zamawiajacy": "Miasto Jastrzębie-Zdrój",
+  "data_publikacji": "2026-10-23",
+  "termin_skladania": "2026-11-03T10:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "09332000",
+   "09331200",
+   "31430000",
+   "45310000",
+   "71320000",
+   "51112200",
+   "09332000",
+   "09331200",
+   "31430000",
+   "45310000",
+   "71320000",
+   "51112200"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-29",
+  "hash": "312aa8baff7607ef7c732eefde68454cfbc5ec40722684d6979948e9c02bd16d"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi nadzoru budowlanego – Pełnienie nadzoru dla zaprojektowania i wykonania robót na linii kolejowej nr 68 na odcinku Stalowa Wola Rozwadów – Przeworsk wraz z pełnieniem nadzoru autorskiego w ramach projektu pn.: Prace na linii kolejowej nr 68 na odcinku Stalowa Wola Rozwadów – Przeworsk - etap I",
   "url": "https://ted.europa.eu/en/notice/-/detail/727448-2026",
   "zamawiajacy": "PKP Polskie Linie Kolejowe S.A.",
@@ -16202,8 +16142,33 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-22",
+  "dodano": "2026-10-23",
   "hash": "b612f864d7909afe18c20a26d7602b5fa3bc991ea6d935f0e02c10d6ba709779"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Modernizacja oświetlenia jarzeniowego na LED w pomieszczeniach segmentu E1 oraz Oddziale Anestezjologii i Intensywnej Terapii w segmencie E",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-8ca38d29-baaf-4aea-bb19-38fdb803af34",
+  "zamawiajacy": "Wojewódzki Szpital Specjalistyczny im. św. Rafała w Czerwonej Górze",
+  "data_publikacji": "2026-10-23",
+  "termin_skladania": "2026-11-03T10:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00502707 z dnia 2026-10-23 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Modernizacja oświetlenia jarzeniowego na LED w pomieszczeniach segmentu E1 oraz Oddziale Anestezjologii i Intensywnej Terapii w segmencie E SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Wojewódzki Szpital Specjalistyczny im. św. Rafała w Czerwonej Górze 1.4) Krajowy Numer Identyfikacyjny: REGON 000296213 1.5) Adres zamawiającego 1.5.1.) Ulica: Czerwona Góra 10 1.5.2.) Miejscowość: Chęciny 1.5.3.) Kod pocztowy: 26-060 1.5.4.) Województwo: świętokrzyskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL721 - Kielecki 1.5.9.) Adres poczty elektronicznej: przetargi@czerwonagora.pl 1.5.10.) Adres strony internetowej zamawiającego: www.czerwonagora.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznyc",
+  "cpv": [
+   "45316000-5",
+   "45311200-2",
+   "71320000-7",
+   "45310000-3",
+   "45300000-0",
+   "45311000-0",
+   "45311100-1"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-24",
+  "hash": "c276a96ca610049fbbc8e78ee7c0099817f63312cc15e8fa9906363432e493bc"
  },
  {
   "zrodlo": "bzp",
@@ -16368,7 +16333,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-22",
+  "dodano": "2026-10-23",
   "hash": "a8da81baab6ed6411218031e1a1155338c9d64550f6f7c742112a9fc8638c374"
  },
  {
@@ -16500,7 +16465,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-22",
+  "dodano": "2026-10-23",
   "hash": "8eec81b03366a78191957951e4480f9af671c9fd600f67b67163e7e5d7bed0b5"
  },
  {
@@ -16892,7 +16857,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-22",
+  "dodano": "2026-10-23",
   "hash": "f59546cf578baffb14d5ac25afc459223ea0a548c5ff12787b360560bfbb3340"
  },
  {
@@ -16942,6 +16907,65 @@
   "status_opisu": "brak",
   "dodano": "2026-10-01",
   "hash": "534e77f8f3e6b135d1f9d8ba68ad5614fa206eb2db7dd9339fbeced12617704c"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Opracowanie projektu budowlanego i projektów wykonawczych oraz uzyskanie decyzji administracyjnych niezbędnych do wykonania robót budowlanych w ramach realizacji zadania pn. „Budowa ul. Zdziarskiej na odcinku od ul. Ostródzkiej do ul. Płochocińskiej wraz z mostem nad Kanałem Żerańskim – prace przygotowawcze”.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/735877-2026",
+  "zamawiajacy": "Miasto Stołeczne Warszawa - Stołeczny Zarząd Rozbudowy Miasta",
+  "data_publikacji": "2026-10-23",
+  "termin_skladania": "2026-11-06T09:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71320000",
+   "71322000",
+   "71322500",
+   "71322300",
+   "71323100",
+   "71322200",
+   "71320000",
+   "71322000",
+   "71322500",
+   "71322300",
+   "71323100",
+   "71322200"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-23",
+  "hash": "53b387946c700f6cb2fba9dfdedf5772d5e9052901f69a2a9359c2cc9a070cb3"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Roboty budowlane w zakresie wznoszenia kompletnych obiektów budowlanych lub ich części oraz roboty w zakresie inżynierii lądowej i wodnej – Wykonanie kompletnej dokumentacji projektowej oraz wykonanie na jej podstawie robót budowlanych dla zadania inwestycyjnego pn.: „Przebudowa i budowa Stadionu Lekkoatletycznego - kompleks lekkoatletyczno-piłkarski”.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/733909-2026",
+  "zamawiajacy": "Gmina Otwock",
+  "data_publikacji": "2026-10-23",
+  "termin_skladania": "2026-11-06T10:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "45200000",
+   "45223000",
+   "71000000",
+   "71220000",
+   "45200000",
+   "45223000",
+   "71000000",
+   "71220000"
+  ],
+  "score": 6,
+  "tagi": [
+   "cpv-71",
+   "roboty-budowlane",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-15",
+  "hash": "fc0298e9b092bebe4cf8098f0687b20472af091277ec555186850268c6063cab"
  },
  {
   "zrodlo": "ted",
@@ -17129,7 +17153,7 @@
    "drogi"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-22",
+  "dodano": "2026-10-23",
   "hash": "8bf4f8c2a49d3c80b45c778aaa0ade512275e63465670cf6e1f89ed8718ca6d9"
  },
  {
@@ -17223,7 +17247,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-22",
+  "dodano": "2026-10-23",
   "hash": "19d04a3c5554c8ff20f96847ef227392f21e144c5d2748d60e2807d1da51e631"
  },
  {
@@ -17281,7 +17305,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-22",
+  "dodano": "2026-10-23",
   "hash": "65033842a4f727bb0b9fae95dfe34bcc13454bb28a2b6c21ae8c3c67c219f521"
  },
  {
@@ -17332,7 +17356,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-22",
+  "dodano": "2026-10-23",
   "hash": "406c4f8d8d2a906270c5fbc06e7059eff6a4baff7b3c1304c0ab3cbe6abb2192"
  },
  {
@@ -17429,7 +17453,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-22",
+  "dodano": "2026-10-23",
   "hash": "474cb7f3393bee9cf6bbc0d34fde1c213cd1d3d5905c4ee84bdbfa8bc6b45fbb"
  },
  {
@@ -17697,7 +17721,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-22",
+  "dodano": "2026-10-23",
   "hash": "dc984692c037e9b66ef13c02c2572f68ab623049f01caf91f299aac6993f4e53"
  },
  {
@@ -18036,7 +18060,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-22",
+  "dodano": "2026-10-23",
   "hash": "b24f6184f522b8ec32d5bbb91e607a81de08d25345994d73971f0e4f117ad2e6"
  },
  {
@@ -18192,9 +18216,9 @@
  {
   "zrodlo": "ted",
   "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Opracowanie dokumentacji projektowo - kosztorysowej dla przedsięwzięcia pn. „Rozbudowa i przebudowa oczyszczalni ścieków w Skoczowie – etap II”",
-  "url": "https://ted.europa.eu/en/notice/-/detail/703252-2026",
+  "url": "https://ted.europa.eu/en/notice/-/detail/735730-2026",
   "zamawiajacy": "Miejska Spółka SKO-EKO Sp. z o.o.",
-  "data_publikacji": "2026-10-12",
+  "data_publikacji": "2026-10-23",
   "termin_skladania": "2026-11-20T09:00:00+01:00",
   "opis": null,
   "cpv": [
@@ -18221,7 +18245,7 @@
   ],
   "status_opisu": "brak",
   "dodano": "2026-10-12",
-  "hash": "65e3cb7b6f5df29ef75e5787da2e716ead0fd4a41a8bc1221165a32e7aa873a8"
+  "hash": "cb26373b0fa889f2176247cc29e18ea6865077ad47a3396e19249d5796274092"
  },
  {
   "zrodlo": "ted",
@@ -18753,7 +18777,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-22",
+  "dodano": "2026-10-23",
   "hash": "129a4f5d8d3b2de527b93ae845e53bd8cfad832fc10b3c020bc07cf458017adb"
  },
  {
@@ -18774,16 +18798,46 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-22",
+  "dodano": "2026-10-23",
   "hash": "6506d005080bdae9ce8dcd36f320d62a46025347d02afbc1e7ee564e2db26b6e"
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Usługi architektoniczne, budowlane, inżynieryjne i kontrolne – PEŁNIENIE FUNKCJI INŻYNIERA KONTRAKTU dla Projektu nr FENX.01.02-IW.01-0010/25 pn. „Adaptacja do zmian klimatu na terenie miasta Elbląg – etap I”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/735569-2026",
+  "zamawiajacy": "Elbląskie Przedsiębiorstwo Wodociągów i Kanalizacji Spółka z ograniczoną odpowiedzialnością",
+  "data_publikacji": "2026-10-23",
+  "termin_skladania": "2026-11-30T10:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71000000",
+   "71300000",
+   "71247000",
+   "71244000",
+   "71248000",
+   "71540000",
+   "71000000",
+   "71300000",
+   "71247000",
+   "71244000",
+   "71248000",
+   "71540000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-23",
+  "hash": "3ba1270691b4e8a722ca6a5443e6204abfa2f3e0391eff4285cfa98912f1e947"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – 07590 - Opracowanie dokumentacji projektowej dla zadania pn. „Rewitalizacja ul. Szczytnickiej we Wrocławiu”",
-  "url": "https://ted.europa.eu/en/notice/-/detail/705494-2026",
+  "url": "https://ted.europa.eu/en/notice/-/detail/735280-2026",
   "zamawiajacy": "Gmina Wrocław",
-  "data_publikacji": "2026-10-13",
-  "termin_skladania": "2026-11-27T10:00:00+01:00",
+  "data_publikacji": "2026-10-23",
+  "termin_skladania": "2026-11-30T10:00:00+01:00",
   "opis": null,
   "cpv": [
    "71320000",
@@ -18801,7 +18855,7 @@
   ],
   "status_opisu": "brak",
   "dodano": "2026-10-13",
-  "hash": "43674d60ef916e40bc38fa0db4722189317bd6ca422e06349338a50a1a43b280"
+  "hash": "2819b7af81b051aabad26f2987b70a16adff06051996a57d23f6664dfb0c21fa"
  },
  {
   "zrodlo": "ted",
@@ -18888,7 +18942,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-22",
+  "dodano": "2026-10-23",
   "hash": "290f81ae419c81d536659f4d032f1bd1846fc25f4bb7c58b1e8f6aee39aa16a3"
  },
  {
