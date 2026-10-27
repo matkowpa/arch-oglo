@@ -1677,28 +1677,6 @@
  },
  {
   "zrodlo": "bzp",
-  "tytul": "Opracowanie dokumentacji projektowej na zagospodarowanie Placu Polskich Sił Zbrojnych na Zachodzie w Białymstoku",
-  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-809dd496-bae9-4a0a-98d6-9fc6043ebf44",
-  "zamawiajacy": "Miasto Białystok",
-  "data_publikacji": "2026-09-04",
-  "termin_skladania": "2026-09-14T08:00:00Z",
-  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00422956 z dnia 2026-09-04 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej na zagospodarowanie Placu Polskich Sił Zbrojnych na Zachodzie w Białymstoku SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Miasto Białystok 1.4) Krajowy Numer Identyfikacyjny: REGON 050658640 1.5) Adres zamawiającego 1.5.1.) Ulica: Słonimska 1 1.5.2.) Miejscowość: Białystok 1.5.3.) Kod pocztowy: 15-950 1.5.4.) Województwo: podlaskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL841 - Białostocki 1.5.9.) Adres poczty elektronicznej: zdm@um.bialystok.pl 1.5.10.) Adres strony internetowej zamawiającego: www.bip.bialystok.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Przedmiot działalności zamawiającego: Ogóln",
-  "cpv": [
-   "71320000-7",
-   "71222000-0",
-   "71220000-6"
-  ],
-  "score": 12,
-  "tagi": [
-   "cpv-71",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "pobrany",
-  "dodano": "2026-09-04",
-  "hash": "fee420e351c50cf85b2e4367bf2c270ac40715821dbb739c0db4d4119ee2e31f"
- },
- {
-  "zrodlo": "bzp",
   "tytul": "Wykonanie 19 analiz technicznych, ocen, opinii i ekspertyz oraz opracowania dokumentacji dot. wykorzystania wskazanych budynków w ramach realizacji zadań z zakresu ochrony ludności i obrony cywilnej",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-62fc7306-b02d-40f1-9084-047c95344a40",
   "zamawiajacy": "WARSZAWSKIE CENTRUM POMOCY RODZINIE",
@@ -15759,7 +15737,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-26",
+  "dodano": "2026-10-27",
   "hash": "c7016c75ab38041979a0179024419258bd7a84ae07d887ec2a1e41818318e9c2"
  },
  {
@@ -15813,7 +15791,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-26",
+  "dodano": "2026-10-27",
   "hash": "2c0eaa0553670c85cb3834b2406219cd00341f9120f228bffe35364ab8669b1a"
  },
  {
@@ -15997,7 +15975,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-26",
+  "dodano": "2026-10-27",
   "hash": "312aa8baff7607ef7c732eefde68454cfbc5ec40722684d6979948e9c02bd16d"
  },
  {
@@ -16057,7 +16035,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-26",
+  "dodano": "2026-10-27",
   "hash": "21f9a6b220da649f5782545009dc41c9d17ad1df36173a45c3d0fbda3cd35fb7"
  },
  {
@@ -16241,7 +16219,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-26",
+  "dodano": "2026-10-27",
   "hash": "ac05ac425cfb14394e1fdd23a6824894eb7fb8c3995a9fff363ee8485fba4e27"
  },
  {
@@ -16440,7 +16418,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-26",
+  "dodano": "2026-10-27",
   "hash": "8eec81b03366a78191957951e4480f9af671c9fd600f67b67163e7e5d7bed0b5"
  },
  {
@@ -16565,48 +16543,6 @@
   "status_opisu": "brak",
   "dodano": "2026-10-21",
   "hash": "2226f28b88aa524a139313f50007796f81ae2593b758dd6ec309c59398441af5"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Urządzenia podnośnikowe i przeładunkowe oraz ich części – Dostawa urządzenia technologicznego do montażu i demontażu ciągów pompowych wraz z wyposażeniem pomocniczym dla Spółki Restrukturyzacji Kopalń S.A. Oddział Centralny Zakład Odwadniania Kopalń Część I – Dostawa urządzenia technologicznego do montażu i demontażu ciągów pompowych Część II – Dostawa bębnów kablowych z napędem elektrycznym.",
-  "url": "https://ted.europa.eu/en/notice/-/detail/720080-2026",
-  "zamawiajacy": "Spółka Restrukturyzacji Kopalń S.A.",
-  "data_publikacji": "2026-10-19",
-  "termin_skladania": "2026-11-05T08:00:00+01:00",
-  "opis": null,
-  "cpv": [
-   "42400000",
-   "44619200",
-   "42420000",
-   "42924740",
-   "42990000",
-   "42000000",
-   "43328100",
-   "71320000",
-   "42400000",
-   "42400000",
-   "44619200",
-   "42420000",
-   "42924740",
-   "42990000",
-   "42000000",
-   "43328100",
-   "71320000",
-   "44619200",
-   "42420000",
-   "42924740",
-   "42990000",
-   "42000000",
-   "43328100",
-   "71320000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-10-19",
-  "hash": "c26887b14d70872e527a9f22c8ed719e5272520e141ab8efd18d3b2961380a6e"
  },
  {
   "zrodlo": "bzp",
@@ -16871,7 +16807,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-26",
+  "dodano": "2026-10-27",
   "hash": "09e6fa217a732a7db3dc11a303778459d7504ef0d099d0547a65f49e8e02e5a7"
  },
  {
@@ -16903,7 +16839,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-26",
+  "dodano": "2026-10-27",
   "hash": "cbe0b314f526a080ecf07583d63ba9b4afbc9cb7ebf5a19de4c79da29ef2a6ae"
  },
  {
@@ -17035,7 +16971,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-26",
+  "dodano": "2026-10-27",
   "hash": "53b387946c700f6cb2fba9dfdedf5772d5e9052901f69a2a9359c2cc9a070cb3"
  },
  {
@@ -17181,52 +17117,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Słoneczne moduły fotoelektryczne – Budowa elektrowni fotowoltaicznej wraz z magazynem energii na terenie zajezdni autobusowej w Sosnowcu przy ulicy Lenartowicza 73",
-  "url": "https://ted.europa.eu/en/notice/-/detail/680988-2026",
-  "zamawiajacy": "PRZEDSIĘBIORSTWO KOMUNIKACJI MIEJSKIEJ SP. Z O. O.",
-  "data_publikacji": "2026-10-02",
-  "termin_skladania": "2026-11-06T11:00:00+01:00",
-  "opis": null,
-  "cpv": [
-   "09331200",
-   "31430000",
-   "71220000",
-   "71323100",
-   "71320000",
-   "45000000",
-   "45231400",
-   "45220000",
-   "45311000",
-   "45315700",
-   "31211000",
-   "45310000",
-   "45223100",
-   "09332000",
-   "09331200",
-   "09332000",
-   "31430000",
-   "71323100",
-   "71320000",
-   "45000000",
-   "45231400",
-   "45311000",
-   "45315700",
-   "45310000",
-   "71220000",
-   "45220000",
-   "31211000",
-   "45223100"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-10-02",
-  "hash": "c1d5ba8098d1f46a355e09cd1ee4305784ac89ed46317f1664826f7105e51864"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Opracowanie dokumentacji projektowej STEŚ dla zadania pn.: „Rozbudowa drogi krajowej nr 44 na odcinku Oświęcim - Zaborze - Oświęcim (proces przygotowawczy)\"",
   "url": "https://ted.europa.eu/en/notice/-/detail/721629-2026",
   "zamawiajacy": "Generalna Dyrekcja Dróg Krajowych i Autostrad",
@@ -17253,7 +17143,7 @@
    "drogi"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-26",
+  "dodano": "2026-10-27",
   "hash": "8bf4f8c2a49d3c80b45c778aaa0ade512275e63465670cf6e1f89ed8718ca6d9"
  },
  {
@@ -17331,7 +17221,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-26",
+  "dodano": "2026-10-27",
   "hash": "db080e07206fecc3f08cf6c90d895de054225fe769fdb27057ed80951db80bc0"
  },
  {
@@ -17377,7 +17267,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-26",
+  "dodano": "2026-10-27",
   "hash": "19d04a3c5554c8ff20f96847ef227392f21e144c5d2748d60e2807d1da51e631"
  },
  {
@@ -17486,7 +17376,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-26",
+  "dodano": "2026-10-27",
   "hash": "406c4f8d8d2a906270c5fbc06e7059eff6a4baff7b3c1304c0ab3cbe6abb2192"
  },
  {
@@ -17583,7 +17473,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-26",
+  "dodano": "2026-10-27",
   "hash": "474cb7f3393bee9cf6bbc0d34fde1c213cd1d3d5905c4ee84bdbfa8bc6b45fbb"
  },
  {
@@ -17851,7 +17741,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-26",
+  "dodano": "2026-10-27",
   "hash": "dc984692c037e9b66ef13c02c2572f68ab623049f01caf91f299aac6993f4e53"
  },
  {
@@ -18190,8 +18080,50 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-26",
+  "dodano": "2026-10-27",
   "hash": "b24f6184f522b8ec32d5bbb91e607a81de08d25345994d73971f0e4f117ad2e6"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Urządzenia podnośnikowe i przeładunkowe oraz ich części – Dostawa urządzenia technologicznego do montażu i demontażu ciągów pompowych wraz z wyposażeniem pomocniczym dla Spółki Restrukturyzacji Kopalń S.A. Oddział Centralny Zakład Odwadniania Kopalń Część I – Dostawa urządzenia technologicznego do montażu i demontażu ciągów pompowych Część II – Dostawa bębnów kablowych z napędem elektrycznym.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/741834-2026",
+  "zamawiajacy": "Spółka Restrukturyzacji Kopalń S.A.",
+  "data_publikacji": "2026-10-27",
+  "termin_skladania": "2026-11-19T08:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "42400000",
+   "44619200",
+   "42420000",
+   "42924740",
+   "42990000",
+   "42000000",
+   "43328100",
+   "71320000",
+   "42400000",
+   "42400000",
+   "44619200",
+   "42420000",
+   "42924740",
+   "42990000",
+   "42000000",
+   "43328100",
+   "71320000",
+   "44619200",
+   "42420000",
+   "42924740",
+   "42990000",
+   "42000000",
+   "43328100",
+   "71320000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-19",
+  "hash": "c1de950043889208341515731a9263ed2257a5693ff5a95cc7b58d7025211baf"
  },
  {
   "zrodlo": "ted",
@@ -18233,6 +18165,28 @@
   "status_opisu": "brak",
   "dodano": "2026-10-15",
   "hash": "6de7e6c39c3d99724ec67ba8243c7516908bffae078c73bbccbdc79a224a65a5"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej na zagospodarowanie Placu Polskich Sił Zbrojnych na Zachodzie w Białymstoku",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-bc8203b3-ce28-40b0-a190-e7e589fd5b94",
+  "zamawiajacy": "Miasto Białystok",
+  "data_publikacji": "2026-10-27",
+  "termin_skladania": "2026-11-19T09:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00505353 z dnia 2026-10-27 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej na zagospodarowanie Placu Polskich Sił Zbrojnych na Zachodzie w Białymstoku SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Miasto Białystok 1.4) Krajowy Numer Identyfikacyjny: REGON 050658640 1.5) Adres zamawiającego 1.5.1.) Ulica: Słonimska 1 1.5.2.) Miejscowość: Białystok 1.5.3.) Kod pocztowy: 15-950 1.5.4.) Województwo: podlaskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL841 - Białostocki 1.5.9.) Adres poczty elektronicznej: zdm.zamowienia@um.bialystok.pl 1.5.10.) Adres strony internetowej zamawiającego: www.bip.bialystok.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Przedmiot działalności zamawiają",
+  "cpv": [
+   "71320000-7",
+   "71222000-0",
+   "71220000-6"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-04",
+  "hash": "1d8f87536fc402a8a4f3a4d7de7107e6be4c32138d4fc84ba5ea179c257bc1e7"
  },
  {
   "zrodlo": "ted",
@@ -18629,6 +18583,52 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Słoneczne moduły fotoelektryczne – Budowa elektrowni fotowoltaicznej wraz z magazynem energii na terenie zajezdni autobusowej w Sosnowcu przy ulicy Lenartowicza 73",
+  "url": "https://ted.europa.eu/en/notice/-/detail/744158-2026",
+  "zamawiajacy": "PRZEDSIĘBIORSTWO KOMUNIKACJI MIEJSKIEJ SP. Z O. O.",
+  "data_publikacji": "2026-10-27",
+  "termin_skladania": "2026-11-23T11:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "09331200",
+   "31430000",
+   "71220000",
+   "71323100",
+   "71320000",
+   "45000000",
+   "45231400",
+   "45220000",
+   "45311000",
+   "45315700",
+   "31211000",
+   "45310000",
+   "45223100",
+   "09332000",
+   "09331200",
+   "09332000",
+   "31430000",
+   "71323100",
+   "71320000",
+   "45000000",
+   "45231400",
+   "45311000",
+   "45315700",
+   "45310000",
+   "71220000",
+   "45220000",
+   "31211000",
+   "45223100"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-02",
+  "hash": "a5565ddb91756114d2b91d1b22836b5b192a6b7197e1729688ff8120571c5982"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Architektoniczne usługi zagospodarowania terenu – ZZK - NZ/241/3400/116/26-Wykonanie dokumentacji projektowo-kosztorysowej na zagospodarowanie wnętrz podwórzowych położonych we Wrocławiu.",
   "url": "https://ted.europa.eu/en/notice/-/detail/725261-2026",
   "zamawiajacy": "Zarząd Zasobu Komunalnego Jednostka Budżetowa Gminy Wrocław",
@@ -18959,7 +18959,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-26",
+  "dodano": "2026-10-27",
   "hash": "129a4f5d8d3b2de527b93ae845e53bd8cfad832fc10b3c020bc07cf458017adb"
  },
  {
@@ -18980,7 +18980,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-26",
+  "dodano": "2026-10-27",
   "hash": "6506d005080bdae9ce8dcd36f320d62a46025347d02afbc1e7ee564e2db26b6e"
  },
  {
@@ -19060,7 +19060,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-26",
+  "dodano": "2026-10-27",
   "hash": "2819b7af81b051aabad26f2987b70a16adff06051996a57d23f6664dfb0c21fa"
  },
  {
@@ -19093,6 +19093,37 @@
   "status_opisu": "brak",
   "dodano": "2026-10-22",
   "hash": "c53a77cf1698aa612d0654dae1889c4fe3a17b6dbcfe19ab4b9fd76db721c17f"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Opracowanie dokumentacji projektowej wraz z uzyskaniem ostatecznego pozwolenia na budowę dla zadania Produkcja energii z OZE na drodze nowoczesnej fermentacji hydrolizowanych osadów ściekowych w oparciu o zasady gospodarki cyrkularnej w Oczyszczalni Ścieków Żory.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/744776-2026",
+  "zamawiajacy": "Przedsiębiorstwo Wodociągów i Kanalizacji Żory Sp. z o.o.",
+  "data_publikacji": "2026-10-27",
+  "termin_skladania": "2026-12-01T11:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71320000",
+   "71323000",
+   "71321000",
+   "71322000",
+   "71220000",
+   "71248000",
+   "71320000",
+   "71323000",
+   "71321000",
+   "71322000",
+   "71220000",
+   "71248000"
+  ],
+  "score": 9,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-27",
+  "hash": "ae41f1bd187096ce147589bcd1cc97f552d49e16269f3b38eb008f7e3468e756"
  },
  {
   "zrodlo": "ted",
@@ -19167,6 +19198,27 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Architektoniczne usługi zagospodarowania terenu – ZZK - NZ/241/3400/118/26-Wykonanie dokumentacji projektowo-kosztorysowej na zagospodarowanie wnętrza podwórzowego położonego we Wrocławiu.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/742472-2026",
+  "zamawiajacy": "Zarząd Zasobu Komunalnego Jednostka Budżetowa Gminy Wrocław",
+  "data_publikacji": "2026-10-27",
+  "termin_skladania": "2026-12-02T11:30:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71420000",
+   "71420000"
+  ],
+  "score": 5,
+  "tagi": [
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-27",
+  "hash": "3880b3ce0b1700be3771db9828a60c6ac08027c76fc7189f0bfc8e7a898280c6"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Opracowanie dokumentacji projektowej na „Rozbudowę drogi wojewódzkiej Nr 689 – przejście przez m. Hajnówka”",
   "url": "https://ted.europa.eu/en/notice/-/detail/718552-2026",
   "zamawiajacy": "Podlaski Zarząd Dróg Wojewódzkich w Białymstoku",
@@ -19219,7 +19271,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-26",
+  "dodano": "2026-10-27",
   "hash": "290f81ae419c81d536659f4d032f1bd1846fc25f4bb7c58b1e8f6aee39aa16a3"
  },
  {
