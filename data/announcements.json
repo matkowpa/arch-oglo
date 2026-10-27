@@ -17502,6 +17502,25 @@
   "hash": "7e40ecbfa21aac0ebe550a4ff4c3dbe7774e5ce150ebdec74dfd141eab3d4e5e"
  },
  {
+  "zrodlo": "bip:kghm",
+  "tytul": "ENE-ZA-PN-855-2026 - Świadczenie usług porządkowych na obiektach Spółki Energetyka sp. z o.o. w 2027 roku",
+  "url": "https://kghm.com/pl/ene-za-pn-855-2026-swiadczenie-uslug-porzadkowych-na-obiektach-spolki-energetyka-sp-z-oo-w-2027",
+  "zamawiajacy": "KGHM Polska Miedź S.A.",
+  "data_publikacji": "2026-10-27",
+  "termin_skladania": "2026-11-12T10:30:00Z",
+  "opis": null,
+  "cpv": [],
+  "score": 3,
+  "tagi": [
+   "bonus-ue/strategiczny",
+   "giełdowa",
+   "spolka-sp"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-27",
+  "hash": "9271b25c19237e6a333a17b5a1addf473f391c6fad9979b565d72ab00dd22f7c"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Specjalne usługi projektowe – Projekt przebudowy ulicy Okrzei w Jastrzębiu-Zdroju",
   "url": "https://ted.europa.eu/en/notice/-/detail/704549-2026",
