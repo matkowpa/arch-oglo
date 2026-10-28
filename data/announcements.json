@@ -146,29 +146,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Usługi architektoniczne w zakresie obiektów budowlanych – ZZK - NZ/241/3400/84/26 Wykonanie dokumentacji projektowo-kosztorysowej na remont i przebudowę budynków gminnych położonych we Wrocławiu - 2 Zadania",
-  "url": "https://ted.europa.eu/en/notice/-/detail/524183-2026",
-  "zamawiajacy": "Zarząd Zasobu Komunalnego Jednostka Budżetowa Gminy Wrocław",
-  "data_publikacji": "2026-07-29",
-  "termin_skladania": "2026-09-01T11:30:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71221000",
-   "71221000",
-   "71221000"
-  ],
-  "score": 8,
-  "tagi": [
-   "cpv-71",
-   "samorząd",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": null,
-  "hash": "b0d22783ef7429234d8b2291e7e7ee34c894a18b2f373e45278ce7090df85769"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Usługi projektowania architektonicznego – Opracowanie dokumentacji projektowej dla zadania: Budowa budynku dydaktycznego dla administracji",
   "url": "https://ted.europa.eu/en/notice/-/detail/579938-2026",
   "zamawiajacy": "Akademia Sztuki Wojennej",
@@ -14098,32 +14075,6 @@
   "hash": "64f4ffea40a9ebe40377b9619c14a4203a28204d9d9192cff529d70d72a6eca6"
  },
  {
-  "zrodlo": "ted",
-  "tytul": "Polska – Usługi projektowania architektonicznego – Opracowanie kompletnej dokumentacji projektowo-kosztorysowej dla zadania inwestycyjnego pn. „Poprawa efektywności energetycznej budynków” w ramach programu FENiKS w zakresie budynków ul. Skalbmierska 5 i 6",
-  "url": "https://ted.europa.eu/en/notice/-/detail/666416-2026",
-  "zamawiajacy": "Izba Administracji Skarbowej w Warszawie",
-  "data_publikacji": "2026-09-28",
-  "termin_skladania": "2026-10-28T09:00:00+01:00",
-  "opis": null,
-  "cpv": [
-   "71220000",
-   "71320000",
-   "71220000",
-   "71220000",
-   "71320000",
-   "71320000"
-  ],
-  "score": 10,
-  "tagi": [
-   "bonus-ue/strategiczny",
-   "cpv-71",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-10-01",
-  "hash": "73ec9e06d2c99fb001cd9da028ca1bd97112838404df2deede1d5d4503a4eb06"
- },
- {
   "zrodlo": "bzp",
   "tytul": "Dokumentacja projektowa ulic: Wrześniowej i Za Kopcem",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-62d6fc25-b8fb-4f55-b1ac-d05f05e7a9d8",
@@ -14577,56 +14528,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Nadzór nad robotami budowlanymi – Pełnienie nadzoru inwestorskiego nad realizacją robót budowlanych w ramach zadania inwestycyjnego pn. „Przebudowa w celu poprawy efektywności energetycznej budynku Urzędu Skarbowego w Lubaczowie przy ul. Jana III Sobieskiego 6”.",
-  "url": "https://ted.europa.eu/en/notice/-/detail/729987-2026",
-  "zamawiajacy": "Izba Administracji Skarbowej w Rzeszowie",
-  "data_publikacji": "2026-10-21",
-  "termin_skladania": "2026-10-29T10:00:00+01:00",
-  "opis": null,
-  "cpv": [
-   "71247000",
-   "71540000",
-   "71520000",
-   "71248000",
-   "71244000",
-   "71700000",
-   "71247000",
-   "71540000",
-   "71520000",
-   "71248000",
-   "71244000",
-   "71700000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-10-21",
-  "hash": "cac6ae35594dc9948cd18aa9f18dd7c5a7d4da6def40d39584f64981c6dedaac"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Studia wykonalności, usługi doradcze, analizy – Realizacja usługi doradczej pn. „Wspólna Analiza Komercyjna Nordycko-Bałtyckiego Korytarza Wodorowego”",
-  "url": "https://ted.europa.eu/en/notice/-/detail/633260-2026",
-  "zamawiajacy": "Operator Gazociągów Przesyłowych GAZ-SYSTEM S.A.",
-  "data_publikacji": "2026-09-15",
-  "termin_skladania": "2026-10-29T10:00:00+01:00",
-  "opis": null,
-  "cpv": [
-   "71241000",
-   "71240000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-15",
-  "hash": "2e19edad726cdf1b795cca619ff499242c0f4c7a9364b3a957ee6a0dc343b0ff"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Wykonanie kompletnej dokumentacji projektowej wraz z uzyskaniem wszystkich decyzji administracyjnych niezbędnych do przeprowadzania robót budowlanych realizowanych w Nadleśnictwie Chocianów na zadanie odbudowy wałów oraz zastawek na dwóch zbiornikach wodnych zlokalizowanych w oddziałach 392 h oraz 403 h w Leśnictwie Krzyżowa – II postępowanie.",
   "url": "https://ted.europa.eu/en/notice/-/detail/672890-2026",
   "zamawiajacy": "Skarb Państwa - Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Chocianów",
@@ -14914,54 +14815,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Urządzenia do radioterapii, mechanoterapii, elektroterapii i fizykoterapii – Akcelerator do tomoterapii wraz z modernizacją bunkra.",
-  "url": "https://ted.europa.eu/en/notice/-/detail/736673-2026",
-  "zamawiajacy": "Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie - Państwowy Instytut Badawczy",
-  "data_publikacji": "2026-10-23",
-  "termin_skladania": "2026-10-30T09:00:00+01:00",
-  "opis": null,
-  "cpv": [
-   "33150000",
-   "71221000",
-   "71320000",
-   "45400000",
-   "45215143",
-   "39180000",
-   "39150000",
-   "45310000",
-   "45311000",
-   "45232460",
-   "45332400",
-   "45343000",
-   "45331220",
-   "42961100",
-   "45314320",
-   "33150000",
-   "71221000",
-   "71320000",
-   "45400000",
-   "45215143",
-   "39180000",
-   "39150000",
-   "45310000",
-   "45311000",
-   "45232460",
-   "45332400",
-   "45343000",
-   "45331220",
-   "42961100",
-   "45314320"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-10-25",
-  "hash": "32d59cbcc3cda3c97884951333a6b273c41bd449de69eacc2387925a2f3cec19"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Wykonanie dokumentacji projektowo-kosztorysowej dotyczącej obiektów małej retencji na terenie Nadleśnictwa Durowo wraz z pełnieniem nadzoru autorskiego – II postępowanie",
   "url": "https://ted.europa.eu/en/notice/-/detail/670799-2026",
   "zamawiajacy": "Skarb Państwa PGL LP Nadleśnictwo Durowo",
@@ -15099,39 +14952,6 @@
   "status_opisu": "pobrany",
   "dodano": "2026-10-22",
   "hash": "f89ddf41c6a798639f6544573906864e99122a98dc529b7a094ab2502684d78c"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Usługi projektowania architektonicznego – „Opracowanie dokumentacji projektowej zadania pn.: „Przebudowa zagospodarowania terenu, budowa budowli ochronnej, budowy budynku przyjęć i obsługi interesantów na działce o numerze ewidencyjnym nr 37, w Warszawie przy ul. Puławskiej 148/150 - w zakresie opracowania wielobranżowej dokumentacji projektowej budowy budynku przyjęć obsługi interesantów wraz z koniecznymi przyłączami, instalacjami (...)",
-  "url": "https://ted.europa.eu/en/notice/-/detail/726903-2026",
-  "zamawiajacy": "Komenda Główna Policji",
-  "data_publikacji": "2026-10-21",
-  "termin_skladania": "2026-10-30T09:30:00+01:00",
-  "opis": null,
-  "cpv": [
-   "71220000",
-   "71221000",
-   "71240000",
-   "71242000",
-   "71244000",
-   "71248000",
-   "71320000",
-   "71220000",
-   "71221000",
-   "71240000",
-   "71242000",
-   "71244000",
-   "71248000",
-   "71320000"
-  ],
-  "score": 21,
-  "tagi": [
-   "cpv-71",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-10-22",
-  "hash": "fd2e79b6bfca1e67e76fd82c48aedf5d5e08442ea70d1d2ba3937b807053a031"
  },
  {
   "zrodlo": "bzp",
@@ -15340,40 +15160,6 @@
   "hash": "4717c8a62ad03169128f50a13d7c4554ffb32b6f3be14e5fbe6d8729faba5ac7"
  },
  {
-  "zrodlo": "ted",
-  "tytul": "Polska – Roboty budowlane – Opracowanie dokumentacji projektowej i realizacja robót budowlanych w zakresie podsystemu \"Energia\" - sieć trakcyjna na linii kolejowej nr 85 odc. Warszawa - Łódź",
-  "url": "https://ted.europa.eu/en/notice/-/detail/726281-2026",
-  "zamawiajacy": "Centralny Port Komunikacyjny sp. z o.o.",
-  "data_publikacji": "2026-10-20",
-  "termin_skladania": "2026-10-30T11:00:00+01:00",
-  "opis": null,
-  "cpv": [
-   "45000000",
-   "34632300",
-   "45232220",
-   "45234100",
-   "45231400",
-   "71321000",
-   "71322000",
-   "45000000",
-   "34632300",
-   "45232220",
-   "45234100",
-   "45231400",
-   "71321000",
-   "71322000"
-  ],
-  "score": 5,
-  "tagi": [
-   "bonus-ue/strategiczny",
-   "roboty-budowlane",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-10-20",
-  "hash": "4a0bdc30a8f74244d2d9c53c6b7af09464b18fd523892778be0fee5e56f3bad6"
- },
- {
   "zrodlo": "bzp",
   "tytul": "Opracowanie wielobranżowej dokumentacji projektowej dotyczącej remontu i przebudowy dawnego budynku koszarowego przy ul. Biskupiej 24 w Chełmnie na cele mieszkaniowe.",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-8a9031f3-2638-4098-ad6c-35377c8b352d",
@@ -15394,6 +15180,32 @@
   "status_opisu": "pobrany",
   "dodano": "2026-10-23",
   "hash": "8c4c41a665a1f031cca98058339d0158e7ad1e9667ef7771a06119f59e8a19cc"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi projektowania architektonicznego – Opracowanie kompletnej dokumentacji projektowo-kosztorysowej dla zadania inwestycyjnego pn. „Poprawa efektywności energetycznej budynków” w ramach programu FENiKS w zakresie budynków ul. Skalbmierska 5 i 6",
+  "url": "https://ted.europa.eu/en/notice/-/detail/747731-2026",
+  "zamawiajacy": "Izba Administracji Skarbowej w Warszawie",
+  "data_publikacji": "2026-10-28",
+  "termin_skladania": "2026-11-02T09:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71220000",
+   "71320000",
+   "71220000",
+   "71220000",
+   "71320000",
+   "71320000"
+  ],
+  "score": 10,
+  "tagi": [
+   "bonus-ue/strategiczny",
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-01",
+  "hash": "21fd265d6359c116335c800b292ecbbb5ee8ea6324df0d59f3a67e24c74bae41"
  },
  {
   "zrodlo": "ted",
@@ -15622,84 +15434,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Roboty budowlane – Budowa GPZ Ostrowiec 4",
-  "url": "https://ted.europa.eu/en/notice/-/detail/655853-2026",
-  "zamawiajacy": "PGE DYSTRYBUCJA S.A.",
-  "data_publikacji": "2026-09-23",
-  "termin_skladania": "2026-11-03T09:00:00+01:00",
-  "opis": null,
-  "cpv": [
-   "45000000",
-   "45232220",
-   "45232210",
-   "45231400",
-   "71221000",
-   "71320000",
-   "45200000",
-   "45210000",
-   "45310000",
-   "45000000",
-   "45232220",
-   "45232210",
-   "45231400",
-   "71221000",
-   "71320000",
-   "45200000",
-   "45210000",
-   "45310000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71",
-   "giełdowa",
-   "roboty-budowlane",
-   "spolka-sp"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-23",
-  "hash": "fa266066eb06ddf5511a2f0719277339c6c6476a4f2bb9b324a96c8c6b8b61be"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Roboty budowlane – Przebudowa GPZ Ostrowiec 1",
-  "url": "https://ted.europa.eu/en/notice/-/detail/654462-2026",
-  "zamawiajacy": "PGE DYSTRYBUCJA S.A.",
-  "data_publikacji": "2026-09-23",
-  "termin_skladania": "2026-11-03T09:00:00+01:00",
-  "opis": null,
-  "cpv": [
-   "45000000",
-   "45232220",
-   "45232210",
-   "45231400",
-   "71221000",
-   "71320000",
-   "45200000",
-   "45210000",
-   "45310000",
-   "45000000",
-   "45232220",
-   "45232210",
-   "45231400",
-   "71221000",
-   "71320000",
-   "45200000",
-   "45210000",
-   "45310000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71",
-   "giełdowa",
-   "roboty-budowlane",
-   "spolka-sp"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-23",
-  "hash": "3d851ef95684705d2350a649085cdd2e30e054513cff71a0b0b49dcf39a085ba"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Sprzęt obrazujący do użytku medycznego, stomatologicznego i weterynaryjnego – Zakup rezonansu magnetycznego 3T wraz z pełnym wyposażeniem z dostawą, instalacją, szkoleniem, demontażem i utylizacją rezonansu magnetycznego będącego na wyposażeniu Zamawiającego oraz modernizacją pomieszczenia.",
   "url": "https://ted.europa.eu/en/notice/-/detail/727240-2026",
   "zamawiajacy": "Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie - Państwowy Instytut Badawczy",
@@ -15737,7 +15471,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-27",
+  "dodano": "2026-10-28",
   "hash": "c7016c75ab38041979a0179024419258bd7a84ae07d887ec2a1e41818318e9c2"
  },
  {
@@ -15791,7 +15525,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-27",
+  "dodano": "2026-10-28",
   "hash": "2c0eaa0553670c85cb3834b2406219cd00341f9120f228bffe35364ab8669b1a"
  },
  {
@@ -15975,7 +15709,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-27",
+  "dodano": "2026-10-28",
   "hash": "312aa8baff7607ef7c732eefde68454cfbc5ec40722684d6979948e9c02bd16d"
  },
  {
@@ -16035,7 +15769,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-27",
+  "dodano": "2026-10-28",
   "hash": "21f9a6b220da649f5782545009dc41c9d17ad1df36173a45c3d0fbda3cd35fb7"
  },
  {
@@ -16219,7 +15953,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-27",
+  "dodano": "2026-10-28",
   "hash": "ac05ac425cfb14394e1fdd23a6824894eb7fb8c3995a9fff363ee8485fba4e27"
  },
  {
@@ -16393,6 +16127,36 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Nadzór nad robotami budowlanymi – Pełnienie nadzoru inwestorskiego nad realizacją robót budowlanych w ramach zadania inwestycyjnego pn. „Przebudowa w celu poprawy efektywności energetycznej budynku Urzędu Skarbowego w Lubaczowie przy ul. Jana III Sobieskiego 6”.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/747553-2026",
+  "zamawiajacy": "Izba Administracji Skarbowej w Rzeszowie",
+  "data_publikacji": "2026-10-28",
+  "termin_skladania": "2026-11-04T10:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71247000",
+   "71540000",
+   "71520000",
+   "71248000",
+   "71244000",
+   "71700000",
+   "71247000",
+   "71540000",
+   "71520000",
+   "71248000",
+   "71244000",
+   "71700000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-21",
+  "hash": "1cd263cf94733d5d4758edfff59a1472b59c58502cd90a618781a15ef749183b"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Nadzór nad robotami budowlanymi – Pełnienie nadzoru inwestorskiego nad realizacją robót budowlanych w ramach zadania inwestycyjnego pn. „Przebudowa w celu poprawy efektywności energetycznej budynku Urzędu Skarbowego w Tarnobrzegu przy ul. Wyspiańskiego 12\"",
   "url": "https://ted.europa.eu/en/notice/-/detail/728730-2026",
   "zamawiajacy": "Izba Administracji Skarbowej w Rzeszowie",
@@ -16418,7 +16182,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-27",
+  "dodano": "2026-10-28",
   "hash": "8eec81b03366a78191957951e4480f9af671c9fd600f67b67163e7e5d7bed0b5"
  },
  {
@@ -16563,6 +16327,33 @@
   "status_opisu": "pobrany",
   "dodano": "2026-10-22",
   "hash": "4f0fe18b79b754979e3a9c9d442c5aada8b428ea04e1a7383b92c215fdce42c8"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej i innej, uzyskanie decyzji ZRID oraz pełnienie nadzoru autorskiego dla zadania pn.: „Rozbudowa DW 884 ... w m. Kuńkowce”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-9c31bfef-09fe-4659-b99a-9478042fb804",
+  "zamawiajacy": "PODKARPACKI ZARZĄD DRÓG WOJEWÓDZKICH",
+  "data_publikacji": "2026-10-28",
+  "termin_skladania": "2026-11-05T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00506020 z dnia 2026-10-28 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej i innej, uzyskanie decyzji ZRID oraz pełnienie nadzoru autorskiego dla zadania pn.: „Rozbudowa DW 884 ... w m. Kuńkowce” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: PODKARPACKI ZARZĄD DRÓG WOJEWÓDZKICH 1.4) Krajowy Numer Identyfikacyjny: REGON 690587670 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Tadeusza Boya-Żeleńskiego 19A 1.5.2.) Miejscowość: Rzeszów 1.5.3.) Kod pocztowy: 35-105 1.5.4.) Województwo: podkarpackie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL823 - Rzeszowski 1.5.9.) Adres poczty elektronicznej: biuro@pzdw.pl 1.5.10.) Adres strony internetowej zamawiającego: https://www.pzdw.pl/ 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jed",
+  "cpv": [
+   "71242000-6",
+   "71245000-7",
+   "71320000-7",
+   "71332000-4",
+   "71354000-4",
+   "71313400-9",
+   "71248000-8",
+   "71241000-9"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-28",
+  "hash": "623ac884569c0b7551fa25a34a0643bef11c32c3bc5fce7296404e90244d7def"
  },
  {
   "zrodlo": "bzp",
@@ -16807,7 +16598,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-27",
+  "dodano": "2026-10-28",
   "hash": "09e6fa217a732a7db3dc11a303778459d7504ef0d099d0547a65f49e8e02e5a7"
  },
  {
@@ -16971,8 +16762,41 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-27",
+  "dodano": "2026-10-28",
   "hash": "53b387946c700f6cb2fba9dfdedf5772d5e9052901f69a2a9359c2cc9a070cb3"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi projektowania architektonicznego – „Opracowanie dokumentacji projektowej zadania pn.: „Przebudowa zagospodarowania terenu, budowa budowli ochronnej, budowy budynku przyjęć i obsługi interesantów na działce o numerze ewidencyjnym nr 37, w Warszawie przy ul. Puławskiej 148/150 - w zakresie opracowania wielobranżowej dokumentacji projektowej budowy budynku przyjęć obsługi interesantów wraz z koniecznymi przyłączami, instalacjami (...)",
+  "url": "https://ted.europa.eu/en/notice/-/detail/749049-2026",
+  "zamawiajacy": "Komenda Główna Policji",
+  "data_publikacji": "2026-10-28",
+  "termin_skladania": "2026-11-06T09:30:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71220000",
+   "71221000",
+   "71240000",
+   "71242000",
+   "71244000",
+   "71248000",
+   "71320000",
+   "71220000",
+   "71221000",
+   "71240000",
+   "71242000",
+   "71244000",
+   "71248000",
+   "71320000"
+  ],
+  "score": 21,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-22",
+  "hash": "1aa0d74f663e50cb290f8bbdbecd856c4f0a8abfecf3ee6b68c2debbdc3f853b"
  },
  {
   "zrodlo": "ted",
@@ -17143,8 +16967,56 @@
    "drogi"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-27",
+  "dodano": "2026-10-28",
   "hash": "8bf4f8c2a49d3c80b45c778aaa0ade512275e63465670cf6e1f89ed8718ca6d9"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Urządzenia do radioterapii, mechanoterapii, elektroterapii i fizykoterapii – Akcelerator do tomoterapii wraz z modernizacją bunkra.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/745535-2026",
+  "zamawiajacy": "Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie - Państwowy Instytut Badawczy",
+  "data_publikacji": "2026-10-28",
+  "termin_skladania": "2026-11-09T09:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "33150000",
+   "71221000",
+   "71320000",
+   "45400000",
+   "45215143",
+   "39180000",
+   "39150000",
+   "45310000",
+   "45311000",
+   "45232460",
+   "45332400",
+   "45343000",
+   "45331220",
+   "42961100",
+   "45314320",
+   "33150000",
+   "71221000",
+   "71320000",
+   "45400000",
+   "45215143",
+   "39180000",
+   "39150000",
+   "45310000",
+   "45311000",
+   "45232460",
+   "45332400",
+   "45343000",
+   "45331220",
+   "42961100",
+   "45314320"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-25",
+  "hash": "dccd5981c42bee1001f949b5a654b458b9ab57abb1937f70a38b5eb16bf01f26"
  },
  {
   "zrodlo": "ted",
@@ -17221,7 +17093,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-27",
+  "dodano": "2026-10-28",
   "hash": "db080e07206fecc3f08cf6c90d895de054225fe769fdb27057ed80951db80bc0"
  },
  {
@@ -17267,7 +17139,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-27",
+  "dodano": "2026-10-28",
   "hash": "19d04a3c5554c8ff20f96847ef227392f21e144c5d2748d60e2807d1da51e631"
  },
  {
@@ -17302,31 +17174,81 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Opracowanie dokumentacji projektowej dla zadania pn. „Budowa Centrum Przesiadkowego w Wilkszynie”",
-  "url": "https://ted.europa.eu/en/notice/-/detail/732298-2026",
-  "zamawiajacy": "Gmina Miękinia",
-  "data_publikacji": "2026-10-22",
+  "tytul": "Polska – Roboty budowlane – Budowa GPZ Ostrowiec 4",
+  "url": "https://ted.europa.eu/en/notice/-/detail/745601-2026",
+  "zamawiajacy": "PGE DYSTRYBUCJA S.A.",
+  "data_publikacji": "2026-10-28",
   "termin_skladania": "2026-11-10T09:00:00+01:00",
   "opis": null,
   "cpv": [
+   "45000000",
+   "45232220",
+   "45232210",
+   "45231400",
+   "71221000",
    "71320000",
-   "71242000",
-   "71310000",
-   "71248000",
+   "45200000",
+   "45210000",
+   "45310000",
+   "45000000",
+   "45232220",
+   "45232210",
+   "45231400",
+   "71221000",
    "71320000",
-   "71242000",
-   "71310000",
-   "71248000"
+   "45200000",
+   "45210000",
+   "45310000"
   ],
-  "score": 8,
+  "score": 3,
   "tagi": [
    "cpv-71",
-   "samorząd",
-   "wysoka-trafnosc"
+   "giełdowa",
+   "roboty-budowlane",
+   "spolka-sp"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-25",
-  "hash": "65033842a4f727bb0b9fae95dfe34bcc13454bb28a2b6c21ae8c3c67c219f521"
+  "dodano": "2026-09-23",
+  "hash": "fb0c712dd75e8e5e12ddbc26a5eaa6900a67183c3124b874720cbd44d9dd7043"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Roboty budowlane – Przebudowa GPZ Ostrowiec 1",
+  "url": "https://ted.europa.eu/en/notice/-/detail/745537-2026",
+  "zamawiajacy": "PGE DYSTRYBUCJA S.A.",
+  "data_publikacji": "2026-10-28",
+  "termin_skladania": "2026-11-10T09:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "45000000",
+   "45232220",
+   "45232210",
+   "45231400",
+   "71221000",
+   "71320000",
+   "45200000",
+   "45210000",
+   "45310000",
+   "45000000",
+   "45232220",
+   "45232210",
+   "45231400",
+   "71221000",
+   "71320000",
+   "45200000",
+   "45210000",
+   "45310000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71",
+   "giełdowa",
+   "roboty-budowlane",
+   "spolka-sp"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-23",
+  "hash": "2b0039c3a8575b3a67f2a0ee4a6cfb113e45b99b79af923226ab15e88ac9a459"
  },
  {
   "zrodlo": "ted",
@@ -17376,7 +17298,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-27",
+  "dodano": "2026-10-28",
   "hash": "406c4f8d8d2a906270c5fbc06e7059eff6a4baff7b3c1304c0ab3cbe6abb2192"
  },
  {
@@ -17473,7 +17395,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-27",
+  "dodano": "2026-10-28",
   "hash": "474cb7f3393bee9cf6bbc0d34fde1c213cd1d3d5905c4ee84bdbfa8bc6b45fbb"
  },
  {
@@ -17522,6 +17444,34 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Opracowanie dokumentacji projektowej dla zadania pn. „Budowa Centrum Przesiadkowego w Wilkszynie”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/747283-2026",
+  "zamawiajacy": "Gmina Miękinia",
+  "data_publikacji": "2026-10-28",
+  "termin_skladania": "2026-11-13T09:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71320000",
+   "71242000",
+   "71310000",
+   "71248000",
+   "71320000",
+   "71242000",
+   "71310000",
+   "71248000"
+  ],
+  "score": 8,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-25",
+  "hash": "0b62c21920a86de1824ad62f9863d536332f0c92fe35d53d798b7d1f8a979410"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Specjalne usługi projektowe – Projekt przebudowy ulicy Okrzei w Jastrzębiu-Zdroju",
   "url": "https://ted.europa.eu/en/notice/-/detail/704549-2026",
   "zamawiajacy": "Miasto Jastrzębie-Zdrój",
@@ -17543,6 +17493,40 @@
   "status_opisu": "brak",
   "dodano": "2026-10-13",
   "hash": "a0c610b1ca427664edd31640a010f1b24e7b3258a60e7659913a0dd0a8d1f2d7"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Roboty budowlane – Opracowanie dokumentacji projektowej i realizacja robót budowlanych w zakresie podsystemu \"Energia\" - sieć trakcyjna na linii kolejowej nr 85 odc. Warszawa - Łódź",
+  "url": "https://ted.europa.eu/en/notice/-/detail/748008-2026",
+  "zamawiajacy": "Centralny Port Komunikacyjny sp. z o.o.",
+  "data_publikacji": "2026-10-28",
+  "termin_skladania": "2026-11-13T11:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "45000000",
+   "34632300",
+   "45232220",
+   "45234100",
+   "45231400",
+   "71321000",
+   "71322000",
+   "45000000",
+   "34632300",
+   "45232220",
+   "45234100",
+   "45231400",
+   "71321000",
+   "71322000"
+  ],
+  "score": 5,
+  "tagi": [
+   "bonus-ue/strategiczny",
+   "roboty-budowlane",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-20",
+  "hash": "5aa9bee7ff19704a94f5947a8ca1287eb7ddba256050cb36047de1cae3fa7aae"
  },
  {
   "zrodlo": "ted",
@@ -17706,6 +17690,37 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Opracowanie dokumentacji projektowej dla zadania pn. Budowa bagiennej strefy buforowej o charakterze przepływowego mokradła w ciągu rzeki Nizica wraz z pełnieniem nadzoru autorskiego oraz Budowa zastawek na istniejących rowach w obszarze Malechowskie Błota oraz odbudowa jazu wraz z pełnieniem nadzoru autorskiego - 3 postępowanie.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/748880-2026",
+  "zamawiajacy": "Skarb Państwa PGL LP Nadleśnictwo Szczecinek",
+  "data_publikacji": "2026-10-28",
+  "termin_skladania": "2026-11-16T09:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71320000",
+   "71322000",
+   "71242000",
+   "71248000",
+   "71320000",
+   "71320000",
+   "71322000",
+   "71242000",
+   "71248000",
+   "71322000",
+   "71242000",
+   "71248000"
+  ],
+  "score": 9,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-28",
+  "hash": "8229aa2e24bbb0c9cf2a7e8ef522f2eb666046d6edb3cb421522291c8f310dfc"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi nadzoru budowlanego – Usługa nadzoru inwestorskiego nad zadaniem pn. Wykonanie robót budowlanych i prac konserwatorskich w ramach projektu pn. „Nowoczesne muzeum w zabytkowych murach – podniesienie atrakcyjności turystycznej Zamku Kapituły Warmińskiej w Olsztynie – Pomnika Historii, będącego świadectwem działalności Mikołaja Kopernika\"",
   "url": "https://ted.europa.eu/en/notice/-/detail/721087-2026",
   "zamawiajacy": "Muzeum Warmii i Mazur w Olsztynie",
@@ -17760,7 +17775,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-27",
+  "dodano": "2026-10-28",
   "hash": "dc984692c037e9b66ef13c02c2572f68ab623049f01caf91f299aac6993f4e53"
  },
  {
@@ -18099,7 +18114,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-27",
+  "dodano": "2026-10-28",
   "hash": "b24f6184f522b8ec32d5bbb91e607a81de08d25345994d73971f0e4f117ad2e6"
  },
  {
@@ -18141,7 +18156,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-27",
+  "dodano": "2026-10-28",
   "hash": "c1de950043889208341515731a9263ed2257a5693ff5a95cc7b58d7025211baf"
  },
  {
@@ -18643,7 +18658,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-27",
+  "dodano": "2026-10-28",
   "hash": "a5565ddb91756114d2b91d1b22836b5b192a6b7197e1729688ff8120571c5982"
  },
  {
@@ -18978,7 +18993,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-27",
+  "dodano": "2026-10-28",
   "hash": "129a4f5d8d3b2de527b93ae845e53bd8cfad832fc10b3c020bc07cf458017adb"
  },
  {
@@ -18999,8 +19014,32 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-27",
+  "dodano": "2026-10-28",
   "hash": "6506d005080bdae9ce8dcd36f320d62a46025347d02afbc1e7ee564e2db26b6e"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Nadzór nad projektem i dokumentacją – Pełnienie funkcji Nadzoru Inwestorskiego (NI) dla zadania inwestycyjnego numer 2021/02, pod nazwą ,,Opracowanie wielobranżowej dokumentacji projektowo kosztorysowej i budowa nowego Zespołu Szkół w Łomiankach Dolnych”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/746286-2026",
+  "zamawiajacy": "Gmina Łomianki",
+  "data_publikacji": "2026-10-28",
+  "termin_skladania": "2026-11-27T11:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71248000",
+   "71247000",
+   "71248000",
+   "71247000"
+  ],
+  "score": 8,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-28",
+  "hash": "099f63224e358227918f7b357f1f2f88e0d62f93114b522c993d0fcec871f9fe"
  },
  {
   "zrodlo": "ted",
@@ -19079,7 +19118,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-27",
+  "dodano": "2026-10-28",
   "hash": "2819b7af81b051aabad26f2987b70a16adff06051996a57d23f6664dfb0c21fa"
  },
  {
@@ -19112,6 +19151,65 @@
   "status_opisu": "brak",
   "dodano": "2026-10-22",
   "hash": "c53a77cf1698aa612d0654dae1889c4fe3a17b6dbcfe19ab4b9fd76db721c17f"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Instalacje słoneczne – Odnawialne źródła energii w Gminie Gorzyce, Godów, Kornowac i Radlin - powtórka",
+  "url": "https://ted.europa.eu/en/notice/-/detail/748851-2026",
+  "zamawiajacy": "Miasto Radlin",
+  "data_publikacji": "2026-10-28",
+  "termin_skladania": "2026-12-01T10:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "09332000",
+   "09332000",
+   "09332000",
+   "09332000",
+   "09331200",
+   "31434000",
+   "44112410",
+   "45310000",
+   "45300000",
+   "45231000",
+   "45261215",
+   "45315700",
+   "71314100",
+   "71323100",
+   "71334000",
+   "71320000",
+   "09331200",
+   "31434000",
+   "44112410",
+   "45310000",
+   "45300000",
+   "45231000",
+   "45261215",
+   "45315700",
+   "71314100",
+   "71323100",
+   "71334000",
+   "71320000",
+   "09331200",
+   "31434000",
+   "44112410",
+   "45310000",
+   "45300000",
+   "45231000",
+   "45261215",
+   "45315700",
+   "71314100",
+   "71323100",
+   "71334000",
+   "42511110",
+   "71320000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-28",
+  "hash": "8967a6c679eed6a260321e67051653397c6eedf17004d24beffc9c7bf220d1d4"
  },
  {
   "zrodlo": "ted",
@@ -19290,7 +19388,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-27",
+  "dodano": "2026-10-28",
   "hash": "290f81ae419c81d536659f4d032f1bd1846fc25f4bb7c58b1e8f6aee39aa16a3"
  },
  {
@@ -19314,5 +19412,25 @@
   "status_opisu": "brak",
   "dodano": "2026-10-22",
   "hash": "9ccf622095cdf3fa26a7312695d68d07cf50974d0a006871d490eb83b43351d0"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Studia wykonalności, usługi doradcze, analizy – Realizacja usługi doradczej pn. „Wspólna Analiza Komercyjna Nordycko-Bałtyckiego Korytarza Wodorowego”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/747688-2026",
+  "zamawiajacy": "Operator Gazociągów Przesyłowych GAZ-SYSTEM S.A.",
+  "data_publikacji": "2026-10-28",
+  "termin_skladania": "2026-12-10T10:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71241000",
+   "71240000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-15",
+  "hash": "1c99c2d62d2b8895d7fbf90165bd3fb682ab52528c9460356136699bd0679cd1"
  }
 ]
