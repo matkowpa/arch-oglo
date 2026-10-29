@@ -166,30 +166,6 @@
   "hash": "2c1ec276a35f54ed8c5d2b6a3ee2beb7c1c4bb8edfcf98e82c8f0f14b7fe2a7a"
  },
  {
-  "zrodlo": "ted",
-  "tytul": "Polska – Usługi architektoniczne w zakresie obiektów budowlanych – ZZK - NZ/241/3400/80/26 Wykonanie dokumentacji projektowo-kosztorysowej na remont i przebudowę budynków gminnych położonych we Wrocławiu – 2 Zadania",
-  "url": "https://ted.europa.eu/en/notice/-/detail/526426-2026",
-  "zamawiajacy": "Zarząd Zasobu Komunalnego Jednostka Budżetowa Gminy Wrocław",
-  "data_publikacji": "2026-07-30",
-  "termin_skladania": "2026-09-02T11:30:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71221000",
-   "71221000",
-   "71221000",
-   "71221000"
-  ],
-  "score": 8,
-  "tagi": [
-   "cpv-71",
-   "samorząd",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": null,
-  "hash": "8b26603009992df2aa90e6648df2fc9145a4c1126f90985c705b7b3fa0796fa2"
- },
- {
   "zrodlo": "pz-search",
   "tytul": "Budowa łącznika pomiędzy ulicą Polną a Widokową w Kolbudach- wielobranżowa dokumentacja projektowo-kosztorysowa",
   "url": "https://platformazakupowa.pl/transakcja/1366947",
@@ -1835,42 +1811,6 @@
   "status_opisu": "pobrany",
   "dodano": "2026-09-04",
   "hash": "11e0053f5e052b84ca169685f57bbab6d1478d9137a2dd995c45329ae6be453c"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Usługi zarządzania budową – Pełnienie funkcji Inżyniera Kontraktu dotyczącej inwestycji pn. „Poprawa dostępu do portu morskiego w Szczecinie – Budowa mijanki dla statków na torze wodnym Świnoujście – Szczecin.”",
-  "url": "https://ted.europa.eu/en/notice/-/detail/529420-2026",
-  "zamawiajacy": "Dyrektor Urzędu Morskiego w Szczecinie",
-  "data_publikacji": "2026-07-30",
-  "termin_skladania": "2026-09-14T10:30:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71540000",
-   "71541000",
-   "71520000",
-   "71248000",
-   "71247000",
-   "71244000",
-   "71311000",
-   "71311100",
-   "71317000",
-   "71540000",
-   "71541000",
-   "71520000",
-   "71248000",
-   "71247000",
-   "71244000",
-   "71311000",
-   "71311100",
-   "71317000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": null,
-  "hash": "6c0204f751b1c61dbd164f17d8ba4de13e3900df004b2ccda695f8f15d45f677"
  },
  {
   "zrodlo": "ted",
@@ -14663,36 +14603,6 @@
   "hash": "14f25a75ac79033681b3c2b149b60ad709d8eb6618371084fb07f24c6e9ffb03"
  },
  {
-  "zrodlo": "ted",
-  "tytul": "Polska – Usługi zarządzania projektem budowlanym – Pełnienie funkcji Inżyniera Kontraktu dla projektu \"Budowa oddziału psychiatrii sądowej o podstawowym zabezpieczeniu przez MEDiSON Spółkę z ograniczoną odpowiedzialnością\"",
-  "url": "https://ted.europa.eu/en/notice/-/detail/657302-2026",
-  "zamawiajacy": "MEDiSON Spółka z ograniczoną odpowiedzialnością",
-  "data_publikacji": "2026-09-24",
-  "termin_skladania": "2026-10-29T14:00:00+01:00",
-  "opis": null,
-  "cpv": [
-   "71541000",
-   "71540000",
-   "71520000",
-   "71000000",
-   "71244000",
-   "71248000",
-   "71541000",
-   "71540000",
-   "71520000",
-   "71000000",
-   "71244000",
-   "71248000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-24",
-  "hash": "5c0a384bd90fee317e97bffcbb35399d28123ace6a6844aaaf0739cbcb9d183f"
- },
- {
   "zrodlo": "pz-search",
   "tytul": "ZDM.NE-3.332.85.2026 Dokumentacja projektowa dla remontu kładki pieszo-rowerowej nad rzeką San w Przemyślu",
   "url": "https://platformazakupowa.pl/transakcja/1397744",
@@ -14708,36 +14618,6 @@
   "status_opisu": "brak",
   "dodano": "2026-10-26",
   "hash": "2988caa81be625777c5cd464639f85846cb260ab34b2b0ed1bfe413cde854e29"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Urządzenia do obróbki osadów – Instalacja jako element ciągu technologicznego oczyszczalni umożliwiająca uzyskanie Produktu Końcowego",
-  "url": "https://ted.europa.eu/en/notice/-/detail/627017-2026",
-  "zamawiajacy": "Spółka Komunalna Wschowa Sp. z o.o.",
-  "data_publikacji": "2026-09-11",
-  "termin_skladania": "2026-10-30T08:00:00+01:00",
-  "opis": null,
-  "cpv": [
-   "42996900",
-   "71320000",
-   "45252127",
-   "45351000",
-   "50800000",
-   "66114000",
-   "42996900",
-   "71320000",
-   "45252127",
-   "45351000",
-   "50800000",
-   "66114000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-11",
-  "hash": "bb24f3978adf9542bbe3821ac2bb30129fe96c7983a40743f9bdc048e5aef582"
  },
  {
   "zrodlo": "bzp",
@@ -15471,7 +15351,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-28",
+  "dodano": "2026-10-29",
   "hash": "c7016c75ab38041979a0179024419258bd7a84ae07d887ec2a1e41818318e9c2"
  },
  {
@@ -15504,29 +15384,6 @@
   "status_opisu": "brak",
   "dodano": "2026-10-21",
   "hash": "a8b2ad6aa8549425a6757a56ffc989d5b5b61217b1b1d65a381697b54dc53164"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Usługi inżynierii projektowej w zakresie inżynierii lądowej i wodnej – Opracowanie dokumentacji projektowej dla projektu pn.: „Budowa linii łączącej Bełchatów z linią 131”",
-  "url": "https://ted.europa.eu/en/notice/-/detail/736740-2026",
-  "zamawiajacy": "PKP Polskie Linie Kolejowe S.A.",
-  "data_publikacji": "2026-10-23",
-  "termin_skladania": "2026-11-03T09:00:00+01:00",
-  "opis": null,
-  "cpv": [
-   "71322000",
-   "71248000",
-   "71322000",
-   "71248000"
-  ],
-  "score": 9,
-  "tagi": [
-   "cpv-71",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-10-28",
-  "hash": "2c0eaa0553670c85cb3834b2406219cd00341f9120f228bffe35364ab8669b1a"
  },
  {
   "zrodlo": "ted",
@@ -15684,64 +15541,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Instalacje słoneczne – Dostawa i montaż instalacji fotowoltaicznej w PP nr 24 z magazynem energii wraz z dokumentacją - w ramach projektu: Odnawialne źródła energii w budynkach użyteczności publicznej w Jastrzębiu-Zdroju",
-  "url": "https://ted.europa.eu/en/notice/-/detail/737082-2026",
-  "zamawiajacy": "Miasto Jastrzębie-Zdrój",
-  "data_publikacji": "2026-10-23",
-  "termin_skladania": "2026-11-03T10:00:00+01:00",
-  "opis": null,
-  "cpv": [
-   "09332000",
-   "09331200",
-   "31430000",
-   "45310000",
-   "71320000",
-   "51112200",
-   "09332000",
-   "09331200",
-   "31430000",
-   "45310000",
-   "71320000",
-   "51112200"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-10-28",
-  "hash": "312aa8baff7607ef7c732eefde68454cfbc5ec40722684d6979948e9c02bd16d"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Usługi nadzoru budowlanego – Pełnienie nadzoru dla zaprojektowania i wykonania robót na linii kolejowej nr 68 na odcinku Stalowa Wola Rozwadów – Przeworsk wraz z pełnieniem nadzoru autorskiego w ramach projektu pn.: Prace na linii kolejowej nr 68 na odcinku Stalowa Wola Rozwadów – Przeworsk - etap I",
-  "url": "https://ted.europa.eu/en/notice/-/detail/727448-2026",
-  "zamawiajacy": "PKP Polskie Linie Kolejowe S.A.",
-  "data_publikacji": "2026-10-21",
-  "termin_skladania": "2026-11-03T10:00:00+01:00",
-  "opis": null,
-  "cpv": [
-   "71520000",
-   "71247000",
-   "71521000",
-   "71248000",
-   "71520000",
-   "71247000",
-   "71521000",
-   "71248000"
-  ],
-  "score": 5,
-  "tagi": [
-   "bonus-ue/strategiczny",
-   "cpv-71",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-10-26",
-  "hash": "b612f864d7909afe18c20a26d7602b5fa3bc991ea6d935f0e02c10d6ba709779"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Roboty budowlane w zakresie budynków – Opracowanie dokumentacji projektowej (wraz z pełnieniem nadzoru autorskiego na etapie realizacji zadania) oraz wykonanie robót budowlanych, w formule „zaprojektuj i wybuduj” w ramach projektu pn.: Budowa w Zielonej Górze przy ul. Wyspiańskiego nowego budynku na potrzeby Samodzielnego Publicznego Zakładu Opieki Zdrowotnej Centrum Leczenia Dzieci i Młodzieży w Zaborze”.",
   "url": "https://ted.europa.eu/en/notice/-/detail/738483-2026",
   "zamawiajacy": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Centrum Leczenia Dzieci i Młodzieży w Zaborze",
@@ -15769,7 +15568,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-28",
+  "dodano": "2026-10-29",
   "hash": "21f9a6b220da649f5782545009dc41c9d17ad1df36173a45c3d0fbda3cd35fb7"
  },
  {
@@ -15953,7 +15752,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-28",
+  "dodano": "2026-10-29",
   "hash": "ac05ac425cfb14394e1fdd23a6824894eb7fb8c3995a9fff363ee8485fba4e27"
  },
  {
@@ -16464,6 +16263,26 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowej wraz z uzyskaniem decyzji administracyjnych z uzgodnieniami na wykonanie robót dla zadania Budowa wiaty na Cietniu na działce ewidencyjnej nr 462, II postępowanie",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-e272e1a9-409b-4182-a8b5-e67b99e64f80",
+  "zamawiajacy": "Skarb Państwa Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Limanowa",
+  "data_publikacji": "2026-10-28",
+  "termin_skladania": "2026-11-05T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00506942 z dnia 2026-10-28 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowej wraz z uzyskaniem decyzji administracyjnych z uzgodnieniami na wykonanie robót dla zadania Budowa wiaty na Cietniu na działce ewidencyjnej nr 462, II postępowanie SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Skarb Państwa Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Limanowa 1.3.) Oddział zamawiającego: Nadleśnictwo Limanowa 1.4) Krajowy Numer Identyfikacyjny: REGON 350545636 1.5) Adres zamawiającego 1.5.1.) Ulica: Kopernika 1.5.2.) Miejscowość: Limanowa 1.5.3.) Kod pocztowy: 34-600 1.5.4.) Województwo: małopolskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL218 - Nowosądecki 1.5.9.) Adres poczty elektronicznej: limanowa@krakow.asy.gov.pl 1.5.10.) Adres strony internetowej zamawiaj",
+  "cpv": [
+   "71320000-7"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-29",
+  "hash": "2d58791b9ae13e3d03ead39925346f9999bb1d8bc6508e7ef0de708234d00eb4"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "„Opracowanie dokumentacji projektowej dla zadania pn. „Modernizacja i rozbudowa wraz z wyposażeniem Centrum Zdrowia Psychicznego w Złotowie””",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-6e552a02-838d-4bb2-83b1-5c1f4b16ae0f",
   "zamawiajacy": "Szpital Powiatowy im. Alfreda Sokołowskiego w Złotowie",
@@ -16682,6 +16501,68 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Usługi zarządzania projektem budowlanym – Pełnienie funkcji Inżyniera Kontraktu dla projektu \"Budowa oddziału psychiatrii sądowej o podstawowym zabezpieczeniu przez MEDiSON Spółkę z ograniczoną odpowiedzialnością\"",
+  "url": "https://ted.europa.eu/en/notice/-/detail/750484-2026",
+  "zamawiajacy": "MEDiSON Spółka z ograniczoną odpowiedzialnością",
+  "data_publikacji": "2026-10-29",
+  "termin_skladania": "2026-11-05T14:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71541000",
+   "71540000",
+   "71520000",
+   "71000000",
+   "71244000",
+   "71248000",
+   "71541000",
+   "71540000",
+   "71520000",
+   "71000000",
+   "71244000",
+   "71248000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-24",
+  "hash": "d1b90ba6465e98c1d8a77dcbe9bbb5e11cbe30d8216aa38c3820e592e61892cd"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie kompleksowej dokumentacji projektowej dla zadania pn. Budowa drogi pieszo-rowerowej od ul. Oświęcimskiej do ul. Edukacji wzdłuż DK-1 w Tychach",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-6caddf1d-582a-402a-8b04-795fecf795e6",
+  "zamawiajacy": "Miejski Zarząd Ulic i Mostów w Tychach",
+  "data_publikacji": "2026-10-29",
+  "termin_skladania": "2026-11-06T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00507338 z dnia 2026-10-29 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie kompleksowej dokumentacji projektowej dla zadania pn. Budowa drogi pieszo-rowerowej od ul. Oświęcimskiej do ul. Edukacji wzdłuż DK-1 w Tychach SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Miejski Zarząd Ulic i Mostów w Tychach 1.4) Krajowy Numer Identyfikacyjny: REGON 000166344 1.5) Adres zamawiającego 1.5.1.) Ulica: Budowlanych 59 1.5.2.) Miejscowość: Tychy 1.5.3.) Kod pocztowy: 43-100 1.5.4.) Województwo: śląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL22C - Tyski 1.5.9.) Adres poczty elektronicznej: zamowienia@mzuim.tychy.pl 1.5.10.) Adres strony internetowej zamawiającego: www.mzuim.tychy.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka budżetowa 1.7.)",
+  "cpv": [
+   "71322000-1",
+   "71322500-6",
+   "71242000-6",
+   "71248000-8",
+   "71354000-4",
+   "71355000-1",
+   "71332000-4",
+   "71351500-8",
+   "71330000-0",
+   "71356300-1",
+   "71323100-9",
+   "71420000-8",
+   "90700000-4"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71",
+   "drogi"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-29",
+  "hash": "6897ef4601aae66b1985bc161189dde4d29e2fdf462833860b5640c3bd164f17"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi zarządzania projektem budowlanym – Sprawowanie nadzoru inwestorskiego wraz z pozostałymi czynnościami związanymi z obsługą i rozliczeniem dla projektu pn.: \"Wsparcie rehabilitacji onkologicznej w Zachodniopomorskim Centrum Onkologii\".",
   "url": "https://ted.europa.eu/en/notice/-/detail/733512-2026",
   "zamawiajacy": "Szpitale Zachodniopomorskie Samodzielny Publiczny Zakład Opieki Zdrowotnej",
@@ -16784,6 +16665,29 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynierii projektowej w zakresie inżynierii lądowej i wodnej – Opracowanie dokumentacji projektowej dla projektu pn.: „Budowa linii łączącej Bełchatów z linią 131”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/752600-2026",
+  "zamawiajacy": "PKP Polskie Linie Kolejowe S.A.",
+  "data_publikacji": "2026-10-29",
+  "termin_skladania": "2026-11-06T09:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71322000",
+   "71248000",
+   "71322000",
+   "71248000"
+  ],
+  "score": 9,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-28",
+  "hash": "81d687f55143a7c7b90defbfa79afcdaeab7714b0a8565d073bb9af031b60b69"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Opracowanie projektu budowlanego i projektów wykonawczych oraz uzyskanie decyzji administracyjnych niezbędnych do wykonania robót budowlanych w ramach realizacji zadania pn. „Budowa ul. Zdziarskiej na odcinku od ul. Ostródzkiej do ul. Płochocińskiej wraz z mostem nad Kanałem Żerańskim – prace przygotowawcze”.",
   "url": "https://ted.europa.eu/en/notice/-/detail/735877-2026",
   "zamawiajacy": "Miasto Stołeczne Warszawa - Stołeczny Zarząd Rozbudowy Miasta",
@@ -16842,8 +16746,38 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-28",
+  "dodano": "2026-10-29",
   "hash": "1aa0d74f663e50cb290f8bbdbecd856c4f0a8abfecf3ee6b68c2debbdc3f853b"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Instalacje słoneczne – Dostawa i montaż instalacji fotowoltaicznej w PP nr 24 z magazynem energii wraz z dokumentacją - w ramach projektu: Odnawialne źródła energii w budynkach użyteczności publicznej w Jastrzębiu-Zdroju",
+  "url": "https://ted.europa.eu/en/notice/-/detail/749533-2026",
+  "zamawiajacy": "Miasto Jastrzębie-Zdrój",
+  "data_publikacji": "2026-10-29",
+  "termin_skladania": "2026-11-06T10:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "09332000",
+   "09331200",
+   "31430000",
+   "45310000",
+   "71320000",
+   "51112200",
+   "09332000",
+   "09331200",
+   "31430000",
+   "45310000",
+   "71320000",
+   "51112200"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-28",
+  "hash": "22302b72c86488c3d682130dcded467a93aba0a41185b74dddbdb4ab72af0a4e"
  },
  {
   "zrodlo": "ted",
@@ -17014,8 +16948,31 @@
    "drogi"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-28",
+  "dodano": "2026-10-29",
   "hash": "8bf4f8c2a49d3c80b45c778aaa0ade512275e63465670cf6e1f89ed8718ca6d9"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowej Miejsc Doraźnego Schronienia (MDS) na terenie Gminy Pniewy.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-2b55f8fa-8e6b-425d-89bf-c70a3a46b5e1",
+  "zamawiajacy": "GMINA PNIEWY",
+  "data_publikacji": "2026-10-29",
+  "termin_skladania": "2026-11-09T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00507480 z dnia 2026-10-29 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowej Miejsc Doraźnego Schronienia (MDS) na terenie Gminy Pniewy. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: GMINA PNIEWY 1.4) Krajowy Numer Identyfikacyjny: REGON 670223876 1.5) Adres zamawiającego 1.5.1.) Ulica: Pniewy 1.5.2.) Miejscowość: Pniewy 1.5.3.) Kod pocztowy: 05-652 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL926 - Żyrardowski 1.5.9.) Adres poczty elektronicznej: pniewy@pniewy.pl 1.5.10.) Adres strony internetowej zamawiającego: www.pniewy.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - związek jednostek samorządu terytorialnego 1.7.) Przedmiot działalności zamawiającego: Ogólne usługi publiczne SEKCJA II –",
+  "cpv": [
+   "71320000-7",
+   "71000000-8",
+   "71220000-6"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-29",
+  "hash": "7c24c9ffabc8ecb0e87e44ec6064c9b2940b8905a409c625cf68202a496309c7"
  },
  {
   "zrodlo": "ted",
@@ -17062,7 +17019,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-28",
+  "dodano": "2026-10-29",
   "hash": "dccd5981c42bee1001f949b5a654b458b9ab57abb1937f70a38b5eb16bf01f26"
  },
  {
@@ -17186,7 +17143,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-28",
+  "dodano": "2026-10-29",
   "hash": "19d04a3c5554c8ff20f96847ef227392f21e144c5d2748d60e2807d1da51e631"
  },
  {
@@ -17255,7 +17212,7 @@
    "spolka-sp"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-28",
+  "dodano": "2026-10-29",
   "hash": "fb0c712dd75e8e5e12ddbc26a5eaa6900a67183c3124b874720cbd44d9dd7043"
  },
  {
@@ -17294,7 +17251,7 @@
    "spolka-sp"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-28",
+  "dodano": "2026-10-29",
   "hash": "2b0039c3a8575b3a67f2a0ee4a6cfb113e45b99b79af923226ab15e88ac9a459"
  },
  {
@@ -17317,6 +17274,55 @@
   "status_opisu": "brak",
   "dodano": "2026-10-08",
   "hash": "7a9a87a683b11f0e58606b720225e8845a08064e865e34c041ecc819e0db1c42"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie wielobranżowej dokumentacji przedprojektowej i przetargowej dla Interdyscyplinarnego Centrum Medycznego na terenie Szpitala św. Wojciecha w Gdańsku.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-7fc1a370-7813-4f0f-9acb-85d63d1718a6",
+  "zamawiajacy": "Copernicus Podmiot Leczniczy Sp. z o.o.",
+  "data_publikacji": "2026-10-29",
+  "termin_skladania": "2026-11-10T09:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00508336 z dnia 2026-10-29 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie wielobranżowej dokumentacji przedprojektowej i przetargowej dla Interdyscyplinarnego Centrum Medycznego na terenie Szpitala św. Wojciecha w Gdańsku. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Copernicus Podmiot Leczniczy Sp. z o.o. 1.3.) Oddział zamawiającego: Szpital św. Wojciecha al. Jana Pawła II 50, 80-462 Gdańsk 1.4) Krajowy Numer Identyfikacyjny: REGON 221964385 1.5) Adres zamawiającego 1.5.1.) Ulica: Nowe Ogrody 1-6 1.5.2.) Miejscowość: Gdańsk 1.5.3.) Kod pocztowy: 80-803 1.5.4.) Województwo: pomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL633 - Trójmiejski 1.5.9.) Adres poczty elektronicznej: zamowienia.publiczne@copernicus.gda.pl 1.5.10.) Adres strony internetowej zamawiającego: www.copernicus.gda.p",
+  "cpv": [
+   "71000000-8",
+   "71220000-6",
+   "71320000-7"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-29",
+  "hash": "0ddec683673105f54e131995f624e8ad305c91cbba1598eaa31bfaa5f9223c88"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Pełnienie funkcji Inżyniera Kontraktu dotyczącej inwestycji pn. „Budowa nabrzeża i slipu wraz z infrastrukturą w Porcie Wolin.”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-700f1874-c964-4314-9a2a-123a5486b48a",
+  "zamawiajacy": "URZĄD MORSKI W SZCZECINIE",
+  "data_publikacji": "2026-10-29",
+  "termin_skladania": "2026-11-10T09:30:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00508464 z dnia 2026-10-29 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Pełnienie funkcji Inżyniera Kontraktu dotyczącej inwestycji pn. „Budowa nabrzeża i slipu wraz z infrastrukturą w Porcie Wolin.” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: URZĄD MORSKI W SZCZECINIE 1.4) Krajowy Numer Identyfikacyjny: REGON 000145017 1.5) Adres zamawiającego 1.5.1.) Ulica: pl. Stefana Batorego 4 1.5.2.) Miejscowość: Szczecin 1.5.3.) Kod pocztowy: 70-207 1.5.4.) Województwo: zachodniopomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL424 - Miasto Szczecin 1.5.7.) Numer telefonu: 48 914403423 1.5.9.) Adres poczty elektronicznej: zamowienia@ums.gov.pl 1.5.10.) Adres strony internetowej zamawiającego: www.ums.gov.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - orga",
+  "cpv": [
+   "71540000-5",
+   "71541000-2",
+   "71520000-9",
+   "71248000-8",
+   "71247000-1",
+   "71244000-0",
+   "71311000-1",
+   "71311100-2",
+   "71317000-3"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-29",
+  "hash": "9adedbf3ea439eaa3dcead13cdc2b606810b9e957448e1cbf397aa761f9e4ab0"
  },
  {
   "zrodlo": "ted",
@@ -17345,7 +17351,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-28",
+  "dodano": "2026-10-29",
   "hash": "406c4f8d8d2a906270c5fbc06e7059eff6a4baff7b3c1304c0ab3cbe6abb2192"
  },
  {
@@ -17442,7 +17448,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-28",
+  "dodano": "2026-10-29",
   "hash": "474cb7f3393bee9cf6bbc0d34fde1c213cd1d3d5905c4ee84bdbfa8bc6b45fbb"
  },
  {
@@ -17491,6 +17497,36 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Urządzenia do obróbki osadów – Instalacja jako element ciągu technologicznego oczyszczalni umożliwiająca uzyskanie Produktu Końcowego",
+  "url": "https://ted.europa.eu/en/notice/-/detail/751926-2026",
+  "zamawiajacy": "Spółka Komunalna Wschowa Sp. z o.o.",
+  "data_publikacji": "2026-10-29",
+  "termin_skladania": "2026-11-13T08:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "42996900",
+   "71320000",
+   "45252127",
+   "45351000",
+   "50800000",
+   "66114000",
+   "42996900",
+   "71320000",
+   "45252127",
+   "45351000",
+   "50800000",
+   "66114000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-11",
+  "hash": "1b82201c929474bbdce4ab6dae446bdf3fbb5111ad21727bf37560f2d808ccbe"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Opracowanie dokumentacji projektowej dla zadania pn. „Budowa Centrum Przesiadkowego w Wilkszynie”",
   "url": "https://ted.europa.eu/en/notice/-/detail/747283-2026",
   "zamawiajacy": "Gmina Miękinia",
@@ -17514,8 +17550,32 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-28",
+  "dodano": "2026-10-29",
   "hash": "0b62c21920a86de1824ad62f9863d536332f0c92fe35d53d798b7d1f8a979410"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowej i robót budowlanych dla inwestycji pn. „Remont nawierzchni utwardzonych wraz z zagospodarowaniem terenów zielonych przy ul. Sienkiewicza” (Zadanie B8).",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-9dc834a4-2154-47aa-ac9d-96e4c7b61b6c",
+  "zamawiajacy": "GMINA - MIASTO PŁOCK",
+  "data_publikacji": "2026-10-29",
+  "termin_skladania": "2026-11-13T09:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00507595 z dnia 2026-10-29 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Roboty budowlane Wykonanie dokumentacji projektowej i robót budowlanych dla inwestycji pn. „Remont nawierzchni utwardzonych wraz z zagospodarowaniem terenów zielonych przy ul. Sienkiewicza” (Zadanie B8). SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: GMINA - MIASTO PŁOCK 1.4) Krajowy Numer Identyfikacyjny: REGON 611016086 1.5) Adres zamawiającego 1.5.1.) Ulica: Stary Rynek 1 1.5.2.) Miejscowość: Płock 1.5.3.) Kod pocztowy: 09-400 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL923 - Płocki 1.5.9.) Adres poczty elektronicznej: przetargi@plock.eu 1.5.10.) Adres strony internetowej zamawiającego: https://nowybip.plock.eu/ 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych",
+  "cpv": [
+   "45000000-7",
+   "71320000-7",
+   "71248000-8"
+  ],
+  "score": 10,
+  "tagi": [
+   "cpv-71",
+   "roboty-budowlane",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-29",
+  "hash": "d44f553b88cb4642db5bd666a02bba26e930ea940078f03a7be81a1b3c6074e8"
  },
  {
   "zrodlo": "ted",
@@ -17572,7 +17632,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-28",
+  "dodano": "2026-10-29",
   "hash": "5aa9bee7ff19704a94f5947a8ca1287eb7ddba256050cb36047de1cae3fa7aae"
  },
  {
@@ -17822,7 +17882,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-28",
+  "dodano": "2026-10-29",
   "hash": "dc984692c037e9b66ef13c02c2572f68ab623049f01caf91f299aac6993f4e53"
  },
  {
@@ -18139,6 +18199,34 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Usługi nadzoru budowlanego – Pełnienie nadzoru dla zaprojektowania i wykonania robót na linii kolejowej nr 68 na odcinku Stalowa Wola Rozwadów – Przeworsk wraz z pełnieniem nadzoru autorskiego w ramach projektu pn.: Prace na linii kolejowej nr 68 na odcinku Stalowa Wola Rozwadów – Przeworsk - etap I",
+  "url": "https://ted.europa.eu/en/notice/-/detail/750790-2026",
+  "zamawiajacy": "PKP Polskie Linie Kolejowe S.A.",
+  "data_publikacji": "2026-10-29",
+  "termin_skladania": "2026-11-17T10:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71520000",
+   "71247000",
+   "71521000",
+   "71248000",
+   "71520000",
+   "71247000",
+   "71521000",
+   "71248000"
+  ],
+  "score": 5,
+  "tagi": [
+   "bonus-ue/strategiczny",
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-26",
+  "hash": "ccaa90343576dc79a51a8cf3f81a64e5db3cdeb6446c9ee3d48591f902f7c693"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi architektoniczne, budowlane, inżynieryjne i kontrolne – Opracowanie koncepcji oraz dokumentacji projektowej rozbudowy i przebudowy budynku przy ul. Filipowskiej 20B w Suwałkach wraz z niezbędną infrastrukturą na potrzeby placówki opiekuńczo – wychowawczej",
   "url": "https://ted.europa.eu/en/notice/-/detail/708122-2026",
   "zamawiajacy": "Miasto Suwałki",
@@ -18161,7 +18249,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-28",
+  "dodano": "2026-10-29",
   "hash": "b24f6184f522b8ec32d5bbb91e607a81de08d25345994d73971f0e4f117ad2e6"
  },
  {
@@ -18203,7 +18291,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-28",
+  "dodano": "2026-10-29",
   "hash": "c1de950043889208341515731a9263ed2257a5693ff5a95cc7b58d7025211baf"
  },
  {
@@ -18705,7 +18793,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-28",
+  "dodano": "2026-10-29",
   "hash": "a5565ddb91756114d2b91d1b22836b5b192a6b7197e1729688ff8120571c5982"
  },
  {
@@ -19040,7 +19128,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-28",
+  "dodano": "2026-10-29",
   "hash": "129a4f5d8d3b2de527b93ae845e53bd8cfad832fc10b3c020bc07cf458017adb"
  },
  {
@@ -19061,7 +19149,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-28",
+  "dodano": "2026-10-29",
   "hash": "6506d005080bdae9ce8dcd36f320d62a46025347d02afbc1e7ee564e2db26b6e"
  },
  {
@@ -19165,7 +19253,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-28",
+  "dodano": "2026-10-29",
   "hash": "2819b7af81b051aabad26f2987b70a16adff06051996a57d23f6664dfb0c21fa"
  },
  {
@@ -19202,9 +19290,9 @@
  {
   "zrodlo": "ted",
   "tytul": "Polska – Instalacje słoneczne – Odnawialne źródła energii w Gminie Gorzyce, Godów, Kornowac i Radlin - powtórka",
-  "url": "https://ted.europa.eu/en/notice/-/detail/748851-2026",
+  "url": "https://ted.europa.eu/en/notice/-/detail/750391-2026",
   "zamawiajacy": "Miasto Radlin",
-  "data_publikacji": "2026-10-28",
+  "data_publikacji": "2026-10-29",
   "termin_skladania": "2026-12-01T10:00:00+01:00",
   "opis": null,
   "cpv": [
@@ -19256,7 +19344,7 @@
   ],
   "status_opisu": "brak",
   "dodano": "2026-10-28",
-  "hash": "8967a6c679eed6a260321e67051653397c6eedf17004d24beffc9c7bf220d1d4"
+  "hash": "d1c78a2692fd2ddb765704d19ae652dfcba5aba504ee34925e74ecc9b828102a"
  },
  {
   "zrodlo": "ted",
@@ -19435,8 +19523,31 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-28",
+  "dodano": "2026-10-29",
   "hash": "290f81ae419c81d536659f4d032f1bd1846fc25f4bb7c58b1e8f6aee39aa16a3"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynierii projektowej w zakresie inżynierii lądowej i wodnej – Opracowanie dokumentacji projektowej: „Rozbudowa drogi wojewódzkiej nr 541 w miejscowości Lidzbark ”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/752245-2026",
+  "zamawiajacy": "Województwo Warmińsko – Mazurskie – Zarząd Dróg Wojewódzkich",
+  "data_publikacji": "2026-10-29",
+  "termin_skladania": "2026-12-04T11:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71322000",
+   "71220000",
+   "71322000",
+   "71220000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71",
+   "drogi"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-29",
+  "hash": "89395abd42032fe1ea1fd70a3f2bdb535e4485c3d80306edecb51bf5e85bcaf8"
  },
  {
   "zrodlo": "ted",
@@ -19479,5 +19590,26 @@
   "status_opisu": "brak",
   "dodano": "2026-10-28",
   "hash": "1c99c2d62d2b8895d7fbf90165bd3fb682ab52528c9460356136699bd0679cd1"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – \"Rewitalizacja Centrum Koszalina\" - opracowanie wielobranżowej dokumentacji projektowej.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/750748-2026",
+  "zamawiajacy": "ZARZĄD DRÓG I TRANSPORTU W KOSZALINIE",
+  "data_publikacji": "2026-10-29",
+  "termin_skladania": "2026-12-11T10:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71320000",
+   "71320000"
+  ],
+  "score": 15,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-29",
+  "hash": "1729e534ad2b552a968caffa6c3741dde3175e0cb190e4ddbc5908155a79b8d9"
  }
 ]
