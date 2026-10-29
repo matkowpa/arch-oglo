@@ -16087,6 +16087,25 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowo - kosztorysowej na renowację elewacji frontowych (od strony Rynku i ul. Zamkowej) budynku przy ul. Zamkowej nr 2/4 w Rybniku",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-85d65e00-a109-4a84-9b0c-b6375f4c7c48",
+  "zamawiajacy": "ZAKŁAD GOSPODARKI MIESZKANIOWEJ",
+  "data_publikacji": "2026-10-29",
+  "termin_skladania": "2026-11-05T06:30:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00510207 z dnia 2026-10-29 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowo - kosztorysowej na renowację elewacji frontowych (od strony Rynku i ul. Zamkowej) budynku przy ul. Zamkowej nr 2/4 w Rybniku SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: ZAKŁAD GOSPODARKI MIESZKANIOWEJ 1.4) Krajowy Numer Identyfikacyjny: REGON 271505550 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Tadeusza Kościuszki 17 1.5.2.) Miejscowość: Rybnik 1.5.3.) Kod pocztowy: 44-200 1.5.4.) Województwo: śląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL227 - Rybnicki 1.5.7.) Numer telefonu: 32 42 94 865 1.5.9.) Adres poczty elektronicznej: dzp@zgm.rybnik.pl 1.5.10.) Adres strony internetowej zamawiającego: https://www.zgm.rybnik.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora",
+  "cpv": [
+   "71221000-3"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-29",
+  "hash": "62b5b400e2fb032cc9ac43ce25312156c93c8d16c1411af18d107c39e1641a87"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Opracowanie dokumentacji projektowej budynku komunalnego mieszkalnego w Podkowie Leśnej – Zaspokojenie potrzeb budownictwa komunalnego",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-921ac6c7-5e3e-47cd-8aab-7de85c287b30",
   "zamawiajacy": "Miasto Podkowa Leśna",
