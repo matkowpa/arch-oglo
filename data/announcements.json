@@ -16737,7 +16737,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-29",
+  "dodano": "2026-10-30",
   "hash": "a14fc935bf09c4f69cde5c0a07014848f5817fa221aaef84c4d6257434c20215"
  },
  {
@@ -16807,6 +16807,26 @@
   "status_opisu": "pobrany",
   "dodano": "2026-10-29",
   "hash": "77cc05cd29dc56d9cef063266e4d2b150b4d63904fe2cc71871f21f8b600abe5"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej dla zadania pod nazwą ,,Wykonanie klimatyzacji w Sali gimnastycznej w Szkole Podstawowej nr 26 przy ul. Miedzianej 8” – numer postępowania 64/ZP/26",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-ec0445e0-4640-4602-9618-d46f372c23d5",
+  "zamawiajacy": "Miasto Stołeczne Warszawa, Dzielnica Wola",
+  "data_publikacji": "2026-10-30",
+  "termin_skladania": "2026-11-09T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00513153 z dnia 2026-10-30 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej dla zadania pod nazwą ,,Wykonanie klimatyzacji w Sali gimnastycznej w Szkole Podstawowej nr 26 przy ul. Miedzianej 8” – numer postępowania 64/ZP/26 SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Miasto Stołeczne Warszawa, Dzielnica Wola 1.3.) Oddział zamawiającego: Miasto Stołeczne Warszawa, Dzielnica Wola 1.4) Krajowy Numer Identyfikacyjny: REGON 01525964000184 1.5) Adres zamawiającego 1.5.1.) Ulica: Aleja &#34;Solidarności&#34; 90 1.5.2.) Miejscowość: Warszawa 1.5.3.) Kod pocztowy: 01-003 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL911 - Miasto Warszawa 1.5.9.) Adres poczty elektronicznej: wola.zzp@um.warszawa.pl 1.5.10.) Adres strony internetowej zamawiające",
+  "cpv": [
+   "71320000-7"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-30",
+  "hash": "37f2ac6ef2f8bf05ebaaba56645ab7b4f8b54923dc28d2e2d488a4430d0a417b"
  },
  {
   "zrodlo": "bzp",
@@ -16929,6 +16949,28 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowej budowy ścieżki rowerowej w obrębie przejazdu kolejowego w ciągu drogi powiatowej nr 1029F ul. Kochanowskiego w Niedoradzu",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-7459b94f-fc61-465c-b313-0ca94153dfc8",
+  "zamawiajacy": "POWIAT NOWOSOLSKI",
+  "data_publikacji": "2026-10-30",
+  "termin_skladania": "2026-11-09T09:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00513519 z dnia 2026-10-30 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowej budowy ścieżki rowerowej w obrębie przejazdu kolejowego w ciągu drogi powiatowej nr 1029F ul. Kochanowskiego w Niedoradzu SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: POWIAT NOWOSOLSKI 1.4) Krajowy Numer Identyfikacyjny: REGON 970770103 1.5) Adres zamawiającego 1.5.1.) Ulica: MONIUSZKI 3 1.5.2.) Miejscowość: Nowa Sól 1.5.3.) Kod pocztowy: 67-100 1.5.4.) Województwo: lubuskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL432 - Zielonogórski 1.5.9.) Adres poczty elektronicznej: sekretariat@powiat-nowosolski.pl 1.5.10.) Adres strony internetowej zamawiającego: www.powiat-nowosolski.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu te",
+  "cpv": [
+   "71320000-7"
+  ],
+  "score": 4,
+  "tagi": [
+   "bonus-ue/strategiczny",
+   "cpv-71",
+   "drogi",
+   "samorząd"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-30",
+  "hash": "a463df38a3fbc8f2399e73b4528ba7938e6770dfce983132e64a0f75d2ee54cf"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "„Sporządzenie dokumentacji oraz wykonanie układu kondycjonowania powietrza w komorach Budryk oraz Lebzeltern”",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-76c522e8-def4-45e0-b25b-d03209831f3b",
   "zamawiajacy": "KOPALNIA SOLI \"WIELICZKA\" SPÓŁKA AKCYJNA",
@@ -17003,7 +17045,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-25",
+  "dodano": "2026-10-30",
   "hash": "1ecbc41643cfa9aeb1fb236de289e1da1a391213ffd937e450b304b5eb27b0f5"
  },
  {
@@ -17319,7 +17361,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-29",
+  "dodano": "2026-10-30",
   "hash": "52819a503ab4f3dbce7d3b70ebd919156836529630f74cc6dc4a0250d02f91ab"
  },
  {
@@ -17520,7 +17562,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-07",
+  "dodano": "2026-10-30",
   "hash": "3c0cd2e0debd3a88b9daaa24791634eb12dbad4f93150fac28e2e4c2c7481c1a"
  },
  {
@@ -17875,7 +17917,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-06",
+  "dodano": "2026-10-30",
   "hash": "b02642daf923ea7e8b9165b550e809fcb560d29b622c1a5d21eb586972e3a7f5"
  },
  {
@@ -18383,7 +18425,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-13",
+  "dodano": "2026-10-30",
   "hash": "ef06692ce1942e454e88af9ffa078ce5325d8719e97737afd41b181dd41a901b"
  },
  {
@@ -18440,7 +18482,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-28",
+  "dodano": "2026-10-30",
   "hash": "2fbb0d83189e2bf6473eb45b84df89f013d541c5221102dedd3cb574515fa290"
  },
  {
@@ -18643,7 +18685,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-01",
+  "dodano": "2026-10-30",
   "hash": "33b16dfc4681e3f464cf873c88db0e7c90b1cd516e772d2343fb6f085faa7d05"
  },
  {
@@ -19338,7 +19380,7 @@
    "roboty-budowlane"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-06",
+  "dodano": "2026-10-30",
   "hash": "a67d24e33f60189066e90e21f46864824908036843bd57f54cdfb4b367b1377b"
  },
  {
