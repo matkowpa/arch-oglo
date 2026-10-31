@@ -16215,6 +16215,23 @@
   "hash": "d1b90ba6465e98c1d8a77dcbe9bbb5e11cbe30d8216aa38c3820e592e61892cd"
  },
  {
+  "zrodlo": "pz-search",
+  "tytul": "ZP.271.2.43.2026 Dokumentacja projektowa ul. Osiedla Łakomowo w Mąkowarsku",
+  "url": "https://platformazakupowa.pl/transakcja/1400590",
+  "zamawiajacy": "Urząd Miejski Koronowo",
+  "data_publikacji": null,
+  "termin_skladania": "2026-11-06 10:00:00",
+  "opis": null,
+  "cpv": [],
+  "score": 6,
+  "tagi": [
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-31",
+  "hash": "080f54a5b7b9598db99f14e30ff11c87b86f49aac24a7dd0c1aa34cec97ea7ca"
+ },
+ {
   "zrodlo": "bzp",
   "tytul": "Opracowanie kompleksowej dokumentacji projektowej dla zadania pn. Budowa drogi pieszo-rowerowej od ul. Oświęcimskiej do ul. Edukacji wzdłuż DK-1 w Tychach",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-6caddf1d-582a-402a-8b04-795fecf795e6",
