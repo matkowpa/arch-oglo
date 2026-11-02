@@ -111,41 +111,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – ,,Optymalizacja posiadanej dokumentacji projektowej na odbudowę zbiorników wodnych w leśnictwie Trzebnica, Osolin i Jary wraz z uzyskaniem prawomocnego pozwolenia na budowę i sprawowanie nadzoru autorskiego”",
-  "url": "https://ted.europa.eu/en/notice/-/detail/535732-2026",
-  "zamawiajacy": "Skarb Państwa - Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Oborniki Śląskie",
-  "data_publikacji": "2026-08-03",
-  "termin_skladania": "2026-09-01T10:00:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71320000",
-   "71322000",
-   "71520000",
-   "71330000",
-   "71320000",
-   "71320000",
-   "71320000",
-   "71322000",
-   "71520000",
-   "71330000",
-   "71322000",
-   "71520000",
-   "71330000",
-   "71322000",
-   "71520000",
-   "71330000"
-  ],
-  "score": 9,
-  "tagi": [
-   "cpv-71",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": null,
-  "hash": "4f2fbf50cdccea25ccf00bd6a42b6927d1e11fef3f39e1a77447e7dff92a9ccb"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Usługi projektowania architektonicznego – Opracowanie dokumentacji projektowej dla zadania: Budowa budynku dydaktycznego dla administracji",
   "url": "https://ted.europa.eu/en/notice/-/detail/579938-2026",
   "zamawiajacy": "Akademia Sztuki Wojennej",
@@ -9770,28 +9735,6 @@
   "hash": "4c88dea8c1c0bdeb23340e3ec110a839da238f88e690bcb2ff1fc95ad77487a6"
  },
  {
-  "zrodlo": "ted",
-  "tytul": "Polska – Usługi architektoniczne, inżynieryjne i planowania – Wykonanie dokumentacji projektowo-kosztorysowej na zmianę systemu ogrzewania na elektryczne w lokalach gminnych.",
-  "url": "https://ted.europa.eu/en/notice/-/detail/601808-2026",
-  "zamawiajacy": "Zarząd Zasobu Komunalnego Jednostka Budżetowa Gminy Wrocław",
-  "data_publikacji": "2026-09-01",
-  "termin_skladania": "2026-10-14T11:30:00+02:00",
-  "opis": null,
-  "cpv": [
-   "71240000",
-   "71240000"
-  ],
-  "score": 8,
-  "tagi": [
-   "cpv-71",
-   "samorząd",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-09-01",
-  "hash": "c88cb464942d9f20028a8d71627659681e7729bf62b069a67aa4fe5ec43739bc"
- },
- {
   "zrodlo": "bip:tauron",
   "tytul": "RZ4/184/26 Pietrzyków, dz. nr 243/2 - opracowanie dokumentacji projektowej i na jej podstawie budowa złącza kablowego ZKSN 20kV i wymiana słupowej stacji transformatorowej 20/0,4 kV WBW54182 wraz z dowiązaniem sieci nN (PSP 2602156)",
   "url": "https://swoz.tauron.pl/platform/demand/notice/public/current/list",
@@ -11010,32 +10953,6 @@
   "status_opisu": "pobrany",
   "dodano": "2026-10-09",
   "hash": "e64f132c7d9a70bbafafc3d38761606ea4826d153cc2aca8242d977bca749886"
- },
- {
-  "zrodlo": "bzp",
-  "tytul": "Wykonanie dokumentacji projektowej i kosztorysowej dla zadania pn. ,,Przebudowa dachu na części budynku świetlicy wiejskiej w Czerniczynie”",
-  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-e856718a-a457-4b20-abf3-84ce6a304ae5",
-  "zamawiajacy": "Gmina Hrubieszów",
-  "data_publikacji": "2026-10-08",
-  "termin_skladania": "2026-10-19T08:00:00Z",
-  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00477036 z dnia 2026-10-08 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowej i kosztorysowej dla zadania pn. ,,Przebudowa dachu na części budynku świetlicy wiejskiej w Czerniczynie” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Hrubieszów 1.4) Krajowy Numer Identyfikacyjny: REGON 950368782 1.5) Adres zamawiającego 1.5.1.) Ulica: B. Prusa 8 1.5.2.) Miejscowość: Hrubieszów 1.5.3.) Kod pocztowy: 22-500 1.5.4.) Województwo: lubelskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL812 - Chełmsko-zamojski 1.5.7.) Numer telefonu: (84) 696-26-81 1.5.9.) Adres poczty elektronicznej: sekretariat@hrubieszow-gmina.pl 1.5.10.) Adres strony internetowej zamawiającego: http://ughrubieszow.bip.lubelskie.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansó",
-  "cpv": [
-   "71000000-8",
-   "71220000-6",
-   "71240000-2",
-   "71242000-6",
-   "71248000-8",
-   "71320000-7"
-  ],
-  "score": 11,
-  "tagi": [
-   "cpv-71",
-   "samorząd",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "pobrany",
-  "dodano": "2026-10-08",
-  "hash": "fe0a982099a8fb96a6ce6ee669dba6de6fc82715bba18082cd119633cb3ca956"
  },
  {
   "zrodlo": "bzp",
@@ -13202,29 +13119,6 @@
  },
  {
   "zrodlo": "bzp",
-  "tytul": "Opracowanie dokumentacji projektowej dla zadania: 08410 pn. „Ścieżka spacerowa wzdłuż Steblówki – Stabłowice od ul. Kruszcowej do Piechowickiej we Wrocławiu – projekt nr 92/WBO.2025”",
-  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-5964f3ab-392f-45b6-b066-6f4d1814ff4c",
-  "zamawiajacy": "Gmina Wrocław, w imieniu i na rzecz której działają Wrocławskie Inwestycje Sp. z o. o. z siedzibą przy ul. Ofiar Oświęcimskich 36, 50-059 Wrocław na podstawie pełnomocnictwa Prezydenta Wrocławia",
-  "data_publikacji": "2026-10-14",
-  "termin_skladania": "2026-10-26T08:00:00Z",
-  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00487175 z dnia 2026-10-14 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej dla zadania: 08410 pn. „Ścieżka spacerowa wzdłuż Steblówki – Stabłowice od ul. Kruszcowej do Piechowickiej we Wrocławiu – projekt nr 92/WBO.2025” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzi podmiot, któremu powierzono przeprowadzenie postępowania 1.2.) Nazwa zamawiającego: Gmina Wrocław, w imieniu i na rzecz której działają Wrocławskie Inwestycje Sp. z o. o. z siedzibą przy ul. Ofiar Oświęcimskich 36, 50-059 Wrocław na podstawie pełnomocnictwa Prezydenta Wrocławia 1.4) Krajowy Numer Identyfikacyjny: REGON 020568529 1.5) Adres zamawiającego 1.5.1.) Ulica: Ofiar Oświęcimskich 36 1.5.2.) Miejscowość: Wrocław 1.5.3.) Kod pocztowy: 50-059 1.5.4.) Województwo: dolnośląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL514 - Miasto Wrocław 1.5.9.) Adres poczty elek",
-  "cpv": [
-   "71320000-7",
-   "71322000-1",
-   "71248000-8"
-  ],
-  "score": 11,
-  "tagi": [
-   "cpv-71",
-   "samorząd",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "pobrany",
-  "dodano": "2026-09-28",
-  "hash": "1fe9ce2aab891570bea4958601b1f35d38d09312becd88cb51f18b2684b32a12"
- },
- {
-  "zrodlo": "bzp",
   "tytul": "Opracowanie dokumentacji projektowych na budowę, przebudowę i remont budynków Leśnego Zakładu Doświadczalnego w Krynicy-Zdroju",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-17206885-2d3a-4f2f-bde0-032a652d37ee",
   "zamawiajacy": "Uniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie",
@@ -14974,28 +14868,6 @@
   "hash": "43fa6c756000c27101e518e8a1833877baed82f3c89ff381cdb28ed7f68b9251"
  },
  {
-  "zrodlo": "ted",
-  "tytul": "Polska – Wentylatory – Modernizacja wentylacji wyciągowej i nawiewnej Reaktora MARIA",
-  "url": "https://ted.europa.eu/en/notice/-/detail/735779-2026",
-  "zamawiajacy": "NARODOWE CENTRUM BADAŃ JĄDROWYCH",
-  "data_publikacji": "2026-10-23",
-  "termin_skladania": "2026-11-02T12:00:00+01:00",
-  "opis": null,
-  "cpv": [
-   "39717100",
-   "71300000",
-   "39717100",
-   "71300000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-10-22",
-  "hash": "fc9e393a997f24ee97b6763dd600e32c1619a57ca2a65b26cded3f450bcd8ea0"
- },
- {
   "zrodlo": "bip:tauron",
   "tytul": "Opracowanie Dokumentacji projektowo-kosztorysowej i terenowo-prawnej i na jej podstawie realizacja robót budowlanych dla zadania pn.: „Budowa stacji SN/nN dla zasilenia Miejskiego Centrum Kultury Cementownia w Będzinie przy ul. Norberta Barlickiego - ETAP I” zgodnie z formułą „pod klucz”",
   "url": "https://swoz.tauron.pl/platform/demand/notice/public/current/list",
@@ -15454,29 +15326,6 @@
   "hash": "3685af21559fc14fdb0ca62bf41f460f4bb6713777a02468ad633bf8dd0be06c"
  },
  {
-  "zrodlo": "ted",
-  "tytul": "Polska – Przygotowanie przedsięwzięcia i projektu, oszacowanie kosztów – Opracowanie dokumentacji projektowej dla zadania pn. \"Przebudowa WG Strachocina (stary)\"",
-  "url": "https://ted.europa.eu/en/notice/-/detail/675139-2026",
-  "zamawiajacy": "Operator Gazociągów Przesyłowych GAZ-SYSTEM S.A.",
-  "data_publikacji": "2026-10-01",
-  "termin_skladania": "2026-11-03T11:00:00+01:00",
-  "opis": null,
-  "cpv": [
-   "71242000",
-   "71248000",
-   "71242000",
-   "71248000"
-  ],
-  "score": 9,
-  "tagi": [
-   "cpv-71",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-10-01",
-  "hash": "d7d7a29bc26d8f2e7243efa4d5ef9124b5574a8271152e0be9e53efce26bef1c"
- },
- {
   "zrodlo": "bip:tauron",
   "tytul": "187/2026/RZ1 - Opracowanie dokumentacji projektowej i wykonanie robót budowlano-montażowych dla zadania pod nazwą: Jelenia Góra ul. Borówkowa nr 4 - budowa linii kablowej nN pomiędzy słupem JGJ 382496 a złączem kablowym - (KZ JG/001865/26)",
   "url": "https://swoz.tauron.pl/platform/demand/notice/public/current/list",
@@ -15644,66 +15493,6 @@
   "status_opisu": "pobrany",
   "dodano": "2026-10-22",
   "hash": "d7acece335761ffc2cf5d232ecaae9db70de1a591c42a0aea6db420971a46af1"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Nadzór nad robotami budowlanymi – Pełnienie nadzoru inwestorskiego nad realizacją robót budowlanych w ramach zadania inwestycyjnego pn. „Przebudowa w celu poprawy efektywności energetycznej budynku Urzędu Skarbowego w Lubaczowie przy ul. Jana III Sobieskiego 6”.",
-  "url": "https://ted.europa.eu/en/notice/-/detail/747553-2026",
-  "zamawiajacy": "Izba Administracji Skarbowej w Rzeszowie",
-  "data_publikacji": "2026-10-28",
-  "termin_skladania": "2026-11-04T10:00:00+01:00",
-  "opis": null,
-  "cpv": [
-   "71247000",
-   "71540000",
-   "71520000",
-   "71248000",
-   "71244000",
-   "71700000",
-   "71247000",
-   "71540000",
-   "71520000",
-   "71248000",
-   "71244000",
-   "71700000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-10-28",
-  "hash": "1cd263cf94733d5d4758edfff59a1472b59c58502cd90a618781a15ef749183b"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Nadzór nad robotami budowlanymi – Pełnienie nadzoru inwestorskiego nad realizacją robót budowlanych w ramach zadania inwestycyjnego pn. „Przebudowa w celu poprawy efektywności energetycznej budynku Urzędu Skarbowego w Tarnobrzegu przy ul. Wyspiańskiego 12\"",
-  "url": "https://ted.europa.eu/en/notice/-/detail/728730-2026",
-  "zamawiajacy": "Izba Administracji Skarbowej w Rzeszowie",
-  "data_publikacji": "2026-10-21",
-  "termin_skladania": "2026-11-04T10:00:00+01:00",
-  "opis": null,
-  "cpv": [
-   "71247000",
-   "71540000",
-   "71520000",
-   "71248000",
-   "71244000",
-   "71700000",
-   "71247000",
-   "71540000",
-   "71520000",
-   "71248000",
-   "71244000",
-   "71700000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-10-28",
-  "hash": "8eec81b03366a78191957951e4480f9af671c9fd600f67b67163e7e5d7bed0b5"
  },
  {
   "zrodlo": "ted",
@@ -16407,7 +16196,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-11-01",
+  "dodano": "2026-11-02",
   "hash": "81d687f55143a7c7b90defbfa79afcdaeab7714b0a8565d073bb9af031b60b69"
  },
  {
@@ -16500,7 +16289,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-11-01",
+  "dodano": "2026-11-02",
   "hash": "22302b72c86488c3d682130dcded467a93aba0a41185b74dddbdb4ab72af0a4e"
  },
  {
@@ -16646,37 +16435,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Opracowanie dokumentacji projektowej STEŚ dla zadania pn.: „Rozbudowa drogi krajowej nr 44 na odcinku Oświęcim - Zaborze - Oświęcim (proces przygotowawczy)\"",
-  "url": "https://ted.europa.eu/en/notice/-/detail/721629-2026",
-  "zamawiajacy": "Generalna Dyrekcja Dróg Krajowych i Autostrad",
-  "data_publikacji": "2026-10-19",
-  "termin_skladania": "2026-11-06T11:15:00+01:00",
-  "opis": null,
-  "cpv": [
-   "71320000",
-   "71330000",
-   "71250000",
-   "71222000",
-   "71351910",
-   "71332000",
-   "71320000",
-   "71330000",
-   "71250000",
-   "71222000",
-   "71351910",
-   "71332000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71",
-   "drogi"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-11-01",
-  "hash": "8bf4f8c2a49d3c80b45c778aaa0ade512275e63465670cf6e1f89ed8718ca6d9"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Wiercenie studni wodnych – Rekonstrukcja dolnokredowej studni głębinowej nr 5 na ujęciu Zbiorniki Stoki",
   "url": "https://ted.europa.eu/en/notice/-/detail/756148-2026",
   "zamawiajacy": "„Zakład Wodociągów i Kanalizacji\" sp. z o.o. w imieniu i na rzecz którego działają Łódzkie Inwestycje sp. z o.o.",
@@ -16732,7 +16490,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-11-01",
+  "dodano": "2026-11-02",
   "hash": "a14fc935bf09c4f69cde5c0a07014848f5817fa221aaef84c4d6257434c20215"
  },
  {
@@ -17045,6 +16803,66 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Nadzór nad robotami budowlanymi – Pełnienie nadzoru inwestorskiego nad realizacją robót budowlanych w ramach zadania inwestycyjnego pn. „Przebudowa w celu poprawy efektywności energetycznej budynku Urzędu Skarbowego w Lubaczowie przy ul. Jana III Sobieskiego 6”.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/757499-2026",
+  "zamawiajacy": "Izba Administracji Skarbowej w Rzeszowie",
+  "data_publikacji": "2026-11-02",
+  "termin_skladania": "2026-11-09T10:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71247000",
+   "71540000",
+   "71520000",
+   "71248000",
+   "71244000",
+   "71700000",
+   "71247000",
+   "71540000",
+   "71520000",
+   "71248000",
+   "71244000",
+   "71700000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-28",
+  "hash": "6b40ce55026faa356b43de059a5d785d0b4441cd607198e385581363c3bd17f0"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Nadzór nad robotami budowlanymi – Pełnienie nadzoru inwestorskiego nad realizacją robót budowlanych w ramach zadania inwestycyjnego pn. „Przebudowa w celu poprawy efektywności energetycznej budynku Urzędu Skarbowego w Tarnobrzegu przy ul. Wyspiańskiego 12\"",
+  "url": "https://ted.europa.eu/en/notice/-/detail/756492-2026",
+  "zamawiajacy": "Izba Administracji Skarbowej w Rzeszowie",
+  "data_publikacji": "2026-11-02",
+  "termin_skladania": "2026-11-09T10:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71247000",
+   "71540000",
+   "71520000",
+   "71248000",
+   "71244000",
+   "71700000",
+   "71247000",
+   "71540000",
+   "71520000",
+   "71248000",
+   "71244000",
+   "71700000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-28",
+  "hash": "336fd2ccf8a19677eea7a4068af7e2a6ac513b7108dde429276fa804770314b1"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi architektoniczne w zakresie obiektów budowlanych – KWP Katowice – modernizacja budynków A, B, C, etap I z przystosowaniem do przepisów przeciwpożarowych budynków KWP w Katowicach przy ul. Lompy 19",
   "url": "https://ted.europa.eu/en/notice/-/detail/754839-2026",
   "zamawiajacy": "Komenda Wojewódzka Policji w Katowicach",
@@ -17127,7 +16945,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-11-01",
+  "dodano": "2026-11-02",
   "hash": "19d04a3c5554c8ff20f96847ef227392f21e144c5d2748d60e2807d1da51e631"
  },
  {
@@ -17213,7 +17031,7 @@
    "spolka-sp"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-11-01",
+  "dodano": "2026-11-02",
   "hash": "fb0c712dd75e8e5e12ddbc26a5eaa6900a67183c3124b874720cbd44d9dd7043"
  },
  {
@@ -17252,7 +17070,7 @@
    "spolka-sp"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-11-01",
+  "dodano": "2026-11-02",
   "hash": "2b0039c3a8575b3a67f2a0ee4a6cfb113e45b99b79af923226ab15e88ac9a459"
  },
  {
@@ -17324,6 +17142,32 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowej i kosztorysowej dla zadania pn. ,,Przebudowa dachu na części budynku świetlicy wiejskiej w Czerniczynie”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-372de05a-ee1b-4e78-bbe6-7d99ac65ea69",
+  "zamawiajacy": "Gmina Hrubieszów",
+  "data_publikacji": "2026-11-02",
+  "termin_skladania": "2026-11-10T09:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00515306 z dnia 2026-11-02 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowej i kosztorysowej dla zadania pn. ,,Przebudowa dachu na części budynku świetlicy wiejskiej w Czerniczynie” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Hrubieszów 1.4) Krajowy Numer Identyfikacyjny: REGON 950368782 1.5) Adres zamawiającego 1.5.1.) Ulica: B. Prusa 8 1.5.2.) Miejscowość: Hrubieszów 1.5.3.) Kod pocztowy: 22-500 1.5.4.) Województwo: lubelskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL812 - Chełmsko-zamojski 1.5.7.) Numer telefonu: (84) 696-26-81 1.5.9.) Adres poczty elektronicznej: sekretariat@hrubieszow-gmina.pl 1.5.10.) Adres strony internetowej zamawiającego: http://ughrubieszow.bip.lubelskie.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansó",
+  "cpv": [
+   "71000000-8",
+   "71220000-6",
+   "71240000-2",
+   "71242000-6",
+   "71248000-8",
+   "71320000-7"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-08",
+  "hash": "2ad6fb01dd45621bafb6644ecf3a12842e812489f09c62f2894ba847fd513a3b"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Pełnienie funkcji Inżyniera Kontraktu dotyczącej inwestycji pn. „Budowa nabrzeża i slipu wraz z infrastrukturą w Porcie Wolin.”",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-700f1874-c964-4314-9a2a-123a5486b48a",
   "zamawiajacy": "URZĄD MORSKI W SZCZECINIE",
@@ -17378,8 +17222,31 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-11-01",
+  "dodano": "2026-11-02",
   "hash": "52819a503ab4f3dbce7d3b70ebd919156836529630f74cc6dc4a0250d02f91ab"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Przygotowanie przedsięwzięcia i projektu, oszacowanie kosztów – Opracowanie dokumentacji projektowej dla zadania pn. \"Przebudowa WG Strachocina (stary)\"",
+  "url": "https://ted.europa.eu/en/notice/-/detail/759149-2026",
+  "zamawiajacy": "Operator Gazociągów Przesyłowych GAZ-SYSTEM S.A.",
+  "data_publikacji": "2026-11-02",
+  "termin_skladania": "2026-11-10T11:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71242000",
+   "71248000",
+   "71242000",
+   "71248000"
+  ],
+  "score": 9,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-01",
+  "hash": "6e3bdd47e39df75e497e59cbbfcd4f4805b05b17613c8885da721b5688e6291d"
  },
  {
   "zrodlo": "bzp",
@@ -17431,7 +17298,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-11-01",
+  "dodano": "2026-11-02",
   "hash": "406c4f8d8d2a906270c5fbc06e7059eff6a4baff7b3c1304c0ab3cbe6abb2192"
  },
  {
@@ -17528,7 +17395,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-11-01",
+  "dodano": "2026-11-02",
   "hash": "474cb7f3393bee9cf6bbc0d34fde1c213cd1d3d5905c4ee84bdbfa8bc6b45fbb"
  },
  {
@@ -17602,7 +17469,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-11-01",
+  "dodano": "2026-11-02",
   "hash": "3c0cd2e0debd3a88b9daaa24791634eb12dbad4f93150fac28e2e4c2c7481c1a"
  },
  {
@@ -17686,7 +17553,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-11-01",
+  "dodano": "2026-11-02",
   "hash": "0b62c21920a86de1824ad62f9863d536332f0c92fe35d53d798b7d1f8a979410"
  },
  {
@@ -17720,6 +17587,29 @@
   "status_opisu": "pobrany",
   "dodano": "2026-10-30",
   "hash": "42b994f419313d60b12437e8d9afac56189277293e4d46bad8090e083233efa5"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Pełnienie funkcji inżyniera kontraktu w czasie realizacji przedsięwzięcia pn. „Prace remontowo-konserwatorskie i budowlane budynku Zameczku Romantycznego – Muzeum - Zamek w Łańcucie”.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-3b5fb4c0-783f-464f-b2b7-514b17b87c4f",
+  "zamawiajacy": "MUZEUM-ZAMEK W ŁAŃCUCIE",
+  "data_publikacji": "2026-11-02",
+  "termin_skladania": "2026-11-13T09:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00515406 z dnia 2026-11-02 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Pełnienie funkcji inżyniera kontraktu w czasie realizacji przedsięwzięcia pn. „Prace remontowo-konserwatorskie i budowlane budynku Zameczku Romantycznego – Muzeum - Zamek w Łańcucie”. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: MUZEUM-ZAMEK W ŁAŃCUCIE 1.4) Krajowy Numer Identyfikacyjny: REGON 000277055 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Zamkowa 1 1.5.2.) Miejscowość: Łańcut 1.5.3.) Kod pocztowy: 37-100 1.5.4.) Województwo: podkarpackie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL823 - Rzeszowski 1.5.9.) Adres poczty elektronicznej: przetargi@zamek-lancut.pl 1.5.10.) Adres strony internetowej zamawiającego: https://www.zamek-lancut.pl/ 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publi",
+  "cpv": [
+   "71248000-8",
+   "71520000-9",
+   "71540000-5",
+   "66170000-2",
+   "71247000-1"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-11-02",
+  "hash": "d65868a9ff4464eca557f2cc7c1d5f93cd78482f66b85c03537e56462cf8a9d2"
  },
  {
   "zrodlo": "bzp",
@@ -17957,7 +17847,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-11-01",
+  "dodano": "2026-11-02",
   "hash": "b02642daf923ea7e8b9165b550e809fcb560d29b622c1a5d21eb586972e3a7f5"
  },
  {
@@ -18265,6 +18155,28 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Wentylatory – Modernizacja wentylacji wyciągowej i nawiewnej Reaktora MARIA",
+  "url": "https://ted.europa.eu/en/notice/-/detail/757424-2026",
+  "zamawiajacy": "NARODOWE CENTRUM BADAŃ JĄDROWYCH",
+  "data_publikacji": "2026-11-02",
+  "termin_skladania": "2026-11-16T12:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "39717100",
+   "71300000",
+   "39717100",
+   "71300000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-22",
+  "hash": "a499749abc5e0e63693d2a1713a2beefcc1d89aac44be0593f3e25bb9f31c1d8"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Usługi projektowania architektonicznego – Opracowanie Studium techniczno ekonomiczno - środowiskowe dla zadania: budowa nowych przebiegów dróg wojewódzkich nr 721 oraz nr 724 na terenie gmin: Piaseczno i Konstancin-Jeziorna – nr postępowania 195/26",
   "url": "https://ted.europa.eu/en/notice/-/detail/698719-2026",
   "zamawiajacy": "Mazowiecki Zarząd Dróg Wojewódzkich w Warszawie",
@@ -18282,6 +18194,29 @@
   "status_opisu": "brak",
   "dodano": "2026-10-09",
   "hash": "f2a76326c08950040626796d48011236425bd5b9ee576516f375bd6c2365040f"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej dla zadania: 08410 pn. „Ścieżka spacerowa wzdłuż Steblówki – Stabłowice od ul. Kruszcowej do Piechowickiej we Wrocławiu – projekt nr 92/WBO.2025”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-abbb24de-bd65-4f3f-9284-1a5a4954df1b",
+  "zamawiajacy": "Gmina Wrocław, w imieniu i na rzecz której działają Wrocławskie Inwestycje Sp. z o. o. z siedzibą przy ul. Ofiar Oświęcimskich 36, 50-059 Wrocław na podstawie pełnomocnictwa Prezydenta Wrocławia",
+  "data_publikacji": "2026-11-02",
+  "termin_skladania": "2026-11-17T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00515655 z dnia 2026-11-02 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej dla zadania: 08410 pn. „Ścieżka spacerowa wzdłuż Steblówki – Stabłowice od ul. Kruszcowej do Piechowickiej we Wrocławiu – projekt nr 92/WBO.2025” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzi podmiot, któremu powierzono przeprowadzenie postępowania 1.2.) Nazwa zamawiającego: Gmina Wrocław, w imieniu i na rzecz której działają Wrocławskie Inwestycje Sp. z o. o. z siedzibą przy ul. Ofiar Oświęcimskich 36, 50-059 Wrocław na podstawie pełnomocnictwa Prezydenta Wrocławia 1.4) Krajowy Numer Identyfikacyjny: REGON 020568529 1.5) Adres zamawiającego 1.5.1.) Ulica: Ofiar Oświęcimskich 36 1.5.2.) Miejscowość: Wrocław 1.5.3.) Kod pocztowy: 50-059 1.5.4.) Województwo: dolnośląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL514 - Miasto Wrocław 1.5.9.) Adres poczty elek",
+  "cpv": [
+   "71320000-7",
+   "71322000-1",
+   "71248000-8"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-28",
+  "hash": "d89a29061dca05857e5d25cb40472b388acc0857bb0f22b88251e9144331b593"
  },
  {
   "zrodlo": "bzp",
@@ -18429,7 +18364,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-11-01",
+  "dodano": "2026-11-02",
   "hash": "ccaa90343576dc79a51a8cf3f81a64e5db3cdeb6446c9ee3d48591f902f7c693"
  },
  {
@@ -18487,7 +18422,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-11-01",
+  "dodano": "2026-11-02",
   "hash": "ef06692ce1942e454e88af9ffa078ce5325d8719e97737afd41b181dd41a901b"
  },
  {
@@ -18512,6 +18447,37 @@
   "status_opisu": "pobrany",
   "dodano": "2026-10-30",
   "hash": "717e831196c4cf6e73547ef33871febfce8c6aec084e31e6ae10879f2f26d71a"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Opracowanie dokumentacji projektowej STEŚ dla zadania pn.: „Rozbudowa drogi krajowej nr 44 na odcinku Oświęcim - Zaborze - Oświęcim (proces przygotowawczy)\"",
+  "url": "https://ted.europa.eu/en/notice/-/detail/759074-2026",
+  "zamawiajacy": "Generalna Dyrekcja Dróg Krajowych i Autostrad",
+  "data_publikacji": "2026-11-02",
+  "termin_skladania": "2026-11-17T11:15:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71320000",
+   "71330000",
+   "71250000",
+   "71222000",
+   "71351910",
+   "71332000",
+   "71320000",
+   "71330000",
+   "71250000",
+   "71222000",
+   "71351910",
+   "71332000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71",
+   "drogi"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-11-02",
+  "hash": "68716ee0fd1330675be766730f4a308add305764317ab51a628e67f184713098"
  },
  {
   "zrodlo": "bzp",
@@ -18562,6 +18528,32 @@
   "hash": "cfd1b348ec32f1edd309fcac3637a8603f2a30972a5140d28678b8ab2ddf4895"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowej w ramach zadania „Modernizacja infrastruktury, terenu oraz urządzeń na potrzeby prowadzenia targowisk miejskich w Grudziądzu”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-0fb46984-fe0a-475a-9536-3002f294f610",
+  "zamawiajacy": "Zarząd Inwestycji Miejskich",
+  "data_publikacji": "2026-11-02",
+  "termin_skladania": "2026-11-18T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00516638 z dnia 2026-11-02 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowej w ramach zadania „Modernizacja infrastruktury, terenu oraz urządzeń na potrzeby prowadzenia targowisk miejskich w Grudziądzu” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Zarząd Inwestycji Miejskich 1.4) Krajowy Numer Identyfikacyjny: REGON 544042030 1.5) Adres zamawiającego 1.5.1.) Ulica: Ludwika Waryńskiego 34D 1.5.2.) Miejscowość: Grudziądz 1.5.3.) Kod pocztowy: 86-300 1.5.4.) Województwo: kujawsko-pomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL616 - Grudziądzki 1.5.9.) Adres poczty elektronicznej: zamowienia@zim.grudziadz.pl 1.5.10.) Adres strony internetowej zamawiającego: www.zim.e-bip.org.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznyc",
+  "cpv": [
+   "71220000-6",
+   "71240000-2",
+   "71320000-7",
+   "71420000-8",
+   "71421000-5",
+   "71242000-6",
+   "71248000-8"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-11-02",
+  "hash": "85ba13262bd071e87a03af84acb06830bd0071a38baadca29989251cee38e7df"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Usługi architektoniczne, budowlane, inżynieryjne i kontrolne – Opracowanie koncepcji oraz dokumentacji projektowej rozbudowy i przebudowy budynku przy ul. Filipowskiej 20B w Suwałkach wraz z niezbędną infrastrukturą na potrzeby placówki opiekuńczo – wychowawczej",
   "url": "https://ted.europa.eu/en/notice/-/detail/708122-2026",
@@ -18585,7 +18577,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-11-01",
+  "dodano": "2026-11-02",
   "hash": "b24f6184f522b8ec32d5bbb91e607a81de08d25345994d73971f0e4f117ad2e6"
  },
  {
@@ -18615,7 +18607,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-11-01",
+  "dodano": "2026-11-02",
   "hash": "2fbb0d83189e2bf6473eb45b84df89f013d541c5221102dedd3cb574515fa290"
  },
  {
@@ -18657,7 +18649,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-11-01",
+  "dodano": "2026-11-02",
   "hash": "c1de950043889208341515731a9263ed2257a5693ff5a95cc7b58d7025211baf"
  },
  {
@@ -18843,7 +18835,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-11-01",
+  "dodano": "2026-11-02",
   "hash": "33b16dfc4681e3f464cf873c88db0e7c90b1cd516e772d2343fb6f085faa7d05"
  },
  {
@@ -19209,7 +19201,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-11-01",
+  "dodano": "2026-11-02",
   "hash": "a5565ddb91756114d2b91d1b22836b5b192a6b7197e1729688ff8120571c5982"
  },
  {
@@ -19538,7 +19530,7 @@
    "roboty-budowlane"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-11-01",
+  "dodano": "2026-11-02",
   "hash": "a67d24e33f60189066e90e21f46864824908036843bd57f54cdfb4b367b1377b"
  },
  {
@@ -19634,7 +19626,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-11-01",
+  "dodano": "2026-11-02",
   "hash": "129a4f5d8d3b2de527b93ae845e53bd8cfad832fc10b3c020bc07cf458017adb"
  },
  {
@@ -19655,7 +19647,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-11-01",
+  "dodano": "2026-11-02",
   "hash": "6506d005080bdae9ce8dcd36f320d62a46025347d02afbc1e7ee564e2db26b6e"
  },
  {
@@ -19759,7 +19751,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-11-01",
+  "dodano": "2026-11-02",
   "hash": "2819b7af81b051aabad26f2987b70a16adff06051996a57d23f6664dfb0c21fa"
  },
  {
@@ -20021,6 +20013,28 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Usługi architektoniczne, inżynieryjne i planowania – Wykonanie dokumentacji projektowo-kosztorysowej na zmianę systemu ogrzewania na elektryczne w lokalach gminnych.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/756810-2026",
+  "zamawiajacy": "Zarząd Zasobu Komunalnego Jednostka Budżetowa Gminy Wrocław",
+  "data_publikacji": "2026-11-02",
+  "termin_skladania": "2026-12-03T11:30:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71240000",
+   "71240000"
+  ],
+  "score": 8,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-09-01",
+  "hash": "e53b5546744d0853308561116001e247287a2767ae739cc68803891ad1ea450b"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Nadzór nad robotami budowlanymi – Usługi Inżyniera Kontraktu dla Inwestycji pn.: „Budowa obiektu rekreacji wodnej (AQUAPARK) z infrastrukturą towarzyszącą oraz budowa basenów zewnętrznych uzupełniających ofertę AQUAPARKU w Opolu”",
   "url": "https://ted.europa.eu/en/notice/-/detail/755509-2026",
   "zamawiajacy": "Zakład Komunalny Sp. z o.o. w Opolu",
@@ -20113,6 +20127,31 @@
   "status_opisu": "brak",
   "dodano": "2026-10-29",
   "hash": "89395abd42032fe1ea1fd70a3f2bdb535e4485c3d80306edecb51bf5e85bcaf8"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Przygotowanie przedsięwzięcia i projektu, oszacowanie kosztów – Opracowanie kompletnej dokumentacji projektowej z uzyskaniem decyzji administracyjnych oraz z pełnieniem nadzoru autorskiego dla zadania pn. „Rozbiórka istniejącej i budowa nowej stacji gazowej Szamocin wraz z gazociągami przyłączeniowymi\"",
+  "url": "https://ted.europa.eu/en/notice/-/detail/757717-2026",
+  "zamawiajacy": "Operator Gazociągów Przesyłowych GAZ-SYSTEM S.A.",
+  "data_publikacji": "2026-11-02",
+  "termin_skladania": "2026-12-08T11:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71242000",
+   "71248000",
+   "71320000",
+   "71242000",
+   "71248000",
+   "71320000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71",
+   "infrastruktura"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-11-02",
+  "hash": "04bb83ca8e8d79b6060bade12546e0bca0d909927fcda990428ac3210f6911bd"
  },
  {
   "zrodlo": "ted",
