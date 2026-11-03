@@ -17632,6 +17632,27 @@
   "hash": "d44f553b88cb4642db5bd666a02bba26e930ea940078f03a7be81a1b3c6074e8"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowo-kosztorysowej dla inwestycji pn. \"Termomodernizacja Zespołu Szkolno-Przedszkolnego w Skórcu\"",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-6bba2dc1-14e6-4a2b-b6da-ff4906c826b9",
+  "zamawiajacy": "Gmina Skórzec",
+  "data_publikacji": "2026-11-03",
+  "termin_skladania": "2026-11-13T09:30:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00520204 z dnia 2026-11-03 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowo-kosztorysowej dla inwestycji pn. &#34;Termomodernizacja Zespołu Szkolno-Przedszkolnego w Skórcu&#34; SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Skórzec 1.4) Krajowy Numer Identyfikacyjny: REGON 711582575 1.5) Adres zamawiającego 1.5.1.) Ulica: Siedlecka 3 1.5.2.) Miejscowość: Skórzec 1.5.3.) Kod pocztowy: 08-114 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL925 - Siedlecki 1.5.9.) Adres poczty elektronicznej: zamowieniapubliczne@gminaskorzec.pl 1.5.10.) Adres strony internetowej zamawiającego: https://gminaskorzec.pl/ 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Prze",
+  "cpv": [
+   "71220000-6"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-11-03",
+  "hash": "49bad63009042f4e578ed8d8f9739212525bacffafc33c1d4f426f042ba5413e"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Roboty budowlane – Zaprojektowanie (w zakresie branży srk) i kompleksowe wykonanie robót budowlanych na linii kolejowej nr 623 i nr 628 na odcinku I+K podg. Fornale – Szczyrzyc i podg. Porąbka – podg. Stróża w ramach Projektu pn. „Budowa nowej linii kolejowej Podłęże – Szczyrzyc – Tymbark / Mszana Dolna oraz modernizacja istniejącej linii kolejowej nr 104 Chabówka – Nowy Sącz – Etap II”",
   "url": "https://ted.europa.eu/en/notice/-/detail/754766-2026",
