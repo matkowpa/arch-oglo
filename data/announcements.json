@@ -11360,29 +11360,6 @@
  },
  {
   "zrodlo": "bzp",
-  "tytul": "Opracowanie dokumentacji projektowej przebudowy budynku przy ulicy Blich 10 w Łowiczu w związku ze zmianą sposobu użytkowania na pracownię mechanizacji rolnictwa",
-  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-86d5807a-3deb-4c88-b759-a02b3ec0f436",
-  "zamawiajacy": "POWIAT ŁOWICKI",
-  "data_publikacji": "2026-10-12",
-  "termin_skladania": "2026-10-20T07:00:00Z",
-  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00483110 z dnia 2026-10-12 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej przebudowy budynku przy ulicy Blich 10 w Łowiczu w związku ze zmianą sposobu użytkowania na pracownię mechanizacji rolnictwa SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: POWIAT ŁOWICKI 1.4) Krajowy Numer Identyfikacyjny: REGON 750147768 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Stanisława Stanisławskiego 30 1.5.2.) Miejscowość: Łowicz 1.5.3.) Kod pocztowy: 99-400 1.5.4.) Województwo: łódzkie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL715 - Skierniewicki 1.5.7.) Numer telefonu: 468115365 1.5.9.) Adres poczty elektronicznej: magdalena.zurawska@powiatlowicki.pl 1.5.10.) Adres strony internetowej zamawiającego: www.powiat.lowicz.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka",
-  "cpv": [
-   "71000000-8",
-   "71220000-6",
-   "71221000-3"
-  ],
-  "score": 11,
-  "tagi": [
-   "cpv-71",
-   "samorząd",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "pobrany",
-  "dodano": "2026-09-17",
-  "hash": "47f4383453862b834c528569f9b6052f88fea916c4e12ad144df0ff9442eaff7"
- },
- {
-  "zrodlo": "bzp",
   "tytul": "Opracowanie dokumentacji projektowej rozbudowy DG 530143W ul. Skaryszewskiej w Radomiu na odc. od ul. Słowackiego do ul. Skrzydlatej",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-aa82e6e2-3ac0-4451-b8ed-af9b7dba6631",
   "zamawiajacy": "MIEJSKI ZARZĄD DRÓG I KOMUNIKACJI",
@@ -12831,27 +12808,6 @@
   "status_opisu": "brak",
   "dodano": "2026-10-15",
   "hash": "58beb494cfa7b93c441c0458384462cd566718392e4450b4ddcd208cf27bc88b"
- },
- {
-  "zrodlo": "bzp",
-  "tytul": "Opracowanie kompletnej dokumentacji projektowej na przebudowę ul. Saperów (DG 103090L) w Dęblinie",
-  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-2a665a71-e2c8-4404-b1b9-12c7b05f184d",
-  "zamawiajacy": "MIASTO DĘBLIN",
-  "data_publikacji": "2026-10-15",
-  "termin_skladania": "2026-10-23T10:00:00Z",
-  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00490297 z dnia 2026-10-15 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie kompletnej dokumentacji projektowej na przebudowę ul. Saperów (DG 103090L) w Dęblinie SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: MIASTO DĘBLIN 1.4) Krajowy Numer Identyfikacyjny: REGON 431019419 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Rynek 12 1.5.2.) Miejscowość: Dęblin 1.5.3.) Kod pocztowy: 08-530 1.5.4.) Województwo: lubelskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL815 - Puławski 1.5.7.) Numer telefonu: 81 8830001 1.5.9.) Adres poczty elektronicznej: przetargi@um.deblin.pl 1.5.10.) Adres strony internetowej zamawiającego: www.deblin.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Przedmiot działalności zamawiająceg",
-  "cpv": [
-   "71320000-7",
-   "71322000-1"
-  ],
-  "score": 12,
-  "tagi": [
-   "cpv-71",
-   "wysoka-trafnosc"
-  ],
-  "status_opisu": "pobrany",
-  "dodano": "2026-10-15",
-  "hash": "be648c4114d4df279bb9e44abb6300f54f14b3c226f8b2dc3a30ccc9073c4f72"
  },
  {
   "zrodlo": "bzp",
@@ -17026,7 +16982,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-29",
+  "dodano": "2026-11-03",
   "hash": "49a84f29c44f580ce7c364c281dcd41188a346940a0063a2d272d9a572d2c618"
  },
  {
@@ -17189,6 +17145,71 @@
   "status_opisu": "brak",
   "dodano": "2026-10-20",
   "hash": "c799ad4fa809f2f460918136bcae0f963dbb8da0eab715928626f83a8f030c6b"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji powykonawczej wielobranżowej dla zadania inwestycyjnego pn. \"Modernizacja krytej pływalni Wodna Nuta oraz modernizacja sztucznego lodowiska TOROPOL w Opolu\".",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-e5add330-7563-4646-8540-05c6e039d663",
+  "zamawiajacy": "Miejski Ośrodek Sportu i Rekreacji w Opolu",
+  "data_publikacji": "2026-11-03",
+  "termin_skladania": "2026-11-12T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00519907 z dnia 2026-11-03 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji powykonawczej wielobranżowej dla zadania inwestycyjnego pn. &#34;Modernizacja krytej pływalni Wodna Nuta oraz modernizacja sztucznego lodowiska TOROPOL w Opolu&#34;. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Miejski Ośrodek Sportu i Rekreacji w Opolu 1.4) Krajowy Numer Identyfikacyjny: REGON 000828874 1.5) Adres zamawiającego 1.5.1.) Ulica: Barlickiego 13 1.5.2.) Miejscowość: Opole 1.5.3.) Kod pocztowy: 45-083 1.5.4.) Województwo: opolskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL524 - Opolski 1.5.9.) Adres poczty elektronicznej: a.leska@mosir.opole.pl 1.5.10.) Adres strony internetowej zamawiającego: www.mosir.opole.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów",
+  "cpv": [
+   "71000000-8",
+   "71320000-7",
+   "71250000-5"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-11-03",
+  "hash": "3359499e304e91178263b4584fd804993222f64aa773d7766de20fa6082ebfbb"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowej przebudowy budynku przy ulicy Blich 10 w Łowiczu w związku ze zmianą sposobu użytkowania na pracownię mechanizacji rolnictwa",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-6eb4cbce-e994-48ce-b152-a229efd8e4f3",
+  "zamawiajacy": "POWIAT ŁOWICKI",
+  "data_publikacji": "2026-11-03",
+  "termin_skladania": "2026-11-12T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00519744 z dnia 2026-11-03 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowej przebudowy budynku przy ulicy Blich 10 w Łowiczu w związku ze zmianą sposobu użytkowania na pracownię mechanizacji rolnictwa SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: POWIAT ŁOWICKI 1.4) Krajowy Numer Identyfikacyjny: REGON 750147768 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Stanisława Stanisławskiego 30 1.5.2.) Miejscowość: Łowicz 1.5.3.) Kod pocztowy: 99-400 1.5.4.) Województwo: łódzkie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL715 - Skierniewicki 1.5.7.) Numer telefonu: 468115365 1.5.9.) Adres poczty elektronicznej: magdalena.zurawska@powiatlowicki.pl 1.5.10.) Adres strony internetowej zamawiającego: www.powiat.lowicz.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka",
+  "cpv": [
+   "71000000-8",
+   "71220000-6",
+   "71221000-3"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-09-17",
+  "hash": "9388e6bb8b91829b8d2625835b8fa7877942a853e0c9ad5a9789d565024bda53"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie kompletnej dokumentacji projektowej na przebudowę ul. Saperów (DG 103090L) w Dęblinie",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-7eb3b535-d2ef-457a-8b66-480725ee5e2b",
+  "zamawiajacy": "MIASTO DĘBLIN",
+  "data_publikacji": "2026-11-03",
+  "termin_skladania": "2026-11-12T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00519807 z dnia 2026-11-03 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie kompletnej dokumentacji projektowej na przebudowę ul. Saperów (DG 103090L) w Dęblinie SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: MIASTO DĘBLIN 1.4) Krajowy Numer Identyfikacyjny: REGON 431019419 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. Rynek 12 1.5.2.) Miejscowość: Dęblin 1.5.3.) Kod pocztowy: 08-530 1.5.4.) Województwo: lubelskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL815 - Puławski 1.5.7.) Numer telefonu: 81 8830001 1.5.9.) Adres poczty elektronicznej: przetargi@um.deblin.pl 1.5.10.) Adres strony internetowej zamawiającego: www.deblin.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Przedmiot działalności zamawiająceg",
+  "cpv": [
+   "71320000-7",
+   "71322000-1"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-10-15",
+  "hash": "655a7bce1f5e5e2ac3278cf46e43cf3d6aa52597291c9c3ca312ee99cc0f66fe"
  },
  {
   "zrodlo": "bzp",
@@ -17746,7 +17767,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-28",
+  "dodano": "2026-11-03",
   "hash": "fe5958f93acd80841099b4b76cb643dcfc680a76f26134f4a5087fdab96262e3"
  },
  {
@@ -17812,7 +17833,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-27",
+  "dodano": "2026-11-03",
   "hash": "3840ec0c22768f68843f82774a31979905b00ab7f2f99e19327c3d883ce5fd6b"
  },
  {
