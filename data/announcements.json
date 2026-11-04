@@ -16114,93 +16114,6 @@
  },
  {
   "zrodlo": "ted",
-  "tytul": "Polska – Roboty budowlane – Zaprojektowanie (w zakresie branży srk) i kompleksowe wykonanie robót budowlanych na linii kolejowej nr 622 na odcinku G Gdów – Szczyrzyc w ramach Projektu pn. „Budowa nowej linii kolejowej Podłęże – Szczyrzyc – Tymbark / Mszana Dolna oraz modernizacja istniejącej linii kolejowej nr 104 Chabówka – Nowy Sącz – Etap II”",
-  "url": "https://ted.europa.eu/en/notice/-/detail/710519-2026",
-  "zamawiajacy": "PKP Polskie Linie Kolejowe S.A.",
-  "data_publikacji": "2026-10-14",
-  "termin_skladania": "2026-11-06T10:00:00+01:00",
-  "opis": null,
-  "cpv": [
-   "45000000",
-   "71322000",
-   "30000000",
-   "32000000",
-   "48000000",
-   "45233100",
-   "45200000",
-   "30200000",
-   "32500000",
-   "48200000",
-   "48600000",
-   "48800000",
-   "45100000",
-   "45230000",
-   "30210000",
-   "30230000",
-   "32410000",
-   "32420000",
-   "32430000",
-   "34000000",
-   "34600000",
-   "34630000",
-   "34632000",
-   "48810000",
-   "48820000",
-   "45220000",
-   "45240000",
-   "45110000",
-   "45234000",
-   "45234100",
-   "45234113",
-   "45234116",
-   "45234115",
-   "45310000",
-   "45311000",
-   "45314300",
-   "45314310",
-   "71000000",
-   "71300000",
-   "71320000",
-   "32400000",
-   "45300000",
-   "45232300",
-   "45231400",
-   "45000000"
-  ],
-  "score": 4,
-  "tagi": [
-   "bonus-ue/strategiczny",
-   "cpv-71",
-   "roboty-budowlane"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-10-18",
-  "hash": "609b9afa4487b7d50310837432e5db85eeaea773efef850d73131d34960eeddb"
- },
- {
-  "zrodlo": "ted",
-  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Wykonanie Programu funkcjonalno-użytkowego dla realizacji następujących zadań inwestycyjnych: 1) Modernizacja górnej i dolnej mechaniki Sceny Głównej w Teatrze Wielkim - Operze Narodowej w Warszawie oraz 2) Modernizacja górnej i dolnej mechaniki Sceny Kameralnej w Teatrze Wielkim - Operze Narodowej w Warszawie.",
-  "url": "https://ted.europa.eu/en/notice/-/detail/690284-2026",
-  "zamawiajacy": "Teatr Wielki - Opera Narodowa",
-  "data_publikacji": "2026-10-07",
-  "termin_skladania": "2026-11-06T10:00:00+01:00",
-  "opis": null,
-  "cpv": [
-   "71320000",
-   "71240000",
-   "71320000",
-   "71240000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-10-07",
-  "hash": "d5e54bae8da6c0dcc4ec951fd105189af776f80f779d61cf3a27f91544179ae2"
- },
- {
-  "zrodlo": "ted",
   "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Wykonanie kompletnej dokumentacji projektowej wraz z uzyskaniem wszystkich decyzji administracyjnych niezbędnych do przeprowadzania robót budowlanych realizowanych w Nadleśnictwie Dębica w ramach projektu pn. Kompleksowy projekt adaptacji lasów i leśnictwa do zmian klimatu – mała retencja oraz przeciwdziałanie erozji wodnej na terenach nizinnych – kontynuacja (MRN3)” (V postępowanie powtórzone)",
   "url": "https://ted.europa.eu/en/notice/-/detail/682957-2026",
   "zamawiajacy": "Skarb Państwa Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Dębica",
@@ -16982,7 +16895,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-11-03",
+  "dodano": "2026-11-04",
   "hash": "49a84f29c44f580ce7c364c281dcd41188a346940a0063a2d272d9a572d2c618"
  },
  {
@@ -17117,7 +17030,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-11-03",
+  "dodano": "2026-11-04",
   "hash": "406c4f8d8d2a906270c5fbc06e7059eff6a4baff7b3c1304c0ab3cbe6abb2192"
  },
  {
@@ -17276,30 +17189,6 @@
   "hash": "46c88ff32dc9b4f842a17941607483d287d300479aad76745f3c09bb726ff6d3"
  },
  {
-  "zrodlo": "ted",
-  "tytul": "Polska – Usługi zarządzania budową – Pełnienie funkcji Inżyniera Kontraktu dla inwestycji „Rozbudowa centrum produkcji zielonej energii z wykorzystaniem GOZ na oczyszczalni ścieków w Tychach, dla łagodzenia zmian klimatu\"",
-  "url": "https://ted.europa.eu/en/notice/-/detail/692745-2026",
-  "zamawiajacy": "Regionalne Centrum Gospodarki Wodno-Ściekowej S.A.",
-  "data_publikacji": "2026-10-07",
-  "termin_skladania": "2026-11-12T09:00:00+01:00",
-  "opis": null,
-  "cpv": [
-   "71540000",
-   "71520000",
-   "71248000",
-   "71540000",
-   "71520000",
-   "71248000"
-  ],
-  "score": 3,
-  "tagi": [
-   "cpv-71"
-  ],
-  "status_opisu": "brak",
-  "dodano": "2026-10-07",
-  "hash": "152b04f0f9f04cf9bffb4f0a9d83779fb85d8cc55834159468432ca26fd4f6a3"
- },
- {
   "zrodlo": "bzp",
   "tytul": "Budowa łącznika drogowego ul. Noblistów Śląskich i Wiosennej w Rudzie Śląskiej - opracowanie dokumentacji projektowej wraz z prowadzeniem nadzoru autorskiego",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-4628faa9-7f56-4491-b695-16ae489eef05",
@@ -17345,7 +17234,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-11-03",
+  "dodano": "2026-11-04",
   "hash": "474cb7f3393bee9cf6bbc0d34fde1c213cd1d3d5905c4ee84bdbfa8bc6b45fbb"
  },
  {
@@ -17414,7 +17303,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-11-03",
+  "dodano": "2026-11-04",
   "hash": "9dd2d5364c4415378ae00236943cb8a590b26fc35778efb684adfe35dd294dcc"
  },
  {
@@ -17444,7 +17333,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-11-03",
+  "dodano": "2026-11-04",
   "hash": "3c0cd2e0debd3a88b9daaa24791634eb12dbad4f93150fac28e2e4c2c7481c1a"
  },
  {
@@ -17467,6 +17356,27 @@
   "status_opisu": "pobrany",
   "dodano": "2026-11-03",
   "hash": "1f1faef06faf6d88a8e16dc67f9f198355d2bbf1f63a0045ba91e6a1f9377431"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie projektu modernizacji budynku D-1 AGH dla potrzeb Użytkowników wraz z termomodernizacją przegród budowlanych – KC-DE-zp.25.567.2026",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-64f2f909-d282-4dfb-9a2f-fb057099e9b6",
+  "zamawiajacy": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",
+  "data_publikacji": "2026-11-04",
+  "termin_skladania": "2026-11-13T07:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00522161 z dnia 2026-11-04 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie projektu modernizacji budynku D-1 AGH dla potrzeb Użytkowników wraz z termomodernizacją przegród budowlanych – KC-DE-zp.25.567.2026 SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie 1.4) Krajowy Numer Identyfikacyjny: REGON 000001577 1.5) Adres zamawiającego 1.5.1.) Ulica: Al. Mickiewicza 30 1.5.2.) Miejscowość: Kraków 1.5.3.) Kod pocztowy: 30-059 1.5.4.) Województwo: małopolskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL213 - Miasto Kraków 1.5.9.) Adres poczty elektronicznej: dzp@agh.edu.pl 1.5.10.) Adres strony internetowej zamawiającego: www.dzp.agh.edu.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - uczelnia ",
+  "cpv": [
+   "71220000-6",
+   "71248000-8",
+   "71400000-2"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-11-04",
+  "hash": "96de04077ea7f9cd46d82db10fd20a541d1bd3b9ef210f91a36c991643e355e4"
  },
  {
   "zrodlo": "ted",
@@ -17497,6 +17407,55 @@
   "status_opisu": "brak",
   "dodano": "2026-10-29",
   "hash": "1b82201c929474bbdce4ab6dae446bdf3fbb5111ad21727bf37560f2d808ccbe"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowej dla zadania „Zagospodarowania terenu w Parku Reymonta”.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-b4246281-019c-41b9-8608-eafce9cd348a",
+  "zamawiajacy": "URZĄD GMINY W PSARACH",
+  "data_publikacji": "2026-11-04",
+  "termin_skladania": "2026-11-13T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00520421 z dnia 2026-11-04 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowej dla zadania „Zagospodarowania terenu w Parku Reymonta”. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: URZĄD GMINY W PSARACH 1.4) Krajowy Numer Identyfikacyjny: REGON 000537243 1.5) Adres zamawiającego 1.5.1.) Ulica: Malinowicka 4 1.5.2.) Miejscowość: Psary 1.5.3.) Kod pocztowy: 42-512 1.5.4.) Województwo: śląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL22B - Sosnowiecki 1.5.9.) Adres poczty elektronicznej: urzad@psary.pl 1.5.10.) Adres strony internetowej zamawiającego: www.psary.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego 1.7.) Przedmiot działalności zamawiającego: Ogólne usługi publiczne SEKCJA II – INF",
+  "cpv": [
+   "71220000-6",
+   "71248000-8",
+   "71222000-0",
+   "71322000-1",
+   "71324000-5"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-11-04",
+  "hash": "9a75de03acfda0000b5b9157975ced75f54c5e5bf48e4aa3d7a67c9284ff3d39"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie wielobranżowej, kompletnej dokumentacji projektowej dla zadania „Modernizacja bazy dydaktycznej ZJEWM w Krakowie – utworzenie zintegrowanej pracowni (...) – zamówienie powtórzone",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-f6b54119-a233-4929-b231-23820453c7f8",
+  "zamawiajacy": "Zespół Jednostek Edukacyjnych Województwa Małopolskiego w Krakowie",
+  "data_publikacji": "2026-11-04",
+  "termin_skladania": "2026-11-13T08:30:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00522437 z dnia 2026-11-04 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie wielobranżowej, kompletnej dokumentacji projektowej dla zadania „Modernizacja bazy dydaktycznej ZJEWM w Krakowie – utworzenie zintegrowanej pracowni (...) – zamówienie powtórzone SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzi podmiot, któremu powierzono przeprowadzenie postępowania 1.2.) Nazwa zamawiającego: Zespół Jednostek Edukacyjnych Województwa Małopolskiego w Krakowie 1.4) Krajowy Numer Identyfikacyjny: REGON 121464310 1.5) Adres zamawiającego 1.5.1.) Ulica: os. Teatralne 4a 1.5.2.) Miejscowość: Kraków 1.5.3.) Kod pocztowy: 31-945 1.5.4.) Województwo: małopolskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL213 - Miasto Kraków 1.5.9.) Adres poczty elektronicznej: zjewm@kancelariaasds.pl 1.5.10.) Adres strony internetowej zamawiającego: www.zjewm.krakow.pl 1.6.) Rodzaj zamawiająceg",
+  "cpv": [
+   "71240000-2",
+   "71250000-5",
+   "71320000-7",
+   "79933000-3",
+   "71220000-6"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-11-04",
+  "hash": "51521bf5f635f564b5fb94882bc58bae09915521e04d84df364c6a8c572f1982"
  },
  {
   "zrodlo": "bzp",
@@ -17549,7 +17508,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-11-03",
+  "dodano": "2026-11-04",
   "hash": "0b62c21920a86de1824ad62f9863d536332f0c92fe35d53d798b7d1f8a979410"
  },
  {
@@ -17788,8 +17747,50 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-11-03",
+  "dodano": "2026-11-04",
   "hash": "fe5958f93acd80841099b4b76cb643dcfc680a76f26134f4a5087fdab96262e3"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Wykonanie Programu funkcjonalno-użytkowego dla realizacji następujących zadań inwestycyjnych: 1) Modernizacja górnej i dolnej mechaniki Sceny Głównej w Teatrze Wielkim - Operze Narodowej w Warszawie oraz 2) Modernizacja górnej i dolnej mechaniki Sceny Kameralnej w Teatrze Wielkim - Operze Narodowej w Warszawie.",
+  "url": "https://ted.europa.eu/en/notice/-/detail/765060-2026",
+  "zamawiajacy": "Teatr Wielki - Opera Narodowa",
+  "data_publikacji": "2026-11-04",
+  "termin_skladania": "2026-11-13T10:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71320000",
+   "71240000",
+   "71320000",
+   "71240000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-07",
+  "hash": "06df4523058c66311b055853c1269f7fc68d90df19a3ef05bd19e8a571526168"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie koncepcji arch.-bud. wraz z obliczeniem kosztów prac projektowych, robót bud. i wyposażenia internatowego dla przebudowy budynku w Augustowie.",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-507fb278-0452-4821-b20a-6eb8b653f718",
+  "zamawiajacy": "Agencja Mienia Wojskowego",
+  "data_publikacji": "2026-11-04",
+  "termin_skladania": "2026-11-13T10:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00521554 z dnia 2026-11-04 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie koncepcji arch.-bud. wraz z obliczeniem kosztów prac projektowych, robót bud. i wyposażenia internatowego dla przebudowy budynku w Augustowie. SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Agencja Mienia Wojskowego 1.4) Krajowy Numer Identyfikacyjny: REGON 011263946 1.5) Adres zamawiającego 1.5.1.) Ulica: Nowowiejska 26A 1.5.2.) Miejscowość: Warszawa 1.5.3.) Kod pocztowy: 00-911 1.5.4.) Województwo: mazowieckie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL911 - Miasto Warszawa 1.5.9.) Adres poczty elektronicznej: dzp.ol@amw.com.pl 1.5.10.) Adres strony internetowej zamawiającego: https://amw.com.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - agencja wykonawcza 1.7.) Prz",
+  "cpv": [
+   "71220000-6",
+   "71248000-8"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-11-04",
+  "hash": "414dafe9a270526f3aa2c725c8a39ced8b44b7c510e0454106783d8dad35c3fc"
  },
  {
   "zrodlo": "ted",
@@ -17854,7 +17855,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-11-03",
+  "dodano": "2026-11-04",
   "hash": "3840ec0c22768f68843f82774a31979905b00ab7f2f99e19327c3d883ce5fd6b"
  },
  {
@@ -17946,7 +17947,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-11-03",
+  "dodano": "2026-11-04",
   "hash": "b02642daf923ea7e8b9165b550e809fcb560d29b622c1a5d21eb586972e3a7f5"
  },
  {
@@ -17981,6 +17982,30 @@
   "status_opisu": "brak",
   "dodano": "2026-10-19",
   "hash": "fa0366f294364a447400d0a73349e4b32d75d22d2607e0c87c52cdf03f6d6c4e"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi zarządzania budową – Pełnienie funkcji Inżyniera Kontraktu dla inwestycji „Rozbudowa centrum produkcji zielonej energii z wykorzystaniem GOZ na oczyszczalni ścieków w Tychach, dla łagodzenia zmian klimatu\"",
+  "url": "https://ted.europa.eu/en/notice/-/detail/765253-2026",
+  "zamawiajacy": "Regionalne Centrum Gospodarki Wodno-Ściekowej S.A.",
+  "data_publikacji": "2026-11-04",
+  "termin_skladania": "2026-11-16T09:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71540000",
+   "71520000",
+   "71248000",
+   "71540000",
+   "71520000",
+   "71248000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-07",
+  "hash": "31022dc2bb13fc72511544e9327db25184c4f2a97a872d1dfe27a7135c689e84"
  },
  {
   "zrodlo": "ted",
@@ -18050,6 +18075,41 @@
   "status_opisu": "pobrany",
   "dodano": "2026-11-03",
   "hash": "4111d2b3e2e6a143cc2d77b9d1c709103283a1683baef5ef27f33fa5fea91df8"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "„Zakup i montaż instalacji OZE na budynkach Miejskiego Zakładu Usług Komunalnych w Gminie Sosnowiec\"",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-3c68f5ad-9b26-41ba-994e-76a093d5309b",
+  "zamawiajacy": "Miejski Zakład Usług Komunalnych",
+  "data_publikacji": "2026-11-04",
+  "termin_skladania": "2026-11-16T09:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00522419 z dnia 2026-11-04 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Dostawy „Zakup i montaż instalacji OZE na budynkach Miejskiego Zakładu Usług Komunalnych w Gminie Sosnowiec&#34; SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzi podmiot, któremu powierzono przeprowadzenie postępowania 1.2.) Nazwa zamawiającego: Miejski Zakład Usług Komunalnych 1.4) Krajowy Numer Identyfikacyjny: REGON 27681549000000 1.5) Adres zamawiającego 1.5.1.) Ulica: Plonów 22i 1.5.2.) Miejscowość: Sosnowiec 1.5.3.) Kod pocztowy: 41-200 1.5.4.) Województwo: śląskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL22B - Sosnowiecki 1.5.9.) Adres poczty elektronicznej: s.winter@um.sosnowiec.pl 1.5.10.) Adres strony internetowej zamawiającego: http://www.mzuk.sosnowiec.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka budżetowa 1.7.) Przedmiot działal",
+  "cpv": [
+   "09331200-0",
+   "09332000-5",
+   "31434000-7",
+   "31430000-9",
+   "31121110-4",
+   "44112410-5",
+   "45310000-3",
+   "45300000-0",
+   "45400000-1",
+   "71200000-0",
+   "71320000-7",
+   "71321000-4",
+   "45261215-4",
+   "45315700-5",
+   "71314100-3",
+   "71334000-8",
+   "71323100-9"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-11-04",
+  "hash": "50ad31523508b7ca1a59cf2cfd55f10d7834da71a4991d3347d590a325792da0"
  },
  {
   "zrodlo": "ted",
@@ -18148,130 +18208,25 @@
   "hash": "c18440528dfe49e6c26866bd33269d3b38f4fc026b7dd46d914ecf26dd1f601d"
  },
  {
-  "zrodlo": "ted",
-  "tytul": "Polska – Roboty budowlane – Budowa rozproszonych magazynów energii elektrycznej",
-  "url": "https://ted.europa.eu/en/notice/-/detail/719197-2026",
-  "zamawiajacy": "PGE INWEST 21 Sp. z o.o.",
-  "data_publikacji": "2026-10-19",
-  "termin_skladania": "2026-11-16T12:00:00+01:00",
-  "opis": null,
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowo-kosztorysowej ścieżki na terenie Szacht w Poznaniu",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-105e10d7-974b-46f8-be22-603d50a6b43d",
+  "zamawiajacy": "Zarząd Zieleni Miejskiej w Poznaniu",
+  "data_publikacji": "2026-11-04",
+  "termin_skladania": "2026-11-16T11:30:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00521187 z dnia 2026-11-04 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowo-kosztorysowej ścieżki na terenie Szacht w Poznaniu SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Zarząd Zieleni Miejskiej w Poznaniu 1.4) Krajowy Numer Identyfikacyjny: REGON 006210537 1.5) Adres zamawiającego 1.5.1.) Ulica: Strzegomska 3 1.5.2.) Miejscowość: Poznań 1.5.3.) Kod pocztowy: 60-194 1.5.4.) Województwo: wielkopolskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL415 - Miasto Poznań 1.5.9.) Adres poczty elektronicznej: zzmzp@zzmpoznan.pl 1.5.10.) Adres strony internetowej zamawiającego: zzmpoznan.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka budżetowa 1.7.) Przedmiot działalności zamawiającego: Ogólne usługi publiczne SEKCJA II",
   "cpv": [
-   "45000000",
-   "45200000",
-   "45100000",
-   "45113000",
-   "45112100",
-   "45232000",
-   "45232200",
-   "45220000",
-   "45231400",
-   "71320000",
-   "71323100",
-   "51112000",
-   "51112100",
-   "51112200",
-   "31321000",
-   "45232221",
-   "31170000",
-   "31200000",
-   "31320000",
-   "31440000",
-   "31155000",
-   "45000000",
-   "45000000",
-   "45000000",
-   "45000000",
-   "45200000",
-   "45100000",
-   "45113000",
-   "45112100",
-   "45232000",
-   "45232200",
-   "45220000",
-   "45231400",
-   "71320000",
-   "71323100",
-   "51112000",
-   "51112100",
-   "51112200",
-   "31321000",
-   "45232221",
-   "31170000",
-   "31200000",
-   "31320000",
-   "31440000",
-   "31155000",
-   "45200000",
-   "45100000",
-   "45113000",
-   "45112100",
-   "45232000",
-   "45232200",
-   "45220000",
-   "45231400",
-   "71320000",
-   "71323100",
-   "51112000",
-   "51112100",
-   "51112200",
-   "31321000",
-   "45232221",
-   "31170000",
-   "31200000",
-   "31320000",
-   "31440000",
-   "31155000",
-   "45200000",
-   "45100000",
-   "45113000",
-   "45112100",
-   "45232000",
-   "45232200",
-   "45220000",
-   "45231400",
-   "71320000",
-   "71323100",
-   "51112000",
-   "51112100",
-   "51112200",
-   "31321000",
-   "45232221",
-   "31170000",
-   "31200000",
-   "31320000",
-   "31440000",
-   "31155000",
-   "45200000",
-   "45100000",
-   "45113000",
-   "45112100",
-   "45232000",
-   "45232200",
-   "45220000",
-   "45231400",
-   "71320000",
-   "71323100",
-   "51112000",
-   "51112100",
-   "51112200",
-   "31321000",
-   "45232221",
-   "31170000",
-   "31200000",
-   "31320000",
-   "31440000",
-   "31155000"
+   "71220000-6",
+   "71320000-7"
   ],
-  "score": 3,
+  "score": 12,
   "tagi": [
    "cpv-71",
-   "giełdowa",
-   "roboty-budowlane",
-   "spolka-sp"
+   "wysoka-trafnosc"
   ],
-  "status_opisu": "brak",
-  "dodano": "2026-10-19",
-  "hash": "fa1e69d81a228afcba37143426fed3033227a2c9b2e4e6b462c2a8933399b3b0"
+  "status_opisu": "pobrany",
+  "dodano": "2026-11-04",
+  "hash": "0ae207fd0eeb5cd0b0de64d0b1d796e61e9bbad947b882757b928124bc0a375a"
  },
  {
   "zrodlo": "ted",
@@ -18523,6 +18478,28 @@
  },
  {
   "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowej na zadanie pn.: „Budowa obiektu na potrzeby Centrum Nadzoru i Służby Dyżurnej w m. Białystok”",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-3a22b850-4ad8-449b-afb0-d8114f317e28",
+  "zamawiajacy": "Podlaski Oddział Straży Granicznej imienia gen. dyw. Henryka Minkiewicza z siedzibą w Białymstoku",
+  "data_publikacji": "2026-11-04",
+  "termin_skladania": "2026-11-17T10:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00522521 z dnia 2026-11-04 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowej na zadanie pn.: „Budowa obiektu na potrzeby Centrum Nadzoru i Służby Dyżurnej w m. Białystok” SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Podlaski Oddział Straży Granicznej imienia gen. dyw. Henryka Minkiewicza z siedzibą w Białymstoku 1.4) Krajowy Numer Identyfikacyjny: REGON 050440036 1.5) Adres zamawiającego 1.5.1.) Ulica: ul. gen. J. Bema 100 1.5.2.) Miejscowość: Białystok 1.5.3.) Kod pocztowy: 15-370 1.5.4.) Województwo: podlaskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL841 - Białostocki 1.5.7.) Numer telefonu: (85)71-45-181 1.5.9.) Adres poczty elektronicznej: zamowienia.posg@strazgraniczna.pl 1.5.10.) Adres strony internetowej zamawiającego: www.podlaski.strazgraniczna.pl 1.6.) Rod",
+  "cpv": [
+   "71000000-8",
+   "71320000-7",
+   "71248000-8"
+  ],
+  "score": 12,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-11-04",
+  "hash": "63fd4af8d1ef1ee040ec0e24a8e4d0b56d24f505defd644e99086eafa38c024d"
+ },
+ {
+  "zrodlo": "bzp",
   "tytul": "Wykonanie projektu wykonawczego i dokumentacji kosztorysowo-przetargowej na czyszczenie wentylacji, montaż pomostów serwisowych, remont sufitów podwieszanych oraz przebudowę instalacji",
   "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-f37a2cbd-2b9e-4ab7-afe5-c4134e42645f",
   "zamawiajacy": "Centrum Nauki Kopernik",
@@ -18576,7 +18553,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-11-03",
+  "dodano": "2026-11-04",
   "hash": "ef06692ce1942e454e88af9ffa078ce5325d8719e97737afd41b181dd41a901b"
  },
  {
@@ -18630,8 +18607,27 @@
    "drogi"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-11-03",
+  "dodano": "2026-11-04",
   "hash": "68716ee0fd1330675be766730f4a308add305764317ab51a628e67f184713098"
+ },
+ {
+  "zrodlo": "bip:tauron",
+  "tytul": "192/2026 - Opracowanie dokumentacji projektowej dla zadania pn.: Lubawka ul. Wiejska - przebudowa stacji transformatorowej JGJ36604 na stację kontenerową - (KZ JG/000242/26)",
+  "url": "https://swoz.tauron.pl/platform/demand/notice/public/current/list",
+  "zamawiajacy": "TAURON Dystrybucja S.A.",
+  "data_publikacji": "2026-11-04",
+  "termin_skladania": "2026-11-18 10:00",
+  "opis": null,
+  "cpv": [],
+  "score": 8,
+  "tagi": [
+   "giełdowa",
+   "spolka-sp",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-11-04",
+  "hash": "9739dbdb3bbfdb13013aee0ae004ea9d59f8b68b3cdd5579509847b3540921c4"
  },
  {
   "zrodlo": "bzp",
@@ -18731,7 +18727,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-11-03",
+  "dodano": "2026-11-04",
   "hash": "b24f6184f522b8ec32d5bbb91e607a81de08d25345994d73971f0e4f117ad2e6"
  },
  {
@@ -18803,7 +18799,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-11-03",
+  "dodano": "2026-11-04",
   "hash": "c1de950043889208341515731a9263ed2257a5693ff5a95cc7b58d7025211baf"
  },
  {
@@ -19109,6 +19105,71 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Roboty budowlane – Zaprojektowanie (w zakresie branży srk) i kompleksowe wykonanie robót budowlanych na linii kolejowej nr 622 na odcinku G Gdów – Szczyrzyc w ramach Projektu pn. „Budowa nowej linii kolejowej Podłęże – Szczyrzyc – Tymbark / Mszana Dolna oraz modernizacja istniejącej linii kolejowej nr 104 Chabówka – Nowy Sącz – Etap II”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/764597-2026",
+  "zamawiajacy": "PKP Polskie Linie Kolejowe S.A.",
+  "data_publikacji": "2026-11-04",
+  "termin_skladania": "2026-11-20T10:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "45000000",
+   "71322000",
+   "30000000",
+   "32000000",
+   "48000000",
+   "45233100",
+   "45200000",
+   "30200000",
+   "32500000",
+   "48200000",
+   "48600000",
+   "48800000",
+   "45100000",
+   "45230000",
+   "30210000",
+   "30230000",
+   "32410000",
+   "32420000",
+   "32430000",
+   "34000000",
+   "34600000",
+   "34630000",
+   "34632000",
+   "48810000",
+   "48820000",
+   "45220000",
+   "45240000",
+   "45110000",
+   "45234000",
+   "45234100",
+   "45234113",
+   "45234116",
+   "45234115",
+   "45310000",
+   "45311000",
+   "45314300",
+   "45314310",
+   "71000000",
+   "71300000",
+   "71320000",
+   "32400000",
+   "45300000",
+   "45232300",
+   "45231400",
+   "45000000"
+  ],
+  "score": 4,
+  "tagi": [
+   "bonus-ue/strategiczny",
+   "cpv-71",
+   "roboty-budowlane"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-18",
+  "hash": "6018712331ff156d18ff9ad8447ae770547157d58a67939398197a82530f7ed7"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Roboty w zakresie kształtowania terenów zielonych – „Projekt i realizacja zadania inwestycyjnego pn. „Wsparcie małej retencji wodnej i rozwój zielono-niebieskiej infrastruktury na obszarze Metropolii Poznań - etap II. Zielona sieć- szkoły””",
   "url": "https://ted.europa.eu/en/notice/-/detail/713889-2026",
   "zamawiajacy": "Poznańskie Inwestycje Miejskie sp. z o.o. w imieniu MIASTO POZNAŃ pl. Kolegiacki 17, 61-841 Poznań",
@@ -19271,9 +19332,9 @@
  {
   "zrodlo": "ted",
   "tytul": "Polska – Jednostki prądotwórcze – Zakup i wymiana agregatów prądotwórczych na rzecz zapewnienia samowystarczalności energetycznej Wojewódzkiego Szpitala Zespolonego im. Ludwika Perzyny w Kaliszu - 2",
-  "url": "https://ted.europa.eu/en/notice/-/detail/740028-2026",
+  "url": "https://ted.europa.eu/en/notice/-/detail/766663-2026",
   "zamawiajacy": "Wojewódzki Szpital Zespolony im. Ludwika Perzyny w Kaliszu",
-  "data_publikacji": "2026-10-26",
+  "data_publikacji": "2026-11-04",
   "termin_skladania": "2026-11-23T09:00:00+01:00",
   "opis": null,
   "cpv": [
@@ -19287,7 +19348,7 @@
   ],
   "status_opisu": "brak",
   "dodano": "2026-10-26",
-  "hash": "9d5ad38c3a516e27aea71d9c526567735b08c43ce79eaa21ba558a7841aba0d4"
+  "hash": "ae755ba7edcb1c32e7afb0cbf7b6ac9a073e88f9d765298c436cfc55555760b7"
  },
  {
   "zrodlo": "ted",
@@ -19355,7 +19416,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-11-03",
+  "dodano": "2026-11-04",
   "hash": "a5565ddb91756114d2b91d1b22836b5b192a6b7197e1729688ff8120571c5982"
  },
  {
@@ -19483,9 +19544,9 @@
  {
   "zrodlo": "ted",
   "tytul": "Polska – Przygotowanie przedsięwzięcia i projektu, oszacowanie kosztów – Przebudowa gazociągu DN200 Skoczów – Cieszyn wraz z wraz z likwidacją ZZU, odwadniaczy i ogrodzenia - wykonanie dokumentacji projektowej",
-  "url": "https://ted.europa.eu/en/notice/-/detail/718808-2026",
+  "url": "https://ted.europa.eu/en/notice/-/detail/765871-2026",
   "zamawiajacy": "Operator Gazociągów Przesyłowych GAZ-SYSTEM S.A.",
-  "data_publikacji": "2026-10-19",
+  "data_publikacji": "2026-11-04",
   "termin_skladania": "2026-11-24T11:00:00+01:00",
   "opis": null,
   "cpv": [
@@ -19503,7 +19564,7 @@
   ],
   "status_opisu": "brak",
   "dodano": "2026-10-19",
-  "hash": "d69ccd8118c23c5a1cfdf522d58d1f97f952b00b3be31ed981cc507ed3864cfc"
+  "hash": "ae82ca498c1280805ba758df0d087bbbdf0a70a60d12e16655e9103ec2f67882"
  },
  {
   "zrodlo": "ted",
@@ -19684,7 +19745,7 @@
    "roboty-budowlane"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-11-03",
+  "dodano": "2026-11-04",
   "hash": "a67d24e33f60189066e90e21f46864824908036843bd57f54cdfb4b367b1377b"
  },
  {
@@ -19780,7 +19841,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-11-03",
+  "dodano": "2026-11-04",
   "hash": "129a4f5d8d3b2de527b93ae845e53bd8cfad832fc10b3c020bc07cf458017adb"
  },
  {
@@ -19801,7 +19862,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-11-03",
+  "dodano": "2026-11-04",
   "hash": "6506d005080bdae9ce8dcd36f320d62a46025347d02afbc1e7ee564e2db26b6e"
  },
  {
@@ -19905,7 +19966,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-11-03",
+  "dodano": "2026-11-04",
   "hash": "2819b7af81b051aabad26f2987b70a16adff06051996a57d23f6664dfb0c21fa"
  },
  {
@@ -19961,6 +20022,132 @@
   "status_opisu": "brak",
   "dodano": "2026-10-30",
   "hash": "4f4121d995aac2569913c222853042b1a03c86f2037bcac620ddc1c417296c1e"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Roboty budowlane – Budowa rozproszonych magazynów energii elektrycznej",
+  "url": "https://ted.europa.eu/en/notice/-/detail/767027-2026",
+  "zamawiajacy": "PGE INWEST 21 Sp. z o.o.",
+  "data_publikacji": "2026-11-04",
+  "termin_skladania": "2026-11-30T12:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "45000000",
+   "45200000",
+   "45100000",
+   "45113000",
+   "45112100",
+   "45232000",
+   "45232200",
+   "45220000",
+   "45231400",
+   "71320000",
+   "71323100",
+   "51112000",
+   "51112100",
+   "51112200",
+   "31321000",
+   "45232221",
+   "31170000",
+   "31200000",
+   "31320000",
+   "31440000",
+   "31155000",
+   "45000000",
+   "45000000",
+   "45000000",
+   "45000000",
+   "45200000",
+   "45100000",
+   "45113000",
+   "45112100",
+   "45232000",
+   "45232200",
+   "45220000",
+   "45231400",
+   "71320000",
+   "71323100",
+   "51112000",
+   "51112100",
+   "51112200",
+   "31321000",
+   "45232221",
+   "31170000",
+   "31200000",
+   "31320000",
+   "31440000",
+   "31155000",
+   "45200000",
+   "45100000",
+   "45113000",
+   "45112100",
+   "45232000",
+   "45232200",
+   "45220000",
+   "45231400",
+   "71320000",
+   "71323100",
+   "51112000",
+   "51112100",
+   "51112200",
+   "31321000",
+   "45232221",
+   "31170000",
+   "31200000",
+   "31320000",
+   "31440000",
+   "31155000",
+   "45200000",
+   "45100000",
+   "45113000",
+   "45112100",
+   "45232000",
+   "45232200",
+   "45220000",
+   "45231400",
+   "71320000",
+   "71323100",
+   "51112000",
+   "51112100",
+   "51112200",
+   "31321000",
+   "45232221",
+   "31170000",
+   "31200000",
+   "31320000",
+   "31440000",
+   "31155000",
+   "45200000",
+   "45100000",
+   "45113000",
+   "45112100",
+   "45232000",
+   "45232200",
+   "45220000",
+   "45231400",
+   "71320000",
+   "71323100",
+   "51112000",
+   "51112100",
+   "51112200",
+   "31321000",
+   "45232221",
+   "31170000",
+   "31200000",
+   "31320000",
+   "31440000",
+   "31155000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71",
+   "giełdowa",
+   "roboty-budowlane",
+   "spolka-sp"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-10-19",
+  "hash": "e43a4784bf348eede6470dda21ffc47aa3fa3e5e03cf274d25dfdc6a24f43bc5"
  },
  {
   "zrodlo": "ted",
@@ -20125,6 +20312,40 @@
  },
  {
   "zrodlo": "ted",
+  "tytul": "Polska – Budowa portów – Zaprojektowanie i wykonanie robót budowlanych dotyczących inwestycji pn. „Przylądek Pomerania - Budowa Portu Zewnętrznego w Świnoujściu.\"",
+  "url": "https://ted.europa.eu/en/notice/-/detail/766318-2026",
+  "zamawiajacy": "Dyrektor Urzędu Morskiego w Szczecinie",
+  "data_publikacji": "2026-11-04",
+  "termin_skladania": "2026-12-02T10:30:00+01:00",
+  "opis": null,
+  "cpv": [
+   "45241000",
+   "45241500",
+   "45243200",
+   "45247100",
+   "45244000",
+   "71322000",
+   "71320000",
+   "71332000",
+   "45241000",
+   "45241500",
+   "45243200",
+   "45247100",
+   "45244000",
+   "71322000",
+   "71320000",
+   "71332000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-11-04",
+  "hash": "8db7bbdf789d316b0dc2236e237466147d3db5d7c98c7dcd372b733e29e68353"
+ },
+ {
+  "zrodlo": "ted",
   "tytul": "Polska – Architektoniczne usługi zagospodarowania terenu – ZZK - NZ/241/3400/118/26-Wykonanie dokumentacji projektowo-kosztorysowej na zagospodarowanie wnętrza podwórzowego położonego we Wrocławiu.",
   "url": "https://ted.europa.eu/en/notice/-/detail/742472-2026",
   "zamawiajacy": "Zarząd Zasobu Komunalnego Jednostka Budżetowa Gminy Wrocław",
@@ -20164,6 +20385,30 @@
   "status_opisu": "brak",
   "dodano": "2026-10-16",
   "hash": "d1d2218d84f08183836de12da532e273234a110d566c9ca8603d75bc11f948df"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi inżynieryjne w zakresie projektowania – Wykonanie inwentaryzacji instalacji elektrycznych w obiekcie KPRM przy Al. Ujazdowskich 1/3/5 i Al. Szucha 14 w Warszawie",
+  "url": "https://ted.europa.eu/en/notice/-/detail/764385-2026",
+  "zamawiajacy": "Centrum Obsługi Administracji Rządowej",
+  "data_publikacji": "2026-11-04",
+  "termin_skladania": "2026-12-03T11:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71320000",
+   "71321000",
+   "71630000",
+   "71320000",
+   "71321000",
+   "71630000"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-11-04",
+  "hash": "59d66af1e49c0845cb3355d92c52443d8750bef533af831b474625834e53494a"
  },
  {
   "zrodlo": "ted",
@@ -20403,6 +20648,36 @@
   "status_opisu": "brak",
   "dodano": "2026-10-28",
   "hash": "1c99c2d62d2b8895d7fbf90165bd3fb682ab52528c9460356136699bd0679cd1"
+ },
+ {
+  "zrodlo": "ted",
+  "tytul": "Polska – Usługi projektowania architektonicznego – Opracowanie kompletnej dokumentacji projektowo-kosztorysowej w ramach projektu pn. Modernizacja i przebudowa kompleksu budynków zabytkowej leśniczówki w Warnowie wraz z zabudową funkcjonalną i otoczeniem w celu stworzenia Siedliska Edukacyjnego „SYLWANA”",
+  "url": "https://ted.europa.eu/en/notice/-/detail/764959-2026",
+  "zamawiajacy": "Woliński Park Narodowy",
+  "data_publikacji": "2026-11-04",
+  "termin_skladania": "2026-12-10T12:00:00+01:00",
+  "opis": null,
+  "cpv": [
+   "71220000",
+   "71320000",
+   "71242000",
+   "71248000",
+   "71000000",
+   "71221000",
+   "71220000",
+   "71242000",
+   "71248000",
+   "71000000",
+   "71221000"
+  ],
+  "score": 9,
+  "tagi": [
+   "cpv-71",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "brak",
+  "dodano": "2026-11-04",
+  "hash": "ff3976be91d70f4feb686fa2545ca59ac644a9949b6ce35fd61b1a35911d0043"
  },
  {
   "zrodlo": "ted",
