@@ -36,6 +36,8 @@ def merge(existing: list[Announcement], incoming: list[Announcement],
             old = by_hash[a.hash]
             if old.opis in (None, "") and a.opis:
                 old.opis, old.status_opisu = a.opis, a.status_opisu
+            if not old.streszczenie and a.streszczenie:
+                old.streszczenie = a.streszczenie
             if old.termin_skladania in (None, "") and a.termin_skladania:
                 old.termin_skladania = a.termin_skladania
         else:

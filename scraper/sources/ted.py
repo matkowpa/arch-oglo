@@ -6,13 +6,18 @@ Limity dostępu anonimowego nieudokumentowane -> backoff + obsługa HTTP 429.
 """
 from __future__ import annotations
 
+import re
+
 import httpx
 
 from ..model import Announcement
 from .base import BaseSource
 
 FIELDS = ["publication-number", "notice-title", "buyer-name", "deadline",
-          "deadline-receipt-request", "classification-cpv", "publication-date"]
+          "deadline-receipt-request", "classification-cpv", "publication-date",
+          # Przedmiot zamówienia do prezentacji na stronie (nie do scoringu —
+          # patrz Announcement.streszczenie).
+          "description-proc", "description-lot"]
 
 
 class TedSource(BaseSource):
@@ -106,10 +111,24 @@ class TedSource(BaseSource):
                     or self._lang(n.get("deadline-receipt-request"))
                     or None,
                     cpv=cpv,
+                    # Przedmiot zamówienia: tylko do wyświetlenia (streszczenie).
+                    # `opis` zostaje pusty, bo opis TED to boilerplate zakresu
+                    # robót — w scoringu wciąga +50 ogłoszeń o robotach.
+                    streszczenie=self._streszczenie(n),
                     status_opisu="brak",
                 )
             )
         return out
+
+    def _streszczenie(self, notice: dict) -> str:
+        """Pierwszy sensowny opis przedmiotu zamówienia, obcięty do 400 znaków."""
+        for field in ("description-proc", "description-lot"):
+            text = " ".join(self._lang(notice.get(field)).split())
+            if text:
+                # TED numeruje akapity („1. Przedmiotem zamówienia jest…”)
+                text = re.sub(r"^(?:\d{1,2}[.)]\s*)+", "", text)
+                return text[:400]
+        return ""
 
     def _lang(self, value) -> str:
         """Pola TED są wielojęzyczne: str | dict[lang, list[str]] | list — preferuj pol, potem eng."""

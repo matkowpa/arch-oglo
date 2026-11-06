@@ -82,16 +82,20 @@ def main() -> int:
     for src in build_sources():
         try:
             items = src.fetch()
-            per_source[src.name] = {"ok": True, "count": len(items)}
-            incoming.extend(items)
+            # Lejek per źródło: ile pobrano i ile przeszło scoring. Bez tego
+            # „count” mówi tylko o pobraniu, a źródło mogące zwracać 180 pozycji
+            # i publikować 1 wygląda w historii identycznie jak zdrowe.
+            scored_src = [scorer.score(a) for a in items]
+            kept_src = [a for a in scored_src if scorer.should_publish(a)]
+            per_source[src.name] = {"ok": True, "count": len(items), "kept": len(kept_src)}
+            incoming.extend(kept_src)
         except Exception as e:  # izolacja awarii
-            per_source[src.name] = {"ok": False, "count": 0}
+            per_source[src.name] = {"ok": False, "count": 0, "kept": 0}
             log.error("source %s failed: %s", src.name, e)
             with open(LOG, "a", encoding="utf-8") as f:
                 f.write(f"{src.name}: {e}\n")
 
-    scored = [scorer.score(a) for a in incoming]
-    scored = [a for a in scored if scorer.should_publish(a)]
+    scored = [a for a in incoming if scorer.should_publish(a)]
 
     merged = merge(load_existing(ANNOUNCEMENTS), scored,
                    history_days=int(sources_cfg.get("history_days", 90)),

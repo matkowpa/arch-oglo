@@ -37,6 +37,8 @@
       <div class="min-w-0">
         <a href="{{ a.url }}" target="_blank" rel="noopener" class="font-medium hover:text-emerald-400">{{ a.tytul }}</a>
         <div class="text-zinc-500 text-sm mt-0.5">{{ a.zamawiajacy|default("—", true) }}</div>
+        {% set opis = a.streszczenie or a.opis %}
+        {% if opis %}<div class="text-zinc-500 text-sm mt-1 line-clamp-2">{{ opis|truncate(200, true, "…") }}</div>{% endif %}
       </div>
       <div class="text-xs text-zinc-500 flex items-center gap-3">
         <span>{{ a.termin_skladania|default("—", true) }}</span>

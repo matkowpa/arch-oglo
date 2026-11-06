@@ -60,7 +60,13 @@ def render_site(announcements_path: str, out_dir: str, display_days: int = 30,
     for a in current + archive:
         a["kategoria"] = _cat(a)
     nearest = sorted(
-        (a for a in current if a.get("termin_skladania")),
+        (
+            a
+            for a in current
+            # tylko przyszłe terminy: „Pilne terminy" pokazywało ogłoszenia po
+            # terminie (sortowanie rosnąco stawiało je na górze listy)
+            if a.get("termin_skladania") and a["termin_skladania"][:10] >= today
+        ),
         key=lambda x: x["termin_skladania"],
     )[:3]
     # Kafelek „N źródeł danych": liczba unikalnych źródeł wśród aktualnie

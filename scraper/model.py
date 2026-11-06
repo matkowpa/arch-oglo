@@ -21,6 +21,10 @@ class Announcement:
     data_publikacji: Optional[str] = None  # ISO date
     termin_skladania: Optional[str] = None  # ISO datetime/date; None -> tag brak-terminu
     opis: Optional[str] = None
+    # Krótki opis do prezentacji na stronie (np. TED `description-proc`).
+    # NIE bierze udziału w scoringu: u TED to długi boilerplate całego zakresu
+    # robót (mediana ~1,3 tys. znaków), który wciąga na stronę roboty budowlane.
+    streszczenie: Optional[str] = None
     cpv: list = field(default_factory=list)
     score: int = 0
     tagi: list = field(default_factory=list)

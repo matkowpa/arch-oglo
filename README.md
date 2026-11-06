@@ -81,6 +81,26 @@ zaczyna padać — nie mieszaj obu trybów.
 
 GitHub Actions `.github/workflows/daily.yml`: cron `7 5 * * *` (UTC). **Harmonogram nie jest gwarantowany** — opóźnienia 5–30 min, run może zostać pominięty (użyj workflow_dispatch). `data/history/` jest commitowany przy każdym runie = heartbeat przeciw wyłączeniu cron po 60 dniach bez commitów.
 
+W praktyce GitHuba ten run startuje **10:00–22:00 czasu warszawskiego** (obserwacja 2026-09…11: opóźnienia 4–16 h wobec `05:07 UTC`), więc „poranny" raport bywa popołudniowy. `workflow_dispatch` startuje natychmiast — to obejście, gdy wynik jest potrzebny rano.
+
+## Monitoring i diagnostyka
+
+`data/history/<dzień>.json` zbiera wpisy **wszystkich runów dnia** (daily + 6 × pz-search):
+per źródło `ok`, `count` (pobrane), `kept` (po scoringu) i `runs`. Kolejny run tego samego
+dnia dopisuje się (sumy + licznik runów), a nie nadpisuje pliku — wcześniej historia
+pokazywała tylko ostatnią frazę pz-search (zwykle 0). `scraper/healthcheck.py` porównuje
+więc wynik **na run**, nie sumę dnia, i zgłasza w logu Actions:
+
+- `::error::` — źródło nieosiągalne/nieparsowalne w tym runie,
+- `::warning:: … yield dropped` — wynik/run poniżej 80% średniej z 7 dni,
+- `::warning:: … published 0 of N fetched over D days` — źródło pobiera pozycje, ale
+  od ≥5 dni nic nie przechodzi scoringu (cichy zgon filtra albo mapowania pól).
+
+Karty ogłoszeń pokazują dwuliniowy skrót opisu: `opis` (BZP — treść z `htmlBody`,
+bierze udział w scoringu) albo `streszczenie` (TED — `description-proc`, **tylko
+prezentacja**; pełny opis TED to boilerplate zakresu robót i w scoringu wciągał +50
+ogłoszeń o robotach budowlanych).
+
 ## Kroki 0 (research) — status
 
 - [x] 0.3 spółki pilotażowe (PHN, KGHM, PGE, PGG, ARP) — patrz final_plan.md sekcja 11

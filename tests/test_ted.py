@@ -40,3 +40,26 @@ def test_parse_no_deadline_fields():
     data = {"notices": [{"publication-number": "2-2026", "notice-title": "T"}]}
     out = _src()._parse(data)
     assert out[0].termin_skladania is None
+
+def test_parse_keeps_the_procurement_subject_as_a_summary():
+    """`description-proc` trafia do streszczenia (prezentacja), `opis` zostaje
+    pusty — opis TED bierze udział w scoringu i wciągał roboty budowlane."""
+    data = {"notices": [{
+        "publication-number": "3-2026",
+        "notice-title": {"pol": ["Roboty budowlane"]},
+        "description-proc": {"pol": "Przedmiotem zamówienia jest wykonanie dokumentacji projektowej."},
+        "description-lot": {"pol": ["Długi opis całego zakresu robót."]},
+    }]}
+    out = _src()._parse(data)
+    assert out[0].streszczenie.startswith("Przedmiotem zamówienia jest wykonanie dokumentacji")
+    assert out[0].opis is None
+
+
+def test_parse_falls_back_to_the_lot_description():
+    data = {"notices": [{
+        "publication-number": "4-2026",
+        "notice-title": "T",
+        "description-lot": {"pol": ["Zakres: przebudowa budynku."]},
+    }]}
+    out = _src()._parse(data)
+    assert out[0].streszczenie == "Zakres: przebudowa budynku."

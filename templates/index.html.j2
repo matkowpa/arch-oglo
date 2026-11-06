@@ -108,6 +108,8 @@
             <a href="{{ a.url }}" target="_blank" rel="noopener" class="hover:text-emerald-400">{{ a.tytul }}</a>
           </h3>
           <p class="text-zinc-400 text-sm mt-1">{{ a.zamawiajacy|default("—", true) }}</p>
+          {% set opis = a.streszczenie or a.opis %}
+          {% if opis %}<p class="text-zinc-500 text-sm mt-2 line-clamp-2">{{ opis|truncate(260, true, "…") }}</p>{% endif %}
         </div>
         <div class="shrink-0 text-center bg-zinc-950 border border-zinc-800 rounded-xl px-3 py-2">
           <div class="text-xl font-bold text-emerald-400">{{ a.score|default("–") }}</div>
