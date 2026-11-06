@@ -1,33 +1,33 @@
 {
  "ted": {
   "ok": true,
-  "count": 3073,
-  "kept": 798,
-  "runs": 7
+  "count": 3512,
+  "kept": 931,
+  "runs": 8
  },
  "bip:phn": {
   "ok": false,
-  "count": 6,
+  "count": 7,
   "kept": 0,
-  "runs": 7
+  "runs": 8
  },
  "bip:tauron": {
   "ok": true,
-  "count": 175,
-  "kept": 12,
-  "runs": 7
+  "count": 200,
+  "kept": 14,
+  "runs": 8
  },
  "bip:kghm": {
   "ok": true,
-  "count": 200,
+  "count": 232,
   "kept": 0,
-  "runs": 7
+  "runs": 8
  },
  "bip:pse": {
   "ok": true,
-  "count": 1260,
-  "kept": 6,
-  "runs": 7
+  "count": 1440,
+  "kept": 7,
+  "runs": 8
  },
  "pz-search": {
   "ok": true,
@@ -37,21 +37,21 @@
  },
  "bzp": {
   "ok": true,
-  "count": 251,
-  "kept": 78,
-  "runs": 7
+  "count": 286,
+  "kept": 91,
+  "runs": 8
  },
  "bip:phn-platform": {
   "ok": true,
-  "count": 20,
+  "count": 24,
   "kept": 0,
-  "runs": 5
+  "runs": 6
  },
  "pgg": {
   "ok": true,
-  "count": 250,
-  "kept": 5,
-  "runs": 5
+  "count": 300,
+  "kept": 6,
+  "runs": 6
  },
  "pz-search:projekt-budowlany": {
   "ok": true,
@@ -64,5 +64,11 @@
   "count": 0,
   "kept": 0,
   "runs": 3
+ },
+ "pz-search:dokumentacja-wielobran-owa": {
+  "ok": true,
+  "count": 0,
+  "kept": 0,
+  "runs": 1
  }
 }
