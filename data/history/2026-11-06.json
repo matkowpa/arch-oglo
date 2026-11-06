@@ -1,44 +1,44 @@
 {
  "ted": {
   "ok": true,
-  "count": 878,
-  "kept": 133,
-  "runs": 2
+  "count": 1317,
+  "kept": 266,
+  "runs": 3
  },
  "bip:phn": {
   "ok": true,
-  "count": 2,
+  "count": 3,
   "kept": 0,
-  "runs": 2
+  "runs": 3
  },
  "bip:tauron": {
   "ok": true,
-  "count": 50,
-  "kept": 2,
-  "runs": 2
+  "count": 75,
+  "kept": 4,
+  "runs": 3
  },
  "bip:kghm": {
   "ok": true,
-  "count": 40,
+  "count": 60,
   "kept": 0,
-  "runs": 2
+  "runs": 3
  },
  "bip:pse": {
   "ok": true,
-  "count": 360,
-  "kept": 1,
-  "runs": 2
+  "count": 540,
+  "kept": 2,
+  "runs": 3
  },
  "pz-search": {
   "ok": true,
   "count": 0,
   "kept": 0,
-  "runs": 2
+  "runs": 3
  },
  "bzp": {
   "ok": true,
-  "count": 71,
-  "kept": 13,
-  "runs": 2
+  "count": 107,
+  "kept": 26,
+  "runs": 3
  }
 }
