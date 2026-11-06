@@ -28,13 +28,30 @@ platformazakupowa_search:
   # dostały dwie frazy bliższe architekturze. Każda fraza ma teraz własny wpis
   # w data/history („pz-search:<fraza>"), żeby po tygodniu wybrać zwycięzców
   # na podstawie danych, a nie przeczuć.
-  phrases:
+  phrases:   # rotacja dzienna — fallback dla workflow_dispatch bez frazy
     - "dokumentacja wielobranżowa"
     - "prace projektowe"
     - "dokumentacja projektowa"
     - "projektowanie architektoniczne"
     - "projekt budowlany"
     - "koncepcja architektoniczna"
+  # Slot → fraza. Godziny w cronach pz_search.yml muszą się zgadzać z listą
+  # poniżej (test pilnuje). Wybór idzie po `github.event.schedule`, a nie po
+  # godzinie startu, bo GitHub potrafi odpalić cron 4–16 h później i wtedy
+  # „hour - 5" brał frazę innego slotu (jedna dwa razy, inna wcale).
+  slots:
+    - cron: "7 5 * * *"
+      phrase: "dokumentacja wielobranżowa"
+    - cron: "7 6 * * *"
+      phrase: "prace projektowe"
+    - cron: "7 7 * * *"
+      phrase: "dokumentacja projektowa"
+    - cron: "7 8 * * *"
+      phrase: "projektowanie architektoniczne"
+    - cron: "7 9 * * *"
+      phrase: "projekt budowlany"
+    - cron: "7 10 * * *"
+      phrase: "koncepcja architektoniczna"
 
 ted:
   url: https://api.ted.europa.eu/v3/notices/search

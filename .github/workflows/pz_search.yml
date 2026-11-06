@@ -48,11 +48,14 @@ jobs:
 
       - name: Pick phrase for this run
         id: phrase
-        run: |
-          # Frazy z config/sources.yaml (platformazakupowa_search.phrases) —
-          # rotacja wg godziny (05:07-10:07 UTC, patrz cron wyżej).
-          PHRASE=$(python -c "import yaml,datetime;ps=yaml.safe_load(open('config/sources.yaml',encoding='utf-8'))['platformazakupowa_search']['phrases'];print(ps[(datetime.datetime.utcnow().hour-5)%len(ps)])")
-          echo "phrase=$PHRASE" >> "$GITHUB_OUTPUT"
+        # Slot -> fraza z config/sources.yaml, dopasowany po `github.event.schedule`
+        # (cron, który faktycznie odpalił run). Godzina startu NIE jest używana:
+        # GitHub potrafi odpalić cron 4-16 h później i wtedy mapa „hour - 5"
+        # brała frazę innego slotu.
+        env:
+          SCHEDULE: ${{ github.event.schedule }}
+          OVERRIDE: ${{ github.event.inputs.phrase }}
+        run: echo "phrase=$(python -m scraper.pick_phrase)" >> "$GITHUB_OUTPUT"
 
       - name: Run scraper (single search request)
         env:
