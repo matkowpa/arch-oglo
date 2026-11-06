@@ -13,9 +13,9 @@ on:
     - cron: '7 5 * * *'   # fraza 1 (dokumentacja wielobranżowa)
     - cron: '7 6 * * *'   # fraza 2 (prace projektowe)
     - cron: '7 7 * * *'   # fraza 3 (dokumentacja projektowa)
-    - cron: '7 8 * * *'   # fraza 4 (dokumentacja projektowo-kosztorysowa)
-    - cron: '7 9 * * *'   # fraza 5 (projektowanie architektoniczne)
-    - cron: '7 10 * * *'  # fraza 6 (wielobranżowa)
+    - cron: '7 8 * * *'   # fraza 4 (projektowanie architektoniczne)
+    - cron: '7 9 * * *'   # fraza 5 (projekt budowlany)
+    - cron: '7 10 * * *'  # fraza 6 (koncepcja architektoniczna)
   workflow_dispatch:
     inputs:
       phrase:

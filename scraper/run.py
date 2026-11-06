@@ -92,11 +92,16 @@ def main() -> int:
             # i publikować 1 wygląda w historii identycznie jak zdrowe.
             scored_src = [scorer.score(a) for a in items]
             kept_src = [a for a in scored_src if scorer.should_publish(a)]
-            per_source[src.name] = {"ok": True, "count": len(items), "kept": len(kept_src)}
+            key = src.run_key() if hasattr(src, "run_key") else src.name
+            per_source[key] = {"ok": True, "count": len(items), "kept": len(kept_src)}
+            if hasattr(src, "phrase") and src.phrase:
+                log.info("PZ_SEARCH: phrase=%r fetched=%d kept=%d",
+                         src.phrase, len(items), len(kept_src))
             incoming.extend(kept_src)
         except Exception as e:  # izolacja awarii
-            per_source[src.name] = {"ok": False, "count": 0, "kept": 0}
-            log.error("source %s failed: %s", src.name, e)
+            key = src.run_key() if hasattr(src, "run_key") else src.name
+            per_source[key] = {"ok": False, "count": 0, "kept": 0}
+            log.error("source %s failed: %s", key, e)
             with open(LOG, "a", encoding="utf-8") as f:
                 f.write(f"{src.name}: {e}\n")
 

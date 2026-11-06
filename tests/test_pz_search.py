@@ -4,6 +4,8 @@ import os
 from scraper.sources.pz_search import PzSearchSource
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+CFG = {"base_url": "https://platformazakupowa.pl/all",
+       "phrases": ["dokumentacja projektowa", "prace projektowe"]}
 
 
 def _fixture():
@@ -74,3 +76,23 @@ def test_phrase_rotation_deterministic():
     s2 = PzSearchSource(cfg).for_run("x")
     assert s2._phrase == "x"
     assert s1._phrase in ("a", "b", "c")
+
+
+def test_run_key_separates_the_phrases_in_history():
+    """Każda fraza ma własny klucz w data/history — inaczej rotacja 6 fraz
+    zlewa się w jedną liczbę i nie wiadomo, która fraza działa."""
+    src = PzSearchSource(CFG)
+    assert src.run_key() == "pz-search"          # brak frazy -> klucz bazowy
+    src.for_run("projekt budowlany")
+    assert src.run_key() == "pz-search:projekt-budowlany"
+    src.for_run("Koncepcja architektoniczna")
+    assert src.run_key() == "pz-search:koncepcja-architektoniczna"
+
+
+def test_every_configured_phrase_gets_a_distinct_key():
+    from scraper.run import load_yaml
+
+    phrases = load_yaml("sources.yaml")["platformazakupowa_search"]["phrases"]
+    keys = {PzSearchSource(CFG).for_run(p).run_key() for p in phrases}
+    assert len(keys) == len(phrases)
+    assert len(phrases) == 6   # tyle slotów ma pz_search.yml (05:07-10:07 UTC)

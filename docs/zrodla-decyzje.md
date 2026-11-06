@@ -228,3 +228,17 @@ listy, więc ten kierunek jest zamknięty.
 projektowa), PHN eB2B 4 → 0, KGHM 24/run → 0 (sekcje nic nie wniosły).
 Wniosek: PGG wnosi realną wartość, PHN/KGHM są tanie, ale puste — healthcheck
 zgłosi je po 5 dniach zerowego lejka (`::warning:: … published 0 of N fetched`).
+
+### 2026-11-06 — rotacja fraz pz-search (pomiar zamiast przeczuć)
+
+Do 2026-11-06 historia trzymała jeden klucz `pz-search`, mimo że workflow wysyła
+6 różnych fraz dziennie — nie było więc czym zmierzyć, która fraza działa.
+Teraz każda fraza ma własny wpis (`pz-search:<slug>`) i linię w logu
+(`PZ_SEARCH: phrase=… fetched=… kept=…`).
+
+Wymiana fraz: przez 60 dni **zero** wyników dały „dokumentacja projektowo-kostorytowa"
+i „wielobranżowa" (ta druga jest zresztą podciągiem pierwszej frazy listy), więc ich
+sloty dostały „projekt budowlany" i „koncepcja architektoniczna" — bliżej architektury
+niż kosztorysów. Zostają cztery sprawdzone: „dokumentacja projektowa" (13 z 14 wpisów
+źródła), „prace projektowe", „dokumentacja wielobranżowa", „projektowanie architektoniczne".
+Po tygodniu danych wybór zwycięzców jest mechaniczny: `data/history/*` + log.

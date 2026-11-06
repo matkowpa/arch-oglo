@@ -34,6 +34,22 @@ class PzSearchSource(BaseSource):
         self.timeout = timeout
         self._phrase = None  # fraza wybrana na dany run (ustawiana z zewnątrz lub wg dnia)
 
+    @property
+    def phrase(self) -> str | None:
+        return self._phrase
+
+    def run_key(self) -> str:
+        """Klucz źródła dla historii: `pz-search:<slug frazy>`.
+
+        Bez tego nie da się zmierzyć, która fraza przynosi ogłoszenia — historia
+        miała jeden klucz `pz-search`, a rotacja 6 fraz dziennie zlewała wyniki
+        w jedną liczbę. `zrodlo` wpisów zostaje `pz-search` (UI bez zmian).
+        """
+        if not self._phrase:
+            return self.name
+        slug = re.sub(r"[^a-z0-9]+", "-", self._phrase.lower()).strip("-")
+        return f"{self.name}:{slug}"
+
     def for_run(self, phrase: str | None = None) -> "PzSearchSource":
         """Wybiera frazę na ten run: jawnie podaną lub rotującą wg dnia miesiąca."""
         if phrase:

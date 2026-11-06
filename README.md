@@ -97,6 +97,11 @@ więc wynik **na run**, nie sumę dnia, i zgłasza w logu Actions:
 - `::warning:: … published 0 of N fetched over D days` — źródło pobiera pozycje, ale
   od ≥5 dni nic nie przechodzi scoringu (cichy zgon filtra albo mapowania pól).
 
+Ponieważ rotacja pz-search ma 6 fraz na dobę, historia trzyma dla niej osobne
+wpisy `pz-search:<fraza>` (np. `pz-search:projekt-budowlany`) — inaczej wszystkie
+frakcje lądują w jednej liczbie i nie da się powiedzieć, która fraza daje wyniki.
+Log runu ma linię `PZ_SEARCH: phrase=… fetched=… kept=…`.
+
 Karty ogłoszeń pokazują dwuliniowy skrót opisu: `opis` (BZP — treść z `htmlBody`,
 bierze udział w scoringu) albo `streszczenie` (TED — `description-proc`, **tylko
 prezentacja**; pełny opis TED to boilerplate zakresu robót i w scoringu wciągał +50

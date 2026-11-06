@@ -21,13 +21,20 @@ platformazakupowa_search:
   # a workflow pz_search.yml uruchamia po jednym żądaniu na godzinę.
   base_url: https://platformazakupowa.pl/all
   limit: 30   # bez znaczenia — platforma zwraca wszystkie aktywne trafienia (weryfikacja limit=100: identyczne wyniki)
+  # Rotacja godzinowa (pz_search.yml: 6 slotów 05:07-10:07 UTC) — każda fraza
+  # dostaje jedno żądanie dziennie (Crawl-delay 900). Zmiana 2026-11-06:
+  # „dokumentacja projektowo-kosztorysowa" i „wielobranżowa" przez 60 dni nie
+  # dały NIC (a „wielobranżowa" jest podciągiem pierwszej frazy), więc sloty
+  # dostały dwie frazy bliższe architekturze. Każda fraza ma teraz własny wpis
+  # w data/history („pz-search:<fraza>"), żeby po tygodniu wybrać zwycięzców
+  # na podstawie danych, a nie przeczuć.
   phrases:
     - "dokumentacja wielobranżowa"
     - "prace projektowe"
     - "dokumentacja projektowa"
-    - "dokumentacja projektowo-kosztorysowa"
     - "projektowanie architektoniczne"
-    - "wielobranżowa"
+    - "projekt budowlany"
+    - "koncepcja architektoniczna"
 
 ted:
   url: https://api.ted.europa.eu/v3/notices/search
