@@ -17762,7 +17762,7 @@
    "cpv-71"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-11-01",
+  "dodano": "2026-11-06",
   "hash": "c3174d3287c3b2cbcf49b32a974ca73717267b586c88c50f27855b980a9464d9"
  },
  {
@@ -17931,7 +17931,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-11-02",
+  "dodano": "2026-11-06",
   "hash": "72700010432d2d65696e373c1797df2a4c76457c450f48b19b15669efa6690a3"
  },
  {
@@ -18722,6 +18722,30 @@
   "hash": "b24f6184f522b8ec32d5bbb91e607a81de08d25345994d73971f0e4f117ad2e6"
  },
  {
+  "zrodlo": "bzp",
+  "tytul": "Opracowanie dokumentacji projektowo-kosztorysowej na Zagospodarowanie wnętrz urbanistycznych – podwórek na terenie Starego Miasta w Bytomiu Odrzańskim",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-9a846fab-344f-462f-9140-4b846889e3f5",
+  "zamawiajacy": "Gmina Bytom Odrzański",
+  "data_publikacji": "2026-11-06",
+  "termin_skladania": "2026-11-18T09:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00527885 z dnia 2026-11-06 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Opracowanie dokumentacji projektowo-kosztorysowej na Zagospodarowanie wnętrz urbanistycznych – podwórek na terenie Starego Miasta w Bytomiu Odrzańskim SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: Gmina Bytom Odrzański 1.4) Krajowy Numer Identyfikacyjny: REGON 970770296 1.5) Adres zamawiającego 1.5.1.) Ulica: Rynek 1 1.5.2.) Miejscowość: Bytom Odrzański 1.5.3.) Kod pocztowy: 67-115 1.5.4.) Województwo: lubuskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL432 - Zielonogórski 1.5.7.) Numer telefonu: 683884022 1.5.8.) Numer faksu: 683884026 1.5.9.) Adres poczty elektronicznej: bytomodrzanski@bytomodrzanski.pl 1.5.10.) Adres strony internetowej zamawiającego: www.bip.bytomodrzanski.pl 1.6.) Rodzaj zamawiającego: Zamawiający publiczn",
+  "cpv": [
+   "71000000-8",
+   "71320000-7",
+   "71220000-6",
+   "71248000-8"
+  ],
+  "score": 11,
+  "tagi": [
+   "cpv-71",
+   "samorząd",
+   "wysoka-trafnosc"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-11-06",
+  "hash": "a0c044f32930cceb21013b51454009620f585cc4f8042a83425c115a86474bdd"
+ },
+ {
   "zrodlo": "ted",
   "tytul": "Polska – Pokrywanie dachów panelami ogniw słonecznych – Wykonanie, dostawa i montaż instalacji fotowoltaicznych wraz z magazynami odnawialnych źródeł energii na części wysokiej poddasza budynku Ministerstwa Finansów - realizacja w formule zaprojektuj i wybuduj",
   "url": "https://ted.europa.eu/en/notice/-/detail/755217-2026",
@@ -18914,7 +18938,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-07",
+  "dodano": "2026-11-06",
   "hash": "b215626abaf7a8f0d21a35e8388b89958c581a4d751c55fe2efedf29e8ee19b5"
  },
  {
@@ -19125,6 +19149,33 @@
   "status_opisu": "brak",
   "dodano": "2026-11-06",
   "hash": "dfdef7cc7e2e37eac20599fa4d472744da1e0bf813c0dc631f767340a800dc6b"
+ },
+ {
+  "zrodlo": "bzp",
+  "tytul": "Wykonanie dokumentacji projektowo – kosztorysowej oraz nadzór autorski dla zadania: Budowa zbiornika retencyjnego na bazie istniejącego, sztucznego zbiornika wodnego – II postępowanie",
+  "url": "https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-77830d8e-f57e-4b1c-9680-ba30a3929c14",
+  "zamawiajacy": "PAŃSTWOWE GOSPODARSTWO LEŚNE LASY PAŃSTWOWE NADLEŚNICTWO KARNIESZEWICE",
+  "data_publikacji": "2026-11-06",
+  "termin_skladania": "2026-11-20T08:00:00Z",
+  "opis": "body { font-family: \"Calibri\", sans-serif; } span.normal { font-weight: 400 } .text-center { text-align: center } .bg-light { background-color: #F2F2F2 } * { box-sizing: border-box } .h1, h1 { font-size: 1.75rem } .h3, h3 { font-size: 11pt; font-weight: 700; margin-bottom: 1.25rem } .h1, h1 { font-size: 11pt; font-family: \"Arial\",sans-serif; } .h2, h2 { font-size: 12pt; font-family: \"Arial\",sans-serif; font-weight: bold; margin-bottom: 1.25rem } .p-3 { border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt; } .mb-0 { margin-bottom: 0 !important } .mb-1 { margin-bottom: .5rem !important } .mb-2 { margin-bottom: 1rem !important } .mb-3 { margin-bottom: 1.5rem !important } .mb-4 { margin-bottom: 2rem !important } .mb-5 { margin-bottom: 2.5rem !important } .mb-6 { margin-bottom: 3rem !important } .mb-7 { margin-bottom: 3.5rem !important } .mb-8 { margin-bottom: 4rem !important } .mb-9 { margin-bottom: 4.5rem !important } .mb-10 { margin-bottom: 5rem !important } .mb-auto { margin-bottom: auto !important } Ogłoszenie nr 2026/BZP 00528082 z dnia 2026-11-06 .normal { color: black; } h1.title { } Ogłoszenie o zamówieniu Usługi Wykonanie dokumentacji projektowo – kosztorysowej oraz nadzór autorski dla zadania: Budowa zbiornika retencyjnego na bazie istniejącego, sztucznego zbiornika wodnego – II postępowanie SEKCJA I - ZAMAWIAJĄCY 1.1.) Rola zamawiającego Postępowanie prowadzone jest samodzielnie przez zamawiającego 1.2.) Nazwa zamawiającego: PAŃSTWOWE GOSPODARSTWO LEŚNE LASY PAŃSTWOWE NADLEŚNICTWO KARNIESZEWICE 1.4) Krajowy Numer Identyfikacyjny: REGON 330044097 1.5) Adres zamawiającego 1.5.1.) Ulica: 8a 1.5.2.) Miejscowość: Trawica 1.5.3.) Kod pocztowy: 76-004 1.5.4.) Województwo: zachodniopomorskie 1.5.5.) Kraj: Polska 1.5.6.) Lokalizacja NUTS 3: PL426 - Koszaliński 1.5.9.) Adres poczty elektronicznej: karnieszewice@szczecinek.lasy.gov.pl 1.5.10.) Adres strony internetowej zamawiającego: https://www.gov.pl/web/nadlesnictwo-karnieszewice 1.6.) Ro",
+  "cpv": [
+   "71000000-8",
+   "71200000-0",
+   "71240000-2",
+   "71242000-6",
+   "71248000-8",
+   "71300000-1",
+   "71313000-5",
+   "71320000-7",
+   "71322000-1"
+  ],
+  "score": 3,
+  "tagi": [
+   "cpv-71"
+  ],
+  "status_opisu": "pobrany",
+  "dodano": "2026-11-06",
+  "hash": "678ee16a141c50f840f93fb21fa91a9e6b4f05563ac4281dbb62cdb8e3b82504"
  },
  {
   "zrodlo": "ted",
@@ -19393,7 +19444,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-10-29",
+  "dodano": "2026-11-06",
   "hash": "f7760d2f79895db09c6f4c8e6bf223db6e61690bb473fcaaaaa5545ff6066cee"
  },
  {
@@ -21035,7 +21086,7 @@
    "wysoka-trafnosc"
   ],
   "status_opisu": "brak",
-  "dodano": "2026-09-01",
+  "dodano": "2026-11-06",
   "hash": "85c150937d261e5142a1ac5f081b2e46f6d8d3724bfcdba881b77ace8a0448df"
  },
  {
