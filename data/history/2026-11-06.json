@@ -1,33 +1,33 @@
 {
  "ted": {
   "ok": true,
-  "count": 2195,
-  "kept": 532,
-  "runs": 5
+  "count": 2634,
+  "kept": 665,
+  "runs": 6
  },
  "bip:phn": {
   "ok": true,
-  "count": 5,
+  "count": 6,
   "kept": 0,
-  "runs": 5
+  "runs": 6
  },
  "bip:tauron": {
   "ok": true,
-  "count": 125,
-  "kept": 8,
-  "runs": 5
+  "count": 150,
+  "kept": 10,
+  "runs": 6
  },
  "bip:kghm": {
   "ok": true,
-  "count": 136,
+  "count": 168,
   "kept": 0,
-  "runs": 5
+  "runs": 6
  },
  "bip:pse": {
   "ok": true,
-  "count": 900,
-  "kept": 4,
-  "runs": 5
+  "count": 1080,
+  "kept": 5,
+  "runs": 6
  },
  "pz-search": {
   "ok": true,
@@ -37,21 +37,21 @@
  },
  "bzp": {
   "ok": true,
-  "count": 179,
-  "kept": 52,
-  "runs": 5
+  "count": 215,
+  "kept": 65,
+  "runs": 6
  },
  "bip:phn-platform": {
   "ok": true,
-  "count": 12,
+  "count": 16,
   "kept": 0,
-  "runs": 3
+  "runs": 4
  },
  "pgg": {
   "ok": true,
-  "count": 150,
-  "kept": 3,
-  "runs": 3
+  "count": 200,
+  "kept": 4,
+  "runs": 4
  },
  "pz-search:projekt-budowlany": {
   "ok": true,
@@ -63,6 +63,6 @@
   "ok": true,
   "count": 0,
   "kept": 0,
-  "runs": 1
+  "runs": 2
  }
 }
