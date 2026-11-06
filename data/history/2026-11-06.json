@@ -1,33 +1,33 @@
 {
  "ted": {
   "ok": true,
-  "count": 1756,
-  "kept": 399,
-  "runs": 4
+  "count": 2195,
+  "kept": 532,
+  "runs": 5
  },
  "bip:phn": {
   "ok": true,
-  "count": 4,
+  "count": 5,
   "kept": 0,
-  "runs": 4
+  "runs": 5
  },
  "bip:tauron": {
   "ok": true,
-  "count": 100,
-  "kept": 6,
-  "runs": 4
+  "count": 125,
+  "kept": 8,
+  "runs": 5
  },
  "bip:kghm": {
   "ok": true,
-  "count": 104,
+  "count": 136,
   "kept": 0,
-  "runs": 4
+  "runs": 5
  },
  "bip:pse": {
   "ok": true,
-  "count": 720,
-  "kept": 3,
-  "runs": 4
+  "count": 900,
+  "kept": 4,
+  "runs": 5
  },
  "pz-search": {
   "ok": true,
@@ -37,23 +37,29 @@
  },
  "bzp": {
   "ok": true,
-  "count": 143,
-  "kept": 39,
-  "runs": 4
+  "count": 179,
+  "kept": 52,
+  "runs": 5
  },
  "bip:phn-platform": {
   "ok": true,
-  "count": 8,
+  "count": 12,
   "kept": 0,
-  "runs": 2
+  "runs": 3
  },
  "pgg": {
   "ok": true,
-  "count": 100,
-  "kept": 2,
-  "runs": 2
+  "count": 150,
+  "kept": 3,
+  "runs": 3
  },
  "pz-search:projekt-budowlany": {
+  "ok": true,
+  "count": 0,
+  "kept": 0,
+  "runs": 1
+ },
+ "pz-search:koncepcja-architektoniczna": {
   "ok": true,
   "count": 0,
   "kept": 0,
