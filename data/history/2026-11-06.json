@@ -19,7 +19,7 @@
  },
  "bip:kghm": {
   "ok": true,
-  "count": 60,
+  "count": 72,
   "kept": 0,
   "runs": 3
  },
@@ -40,5 +40,17 @@
   "count": 107,
   "kept": 26,
   "runs": 3
+ },
+ "bip:phn-platform": {
+  "ok": true,
+  "count": 4,
+  "kept": 0,
+  "runs": 1
+ },
+ "pgg": {
+  "ok": true,
+  "count": 50,
+  "kept": 1,
+  "runs": 1
  }
 }
