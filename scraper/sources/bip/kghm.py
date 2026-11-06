@@ -9,9 +9,14 @@ Parser pisany WYŁĄCZNIE przeciw fixture: tests/fixtures/kghm_przetargi.html.
 
 Struktura: <table class="views-table cols-5"> — kolumny: Data publikacji,
 Termin składania ofert, Kategoria, Tytuł (link do ogłoszenia), Data
-aktualizacji; daty jako <time datetime="ISO">. Pozostałe sekcje
-(Pozostałe ogłoszenia, Umowy ramowe, Zapytania ofertowe) — do rozszerzenia
-w późniejszych iteracjach, jeśli okażą się potrzebne.
+aktualizacji; daty jako <time datetime="ISO">.
+
+2026-11-06: dodane sekcje poboczne (`sections` w config/sources.yaml):
+„Pozostałe ogłoszenia" i „Umowy ramowe otwarte". Ta sama tabela Drupala, ale
+bez kolumny terminu, a data publikacji jest tekstem `YYYY-MM-DD` — parser czyta
+oba warianty. Sekcja „Zakupy" to strona marketingowa bez tabeli, a właściwe
+zapytania ofertowe siedzą na `oferty.kghm.com` (Mercus/SAP, formularz
+`ajaxLogin/login`, brak publicznej listy — sonda 2026-11-06).
 """
 from __future__ import annotations
 
@@ -23,6 +28,8 @@ from selectolax.lexbor import LexborHTMLParser
 
 from ...model import Announcement
 from ..base import BaseSource
+
+
 class KghmSource(BaseSource):
     name = "bip:kghm"
 
@@ -30,26 +37,45 @@ class KghmSource(BaseSource):
         self.list_url = cfg["list_url"]
         self.crawl_delay = int(cfg.get("crawl_delay", 10))
         self.pages = int(cfg.get("pages", 1))
+        # Sekcje poboczne: [{url, pages}] — ten sam parser, inne kolumny
+        self.sections = cfg.get("sections") or []
         self.timeout = timeout
 
-    def _page_url(self, page: int) -> str:
-        """Paginacja Drupal views, 0-based: strona 1 = list_url, dalej ?page=N."""
-        if page <= 1:
-            return self.list_url
-        sep = "&" if "?" in self.list_url else "?"
-        return f"{self.list_url}{sep}page={page - 1}"
+    def _targets(self) -> list[tuple[str, int]]:
+        out = [(self.list_url, self.pages)]
+        for sec in self.sections:
+            if isinstance(sec, str):
+                out.append((sec, 1))
+            elif isinstance(sec, dict) and sec.get("url"):
+                out.append((sec["url"], int(sec.get("pages", 1))))
+        return out
 
     def fetch(self) -> list[Announcement]:
         headers = {"User-Agent": "arch-oglo-aggregator/1.0 (contact: see repo)"}
         out: list[Announcement] = []
-        for page in range(1, self.pages + 1):
-            if page > 1:
-                time.sleep(self.crawl_delay)
-            r = httpx.get(self._page_url(page), headers=headers, timeout=self.timeout,
-                          follow_redirects=True)
-            r.raise_for_status()
-            out.extend(self.parse(r.text, base_url=self._page_url(page)))
+        first = True
+        for base, pages in self._targets():
+            for page in range(1, pages + 1):
+                if not first:
+                    time.sleep(self.crawl_delay)
+                first = False
+                url = self._page_url_for(base, page)
+                r = httpx.get(url, headers=headers, timeout=self.timeout,
+                              follow_redirects=True)
+                r.raise_for_status()
+                out.extend(self.parse(r.text, base_url=url))
         return out
+
+    def _page_url(self, page: int) -> str:
+        """Paginacja Drupal views, 0-based: strona 1 = list_url, dalej ?page=N."""
+        return self._page_url_for(self.list_url, page)
+
+    @staticmethod
+    def _page_url_for(base: str, page: int) -> str:
+        if page <= 1:
+            return base
+        sep = "&" if "?" in base else "?"
+        return f"{base}{sep}page={page - 1}"
 
     def parse(self, html: str, base_url: str = "") -> list[Announcement]:
         tree = LexborHTMLParser(html)
@@ -66,7 +92,13 @@ class KghmSource(BaseSource):
             if title_a.attributes.get("href"):
                 url = urljoin(base_url, title_a.attributes["href"])
             pub = row.css_first("td.views-field-field-start-date time")
-            data = (pub.attributes.get("datetime") or "")[:10] or None if pub else None
+            if pub is not None and pub.attributes.get("datetime"):
+                data = pub.attributes["datetime"][:10]
+            else:
+                # sekcje poboczne: data publikacji jako tekst YYYY-MM-DD
+                cell = row.css_first("td.views-field-field-publishing-date")
+                text = " ".join(cell.text().split()) if cell is not None else ""
+                data = text[:10] if len(text) >= 10 and text[4] == "-" else None
             end = row.css_first("td.views-field-field-response-deadline time")
             termin = (end.attributes.get("datetime") or None) if end else None
             out.append(

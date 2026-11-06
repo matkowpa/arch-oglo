@@ -59,12 +59,29 @@ def test_pse_termin_fallback_stage_offers_end():
     assert items[0].termin_skladania == "2026-09-30 15:00:00"
 
 
-def test_pse_rfi_without_termin():
-    """Etap RFI bez żadnego terminu ofert -> termin_skladania None (tag brak-terminu)."""
-    data = _load_fixture()
-    row = next(r for r in data["data"]
-               if not r.get("offers_attachments_deadline_date")
-               and not r.get("stage_offers_end_date"))
+def test_pse_rfi_deadline_comes_from_the_current_stage():
+    """Etap RFI/wniosków nie ma pola ofert, ale ma koniec etapu — to też termin.
+
+    Dodane 2026-11-06: instancja PHN (ta sama aplikacja eB2B) nie wypełnia
+    `offers_attachments_deadline_date`, a `current_stage_end_time` — bez tego
+    fallbacku wszystkie jej postępowania miały tag `brak-terminu`.
+    """
+    row = {"name": "RFI - zbieranie informacji", "is_test": False,
+           "company_name": "POLSKIE SIECI ELEKTROENERGETYCZNE S.A.",
+           "publication_date": "2026-08-01 08:00:00",
+           "offers_attachments_deadline_date": None,
+           "stage_offers_end_date": None,
+           "current_stage_end_time": "2026-08-10 12:00:00",
+           "stage": {"end_date": "2026-08-10 12:00:00"}}
+    items = PseSource(CFG).parse({"data": [row]})
+    assert items[0].termin_skladania == "2026-08-10 12:00:00"
+
+
+def test_pse_without_any_deadline_stays_none():
+    """Postępowanie bez żadnego pola terminu -> None (tag brak-terminu)."""
+    row = {"name": "Ogłoszenie bez terminu", "is_test": False,
+           "company_name": "POLSKIE SIECI ELEKTROENERGETYCZNE S.A.",
+           "publication_date": "2026-08-01 08:00:00"}
     items = PseSource(CFG).parse({"data": [row]})
     assert items[0].termin_skladania is None
 

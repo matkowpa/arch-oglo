@@ -22,12 +22,24 @@ from ..base import BaseSource
 HEADERS = {"User-Agent": "arch-oglo-aggregator/1.0 (contact: see repo)"}
 
 
-class PseSource(BaseSource):
+class Eb2bSource(BaseSource):
+    """Lista postępowań otwartych z platformy eB2B (ta sama aplikacja co PSE).
+
+    Ten sam kontrakt obsługuje inne instancje eB2B (np. platformazakupowa.phnsa.pl
+    PHN) — różnią się tylko adresem listy/API i nazwą źródła, więc konfiguracja
+    niesie `name` oraz `default_buyer`.
+    """
+
     name = "bip:pse"
 
     def __init__(self, cfg: dict, timeout: float = 30.0):
+        # `name` w configu to etykieta spółki („… S.A. (platforma eB2B)”), więc
+        # klucz źródła bierzemy z `id` — kilka instancji eB2B dzieli jedną klasę.
+        self.name = ("bip:" + cfg["id"]) if cfg.get("id") else type(self).name
         self.list_url = cfg["list_url"]           # strona listy (sesja PHPSESSID)
         self.api_url = cfg["api_url"]             # endpoint JSON (store ExtJS)
+        self.default_buyer = cfg.get("default_buyer") or \
+            "Polskie Sieci Elektroenergetyczne S.A."
         self.limit = int(cfg.get("limit", 100))   # PageSize (sonda: 100 OK)
         self.max_requests = int(cfg.get("max_requests", 3))
         self.crawl_delay = int(cfg.get("crawl_delay", 10))
@@ -66,19 +78,32 @@ class PseSource(BaseSource):
             if not tytul:
                 continue
             pub = (row.get("publication_date") or "")[:10] or None
-            # termin składania ofert; w etapie RFI/wniosków bywa brak -> None
-            termin = (row.get("offers_attachments_deadline_date")
-                      or row.get("stage_offers_end_date") or None)
+            # Termin składania ofert; w etapie RFI/wniosków bywa brak.
+            # Instancje eB2B różnią się nazwą pola (PSE: stage_offers_end_date,
+            # PHN: current_stage_end_time), więc bierzemy pierwsze dostępne.
+            stage = row.get("stage") if isinstance(row.get("stage"), dict) else {}
+            termin = (
+                row.get("offers_attachments_deadline_date")
+                or row.get("stage_offers_end_date")
+                or row.get("current_stage_end_time")
+                or stage.get("end_date")
+                or row.get("participation_requests_deadline")
+                or None
+            )
             out.append(
                 Announcement(
                     zrodlo=self.name,
                     tytul=tytul,
                     url=self.list_url,  # szczegóły za loginem — url = strona listy
                     zamawiajacy=(row.get("company_name") or "").strip()
-                    or "Polskie Sieci Elektroenergetyczne S.A.",
+                    or self.default_buyer,
                     data_publikacji=pub,
                     termin_skladania=termin,
                     status_opisu="brak",
                 )
             )
         return out
+
+
+# Historyczna nazwa klasy (PSE = pierwsza instancja eB2B); testy i importy zostają.
+PseSource = Eb2bSource

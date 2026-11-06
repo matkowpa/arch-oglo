@@ -195,3 +195,36 @@ platform/API (Tier B), nie scrapingu statycznego.
   ogłoszenia o udzieleniu zamówienia — sondować inne nazwy enuma.
 - `mo-board/api/v1/notice` dla dłuższych okien publikacji: paginacja sprawdzona do 500 rekordów
   (2 dni); przy większych oknach łączyć strony aż do odpowiedzi < `PageSize`.
+
+
+---
+
+## 2026-11-06 — drugie podejście do PGG, PHN i KGHM (sondy + wdrożenie)
+
+**PGG — ROZSTRZYGNIĘTE, wdrożone (`scraper/sources/pgg.py`).** Wcześniejszy wniosek
+(„JS-driven, odłożyć") był błędny: `<main>` jest pusty, bo listę renderuje serwer
+dopiero po `POST {ścieżka}-list` z tokenem CSRF z `<meta name="csrf-token">`. Jedno
+żądanie zwraca 50 wierszy (numer postępowania, temat, komórka, podstawa prawna,
+kategoria, data publikacji, termin DD.MM.YYYY). Szczegóły ogłoszenia są za JS-em
+(`href="ogloszenie"` + `data-lp`), więc `url` = strona listy, a unikalność wpisu
+trzyma numer postępowania w tytule. Uwaga: bez tokenu POST zwraca 419 — źródło
+rzuca błąd, żeby nie zapisać pustej listy jako „brak ogłoszeń".
+
+**PHN — własna instancja eB2B (`platformazakupowa.phnsa.pl`), wdrożona.** Ta sama
+aplikacja co `przetargi.pse.pl`, więc parser jest wspólny (`Eb2bSource`); różnią się
+adresami i `default_buyer`. `/all` → 403, lista tylko przez XHR `/auction/auction/list`
+po ciasteczku sesji z `open-auctions.html` (**total = 4** otwarte postępowania).
+PHN nie wypełnia `offers_attachments_deadline_date` — termin bierzemy z
+`current_stage_end_time` (fallback dodany też dla PSE: etap RFI/wniosków).
+
+**KGHM — dodane sekcje poboczne.** „Pozostałe ogłoszenia" (2 wiersze) i „Umowy
+ramowe otwarte" (10) mają tę samą tabelę Drupala, ale bez kolumny terminu, a data
+publikacji jest tekstem `YYYY-MM-DD` — parser czyta oba warianty. Sekcja „Zakupy"
+to strona marketingowa bez tabeli. **Zapytania ofertowe KGHM są za loginem**
+(`oferty.kghm.com` → `platform/main`, formularz `ajaxLogin/login`) — brak publicznej
+listy, więc ten kierunek jest zamknięty.
+
+**Wynik na żywo (run 2026-11-06, po dodaniu):** PGG 50 → 1 (dokumentacja
+projektowa), PHN eB2B 4 → 0, KGHM 24/run → 0 (sekcje nic nie wniosły).
+Wniosek: PGG wnosi realną wartość, PHN/KGHM są tanie, ale puste — healthcheck
+zgłosi je po 5 dniach zerowego lejka (`::warning:: … published 0 of N fetched`).

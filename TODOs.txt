@@ -31,6 +31,10 @@ todo:
       JSON, ~159 postępowań; docs/zrodla-decyzje.md)
 
 kolejne BIPY spółek do przeglądnięcia
-- PGG — endpoint POTWIERDZONY 2026-09-03 (POST {ścieżka}-list + CSRF, HTML z 23
-  wierszami; docs/zrodla-decyzje.md) — DO WDROŻENIA
+- [x] PGG — WDROŻONE 2026-11-06 (POST {ścieżka}-list + CSRF; 50 wierszy/run,
+      ~1 trafienie dziennie — pierwszy dzień: „Opracowanie dokumentacji projektowej")
+- [x] PHN platforma eB2B — WDROŻONE 2026-11-06 (platformazakupowa.phnsa.pl,
+      ten sam parser co PSE; 4 otwarte postępowania, 0 po filtrze)
+- [x] KGHM sekcje poboczne — WDROŻONE 2026-11-06 (Pozostałe ogłoszenia, Umowy
+      ramowe; 0 trafień — bez kolumny terminu). oferty.kghm.com za loginem.
 - PGE — Logintrade (Faza 2 / kanał IMAP)

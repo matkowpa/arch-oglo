@@ -22,6 +22,7 @@ from .sources.bip.phn import PhnSource
 from .sources.bip.pse import PseSource
 from .sources.bip.tauron import TauronSource
 from .sources.pz_email import PzEmailSource
+from .sources.pgg import PggSource
 from .sources.pz_search import PzSearchSource
 from .sources.ted import TedSource
 
@@ -46,8 +47,10 @@ def build_sources() -> list:
     cpv_codes = [str(c) for c in load_yaml("cpv.yaml").get("cpv", [])]
     out = [TedSource(s["ted"])]
     # BIP-y spółek: rejestr id -> parser (sekcja 7; nowe spółki = nowy parser + wpis)
+    # eB2B obsługuje kilka instancji tej samej aplikacji (PSE, PHN) — parser
+    # rozróżnia je po `name` z konfiguracji, nie po klasie.
     bip_parsers = {"phn": PhnSource, "tauron": TauronSource, "kghm": KghmSource,
-                   "pse": PseSource}
+                   "pse": PseSource, "phn-platform": PseSource}
     for company in s.get("bip", {}).get("companies", []):
         cls = bip_parsers.get(company.get("id"))
         if cls is not None and company.get("enabled", True):
@@ -63,6 +66,8 @@ def build_sources() -> list:
     bzp = BzpSource(s["bzp"], cpv_codes=cpv_codes)
     if bzp.enabled:
         out.append(bzp)
+    if s.get("pgg", {}).get("enabled", True):
+        out.append(PggSource(s["pgg"]))
     return out
 
 
