@@ -1,39 +1,39 @@
 {
  "ted": {
   "ok": true,
-  "count": 439,
-  "kept": 133,
-  "runs": 1
+  "count": 878,
+  "kept": 266,
+  "runs": 2
  },
  "bip:phn": {
   "ok": true,
-  "count": 1,
+  "count": 2,
   "kept": 0,
-  "runs": 1
+  "runs": 2
  },
  "bip:tauron": {
   "ok": true,
-  "count": 25,
-  "kept": 2,
-  "runs": 1
+  "count": 50,
+  "kept": 4,
+  "runs": 2
  },
  "bip:kghm": {
   "ok": true,
-  "count": 32,
+  "count": 64,
   "kept": 0,
-  "runs": 1
+  "runs": 2
  },
  "bip:pse": {
   "ok": true,
-  "count": 180,
-  "kept": 1,
-  "runs": 1
+  "count": 360,
+  "kept": 2,
+  "runs": 2
  },
  "bip:phn-platform": {
   "ok": true,
-  "count": 4,
+  "count": 8,
   "kept": 0,
-  "runs": 1
+  "runs": 2
  },
  "pz-search:dokumentacja-wielobran-owa": {
   "ok": true,
@@ -43,14 +43,20 @@
  },
  "bzp": {
   "ok": true,
-  "count": 13,
-  "kept": 3,
-  "runs": 1
+  "count": 21,
+  "kept": 5,
+  "runs": 2
  },
  "pgg": {
   "ok": true,
-  "count": 50,
-  "kept": 1,
+  "count": 100,
+  "kept": 2,
+  "runs": 2
+ },
+ "pz-search:prace-projektowe": {
+  "ok": true,
+  "count": 2,
+  "kept": 0,
   "runs": 1
  }
 }
